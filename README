@@ -1,0 +1,48 @@
+This is the Scratch source package README file.
+
+For more information on Scratch and the Scratch Source Code, see http://info.scratch.mit.edu/Source_Code
+
+Scratch is written in Squeak, and depends on a Squeak virtual machine. You can find other versions of the Linux Squeak VM here: http://www.squeakvm.org/unix/ For more information about squeak, see: http://www.squeak.org/ 
+
+The Squeak source code for Scratch ( Scratch.image ) is set to open in "User Mode" by default. If you'd like to enter "Dev" mode to make changes to the source code, you can do so by following these steps: 
+
+First copy the Scratch.changes file ( located in /src ) into the same directory as your Scratch.image file, and make sure you have write permissions on it. Then download and uncompress the Squeak v2 Sources file, and place it in the same directory. See this page for more info: http://www.squeak.org/Download/?version=2  Currently, the Squeak v2 sources file is downloadable from this url: http://ftp.squeak.org/2.0/SqueakV2.sources.gz
+
+Then open Scratch and follow these steps:
+
+1. Shift-click the rounded bit of the R in the Scratch logo (look at the top left corner).
+2. Click "Turn fill screen off".
+3. Click the white area that appears at the right and bottom of the window.
+4. Click open....
+5. Click browser
+6. The System Browser appears — this is where you can edit the code.
+
+For more info, see this page on the Scratch Wiki: http://wiki.scratch.mit.edu/wiki/Shift-Click-R 
+
+Since Scratch runs as an image on a Squeak virtual machine, all that needs to be compiled when packaging Scratch are the necessary plugins, which can be done using the included makefile. The following libraries are necessary to build the plugins:
+libcairo2-dev (>= 1.8.6), libpango1.0-dev (>= 1.20.5), libglib2.0-dev (>= 2.20.1)
+
+Note: the Camera plug-in will make use of libv4l2 (>= 0.5.8) at run-time if found.
+
+The rest of the installation involves copying files to their correct locations (directory names are case sensitive):
+
+/usr/lib/scratch - the Scratch.image file.
+/usr/lib/scratch/Plugins - plugins necessary for Scratch to run properly
+
+The following directories must be found in these locations, because references to them are hard-coded within the Scratch.image (Squeak source code) file:
+/usr/share/scratch/Help - the help screen images, and the help html files.
+/usr/share/scratch/locale - translation .po files
+/usr/share/scratch/Media - image and sound files bundled with Scratch
+/usr/share/scratch/Projects - sample projects bundled with Scratch
+
+The "scratch" startup script shows how to execute the virtual machine, as well as the necessary command line switches to indicate where additional plugins can be found and which sound plugin should be used.
+
+For more information about how to customize Scratch for your network, etc., view this page (note that some features are Windows only):
+http://info.scratch.mit.edu/Network_Installation
+
+The Scratch name and trademarks can only be used under certain circumstances. See the included "TRADEMARK_POLICY" file.
+
+Questions? Consult the Scratch FAQ:
+http://info.scratch.mit.edu/Support/Scratch_FAQ
+
+Or email linux@scratch.mit.edu

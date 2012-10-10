@@ -1,0 +1,1993 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Scratch\n"
+"Report-Msgid-Bugs-To: Evelyn Eastmond <evelyn@media.mit.edu>\n"
+"POT-Creation-Date: 2008-02-18 03:58-0400\n"
+"PO-Revision-Date: 2009-06-16 12:10-0400\n"
+"Last-Translator: Markus Schlager <m.slg@gmx.de>\n"
+"Language-Team: Mtw <martin.wollenweber@gmx.de>\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 1.2.0\n"
+
+############################################
+# FORMATTING
+############################################
+
+# Language name as you'd like it to appear in the Languages menu
+# (Required)
+msgid "Language-Name"
+msgstr "Deutsch"
+
+# Directionality of language
+# LTR = Left to Right
+# RTL = Right to Left
+msgid "Language-Direction"
+msgstr "LTR"
+
+# Scale to apply to font size (2 for twice as large)
+# Use this if the font is too small for legibility on the Scratch interface
+msgid "Font-Scale"
+msgstr "1"
+
+# Set to 'true' or 'false'
+# Use this if you do not want any of the text to be bolded, for legibility
+msgid "Suppress-Bold"
+msgstr "false"
+
+# Font to use on a Windows system
+# (Markus S.) bitte nicht übersetzen. Hier müsste man ggf. eine Schriftart eintragen
+msgid "Win-Font"
+msgstr ""
+
+# Font to use on a Mac system
+# (Markus S.) bitte nicht übersetzen. Hier müsste man ggf. eine Schriftart eintragen
+msgid "Mac-Font"
+msgstr ""
+
+# Font to use on a Linux system
+# (Markus S.) bitte nicht übersetzen. Hier müsste man ggf. eine Schriftart eintragen
+msgid "Linux-Font"
+msgstr ""
+
+############################################
+# BLOCKS
+############################################
+
+msgid "%H sensor value"
+msgstr "Wert von Sensor %H"
+
+msgid "%L contains %s"
+msgstr "%L enthält %s"
+
+msgid "%a of %m"
+msgstr "%a von %m"
+
+msgid "%b and %b"
+msgstr "%b und %b"
+
+msgid "%b or %b"
+msgstr "%b oder %b"
+
+msgid "%f of %n"
+msgstr "%f von %n"
+
+msgid "%n mod %n"
+msgstr "%n mod %n"
+
+msgid "add %s to %L"
+msgstr "füge %s zu %L hinzu"
+
+msgid "answer"
+msgstr "Antwort"
+
+msgid "ask %s and wait"
+msgstr "Frage %s und warte"
+
+msgid "background #"
+msgstr "Hintergrund Nr."
+
+msgid "broadcast %e"
+msgstr "sende %e an alle"
+
+msgid "broadcast %e and wait"
+msgstr "sende %e an alle und warte"
+
+msgid "change %g effect by %n"
+msgstr "ändere %g-Effekt um %n"
+
+msgid "change %v by %n"
+msgstr "ändere %v um %n"
+
+msgid "change pen color by %n"
+msgstr "ändere Stiftfarbe um %n"
+
+msgid "change pen shade by %n"
+msgstr "ändere Farbstärke um %n"
+
+msgid "change pen size by %n"
+msgstr "ändere Stiftdicke um %n"
+
+msgid "change size by %n"
+msgstr "ändere Größe um %n"
+
+msgid "change tempo by %n"
+msgstr "ändere Tempo um %n"
+
+msgid "change volume by %n"
+msgstr "ändere Lautstärke um %n"
+
+msgid "change x by %n"
+msgstr "ändere x um %n"
+
+msgid "change y by %n"
+msgstr "ändere y um %n"
+
+msgid "clear"
+msgstr "wische Malspuren weg"
+
+msgid "clear graphic effects"
+msgstr "schalte Grafikeffekte aus"
+
+msgid "color %C is touching %C?"
+msgstr "Farbe %C berührt %C?"
+
+msgid "control"
+msgstr "Steuerung"
+
+msgid "costume #"
+msgstr "Kostüm Nr."
+
+msgid "delete %y of %L"
+msgstr "entferne %y aus %L"
+
+msgid "direction"
+msgstr "Richtung"
+
+msgid "distance to %m"
+msgstr "Entfernung von %m"
+
+msgid "else"
+msgstr "sonst"
+
+msgid "forever"
+msgstr "wiederhole fortlaufend"
+
+msgid "forever if %b"
+msgstr "wiederhole fortlaufend, falls %b"
+
+msgid "glide %n secs to x:%n y:%n"
+msgstr "gleite %n Sek. zu x:%n y:%n"
+
+msgid "go back %n layers"
+msgstr "gehe %n Ebenen nach hinten"
+
+msgid "go to %m"
+msgstr "gehe zu %m"
+
+msgid "go to front"
+msgstr "komme nach vorn"
+
+msgid "go to x:%n y:%n"
+msgstr "gehe zu x:%n y:%n"
+
+msgid "hide"
+msgstr "verstecke dich"
+
+msgid "hide variable %v"
+msgstr "verstecke Variable %v"
+
+msgid "if %b"
+msgstr "falls %b"
+
+msgid "if on edge, bounce"
+msgstr "pralle vom Rand ab"
+
+# (Jens) aus 'bei' -> 'als _ Element', damit es besser mit 'Letztes' und 'beliebiges' zusammempasst
+# (Jens) aus 'bei' -> 'als _ Element', damit es besser mit 'Letztes' und 'beliebiges' zusammempasst
+msgid "insert %s at %i of %L"
+msgstr "füge %s als %i in %L ein"
+
+# (Markus S.) 'Element %i' wäre für die Angabe von Nummern, etwa 'Element 8' stimmiger, aber ich verstehe die Priorität von 'erstes'/'letztes'
+# (Markus S.) 'Element %i' wäre für die Angabe von Nummern, etwa 'Element 8' stimmiger, aber ich verstehe die Priorität von 'erstes'/'letztes'
+msgid "item %i of %L"
+msgstr "%i Element von %L"
+
+msgid "join %s %s"
+msgstr "verbinde %s %s"
+
+msgid "key %k pressed?"
+msgstr "Taste %k gedrückt?"
+
+msgid "length of %L"
+msgstr "Länge von %L"
+
+msgid "length of %s"
+msgstr "Länge von %s"
+
+msgid "letter %n of %s"
+msgstr "Zeichen %n von %s"
+
+msgid "list"
+msgstr "Liste"
+
+msgid "looks"
+msgstr "Aussehen"
+
+msgid "loud?"
+msgstr "laut?"
+
+# (Jens): war früher "Lautstärke", ich hab's auf "Lärmpegel" geändert, weil Lautstärke jetzt eher zu "Volume", also zur Klangausgabe passt
+# (Jens): war früher "Lautstärke", ich hab's auf "Lärmpegel" geändert, weil Lautstärke jetzt eher zu "Volume", also zur Klangausgabe passt
+msgid "loudness"
+msgstr "Lärmpegel"
+
+msgid "motion"
+msgstr "Bewegung"
+
+msgid "motor direction %W"
+msgstr "setze Motorrichtung auf %W"
+
+msgid "motor off"
+msgstr "schalte Motor aus"
+
+msgid "motor on"
+msgstr "schalte Motor an"
+
+msgid "motor on for %n secs"
+msgstr "schalte Motor für %n Sekunden an"
+
+msgid "motor power %n"
+msgstr "setze Motorkraft auf %n"
+
+msgid "mouse down?"
+msgstr "Maustaste gedrückt?"
+
+msgid "mouse x"
+msgstr "Maus x-Position"
+
+msgid "mouse y"
+msgstr "Maus y-Position"
+
+msgid "move %n steps"
+msgstr "gehe %n-er Schritt"
+
+msgid "next background"
+msgstr "nächster Hintergrund"
+
+msgid "next costume"
+msgstr "nächstes Kostüm"
+
+msgid "not %b"
+msgstr "nicht %b"
+
+# (Jens): "Operatoren" gefällt mir eigentlich nicht so sehr, wie wäre es mit "Rechnen" (auch wenn's nicht wirklich passt), oder noch besser: "Formeln"?
+# (Jens): "Operatoren" gefällt mir eigentlich nicht so sehr, wie wäre es mit "Rechnen" (auch wenn's nicht wirklich passt), oder noch besser: "Formeln"?
+msgid "operators"
+msgstr "Operatoren"
+
+msgid "pen"
+msgstr "Malstift"
+
+# (Markus S.) war 'Stift runter', das aber bitte nicht. Darüber gab es bei uns an der Schule längere Diskussionen; aus Konsistenzgründen bitte immer Imperative auf den Kacheln.
+# 
+# (Jens) Tut mir leid, aber mit "senke Stift ab" und "hebe Stift an" werde mich wohl niemals anfreunden können.
+# (Markus S.) war 'Stift runter', das aber bitte nicht. Darüber gab es bei uns an der Schule längere Diskussionen; aus Konsistenzgründen bitte immer Imperative auf den Kacheln.
+# (Jens) Tut mir leid, aber mit "senke Stift ab" und "hebe Stift an" werde mich wohl niemals anfreunden können.
+msgid "pen down"
+msgstr "senke Stift ab"
+
+# (Markus S.) war 'Stift hoch', das aber bitte nicht. Darüber gab es bei uns an der Schule längere Diskussionen; aus Konsistenzgründen bitte immer Imperative auf den Kacheln.
+# (Markus S.) war 'Stift hoch', das aber bitte nicht. Darüber gab es bei uns an der Schule längere Diskussionen; aus Konsistenzgründen bitte immer Imperative auf den Kacheln.
+msgid "pen up"
+msgstr "hebe Stift an"
+
+msgid "pick random %n to %n"
+msgstr "Zufallszahl von %n bis %n"
+
+msgid "play drum %D for %n beats"
+msgstr "spiele Schlagzeug %D für %n Schläge"
+
+msgid "play note %N for %n beats"
+msgstr "spiele Note %N für %n Schläge"
+
+msgid "play sound %S"
+msgstr "spiele Klang %S"
+
+# (Markus S.) war 'Spiele Klang %S und warte'
+# (Markus S.) war 'Spiele Klang %S und warte'
+msgid "play sound %S until done"
+msgstr "spiele Klang %S ganz"
+
+msgid "point in direction %d"
+msgstr "zeige Richtung %d"
+
+# (Markus S.) war 'zeige auf %m'
+# (Markus S.) war 'zeige auf %m'
+msgid "point towards %m"
+msgstr "zeige auf %m"
+
+msgid "repeat %n"
+msgstr "wiederhole %n mal"
+
+msgid "repeat until %b"
+msgstr "wiederhole bis %b"
+
+msgid "replace item %i of %L with %s"
+msgstr "ersetze %i Element von %L durch %s"
+
+msgid "reset timer"
+msgstr "starte Stoppuhr neu"
+
+msgid "rest for %n beats"
+msgstr "spiele Pause für %n Schläge"
+
+msgid "round %n"
+msgstr "%n gerundet"
+
+msgid "say %s"
+msgstr "sage %s"
+
+msgid "say %s for %n secs"
+msgstr "sage %s für %n Sek."
+
+msgid "sensing"
+msgstr "Fühlen"
+
+msgid "sensor %h?"
+msgstr "Sensor %h?"
+
+msgid "set %g effect to %n"
+msgstr "setze %g-Effekt auf %n"
+
+msgid "set %v to %n"
+msgstr "setze %v auf %n"
+
+msgid "set instrument to %I"
+msgstr "setze Instrument auf %I"
+
+msgid "set pen color to %c"
+msgstr "setze Stiftfarbe auf %c"
+
+msgid "set pen color to %n"
+msgstr "setze Stiftfarbe auf %n"
+
+msgid "set pen shade to %n"
+msgstr "setze Farbstärke auf %n"
+
+msgid "set pen size to %n"
+msgstr "setze Stiftdicke auf %n"
+
+msgid "set size to %n%"
+msgstr "setze Größe auf %n%"
+
+msgid "set tempo to %n bpm"
+msgstr "setze Tempo auf %n Schläge/Min."
+
+msgid "set volume to %n%"
+msgstr "setze Lautstärke auf %n%"
+
+msgid "set x to %n"
+msgstr "setze x auf %n"
+
+msgid "set y to %n"
+msgstr "setze y auf %n"
+
+msgid "show"
+msgstr "zeige dich"
+
+msgid "show variable %v"
+msgstr "zeige Variable %v"
+
+msgid "size"
+msgstr "Größe"
+
+msgid "sound"
+msgstr "Klang"
+
+msgid "stamp"
+msgstr "hinterlasse Abdruck"
+
+msgid "stop all"
+msgstr "stoppe alles"
+
+msgid "stop all sounds"
+msgstr "stoppe alle Klänge"
+
+# (Markus S.) 'Skript' war 'Programm', abgesprochen mit Jens
+msgid "stop script"
+msgstr "stoppe dieses Skript"
+
+msgid "switch to background %l"
+msgstr "wechsle zum Hintergrund %l"
+
+msgid "switch to costume %l"
+msgstr "ziehe Kostüm %l an"
+
+msgid "tempo"
+msgstr "Tempo"
+
+msgid "think %s"
+msgstr "denke %s"
+
+msgid "think %s for %n secs"
+msgstr "denke %s für %n Sek."
+
+msgid "timer"
+msgstr "Stoppuhr"
+
+msgid "touching %m?"
+msgstr "wird %m berührt?"
+
+msgid "touching color %C?"
+msgstr "wird Farbe %C berührt?"
+
+msgid "turn %n degrees"
+msgstr "drehe %n Grad"
+
+msgid "variables"
+msgstr "Variablen"
+
+msgid "volume"
+msgstr "Lautstärke"
+
+msgid "wait %n secs"
+msgstr "warte %n Sek."
+
+msgid "wait until %b"
+msgstr "warte bis %b"
+
+msgid "when %k key pressed"
+msgstr "Wenn Taste %k gedrückt"
+
+msgid "when %m clicked"
+msgstr "Wenn %m angeklickt"
+
+msgid "when I receive %e"
+msgstr "Wenn ich %e empfange"
+
+msgid "x position"
+msgstr "x-Position"
+
+msgid "y position"
+msgstr "y-Position"
+
+############################################
+# USER INTERFACE
+############################################
+
+msgid "(empty)"
+msgstr "(leer)"
+
+msgid "1 script"
+msgstr "1 Skript"
+
+msgid "About Scratch"
+msgstr "Über Scratch"
+
+msgid "About this project:"
+msgstr "Über dieses Projekt:"
+
+msgid "abs"
+msgstr "Betrag"
+
+msgid "add comment"
+msgstr "Anmerkung hinzufügen"
+
+# Standardtext im Kommentar-widget
+# Standardtext im Kommentar-widget
+msgid "add comment here"
+msgstr "Anmerkung hier hinzufügen"
+
+# (Jens) gemeint sind alle Elemente einer Liste
+msgid "all"
+msgstr "alles"
+
+msgid "and"
+msgstr "und"
+
+msgid "Animation"
+msgstr "Animation"
+
+# ersetzt das bisherige "random" in einer Liste
+# (Markus S.) 'irgendein'?
+# ersetzt das bisherige "random" in einer Liste
+# (Markus S.) 'irgendein'?
+msgid "any"
+msgstr "beliebiges"
+
+msgid "Art"
+msgstr "Kunst"
+
+msgid "background"
+msgstr "Hintergrund"
+
+msgid "backgrounds"
+msgstr "Hintergründe"
+
+msgid "Backgrounds"
+msgstr "Hintergründe"
+
+msgid "brightness"
+msgstr "Helligkeit"
+
+msgid "Brush size: "
+msgstr "Pinselbreite: "
+
+msgid "button"
+msgstr "Schaltfläche"
+
+msgid "button pressed"
+msgstr "Schaltfläche gedrückt"
+
+msgid "Camera"
+msgstr "Kamera"
+
+msgid "can rotate"
+msgstr "Frei drehbar"
+
+msgid "cancel"
+msgstr "Abbrechen"
+
+msgid "Cancel"
+msgstr "Abbrechen"
+
+msgid "Choose a folder"
+msgstr "Wähle einen Ordner"
+
+msgid "Choose new sprite from file"
+msgstr "Neues Objekt aus Datei laden"
+
+msgid "clean up"
+msgstr "Aufräumen"
+
+msgid "Clear"
+msgstr "Löschen"
+
+msgid "Clear canvas"
+msgstr "Alles löschen"
+
+msgid "Close and continue"
+msgstr "Schließen und weitermachen"
+
+# (Markus S.) war 'Dialog schließen?'
+# (Markus S.) war 'Dialog schließen?'
+msgid "Close dialog?"
+msgstr "Dialog schließen?"
+
+msgid "Close paint editor?"
+msgstr "Malprogramm schließen?"
+
+msgid "close port"
+msgstr "Port schließen"
+
+msgid "Close sound recorder?"
+msgstr "Klangaufnahme schließen?"
+
+msgid "color"
+msgstr "Farbe"
+
+msgid "Compress Images"
+msgstr "Bilder komprimieren"
+
+msgid "Compress Sounds"
+msgstr "Klänge komprimieren"
+
+msgid "Compress sounds and images"
+msgstr "Bilder und Klänge komprimieren"
+
+msgid "Computer"
+msgstr "Computer"
+
+msgid "connected"
+msgstr "verbunden"
+
+msgid "Connecting to "
+msgstr "Verbinde mit "
+
+msgid "Copy"
+msgstr "Kopieren"
+
+msgid "costume"
+msgstr "Kostüm"
+
+msgid "costumes"
+msgstr "Kostüme"
+
+msgid "Costumes"
+msgstr "Kostüme"
+
+msgid "Could not read"
+msgstr "Die Datei konnte nicht gelesen werden."
+
+msgid "Could not read project; file may be damaged"
+msgstr "Projekt konnte nicht gelesen werden, vielleicht ist die Datei beschädigt"
+
+msgid "Could not write file"
+msgstr "Die Datei konnte nicht geschrieben werden."
+
+msgid "Create account"
+msgstr "Benutzerkonto einrichten"
+
+msgid "Create an empty project"
+msgstr "Neues leeres Projekt erstellen"
+
+msgid "Data sent. Waiting for response..."
+msgstr "Daten gesandt. Auf Antwort warten..."
+
+msgid "delete"
+msgstr "Löschen"
+
+msgid "Delete"
+msgstr "Löschen"
+
+msgid "Delete a list"
+msgstr "Liste löschen"
+
+msgid "Delete a variable"
+msgstr "Variable löschen"
+
+msgid "Delete this background"
+msgstr "Dieses Hintergrundbild löschen"
+
+msgid "Delete this costume"
+msgstr "Dieses Kostüm löschen"
+
+msgid "Delete this sound"
+msgstr "Diesen Klang löschen"
+
+msgid "Delete this sprite"
+msgstr "Dieses Objekt löschen"
+
+msgid "Desktop"
+msgstr "Desktop"
+
+# (Markus S.) geht es hier wirklich ums Internet? Besser 'Netzwerk'?&lt;span class="translation-space"&gt; &lt;/span&gt;<br />
+# (Markus S.) vorläufig: "Netzwerk-Sensorverbindungen" war "Internet-Sensoren"<br />
+# &lt;span class="translation-space"&gt; &lt;/span&gt;<br />
+# Oder sind das Sensoren wie das Scratchboard?
+msgid "disable remote sensor connections"
+msgstr "Unterstützung für Netzwerksensoren ausschalten"
+
+msgid "distance"
+msgstr "Entfernung"
+
+msgid "Documents"
+msgstr "Dokumente"
+
+msgid "don't rotate"
+msgstr "Nicht drehbar"
+
+msgid "Don't Save"
+msgstr "nicht speichern"
+
+msgid "Done"
+msgstr "fertig"
+
+msgid "down"
+msgstr "unten"
+
+msgid "down arrow"
+msgstr "Pfeil nach unten"
+
+msgid "drag to resize"
+msgstr "Zum Verändern der Größe ziehen"
+
+msgid "drag to rotate"
+msgstr "Zum Drehen ziehen"
+
+# (Jens) 'Online mit der Maus verschiebbar' war unsere ursprüngliche Fassung, weil sie so kurz war. Ich finde sie allerdings immer noch ausgesprochen missglückt und unverständlich. Wem fällt etwas besseres ein? Was haltet Ihr von: 'Soll sich das Objekt im Präsentationsmodus und auf der Website mit der Maus verschieben lassen?'
+# (Jens) 'Online mit der Maus verschiebbar' war unsere ursprüngliche Fassung, weil sie so kurz war. Ich finde sie allerdings immer noch ausgesprochen missglückt und unverständlich. Wem fällt etwas besseres ein? Was haltet Ihr von: 'Soll sich das Objekt im Präsentationsmodus und auf der Website mit der Maus verschieben lassen?'
+# (Markus S.) Darunter kann ich mir etwas vorstellen.
+msgid "draggable on website?"
+msgstr "Soll sich das Objekt im Präsentationsmodus und auf der Website mit der Maus verschieben lassen?"
+
+msgid "duplicate"
+msgstr "Duplizieren"
+
+msgid "Duplicate"
+msgstr "Duplizieren"
+
+msgid "edge"
+msgstr "Rand"
+
+msgid "Edit"
+msgstr "Bearbeiten"
+
+msgid "Ellipse tool (draw outlined or filled ellipse or circle)"
+msgstr "Ellipse (ausgefüllte oder leere Ellipse bzw. Kreis zeichnen)"
+
+# (Markus S.) geht es hier wirklich ums Internet? Besser 'Netzwerk'?&amp;lt;span class="translation-space"&amp;gt; &amp;lt;/span&amp;gt;&lt;br /&gt;<br />
+# (Markus S.) vorläufig: "Netzwerk-Sensorverbindungen" war "Internet-Sensoren"<br />
+# &amp;lt;span class="translation-space"&amp;gt; &amp;lt;/span&amp;gt;&lt;br /&gt;<br />
+# Oder sind das Sensoren wie das Scratchboard?
+msgid "enable remote sensor connections"
+msgstr "Unterstützung für Netzwerksensoren einschalten"
+
+msgid "Enter presentation mode"
+msgstr "Präsentationsmodus"
+
+msgid "Eraser"
+msgstr "Radiergummi"
+
+msgid "Eraser size"
+msgstr "Breite"
+
+msgid "Error!"
+msgstr "Fehler!"
+
+msgid "Examples"
+msgstr "Beispiele"
+
+msgid "Exit presentation"
+msgstr "Präsentation verlassen"
+
+msgid "Exit presentation mode"
+msgstr "Präsentationsmodus verlassen"
+
+msgid "export"
+msgstr "Exportieren"
+
+msgid "Export Background"
+msgstr "Hintergrundbild exportieren"
+
+msgid "Export Costume"
+msgstr "Kostüm exportieren"
+
+msgid "Export failed"
+msgstr "Der Export ist fehlgeschlagen."
+
+msgid "Export Sound"
+msgstr "Klang exportieren"
+
+msgid "Export Sprite"
+msgstr "Objekt exportieren"
+
+msgid "export this costume"
+msgstr "Dieses Kostüm exportieren"
+
+msgid "export this sound"
+msgstr "Diesen Klang exportieren"
+
+msgid "export this sprite"
+msgstr "Dieses Objekt exportieren"
+
+msgid "Extras menu"
+msgstr "Extras-Menü"
+
+msgid "Eyedropper tool (select a color)"
+msgstr "Pipette (eine Farbe auswählen)"
+
+msgid "Failed:"
+msgstr "Fehlgeschlagen:"
+
+msgid "false"
+msgstr "falsch"
+
+msgid "File"
+msgstr "Datei"
+
+msgid "File not found"
+msgstr "Die Datei konnte nicht gefunden werden."
+
+msgid "Fill tool (fill areas with color or gradient)"
+msgstr "Ausfüllen (Bereiche mit Farbe oder einem Farbübergang ausfüllen)"
+
+msgid "first"
+msgstr "erstes"
+
+msgid "fisheye"
+msgstr "Fischauge"
+
+# war: Bausteinumrandung (schnell)
+# war: Bausteinumrandung (schnell)
+msgid "Flash blocks (fast)"
+msgstr "Bausteine hervorheben (schnell)"
+
+# war: Bausteinumrandung (langsam)
+# war: Bausteinumrandung (langsam)
+msgid "Flash blocks (slow)"
+msgstr "Bausteine hervorheben (langsam)"
+
+msgid "Flip horizontally"
+msgstr "Horizontal spiegeln"
+
+msgid "Flip vertically"
+msgstr "Vertikal spiegeln"
+
+msgid "For all sprites"
+msgstr "Für alle Objekte"
+
+msgid "For this sprite only"
+msgstr "Nur für dieses Objekt"
+
+msgid "Game"
+msgstr "Spiel"
+
+msgid "Get surprise sprite"
+msgstr "Überraschungsobjekt"
+
+msgid "Get the last thing deleted"
+msgstr "Letzten Schritt rückgängig machen"
+
+msgid "Getting Started"
+msgstr "Erste Schritte"
+
+msgid "ghost"
+msgstr "Durchsichtigkeit"
+
+msgid "Go To Scratch Website"
+msgstr "Die Scratch-Webseite besuchen"
+
+msgid "grab screen region for new costume"
+msgstr "Neues Kostüm aus Bildschirmbereich erstellen"
+
+msgid "grab screen region for new sprite"
+msgstr "Neues Objekt aus Bildschirmbereich erstellen"
+
+msgid "Grow"
+msgstr "Vergrößern"
+
+msgid "Grow sprite"
+msgstr "Objekt vergrößern"
+
+msgid "hello "
+msgstr "Hallo "
+
+msgid "Hello!"
+msgstr "Hallo!"
+
+msgid "help"
+msgstr "Hilfe"
+
+msgid "Help"
+msgstr "Hilfe"
+
+msgid "Help Page"
+msgstr "Hilfe-Seite"
+
+msgid "Help Screens"
+msgstr "Hilfe-Seiten"
+
+msgid "Hide Motor Blocks"
+msgstr "Bausteine für Motorsteuerung verbergen"
+
+msgid "High (biggest)"
+msgstr "Hoch (größte Datei)"
+
+msgid "Hmm..."
+msgstr "Hmm..."
+
+msgid "Home"
+msgstr "Heimatverzeichnis"
+
+# (Markus S.) war 'Die Bilder wurden komprimiert.'
+# Dahinter folgt dann ein Doppelpunkt und eine Zahl
+# (Markus S.) war 'Die Bilder wurden komprimiert.'
+# Dahinter folgt dann ein Doppelpunkt und eine Zahl
+msgid "Images compressed"
+msgstr "Komprimierte Bilder"
+
+# Menüfunktion für Listen
+msgid "import"
+msgstr "Importieren"
+
+msgid "Import"
+msgstr "Importieren"
+
+msgid "Import an image on top of your current canvas"
+msgstr "Bild aus Datei einfügen"
+
+msgid "Import Background"
+msgstr "Hintergrundbild importieren"
+
+msgid "Import Costume"
+msgstr "Kostüm importieren"
+
+msgid "Import Image"
+msgstr "Bild importieren"
+
+msgid "Import List"
+msgstr "Liste importieren"
+
+msgid "Import Project"
+msgstr "Projekt importieren"
+
+msgid "import project"
+msgstr "Projekt importieren"
+
+msgid "Import Sound"
+msgstr "Klang importieren"
+
+msgid "Incompatible Scratch file format"
+msgstr "Inkompatibles Scratch-Dateiformat"
+
+msgid "Is the folder read-only?"
+msgstr "Ist der Ordner schreibgeschützt?"
+
+msgid "JPEG Quality (10-100)?"
+msgstr "JPEG Qualität (10-100)"
+
+msgid "kbytes"
+msgstr "kB"
+
+msgid "Language"
+msgstr "Sprache"
+
+msgid "large readout"
+msgstr "Großanzeige"
+
+msgid "last"
+msgstr "letztes"
+
+msgid "left"
+msgstr "links"
+
+msgid "left arrow"
+msgstr "Pfeil nach links"
+
+msgid "length"
+msgstr "Länge"
+
+msgid "light"
+msgstr "Licht"
+
+msgid "Line tool (draw lines)"
+msgstr "Linie (gerade Linien zeichnen)"
+
+msgid "List name?"
+msgstr "Listenname?"
+
+msgid "Low"
+msgstr "Niedrig"
+
+msgid "Lowest (smallest)"
+msgstr "Sehr niedrig (kleinste Datei)"
+
+msgid "Make a list"
+msgstr "Neue Liste"
+
+msgid "Make a variable"
+msgstr "Neue Variable"
+
+msgid "Max:"
+msgstr "Max:"
+
+msgid "meow"
+msgstr "Miau"
+
+msgid "Message name:"
+msgstr "Nachricht:"
+
+msgid "Min:"
+msgstr "Min:"
+
+msgid "mod"
+msgstr "mod"
+
+msgid "more"
+msgstr "mehr"
+
+msgid "More tags:"
+msgstr "Andere Stichwörter:"
+
+msgid "mosaic"
+msgstr "Mosaik"
+
+msgid "mouse x:"
+msgstr "Maus x:"
+
+msgid "mouse y:"
+msgstr "Maus y:"
+
+msgid "mouse-pointer"
+msgstr "Mauszeiger"
+
+msgid "Move"
+msgstr "Bewegen"
+
+msgid "Music"
+msgstr "Musik"
+
+msgid "My Projects"
+msgstr "Meine Projekte"
+
+msgid "new"
+msgstr "Neu"
+
+msgid "New"
+msgstr "Neu"
+
+msgid "New background:"
+msgstr "Neuer Hintergrund:"
+
+msgid "New costume:"
+msgstr "Neues Kostüm:"
+
+msgid "New file name?"
+msgstr ""
+
+msgid "New Filename:"
+msgstr "Dateiname:"
+
+msgid "New sound:"
+msgstr "Neuer Klang:"
+
+msgid "New Sprite"
+msgstr "Neues Objekt"
+
+msgid "New sprite:"
+msgstr "Neues Objekt:"
+
+msgid "No"
+msgstr "Nein"
+
+msgid "No MIDI ports currently available."
+msgstr "Momentan ist kein MIDI-Anschluss verfügbar."
+
+msgid "No motion blocks"
+msgstr "Keine Bewegungsbausteine"
+
+msgid "no scripts"
+msgstr "Keine Skripte"
+
+msgid "No serial ports found"
+msgstr "Es wurde kein serieller Anschluss gefunden."
+
+msgid "No variables."
+msgstr "Keine Variablen"
+
+msgid "Normal"
+msgstr "Normal"
+
+msgid "normal readout"
+msgstr "Normalanzeige"
+
+msgid "Off"
+msgstr "Aus"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "On"
+msgstr "An"
+
+msgid "only face left-right"
+msgstr "Kann sich nur nach links/rechts richten"
+
+msgid "Open"
+msgstr "Öffnen"
+
+msgid "Open a Scratch project"
+msgstr "Scratch-Projekt öffnen"
+
+msgid "Open Project"
+msgstr "Projekt öffnen"
+
+msgid "or"
+msgstr "oder"
+
+msgid "Paint"
+msgstr "Malen"
+
+msgid "Paint Editor"
+msgstr "Malprogramm"
+
+msgid "Paint new sprite"
+msgstr "Neues Objekt malen"
+
+msgid "Paintbrush"
+msgstr "Pinsel"
+
+msgid "Password:"
+msgstr "Passwort:"
+
+msgid "Percent? (100 gives original size)"
+msgstr "Prozent? (100 entspricht der Originalgröße)"
+
+msgid "Pictures"
+msgstr "Bilder"
+
+msgid "pixelate"
+msgstr "Pixel"
+
+msgid "play"
+msgstr "Abspielen"
+
+msgid "Please enter a number"
+msgstr "Eine Zahl eingeben"
+
+msgid "pop"
+msgstr "Plopp"
+
+msgid "Position the cross-hair to set the rotation center"
+msgstr "Fadenkreuz ausrichten, um das Drehzentrum festzulegen"
+
+msgid "Preparing project..."
+msgstr "Projekt wird vorbereitet..."
+
+msgid "Project author:"
+msgstr "Projektautor: "
+
+msgid "Project name"
+msgstr "Projektname"
+
+msgid "Project Notes"
+msgstr "Projektanmerkungen"
+
+msgid "Project notes"
+msgstr "Projektanmerkungen"
+
+msgid "Project uploaded."
+msgstr "Projekt hochgeladen"
+
+msgid "Projects"
+msgstr "Projekte"
+
+msgid "Quit"
+msgstr "Beenden"
+
+msgid "Quit Scratch"
+msgstr "Scratch beenden"
+
+msgid "Reading"
+msgstr "Einlesen"
+
+msgid "record"
+msgstr "Aufnehmen"
+
+msgid "Record"
+msgstr "Aufnehmen"
+
+msgid "recording"
+msgstr "Aufnahme"
+
+msgid "Rectangle tool (draw outlined or filled rectangle or square)"
+msgstr "Rechteck (ausgefülltes oder leeres Rechteck bzw. Quadrat zeichnen)"
+
+msgid "Redo"
+msgstr "Wiederherstellen"
+
+msgid "Reference Guide"
+msgstr "Handbuch"
+
+# (Markus S.) vorläufig: "Netzwerk-Sensorverbindungen" war "Internet-Sensoren"
+msgid "Remote sensor connections enabled"
+msgstr "Unterstützung für Netzwerksensoren ist eingeschaltet."
+
+msgid "Remove viewer from stage"
+msgstr "Anzeige von der Bühne entfernen"
+
+msgid "resistance"
+msgstr "Widerstand"
+
+msgid "resize this sprite"
+msgstr "Die Größe dieses Objekts verändern"
+
+msgid "reverse"
+msgstr "umkehren"
+
+msgid "right"
+msgstr "rechts"
+
+msgid "right arrow"
+msgstr "Pfeil nach rechts"
+
+msgid "Rotate clock-wise"
+msgstr "Im Uhrzeigersinn drehen"
+
+msgid "Rotate counter-clock-wise"
+msgstr "Gegen den Uhrzeigersinn drehen"
+
+msgid "rotate this sprite"
+msgstr "Dieses Objekt drehen"
+
+msgid "Rotation degrees?"
+msgstr "Drehwinkel"
+
+msgid "Save"
+msgstr "Speichern"
+
+msgid "Save a copy of the current project"
+msgstr "Eine Kopie des aktuellen Projekts speichern"
+
+msgid "Save As"
+msgstr "Speichern als"
+
+msgid "Save changes before quitting?"
+msgstr "Vor dem Verlassen die Änderungen speichern?"
+
+msgid "Save failed"
+msgstr "Speichern fehlgeschlagen"
+
+msgid "save picture of scripts"
+msgstr "Skripte als Bild speichern"
+
+msgid "save picture of stage..."
+msgstr "Bühne als Bild speichern..."
+
+msgid "Save Project"
+msgstr "Projekt speichern"
+
+msgid "Save Scripts Snapshot"
+msgstr "Skripte als Bild speichern"
+
+msgid "Save Stage Shot"
+msgstr "Bühnenbild speichern"
+
+msgid "Save the current project"
+msgstr "Aktuelles Projekt speichern"
+
+msgid "Save the current project?"
+msgstr "Aktuelles Projekt speichern?"
+
+msgid "Save this project"
+msgstr "Dieses Projekt speichern"
+
+# (Markus S.) 'Skripte' war 'Programme', abgesprochen mit Jens
+msgid "Scripts"
+msgstr "Skripte"
+
+msgid "select serial/USB port"
+msgstr "Serielle/USB-Schnittstelle auswählen"
+
+msgid "Select tool (move, modify, or delete selection)"
+msgstr "Auswahl (Auswahlbereich bewegen, verändern oder löschen)"
+
+msgid "Set costume center"
+msgstr "Drehpunkt für das Kostüm setzen"
+
+msgid "Set language"
+msgstr "Sprache wählen"
+
+msgid "Set rotation center"
+msgstr "Drehpunkt festlegen"
+
+msgid "Set Single Stepping"
+msgstr "Einzelschritte einstellen"
+
+msgid "set slider min and max"
+msgstr "Reglerbereich festlegen"
+
+# (Jens) war "Veröffentlichen!" Vielleicht sollte hier mehr der "Teilen"-Gedanke der Creative Commons License berücksichtigt werden
+# (Markus S.) 'Mitteilen!' trifft das aber nicht, weil es nur bedeutet, jemandem etwas zu sagen. Wenn, dann 'Teilen!' Bei den eToys heißt der entsprechende Knopf seit jeher auch 'Veröffentlichen', allerdings im Englischen auch 'Publish it'; 'Teilen' klingt dann wieder so nach zerstückeln.
+# (Jens) war "Veröffentlichen!" Vielleicht sollte hier mehr der "Teilen"-Gedanke der Creative Commons License berücksichtigt werden
+# (Markus S.) 'Mitteilen!' trifft das aber nicht, weil es nur bedeutet, jemandem etwas zu sagen. Wenn, dann 'Teilen!' Bei den eToys heißt der entsprechende Knopf seit jeher auch 'Veröffentlichen', allerdings im Englischen auch 'Publish it'; 'Teilen' klingt dann wieder so nach zerstückeln.
+msgid "Share"
+msgstr "Veröffentlichen!"
+
+msgid "Share this project"
+msgstr "Dieses Projekt veröffentlichen"
+
+msgid "Share This Project Online"
+msgstr "Dieses Projekt im Internet veröffentlichen"
+
+msgid "Show Motor Blocks"
+msgstr "Motor-Bausteine anzeigen"
+
+msgid "show ScratchBoard watcher"
+msgstr "ScratchBoard-Anzeige"
+
+msgid "Shrink"
+msgstr "Schrumpfen"
+
+msgid "Shrink sprite"
+msgstr "Objekt schrumpfen"
+
+msgid "Simulation"
+msgstr "Simulation"
+
+msgid "Single-step speed?"
+msgstr "Einzelschrittgeschwindigkeit"
+
+msgid "slider"
+msgstr "Regler"
+
+msgid "Slider range:"
+msgstr "Reglerbereich:"
+
+msgid "Sound quality:"
+msgstr "Klangqualität:"
+
+msgid "Sound Recorder"
+msgstr "Klangaufnahme"
+
+msgid "Sounds"
+msgstr "Klänge"
+
+# (Markus S.) war 'Klänge sind komprimiert', aber dahinter folgt ein Doppelpunkt und eine Zahl
+# (Markus S.) war 'Klänge sind komprimiert', aber dahinter folgt ein Doppelpunkt und eine Zahl
+msgid "Sounds compressed"
+msgstr "Komprimierte Klänge"
+
+msgid "space"
+msgstr "Leertaste"
+
+msgid "Sprite"
+msgstr "Objekt"
+
+msgid "Sprites"
+msgstr "Objekte"
+
+msgid "sqrt"
+msgstr "Wurzel"
+
+msgid "Stage"
+msgstr "Bühne"
+
+msgid "Stage selected:"
+msgstr "Bühne ausgewählt:"
+
+msgid "Stamp tool (select area, then stamp copies of it)"
+msgstr "Stempel (Bereich auswählen und Abdrücke davon erstellen)"
+
+msgid "Start green flag scripts"
+msgstr "Skripte mit grüner Flagge starten"
+
+# (Markus S.) 'Ausführung in Einzelschritten starten' ist als Menüeintrag recht lang; aus Konsistenzgründen müßte dann auch 'stop single stepping' anders übersetzt werden; war 'Einzelschritte starten'
+# (Markus S.) 'Ausführung in Einzelschritten starten' ist als Menüeintrag recht lang; aus Konsistenzgründen müßte dann auch 'stop single stepping' anders übersetzt werden; war 'Einzelschritte starten'
+msgid "Start Single Stepping"
+msgstr "Ausführung in Einzelschritten"
+
+msgid "stop"
+msgstr "Stopp"
+
+msgid "Stop everything"
+msgstr "Alles stoppen"
+
+# (Markus S.) war 'Einzelschritte stoppen'
+# (Markus S.) war 'Einzelschritte stoppen'
+msgid "Stop Single Stepping"
+msgstr "Einzelschritte beenden"
+
+msgid "Story"
+msgstr "Erzählung"
+
+msgid "Support Site"
+msgstr "Unterstützung im Internet"
+
+msgid "Switch colors"
+msgstr "Farben vertauschen"
+
+msgid "Switch to full stage"
+msgstr "Volle Bühnengröße"
+
+msgid "Switch to presentation mode"
+msgstr "Präsentationsmodus"
+
+msgid "Switch to small stage"
+msgstr "Kleine Bühnengröße"
+
+msgid "Tags:"
+msgstr "Stichwörter:"
+
+msgid "Text tool (edit text layer)"
+msgstr "Text (Textebene bearbeiten)"
+
+msgid "That variable name is already in use"
+msgstr "Dieser Name wird schon für eine andere Variable verwendet."
+
+msgid "that way"
+msgstr "in jene Richtung"
+
+msgid "The file name already exists. Overwrite existing file?"
+msgstr "Der Dateiname existiert bereits. Bestehende Datei überschreiben?"
+
+# Standardargument für Variablen (die können jetzt sowohl numerische Werte als auch Zeichenketten beinhalten)
+# Standardargument für Variablen (die können jetzt sowohl numerische Werte als auch Zeichenketten beinhalten)
+msgid "thing"
+msgstr "etwas"
+
+msgid "this way"
+msgstr "in diese Richtung"
+
+# (Markus S.) war 'kippen', aber es handelt sich um einen Sensorwert
+#, fuzzy
+msgid "tilt"
+msgstr "Neigung"
+
+# (Jens) es handelt sich um die Anzeige eines Bool'schen Bausteins auf der Bühne
+# (Jens) es handelt sich um die Anzeige eines Bool'schen Bausteins auf der Bühne
+msgid "true"
+msgstr "wahr"
+
+msgid "Turbo speed"
+msgstr "Turbo"
+
+msgid "turn into new sprite"
+msgstr "In ein neues Objekt umwandeln"
+
+msgid "Undelete"
+msgstr "Löschen rückgängig machen"
+
+msgid "Undo"
+msgstr "Rückgängig"
+
+msgid "up"
+msgstr "oben"
+
+msgid "up arrow"
+msgstr "Pfeil nach oben"
+
+msgid "Updating thumbnails"
+msgstr "Vorschau wird aktualisiert"
+
+msgid "Upload succeeded!"
+msgstr "Erfolgreich hochgeladen!"
+
+msgid "Upload to Scratch Server"
+msgstr "Auf den Scratch-Server hochladen"
+
+msgid "Uploading"
+msgstr "Hochladen"
+
+msgid "Variable name?"
+msgstr "Variablenname?"
+
+msgid "View on stage"
+msgstr "Auf der Bühne anzeigen"
+
+msgid "What's your name?"
+msgstr "Wie heißt Du?"
+
+msgid "whirl"
+msgstr "Wirbel"
+
+msgid "world"
+msgstr "Welt"
+
+msgid "Write Multiple Project Summaries"
+msgstr "Mehrere Projektzusammenfassungen schreiben"
+
+msgid "Write Project Summary"
+msgstr "Projektzusammenfassung schreiben"
+
+msgid "Yes"
+msgstr "Ja"
+
+msgid "Your project is now online at"
+msgstr "Dein Projekt ist jetzt online unter"
+
+msgid "Your Scratch website login name:"
+msgstr "Dein Scratch Online-Name:"
+
+msgid "Zoom in"
+msgstr "Hineinzoomen"
+
+msgid "Zoom out"
+msgstr "Herauszoomen"
+
+############################################
+# MIDI INSTRUMENTS
+############################################
+
+msgid "Accordion"
+msgstr "Akkordeon"
+
+msgid "Acoustic Bass"
+msgstr "Kontrabass gezupft"
+
+msgid "Acoustic Bass Drum"
+msgstr "Große Trommel (akustisch)"
+
+msgid "Acoustic Grand"
+msgstr "Flügel"
+
+msgid "Acoustic Snare"
+msgstr "Kleine Trommel (akustisch)"
+
+msgid "Agogo"
+msgstr "Agogo"
+
+msgid "Alto Sax"
+msgstr "Altsaxophon"
+
+msgid "Applause"
+msgstr "Applaus"
+
+msgid "Bagpipe"
+msgstr "Dudelsack"
+
+msgid "Banjo"
+msgstr "Banjo"
+
+msgid "Baritone Sax"
+msgstr "Baritonsaxophon"
+
+msgid "Bass Drum 1"
+msgstr "Große Trommel 1"
+
+msgid "Bassoon"
+msgstr "Fagott"
+
+msgid "Bird Tweet"
+msgstr "Vogelgezwitscher"
+
+msgid "Blown Bottle"
+msgstr "Flaschenpfeifen"
+
+msgid "Brass Section"
+msgstr "Blechbläser"
+
+msgid "Breath Noise"
+msgstr "Atemgeräusch"
+
+msgid "Bright Acoustic"
+msgstr "Klavier"
+
+msgid "Cabasa"
+msgstr "Cabasa"
+
+msgid "Celesta"
+msgstr "Celesta"
+
+msgid "Cello"
+msgstr "Cello"
+
+msgid "Chinese Cymbal"
+msgstr "Chinesische Zimbel"
+
+msgid "Choir Aahs"
+msgstr "Chor-Aahs"
+
+msgid "Church Organ"
+msgstr "Kirchenorgel"
+
+msgid "Clarinet"
+msgstr "Klarinette"
+
+msgid "Claves"
+msgstr "Claves"
+
+msgid "Clavinet"
+msgstr "Clavinet"
+
+msgid "Closed Hi-Hat"
+msgstr "Hi-Hat geschlossen"
+
+msgid "Contrabass"
+msgstr "Kontrabass"
+
+msgid "Cowbell"
+msgstr "Kuhglocke"
+
+msgid "Crash Cymbal 1"
+msgstr "Becken 1"
+
+msgid "Crash Cymbal 2"
+msgstr "Becken 2"
+
+msgid "Distortion Guitar"
+msgstr "E-Gitarre verzerrt"
+
+# (Markus S.) war 'Drawbar Orgel'
+# (Markus S.) war 'Drawbar Orgel'
+msgid "Drawbar Organ"
+msgstr "Hammond-Orgel"
+
+msgid "Dulcimer"
+msgstr "Dulcimer"
+
+msgid "Electric Bass (finger)"
+msgstr "E-Bass (gezupft)"
+
+msgid "Electric Bass (pick)"
+msgstr "E-Bass (Plektrum)"
+
+msgid "Electric Clean Guitar"
+msgstr "E-Gitarre (clean)"
+
+msgid "Electric Grand"
+msgstr "E-Flügel"
+
+msgid "Electric Jazz Guitar"
+msgstr "E-Gitarre (Jazz)"
+
+msgid "Electric Muted Guitar"
+msgstr "E-Gitarre (gedämpft)"
+
+msgid "Electric Piano 1"
+msgstr "E-Piano 1"
+
+msgid "Electric Piano 2"
+msgstr "E-Piano 2"
+
+msgid "Electric Snare"
+msgstr "Elektrische kleine Trommel"
+
+msgid "English Horn"
+msgstr "Englischhorn"
+
+msgid "FX 1 (rain)"
+msgstr "FX 1 (Regen)"
+
+msgid "FX 2 (soundtrack)"
+msgstr "FX 2 (Tonspur)"
+
+msgid "FX 3 (crystal)"
+msgstr "FX 3 (Kristall)"
+
+msgid "FX 4 (atmosphere)"
+msgstr "FX 4 (Atmosphäre)"
+
+msgid "FX 5 (brightness)"
+msgstr "FX 5 (Helligkeit)"
+
+msgid "FX 6 (goblins)"
+msgstr "FX 6 (Pucks)"
+
+msgid "FX 7 (echoes)"
+msgstr "FX 7 (Echos)"
+
+msgid "FX 8 (sci-fi)"
+msgstr "FX 8 (Sci-Fi)"
+
+msgid "Fiddle"
+msgstr "Fidel"
+
+msgid "Flute"
+msgstr "Querflöte"
+
+msgid "French Horn"
+msgstr "Waldhorn"
+
+msgid "Fretless Bass"
+msgstr "Bundloser Bass"
+
+msgid "Glockenspiel"
+msgstr "Glockenspiel"
+
+msgid "Guitar Fret Noise"
+msgstr "Gitarren-Bundgeräusch"
+
+msgid "Guitar Harmonics"
+msgstr "Gitarrengriffe"
+
+msgid "Gunshot"
+msgstr "Pistolenschuss"
+
+msgid "Hand Clap"
+msgstr "Klatschen"
+
+msgid "Harmonica"
+msgstr "Mundharmonika"
+
+msgid "Harpsichord"
+msgstr "Cembalo"
+
+msgid "Helicopter"
+msgstr "Hubschrauber"
+
+msgid "Hi Bongo"
+msgstr "Bongo (hoch)"
+
+msgid "Hi Wood Block"
+msgstr "Holzblock (hoch)"
+
+msgid "Hi-Mid Tom"
+msgstr "Hi-Mid Tom"
+
+msgid "High Agogo"
+msgstr "Agogo (hoch)"
+
+msgid "High Floor Tom"
+msgstr "High Floor Tom"
+
+msgid "High Timbale"
+msgstr "Timba (hoch)"
+
+msgid "High Tom"
+msgstr "High Tom"
+
+msgid "Honky-Tonk"
+msgstr "Honky-Tonk"
+
+msgid "Kalimba"
+msgstr "Kalimba"
+
+msgid "Koto"
+msgstr "Koto"
+
+msgid "Lead 1 (square)"
+msgstr "Lead 1 (Square)"
+
+msgid "Lead 2 (sawtooth)"
+msgstr "Lead 2 (Sägezahn)"
+
+msgid "Lead 3 (calliope)"
+msgstr "Lead 3 (Calliope)"
+
+msgid "Lead 4 (chiff)"
+msgstr "Lead 4 (Chiff)"
+
+msgid "Lead 5 (charang)"
+msgstr "Lead 5 (Charang)"
+
+msgid "Lead 6 (voice)"
+msgstr "Lead 6 (Stimme)"
+
+msgid "Lead 7 (fifths)"
+msgstr "Lead 7 (Quinten)"
+
+msgid "Lead 8 (bass+lead)"
+msgstr "Lead 8 (Bass + Lead)"
+
+msgid "Long Guiro"
+msgstr "Güiro (lang)"
+
+msgid "Long Whistle"
+msgstr "Pfiff (lang)"
+
+msgid "Low Agogo"
+msgstr "Agogo (tief)"
+
+msgid "Low Bongo"
+msgstr "Bongo (tief)"
+
+msgid "Low Conga"
+msgstr "Conga (tief)"
+
+msgid "Low Floor Tom"
+msgstr "Low Floor Tom"
+
+msgid "Low Timbale"
+msgstr "Timba (tief)"
+
+msgid "Low Tom"
+msgstr "Tom (tief)"
+
+msgid "Low Wood Block"
+msgstr "Holzblock (tief)"
+
+msgid "Low-Mid Tom"
+msgstr "Low-Mid Tom"
+
+msgid "Maracas"
+msgstr "Maracas"
+
+msgid "Marimba"
+msgstr "Marimba"
+
+msgid "Melodic Tom"
+msgstr "Melodic Tom"
+
+msgid "Music Box"
+msgstr "Musikbox"
+
+msgid "Mute Cuica"
+msgstr "Cuica (gedämpft)"
+
+msgid "Mute Hi Conga"
+msgstr "Conga (hoch, gedämpft)"
+
+msgid "Mute Triangle"
+msgstr "Triangel (gedämpft)"
+
+msgid "Muted Trumpet"
+msgstr "Trompete (gedämpft)"
+
+msgid "Nylon String Guitar"
+msgstr "Klassische Gitarre"
+
+msgid "Oboe"
+msgstr "Oboe"
+
+msgid "Ocarina"
+msgstr "Okarina"
+
+msgid "Open Cuica"
+msgstr "Cuica (geöffnet)"
+
+msgid "Open Hi Conga"
+msgstr "Conga (hoch)"
+
+msgid "Open Hi-Hat"
+msgstr "Hi-Hat (geöffnet)"
+
+msgid "Open Triangle"
+msgstr "Triangel"
+
+msgid "Orchestra Hit"
+msgstr "Orchestertusch"
+
+msgid "Orchestral Strings"
+msgstr "Streichorchester"
+
+msgid "Overdriven Guitar"
+msgstr "E-Gitarre (Overdrive)"
+
+msgid "Pad 1 (new age)"
+msgstr "Pad 1 (New Age)"
+
+msgid "Pad 2 (warm)"
+msgstr "Pad 2 (Warm)"
+
+msgid "Pad 3 (polysynth)"
+msgstr "Pad 3 (Polysynth)"
+
+msgid "Pad 4 (choir)"
+msgstr "Pad 4 (Chor)"
+
+msgid "Pad 5 (bowed)"
+msgstr "Pad 5 (Gebeugt)"
+
+msgid "Pad 6 (metallic)"
+msgstr "Pad 6 (Metallisch)"
+
+msgid "Pad 7 (halo)"
+msgstr "Pad 7 (Ring)"
+
+msgid "Pad 8 (sweep)"
+msgstr "Pad 8 (Gesäubert)"
+
+msgid "Pan Flute"
+msgstr "Panflöte"
+
+msgid "Pedal Hi-Hat"
+msgstr "Pedal Hi-Hat"
+
+msgid "Percussive Organ"
+msgstr "Perkussionsorgel"
+
+msgid "Piccolo"
+msgstr "Piccolo-Flöte"
+
+msgid "Pizzicato Strings"
+msgstr "Streicherpizzicato"
+
+msgid "Recorder"
+msgstr "Blockflöte"
+
+msgid "Reed Organ"
+msgstr "Zungenorgel"
+
+msgid "Reverse Cymbal"
+msgstr "Rückbecken"
+
+msgid "Ride Bell"
+msgstr "Ride-Becken"
+
+msgid "Ride Cymbal 1"
+msgstr "Ride-Becken 1"
+
+msgid "Ride Cymbal 2"
+msgstr "Ride-Becken 2"
+
+msgid "Rock Organ"
+msgstr "Rockorgel"
+
+msgid "Seashore"
+msgstr "Küste"
+
+msgid "Shakuhachi"
+msgstr "Shakuhachi"
+
+msgid "Shamisen"
+msgstr "Shamisen"
+
+msgid "Shanai"
+msgstr "Shehnai"
+
+msgid "Short Guiro"
+msgstr "Güiro (kurz)"
+
+msgid "Short Whistle"
+msgstr "Pfiff (kurz)"
+
+msgid "Side Stick"
+msgstr "Side-Stick"
+
+msgid "Sitar"
+msgstr "Sitar"
+
+msgid "Slap Bass 1"
+msgstr "Schlag-Bass 1"
+
+msgid "Slap Bass 2"
+msgstr "Schlag-Bass 2"
+
+msgid "Soprano Sax"
+msgstr "Sopransaxophon"
+
+msgid "Splash Cymbal"
+msgstr "Splashbecken"
+
+msgid "Steel Drums"
+msgstr "Stahltrommeln"
+
+msgid "Steel String Guitar"
+msgstr "Westerngitarre"
+
+msgid "String Ensemble 1"
+msgstr "Streicherensemble 1"
+
+msgid "String Ensemble 2"
+msgstr "Streicherensemble 2"
+
+msgid "Synth Bass 1"
+msgstr "Synthesizer-Bass 1"
+
+msgid "Synth Bass 2"
+msgstr "Synthesizer-Bass 2"
+
+msgid "Synth Drum"
+msgstr "Synthesizer-Trommel"
+
+msgid "Synth Voice"
+msgstr "Synthesizer-Stimme"
+
+msgid "SynthBrass 1"
+msgstr "Synthesizer-Brass 1"
+
+msgid "SynthBrass 2"
+msgstr "Synthesizer-Brass 2"
+
+msgid "SynthStrings 1"
+msgstr "Synthesizer-Strings 1"
+
+msgid "SynthStrings 2"
+msgstr "Synthesizer-Strings 2"
+
+msgid "Taiko Drum"
+msgstr "Taiko-Trommel"
+
+msgid "Tambourine"
+msgstr "Tamburin"
+
+msgid "Tango Accordion"
+msgstr "Tango-Akkordeon"
+
+msgid "Telephone Ring"
+msgstr "Telefonklingel"
+
+msgid "Tenor Sax"
+msgstr "Tenorsaxophon"
+
+msgid "Timpani"
+msgstr "Pauken"
+
+msgid "Tinkle Bell"
+msgstr "Klingel-Glocke"
+
+msgid "Tremolo Strings"
+msgstr "Streichertremolo"
+
+msgid "Trombone"
+msgstr "Posaune"
+
+msgid "Trumpet"
+msgstr "Trompete"
+
+msgid "Tuba"
+msgstr "Tuba"
+
+msgid "Tubular Bells"
+msgstr "Röhrenglocken"
+
+msgid "Vibraphone"
+msgstr "Vibraphon"
+
+msgid "Vibraslap"
+msgstr "Vibraslap"
+
+msgid "Viola"
+msgstr "Bratsche"
+
+msgid "Violin"
+msgstr "Geige"
+
+msgid "Voice Oohs"
+msgstr "Stimme (Oohs)"
+
+msgid "Whistle"
+msgstr "Pfeife"
+
+msgid "Woodblock"
+msgstr "Holzblock"
+
+msgid "Xylophone"
+msgstr "Xylophon"
+

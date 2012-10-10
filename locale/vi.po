@@ -1,0 +1,1923 @@
+﻿# Vietnamese translation for Scratch.
+# Copyright © 2009 Free Software Foundation, Inc.
+# Clytie Siddall <clytie@riverland.net.au>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: scratch\n"
+"POT-Creation-Date: 80/08/2008\n"
+"PO-Revision-Date: 2009-06-02 00:32-0400\n"
+"Last-Translator: James Xeradyce <jamesxeradyce@gmail.com>\n"
+"Language-Team: Vietnamese <vi-VN@googlegroups.com>\n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 1.2.0\n"
+
+############################################
+# FORMATTING
+############################################
+
+# Language name as you'd like it to appear in the Languages menu
+# (Required)
+msgid "Language-Name"
+msgstr "Tiếng Việt"
+
+# Directionality of language
+# LTR = Left to Right
+# RTL = Right to Left
+msgid "Language-Direction"
+msgstr "LTR"
+
+# Scale to apply to font size (2 for twice as large)
+# Use this if the font is too small for legibility on the Scratch interface
+msgid "Font-Scale"
+msgstr "1"
+
+# Set to 'true' or 'false'
+# Use this if you do not want any of the text to be bolded, for legibility
+msgid "Suppress-Bold"
+msgstr "false"
+
+# Font to use on a Windows system
+msgid "Win-Font"
+msgstr "Tahoma"
+
+# Font to use on a Mac system
+msgid "Mac-Font"
+msgstr "Lucida Grande"
+
+# Font to use on a Linux system
+msgid "Linux-Font"
+msgstr "DejaVuSans"
+
+############################################
+# BLOCKS
+############################################
+
+msgid "%H sensor value"
+msgstr "%H giá trị cảm biến"
+
+msgid "%L contains %s"
+msgstr "%L chứa %s"
+
+msgid "%a of %m"
+msgstr "%a của %m"
+
+msgid "%b and %b"
+msgstr "%b và %b"
+
+msgid "%b or %b"
+msgstr "%b hoặc %b"
+
+msgid "%f of %n"
+msgstr "%f của %n"
+
+msgid "%n mod %n"
+msgstr "%n mod %n"
+
+msgid "add %s to %L"
+msgstr "thêm %s vào %L"
+
+msgid "answer"
+msgstr "đáp ứng"
+
+msgid "ask %s and wait"
+msgstr "hỏi %s và đợi"
+
+msgid "background #"
+msgstr "hình nền #"
+
+msgid "broadcast %e"
+msgstr "thông báo %e"
+
+msgid "broadcast %e and wait"
+msgstr "thông báo %e và đợi"
+
+msgid "change %g effect by %n"
+msgstr "thay đổi hiệu ứng %g một lượng %n"
+
+msgid "change %v by %n"
+msgstr "thay đổi %v một lượng %n"
+
+msgid "change pen color by %n"
+msgstr "thay đổi màu vẽ một lượng %n"
+
+msgid "change pen shade by %n"
+msgstr "thay đổi sắc độ màu vẽ một lượng %n"
+
+msgid "change pen size by %n"
+msgstr "thay đổi cỡ nét vẽ một lượng %n"
+
+msgid "change size by %n"
+msgstr "thay đổi kích thước một lượng %n"
+
+msgid "change tempo by %n"
+msgstr "thay đổi tốc độ một lượng %n"
+
+msgid "change volume by %n"
+msgstr "thay đổi âm lượng một lượng %n"
+
+msgid "change x by %n"
+msgstr "thay đổi x một lượng %n"
+
+msgid "change y by %n"
+msgstr "thay đổi y một lượng %n"
+
+msgid "clear"
+msgstr "xóa"
+
+msgid "clear graphic effects"
+msgstr "bỏ hiệu ứng đồ họa"
+
+msgid "color %C is touching %C?"
+msgstr "màu %C chạm vào màu %C"
+
+msgid "control"
+msgstr "điều khiển"
+
+msgid "costume #"
+msgstr "hình dạng #"
+
+msgid "delete %y of %L"
+msgstr "xóa %y của %L"
+
+msgid "direction"
+msgstr "hướng"
+
+msgid "distance to %m"
+msgstr "khoảng cách tới %m"
+
+msgid "else"
+msgstr "trái lại"
+
+msgid "forever"
+msgstr "lặp mãi mãi"
+
+msgid "forever if %b"
+msgstr "lặp mãi mãi nếu %b"
+
+msgid "glide %n secs to x:%n y:%n"
+msgstr "lướt tới x:%n2 y:%n3 trong %n1 giây"
+
+msgid "go back %n layers"
+msgstr "đặt ra sau %n lớp"
+
+msgid "go to %m"
+msgstr "nhảy tới %m"
+
+msgid "go to front"
+msgstr "đặt ra trước"
+
+msgid "go to x:%n y:%n"
+msgstr "nhảy tới x: %n y:%n"
+
+msgid "hide"
+msgstr "ẩn"
+
+msgid "hide variable %v"
+msgstr "ẩn biến %v"
+
+msgid "if %b"
+msgstr "nếu %b"
+
+msgid "if on edge, bounce"
+msgstr "nếu chạm biên, bật lại"
+
+msgid "insert %s at %i of %L"
+msgstr "chèn %s tại %i của %L"
+
+msgid "item %i of %L"
+msgstr "phần tử %i của %L"
+
+msgid "join %s %s"
+msgstr "nối chuỗi %s %s"
+
+msgid "key %k pressed?"
+msgstr "phím %k được ấn?"
+
+msgid "length of %L"
+msgstr "độ dài của %L"
+
+msgid "length of %s"
+msgstr "độ dài của %s"
+
+msgid "letter %n of %s"
+msgstr "chữ cái thứ %n của %s"
+
+msgid "list"
+msgstr "danh sách"
+
+msgid "looks"
+msgstr "ngoại hình"
+
+msgid "loud?"
+msgstr "ồn?"
+
+msgid "loudness"
+msgstr "độ ồn"
+
+msgid "motion"
+msgstr "chuyển động"
+
+msgid "motor direction %W"
+msgstr "chiều quay động cơ %W"
+
+msgid "motor off"
+msgstr "động cơ tắt"
+
+msgid "motor on"
+msgstr "động cơ bật"
+
+msgid "motor on for %n secs"
+msgstr "bật động cơ trong %n giây"
+
+msgid "motor power %n"
+msgstr "năng lượng động cơ %n"
+
+msgid "mouse down?"
+msgstr "ấn phím chuột?"
+
+msgid "mouse x"
+msgstr "chuột x"
+
+msgid "mouse y"
+msgstr "chuột y"
+
+msgid "move %n steps"
+msgstr "di chuyển %n bước"
+
+msgid "next background"
+msgstr "hình nền tiếp theo"
+
+msgid "next costume"
+msgstr "hình dạng tiếp theo"
+
+msgid "not %b"
+msgstr "không %b"
+
+msgid "operators"
+msgstr "Các phép toán"
+
+msgid "pen"
+msgstr "bút vẽ"
+
+msgid "pen down"
+msgstr "đặt bút xuống"
+
+msgid "pen up"
+msgstr "nhấc bút lên"
+
+msgid "pick random %n to %n"
+msgstr "lấy ngẫu nhiên trong khoảng %n tới %n"
+
+msgid "play drum %D for %n beats"
+msgstr "chơi trống %D trong %n nhịp"
+
+msgid "play note %N for %n beats"
+msgstr "chơi nốt nhạc %N trong %n nhịp"
+
+msgid "play sound %S"
+msgstr "chơi âm thanh %S"
+
+msgid "play sound %S until done"
+msgstr "chơi âm thanh %S cho tới kết thúc"
+
+msgid "point in direction %d"
+msgstr "hướng chuyển động %d"
+
+msgid "point towards %m"
+msgstr "hướng về phía %m"
+
+msgid "repeat %n"
+msgstr "lặp lại %n lần"
+
+msgid "repeat until %b"
+msgstr "lặp cho tới khi %b"
+
+msgid "replace item %i of %L with %s"
+msgstr "thay thế %i của %L bởi %s"
+
+msgid "reset timer"
+msgstr "đặt lại đống hồ bấm giờ"
+
+msgid "rest for %n beats"
+msgstr "nghỉ %n nhịp"
+
+msgid "round %n"
+msgstr "làm tròn %n"
+
+msgid "say %s"
+msgstr "nói %s"
+
+msgid "say %s for %n secs"
+msgstr "nói %s trong %n giây"
+
+msgid "sensing"
+msgstr "giác quan"
+
+msgid "sensor %h?"
+msgstr "cảm biến %h ?"
+
+msgid "set %g effect to %n"
+msgstr "đặt hiệu ứng %g là %n"
+
+msgid "set %v to %n"
+msgstr "đặt %v là %n"
+
+msgid "set instrument to %I"
+msgstr "chọn nhạc cụ %I"
+
+msgid "set pen color to %c"
+msgstr "dùng màu vẽ %c"
+
+msgid "set pen color to %n"
+msgstr "dùng màu vẽ %n"
+
+msgid "set pen shade to %n"
+msgstr "đặt độ bóng bút vẽ bằng %n"
+
+msgid "set pen size to %n"
+msgstr "dùng bút vẽ cỡ %n"
+
+msgid "set size to %n%"
+msgstr "thiết đặt kích thước bằng %n%"
+
+msgid "set tempo to %n bpm"
+msgstr "thiết đặt nhịp %n nhịp/phút"
+
+msgid "set volume to %n%"
+msgstr "đặt âm lượng là %n%"
+
+msgid "set x to %n"
+msgstr "đặt x là %n"
+
+msgid "set y to %n"
+msgstr "đặt y là %n"
+
+msgid "show"
+msgstr "hiện"
+
+msgid "show variable %v"
+msgstr "hiện biến %v"
+
+msgid "size"
+msgstr "kích thước"
+
+msgid "sound"
+msgstr "âm thanh"
+
+msgid "stamp"
+msgstr "in hình"
+
+msgid "stop all"
+msgstr "dừng toàn bộ"
+
+msgid "stop all sounds"
+msgstr "dừng mọi âm thanh"
+
+msgid "stop script"
+msgstr "dừng kịch bản"
+
+msgid "switch to background %l"
+msgstr "chuyển sang hình nền %l"
+
+msgid "switch to costume %l"
+msgstr "chuyển sang hình dạng %l"
+
+msgid "tempo"
+msgstr "nhịp"
+
+msgid "think %s"
+msgstr "nghĩ %s"
+
+msgid "think %s for %n secs"
+msgstr "nghĩ %s trong %n giây"
+
+msgid "timer"
+msgstr "đồng hồ bấm giờ"
+
+msgid "touching %m?"
+msgstr "chạm vào %m"
+
+msgid "touching color %C?"
+msgstr "tiếp xúc màu %C"
+
+msgid "turn %n degrees"
+msgstr "quay %n độ"
+
+msgid "variables"
+msgstr "các biến"
+
+msgid "volume"
+msgstr "âm lượng"
+
+msgid "wait %n secs"
+msgstr "đợi %n giây"
+
+msgid "wait until %b"
+msgstr "đợi tới khi %b"
+
+msgid "when %k key pressed"
+msgstr "khi phím %k được ấn"
+
+msgid "when %m clicked"
+msgstr "khi %m được ấn"
+
+msgid "when I receive %e"
+msgstr "khi nhận thông báo %e"
+
+msgid "x position"
+msgstr "vị trí x"
+
+msgid "y position"
+msgstr "vị trí y"
+
+############################################
+# USER INTERFACE
+############################################
+
+msgid "(empty)"
+msgstr "(trống)"
+
+msgid "1 script"
+msgstr "1 kịch bản"
+
+msgid "About Scratch"
+msgstr "Thông tin về Scratch"
+
+msgid "About this project:"
+msgstr "Thông tin về dự án này"
+
+msgid "abs"
+msgstr "trị tuyệt đối"
+
+msgid "add comment"
+msgstr "thêm nhận xét"
+
+msgid "add comment here"
+msgstr "thêm nhận xét ở đây"
+
+msgid "all"
+msgstr "tất cả"
+
+msgid "and"
+msgstr "và"
+
+msgid "Animation"
+msgstr "Hoạt cảnh"
+
+msgid "any"
+msgstr "bất kỳ"
+
+msgid "Art"
+msgstr "Nghệ thuật"
+
+msgid "background"
+msgstr "hình nền"
+
+msgid "backgrounds"
+msgstr "hình nền"
+
+msgid "Backgrounds"
+msgstr "Hình nền"
+
+msgid "brightness"
+msgstr "độ sáng"
+
+msgid "Brush size: "
+msgstr "Cỡ nét:"
+
+msgid "button"
+msgstr "nút"
+
+msgid "button pressed"
+msgstr "nút được ấn"
+
+msgid "Camera"
+msgstr "Máy ảnh"
+
+msgid "can rotate"
+msgstr "quay hướng nào cũng được"
+
+msgid "cancel"
+msgstr "hủy bỏ"
+
+msgid "Cancel"
+msgstr "Hủy bỏ"
+
+msgid "Choose a folder"
+msgstr "Chọn một thư mục"
+
+msgid "Choose new sprite from file"
+msgstr "Thêm nhân vật mới"
+
+msgid "clean up"
+msgstr "dọn dẹp"
+
+msgid "Clear"
+msgstr "Xoá"
+
+msgid "Clear canvas"
+msgstr "Xoá khung ảnh"
+
+msgid "Close and continue"
+msgstr "Đóng và tiếp tục"
+
+msgid "Close dialog?"
+msgstr "Đóng cửa sổ này?"
+
+msgid "Close paint editor?"
+msgstr "Đóng cửa sổ vẽ?"
+
+msgid "close port"
+msgstr "đóng cổng giao tiếp "
+
+msgid "Close sound recorder?"
+msgstr "Tắt bộ ghi âm?"
+
+msgid "color"
+msgstr "màu"
+
+msgid "Compress Images"
+msgstr "Nén hình ảnh"
+
+msgid "Compress Sounds"
+msgstr "Nén âm thanh"
+
+msgid "Compress sounds and images"
+msgstr "Nén âm thanh và hình ảnh"
+
+msgid "Computer"
+msgstr "Máy tính"
+
+msgid "connected"
+msgstr "đã kết nối"
+
+msgid "Connecting to "
+msgstr "Đang kết nối tới "
+
+msgid "Copy"
+msgstr "Sao"
+
+msgid "costume"
+msgstr "hình dạng"
+
+msgid "costumes"
+msgstr "hình dạng"
+
+msgid "Costumes"
+msgstr "Hình dạng"
+
+msgid "Could not read"
+msgstr "Không đọc được"
+
+msgid "Could not read project; file may be damaged"
+msgstr "Không đọc được dự án; có thể tập tin bị hư"
+
+msgid "Could not write file"
+msgstr "Không ghi được"
+
+msgid "Create account"
+msgstr "Tạo tài khoản"
+
+msgid "Create an empty project"
+msgstr "Tạo một dự án trống"
+
+msgid "Data sent. Waiting for response..."
+msgstr "Đã gửi xong. Đang đợi hồi âm..."
+
+msgid "delete"
+msgstr "xoá"
+
+msgid "Delete"
+msgstr "Xoá"
+
+msgid "Delete a list"
+msgstr "Xoá một danh sách"
+
+msgid "Delete a variable"
+msgstr "Xoá một biến"
+
+msgid "Delete this background"
+msgstr "Xoá nền này"
+
+msgid "Delete this costume"
+msgstr "Xoá hình dạng này"
+
+msgid "Delete this sound"
+msgstr "Xoá âm thanh này"
+
+msgid "Delete this sprite"
+msgstr "Xoá nhân vật này"
+
+msgid "Desktop"
+msgstr ""
+
+msgid "disable remote sensor connections"
+msgstr "tắt các kết nối tới cảm biến từ xa"
+
+msgid "distance"
+msgstr "khoảng cách"
+
+msgid "Documents"
+msgstr "Tài liệu"
+
+msgid "don't rotate"
+msgstr "không được quay"
+
+msgid "Don't Save"
+msgstr "Không Lưu"
+
+msgid "Done"
+msgstr "Xong"
+
+msgid "down"
+msgstr "xuống"
+
+msgid "down arrow"
+msgstr "mũi tên xuống"
+
+msgid "drag to resize"
+msgstr "kéo để thay đổi kích thước"
+
+msgid "drag to rotate"
+msgstr "kéo để quay"
+
+msgid "draggable on website?"
+msgstr "kéo thả được trên website?"
+
+msgid "duplicate"
+msgstr "tạo bản sao"
+
+msgid "Duplicate"
+msgstr "Tạo bản sao"
+
+msgid "edge"
+msgstr "biên"
+
+msgid "Edit"
+msgstr "Chỉnh sửa"
+
+msgid "Ellipse tool (draw outlined or filled ellipse or circle)"
+msgstr "Công cụ vẽ hình tròn / elíp"
+
+msgid "enable remote sensor connections"
+msgstr "bật kết nối cảm biến từ xa"
+
+msgid "Enter presentation mode"
+msgstr "Chế độ toàn màn hình"
+
+msgid "Eraser"
+msgstr "Tẩy"
+
+msgid "Eraser size"
+msgstr "Kích thước tẩy"
+
+msgid "Error!"
+msgstr "Có lỗi!"
+
+msgid "Examples"
+msgstr "Ví dụ"
+
+msgid "Exit presentation"
+msgstr "Thoát khỏi trình diễn"
+
+msgid "Exit presentation mode"
+msgstr "Thóat khỏi chế độ toàn màn hình"
+
+msgid "export"
+msgstr "xuất"
+
+msgid "Export Background"
+msgstr "Xuất Hình nền"
+
+msgid "Export Costume"
+msgstr "Xuất Hình dạng"
+
+msgid "Export failed"
+msgstr "Việc xuất bị lỗi"
+
+msgid "Export Sound"
+msgstr "Xuất Âm thanh"
+
+msgid "Export Sprite"
+msgstr "Xuất Nhân vật"
+
+msgid "export this costume"
+msgstr "xuất hình dạng này"
+
+msgid "export this sound"
+msgstr "xuất âm thanh này"
+
+msgid "export this sprite"
+msgstr "xuất nhân vật này"
+
+msgid "Extras menu"
+msgstr "Tiện ích"
+
+msgid "Eyedropper tool (select a color)"
+msgstr "Công cụ chọn một màu"
+
+msgid "Failed:"
+msgstr "Không thực hiện được:"
+
+msgid "false"
+msgstr "sai"
+
+msgid "File"
+msgstr "Tập tin"
+
+msgid "File not found"
+msgstr "Không tìm thấy tập tin"
+
+msgid "Fill tool (fill areas with color or gradient)"
+msgstr "Công cụ đổ màu (tô một vùng theo màu hoặc dải màu)"
+
+msgid "first"
+msgstr "đầu tiên"
+
+msgid "fisheye"
+msgstr "thấu kính mắt cá"
+
+msgid "Flash blocks (fast)"
+msgstr "Các khối Flash (nhanh)"
+
+msgid "Flash blocks (slow)"
+msgstr "Các khối Flash (chậm)"
+
+msgid "Flip horizontally"
+msgstr "Trôi ngang"
+
+msgid "Flip vertically"
+msgstr "Trôi dọc"
+
+msgid "For all sprites"
+msgstr "Với mọi nhân vật"
+
+msgid "For this sprite only"
+msgstr "Chỉ đối với nhân vật này"
+
+msgid "Game"
+msgstr "Trò chơi"
+
+msgid "Get surprise sprite"
+msgstr "Lấy nhân vật bất ngờ"
+
+msgid "Get the last thing deleted"
+msgstr "Khôi phục đối tượng vừa bị xóa"
+
+msgid "Getting Started"
+msgstr "Bắt đầu dùng"
+
+msgid "ghost"
+msgstr "bóng mờ"
+
+msgid "Go To Scratch Website"
+msgstr "Thăm trang chủ Scratch"
+
+msgid "grab screen region for new costume"
+msgstr "kéo chọn vùng màn hình cho hình dạng mới"
+
+msgid "grab screen region for new sprite"
+msgstr "kéo chọn vùng màn hình cho nhân vật mới"
+
+msgid "Grow"
+msgstr "Phình to"
+
+msgid "Grow sprite"
+msgstr "Phình to nhân vật"
+
+msgid "hello "
+msgstr "xin chào"
+
+msgid "Hello!"
+msgstr "Xin chào"
+
+msgid "help"
+msgstr "trợ giúp"
+
+msgid "Help"
+msgstr "trợ giúp"
+
+msgid "Help Page"
+msgstr "Trang Trợ giúp"
+
+msgid "Help Screens"
+msgstr "Màn hình Trợ giúp"
+
+msgid "Hide Motor Blocks"
+msgstr "Ẩn Khối lệnh về Động cơ"
+
+msgid "High (biggest)"
+msgstr "Cao (to nhất)"
+
+msgid "Hmm..."
+msgstr "Ừm..."
+
+msgid "Home"
+msgstr "Thư mục gốc"
+
+msgid "Images compressed"
+msgstr "Các hình ảnh được nén"
+
+msgid "import"
+msgstr "nhập"
+
+msgid "Import"
+msgstr "Nhập"
+
+msgid "Import an image on top of your current canvas"
+msgstr "Nhập một ảnh vào phía trên khung hình hiện tại"
+
+msgid "Import Background"
+msgstr "Nhập Hình nền"
+
+msgid "Import Costume"
+msgstr "Nhập Nhân vật"
+
+msgid "Import Image"
+msgstr "Nhập Ảnh"
+
+msgid "Import List"
+msgstr "Nhập Danh sách"
+
+msgid "Import Project"
+msgstr "Nhập Dự án"
+
+msgid "import project"
+msgstr "nhập dự án"
+
+msgid "Import Sound"
+msgstr "Nhập Âm thanh"
+
+msgid "Incompatible Scratch file format"
+msgstr "Định dạng tệp không tương thích Scratch"
+
+msgid "Is the folder read-only?"
+msgstr "Thư mục có thuộc tính chỉ đọc?"
+
+msgid "JPEG Quality (10-100)?"
+msgstr "Chất lượng ảnh JPEG (10-100)?"
+
+msgid "kbytes"
+msgstr "kbyte"
+
+msgid "Language"
+msgstr "Ngôn ngữ"
+
+msgid "large readout"
+msgstr "vùng trình bày rộng"
+
+msgid "last"
+msgstr "cuối cùng"
+
+msgid "left"
+msgstr "trái"
+
+msgid "left arrow"
+msgstr "mũi tên trái"
+
+msgid "length"
+msgstr "độ dài"
+
+msgid "light"
+msgstr "ánh sáng"
+
+msgid "Line tool (draw lines)"
+msgstr "Công cụ vẽ đường thẳng"
+
+msgid "List name?"
+msgstr "Tên danh sách?"
+
+msgid "Low"
+msgstr "Thấp"
+
+msgid "Lowest (smallest)"
+msgstr "Thấp nhất (nhỏ nhất)"
+
+msgid "Make a list"
+msgstr "Tạo một danh sách"
+
+msgid "Make a variable"
+msgstr "Tạo một biến"
+
+msgid "Max:"
+msgstr "Lớn nhất:"
+
+msgid "meow"
+msgstr "meo"
+
+msgid "Message name:"
+msgstr "Tên thông điệp:"
+
+msgid "Min:"
+msgstr "Nhỏ nhất:"
+
+msgid "mod"
+msgstr "mod"
+
+msgid "more"
+msgstr "tiếp theo"
+
+msgid "More tags:"
+msgstr "Thẻ bổ sung:"
+
+msgid "mosaic"
+msgstr "khảm"
+
+msgid "mouse x:"
+msgstr "chuột x:"
+
+msgid "mouse y:"
+msgstr "chuột y:"
+
+msgid "mouse-pointer"
+msgstr "con trỏ chuột"
+
+msgid "Move"
+msgstr "Dịch chuyển"
+
+msgid "Music"
+msgstr "Âm nhạc"
+
+msgid "My Projects"
+msgstr "Dự án mình"
+
+msgid "new"
+msgstr "mới"
+
+msgid "New"
+msgstr "Mới"
+
+msgid "New background:"
+msgstr "Hình nền mới:"
+
+msgid "New costume:"
+msgstr "Hình dạng mới:"
+
+msgid "New file name?"
+msgstr ""
+
+msgid "New Filename:"
+msgstr "Tên tệp mới:"
+
+msgid "New sound:"
+msgstr "Âm thanh mới:"
+
+msgid "New Sprite"
+msgstr "Nhân vật mới"
+
+msgid "New sprite:"
+msgstr "Nhân vật mới"
+
+msgid "No"
+msgstr "Không"
+
+msgid "No MIDI ports currently available."
+msgstr "Cổng MIDI không sẵn sàng hoặc bận"
+
+msgid "No motion blocks"
+msgstr "Khối chuyển động không tồn tại"
+
+msgid "no scripts"
+msgstr "không có kịch bản"
+
+msgid "No serial ports found"
+msgstr "Không tìm thấy cổng nối tiếp"
+
+msgid "No variables."
+msgstr "Không có biến"
+
+msgid "Normal"
+msgstr "Bình thường"
+
+msgid "normal readout"
+msgstr "vùng làm việc bình thường"
+
+msgid "Off"
+msgstr "Tắt"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "On"
+msgstr "Bật"
+
+msgid "only face left-right"
+msgstr "chỉ theo hướng trái-phải"
+
+msgid "Open"
+msgstr "Mở"
+
+msgid "Open a Scratch project"
+msgstr "Mở một dự án Scratch"
+
+msgid "Open Project"
+msgstr "Mở Dự án"
+
+msgid "or"
+msgstr "hoặc"
+
+msgid "Paint"
+msgstr "Vẽ"
+
+msgid "Paint Editor"
+msgstr "Môi trường vẽ"
+
+msgid "Paint new sprite"
+msgstr "Vẽ nhân vật mới"
+
+msgid "Paintbrush"
+msgstr "Bút tô"
+
+msgid "Password:"
+msgstr "Mật khẩu :"
+
+msgid "Percent? (100 gives original size)"
+msgstr "Phần trăm? (100 là kích thước thực)"
+
+msgid "Pictures"
+msgstr "Ảnh"
+
+msgid "pixelate"
+msgstr "nhòe"
+
+msgid "play"
+msgstr "chơi"
+
+msgid "Please enter a number"
+msgstr "Hãy nhập vào một số"
+
+msgid "pop"
+msgstr "kêu 'pop'"
+
+msgid "Position the cross-hair to set the rotation center"
+msgstr "Vị trí con trỏ thiết lập tâm quay"
+
+msgid "Preparing project..."
+msgstr "Đang thiết lập dự án..."
+
+msgid "Project author:"
+msgstr "Tác giả dự án:"
+
+msgid "Project name"
+msgstr "Tên dự án"
+
+msgid "Project Notes"
+msgstr "Ghi chú Dự án"
+
+msgid "Project notes"
+msgstr "Ghi chú dự án"
+
+msgid "Project uploaded."
+msgstr "Dự án đã được tải lên."
+
+msgid "Projects"
+msgstr "Dự án"
+
+msgid "Quit"
+msgstr "Thoát"
+
+msgid "Quit Scratch"
+msgstr "Thoát khỏi Scratch"
+
+msgid "Reading"
+msgstr "Đang đọc"
+
+msgid "record"
+msgstr "ghi"
+
+msgid "Record"
+msgstr "Ghi"
+
+msgid "recording"
+msgstr "đang ghi"
+
+msgid "Rectangle tool (draw outlined or filled rectangle or square)"
+msgstr "Công cụ vẽ hình chữ nhật (vẽ đường viền hay điền đầy hình chữ nhật hoặc hình vuông)"
+
+msgid "Redo"
+msgstr "Thực hiện lại thao tác"
+
+msgid "Reference Guide"
+msgstr "Sổ tay tham chiếu"
+
+msgid "Remote sensor connections enabled"
+msgstr "Các kết nối máy nhạy từ xa đang hoạt động"
+
+msgid "Remove viewer from stage"
+msgstr "Loại bỏ sân khấu"
+
+msgid "resistance"
+msgstr "điện trở"
+
+msgid "resize this sprite"
+msgstr "co giãn nhân vật này"
+
+msgid "reverse"
+msgstr "Đảo chiều quay"
+
+msgid "right"
+msgstr "phải"
+
+msgid "right arrow"
+msgstr "mũi tên phải"
+
+msgid "Rotate clock-wise"
+msgstr "Quay theo chiều kim đồng hồ"
+
+msgid "Rotate counter-clock-wise"
+msgstr "Quay ngược chiều kim đồng hồ"
+
+msgid "rotate this sprite"
+msgstr "xoay nhân vật này"
+
+msgid "Rotation degrees?"
+msgstr "Góc quay"
+
+msgid "Save"
+msgstr "Lưu"
+
+msgid "Save a copy of the current project"
+msgstr "Lưu một bản sao của dự án hiện hành"
+
+msgid "Save As"
+msgstr "Lưu như"
+
+msgid "Save changes before quitting?"
+msgstr "Lưu mọi thay đổi trước khi thoát"
+
+msgid "Save failed"
+msgstr "Lưu không thành công"
+
+msgid "save picture of scripts"
+msgstr "lưu ảnh của kịch bản"
+
+msgid "save picture of stage..."
+msgstr "lưu ảnh sân khấu..."
+
+msgid "Save Project"
+msgstr "Lưu Dự án"
+
+msgid "Save Scripts Snapshot"
+msgstr "Lưu Ảnh chụp Kịch bản"
+
+msgid "Save Stage Shot"
+msgstr "Lưu Ảnh Sân khấu"
+
+msgid "Save the current project"
+msgstr "Lưu dự án hiện tại"
+
+msgid "Save the current project?"
+msgstr "Bạn muốn lưu dự án hiện tại?"
+
+msgid "Save this project"
+msgstr "Lưu dự án này"
+
+msgid "Scripts"
+msgstr "Kịch bản"
+
+msgid "select serial/USB port"
+msgstr "chọn cổng nối tiếp/USB"
+
+msgid "Select tool (move, modify, or delete selection)"
+msgstr "Chọn công cụ (di chuyển, sửa đổi, hoặc xóa vùng chọn)"
+
+msgid "Set costume center"
+msgstr "Đặt tâm hình dạng"
+
+msgid "Set language"
+msgstr "Thiết đặt ngôn ngữ"
+
+msgid "Set rotation center"
+msgstr "Đặt tâm quay"
+
+msgid "Set Single Stepping"
+msgstr "Thực hiện từng bước đơn"
+
+msgid "set slider min and max"
+msgstr "đặt giới hạn nhỏ nhất và lớn nhất cho thanh trượt"
+
+msgid "Share"
+msgstr "Chia sẻ"
+
+msgid "Share this project"
+msgstr "Chia sẻ dự án này"
+
+msgid "Share This Project Online"
+msgstr "Chia sẻ dự án này qua mạng"
+
+msgid "Show Motor Blocks"
+msgstr "Hiện Khối lệnh về Động cơ"
+
+msgid "show ScratchBoard watcher"
+msgstr "hiển thị bộ theo dõi Bảng Scratch"
+
+msgid "Shrink"
+msgstr "Co hình"
+
+msgid "Shrink sprite"
+msgstr "Co hình nhân vật"
+
+msgid "Simulation"
+msgstr "Mô phỏng"
+
+msgid "Single-step speed?"
+msgstr "Tốc độ từng bước ?"
+
+msgid "slider"
+msgstr "thanh trượt"
+
+msgid "Slider range:"
+msgstr "Phạm vi thanh trượt:"
+
+msgid "Sound quality:"
+msgstr "Chất lượng âm thanh:"
+
+msgid "Sound Recorder"
+msgstr "Bộ ghi âm thanh"
+
+msgid "Sounds"
+msgstr "Các âm thanh"
+
+msgid "Sounds compressed"
+msgstr "Các âm thanh nén"
+
+msgid "space"
+msgstr "phím cách"
+
+msgid "Sprite"
+msgstr "Nhân vật"
+
+msgid "Sprites"
+msgstr "Nhân vật"
+
+msgid "sqrt"
+msgstr "sqrt"
+
+msgid "Stage"
+msgstr "Sân khấu"
+
+msgid "Stage selected:"
+msgstr "Sân khấu được chọn:"
+
+msgid "Stamp tool (select area, then stamp copies of it)"
+msgstr "Công cụ in hình (chọn vùng, sau đó in hình sao của nó)"
+
+msgid "Start green flag scripts"
+msgstr "Bắt đầu kịch bản với cờ xanh"
+
+msgid "Start Single Stepping"
+msgstr "thực hiện từng bước đơn"
+
+msgid "stop"
+msgstr "dừng"
+
+msgid "Stop everything"
+msgstr "Dừng toàn bộ"
+
+msgid "Stop Single Stepping"
+msgstr "dừng thực hiện từng bước"
+
+msgid "Story"
+msgstr "Truyện"
+
+msgid "Support Site"
+msgstr "Địa chỉ Hỗ trợ"
+
+msgid "Switch colors"
+msgstr "Trao đổi màu sắc"
+
+msgid "Switch to full stage"
+msgstr "Chuyển sang sân khấu lớn"
+
+msgid "Switch to presentation mode"
+msgstr "Chuyển sang chế độ trình chiếu"
+
+msgid "Switch to small stage"
+msgstr "Chuyển sang sân khấu nhỏ"
+
+msgid "Tags:"
+msgstr "Các thẻ:"
+
+msgid "Text tool (edit text layer)"
+msgstr "Công cụ văn bản (soạn thảo lớp văn bản)"
+
+msgid "That variable name is already in use"
+msgstr "Tên biến này đã được sử dụng"
+
+msgid "that way"
+msgstr ""
+
+msgid "The file name already exists. Overwrite existing file?"
+msgstr "Tên tệp đã tồn tại, Bạn có muốn ghi đè lên?"
+
+msgid "thing"
+msgstr "vật"
+
+msgid "this way"
+msgstr "hướng này"
+
+msgid "tilt"
+msgstr "nghiêng"
+
+msgid "true"
+msgstr "đúng"
+
+msgid "Turbo speed"
+msgstr "Tốc độ tự động"
+
+msgid "turn into new sprite"
+msgstr "chuyển vào nhân vật mới"
+
+msgid "Undelete"
+msgstr "Phục hồi"
+
+msgid "Undo"
+msgstr "Hủy bước"
+
+msgid "up"
+msgstr "lên"
+
+msgid "up arrow"
+msgstr "mũi tên lên"
+
+msgid "Updating thumbnails"
+msgstr "Đang cập nhật các ảnh mẫu"
+
+msgid "Upload succeeded!"
+msgstr "Quá trình tải lên mạng hoàn tất."
+
+msgid "Upload to Scratch Server"
+msgstr "Tải dữ liệu lên Máy chủ Scratch"
+
+msgid "Uploading"
+msgstr "Đang tải lên"
+
+msgid "Variable name?"
+msgstr "Tên biến?"
+
+msgid "View on stage"
+msgstr "Xem với sân khấu"
+
+msgid "What's your name?"
+msgstr "Tên bạn là gì?"
+
+msgid "whirl"
+msgstr "xoáy"
+
+msgid "world"
+msgstr ""
+
+msgid "Write Multiple Project Summaries"
+msgstr "ghi tổng hợp nhiều dự án"
+
+msgid "Write Project Summary"
+msgstr "ghi tóm tắt dự án "
+
+msgid "Yes"
+msgstr "Đồng ý"
+
+msgid "Your project is now online at"
+msgstr "Dự án của bạn đang trên Internet tại"
+
+msgid "Your Scratch website login name:"
+msgstr "Tên đăng nhập vào trang Web Scratch:"
+
+msgid "Zoom in"
+msgstr "Phóng to"
+
+msgid "Zoom out"
+msgstr "Thu nhỏ"
+
+############################################
+# MIDI INSTRUMENTS
+############################################
+
+msgid "Accordion"
+msgstr "Đàn ăccoc"
+
+msgid "Acoustic Bass"
+msgstr "Âm trầm"
+
+msgid "Acoustic Bass Drum"
+msgstr "Âm trầm trống"
+
+msgid "Acoustic Grand"
+msgstr "Âm piano cánh"
+
+msgid "Acoustic Snare"
+msgstr "Âm  trống dây "
+
+msgid "Agogo"
+msgstr "Agogo"
+
+msgid "Alto Sax"
+msgstr "Kèn Anto"
+
+msgid "Applause"
+msgstr "Tiếng Vỗ tay"
+
+msgid "Bagpipe"
+msgstr "Kèn túi"
+
+msgid "Banjo"
+msgstr "Đàn banjô"
+
+msgid "Baritone Sax"
+msgstr "Kèn Baritôn"
+
+msgid "Bass Drum 1"
+msgstr "Trống Trầm 1"
+
+msgid "Bassoon"
+msgstr "Kèn fagôt"
+
+msgid "Bird Tweet"
+msgstr "Tiếng chiêm chiếp"
+
+msgid "Blown Bottle"
+msgstr "Tiếng thổi vào chai"
+
+msgid "Brass Section"
+msgstr "Kèn đồng"
+
+msgid "Breath Noise"
+msgstr "Tiếng lạo xạo"
+
+msgid "Bright Acoustic"
+msgstr "Âm sáng"
+
+msgid "Cabasa"
+msgstr "Cabasa"
+
+msgid "Celesta"
+msgstr "Celesta"
+
+msgid "Cello"
+msgstr "Đàn viôlôngxen"
+
+msgid "Chinese Cymbal"
+msgstr "Chũm chọe"
+
+msgid "Choir Aahs"
+msgstr "Tiếng Ă của ban hát"
+
+msgid "Church Organ"
+msgstr "Đàn ống nhà thờ"
+
+msgid "Clarinet"
+msgstr "Clarinet"
+
+msgid "Claves"
+msgstr "Đôi dùi gỗ"
+
+msgid "Clavinet"
+msgstr "Đàn ống điện tử"
+
+msgid "Closed Hi-Hat"
+msgstr "Tiếng va cymbal"
+
+msgid "Contrabass"
+msgstr "Côngbat"
+
+msgid "Cowbell"
+msgstr "Chuông đeo"
+
+msgid "Crash Cymbal 1"
+msgstr "Cymbal trung 1"
+
+msgid "Crash Cymbal 2"
+msgstr "Cymbal trung 2"
+
+msgid "Distortion Guitar"
+msgstr "Ghita biến âm"
+
+msgid "Drawbar Organ"
+msgstr "Organ điện tử"
+
+msgid "Dulcimer"
+msgstr "Đàn ximbalum"
+
+msgid "Electric Bass (finger)"
+msgstr "Ghita điện (phím)"
+
+msgid "Electric Bass (pick)"
+msgstr "Ghita điện (gảy)"
+
+msgid "Electric Clean Guitar"
+msgstr "Ghita điện Trơn"
+
+msgid "Electric Grand"
+msgstr "Đàn piano cánh điện"
+
+msgid "Electric Jazz Guitar"
+msgstr "Ghita Jazz điện"
+
+msgid "Electric Muted Guitar"
+msgstr "Ghita điện Câm"
+
+msgid "Electric Piano 1"
+msgstr "Piano điện 1"
+
+msgid "Electric Piano 2"
+msgstr "Piano điện 2"
+
+msgid "Electric Snare"
+msgstr "Trống dây điện"
+
+msgid "English Horn"
+msgstr "Kèn Anh"
+
+msgid "FX 1 (rain)"
+msgstr "FX 1 (mưa)"
+
+msgid "FX 2 (soundtrack)"
+msgstr "FX2 (đường ghi âm)"
+
+msgid "FX 3 (crystal)"
+msgstr "FX3 (tinh thể)"
+
+msgid "FX 4 (atmosphere)"
+msgstr "FX4 (không khí)"
+
+msgid "FX 5 (brightness)"
+msgstr "FX5 (độ sáng)"
+
+msgid "FX 6 (goblins)"
+msgstr "FX6 (yêu tinh)"
+
+msgid "FX 7 (echoes)"
+msgstr "FX 7 (tiếng vọng)"
+
+msgid "FX 8 (sci-fi)"
+msgstr "FX 8 (khoa học viễn)"
+
+msgid "Fiddle"
+msgstr "Kéo viôlông"
+
+msgid "Flute"
+msgstr "Sáo"
+
+msgid "French Horn"
+msgstr "Kèn Pháp"
+
+msgid "Fretless Bass"
+msgstr "Kèn bát không phím đàn"
+
+msgid "Glockenspiel"
+msgstr "Đàn chuông"
+
+msgid "Guitar Fret Noise"
+msgstr "Tiếng phím đàn ghi-ta"
+
+msgid "Guitar Harmonics"
+msgstr "Hoà âm học ghi-ta"
+
+msgid "Gunshot"
+msgstr "Tiếng súng"
+
+msgid "Hand Clap"
+msgstr "Vỗ tay"
+
+msgid "Harmonica"
+msgstr "Acmônica"
+
+msgid "Harpsichord"
+msgstr "Đàn clavico"
+
+msgid "Helicopter"
+msgstr "Trực thăng"
+
+msgid "Hi Bongo"
+msgstr "Trống tay"
+
+msgid "Hi Wood Block"
+msgstr "Khối gỗ cao"
+
+msgid "Hi-Mid Tom"
+msgstr "Trống đệm nữa cao"
+
+msgid "High Agogo"
+msgstr "Agogo cao"
+
+msgid "High Floor Tom"
+msgstr "Trống đệm sàn cao"
+
+msgid "High Timbale"
+msgstr "Trống định âm cao"
+
+msgid "High Tom"
+msgstr "Trống đệm cao"
+
+msgid "Honky-Tonk"
+msgstr "Kêu leng keng"
+
+msgid "Kalimba"
+msgstr "Kaliba"
+
+msgid "Koto"
+msgstr "Koto"
+
+msgid "Lead 1 (square)"
+msgstr "Dẫn đầu 1 (vuông)"
+
+msgid "Lead 2 (sawtooth)"
+msgstr "Dẫn đầu 2 (răng cưa)"
+
+msgid "Lead 3 (calliope)"
+msgstr "Dẫn đầu 3 (calliope)"
+
+msgid "Lead 4 (chiff)"
+msgstr "Dẫn đầu 4 (chiff)"
+
+msgid "Lead 5 (charang)"
+msgstr "Dẫn đầu 5 (charang)"
+
+msgid "Lead 6 (voice)"
+msgstr "Dẫn đầu 6 (giọng nối)"
+
+msgid "Lead 7 (fifths)"
+msgstr "Dẫn đầu 7 (quãng năm)"
+
+msgid "Lead 8 (bass+lead)"
+msgstr "Dẫn đầu 8 (trầm+dẫn đầu)"
+
+msgid "Long Guiro"
+msgstr "Guiro dài"
+
+msgid "Long Whistle"
+msgstr "Huýt sáo dài"
+
+msgid "Low Agogo"
+msgstr "Agogo thấp"
+
+msgid "Low Bongo"
+msgstr "Trống tay thấp"
+
+msgid "Low Conga"
+msgstr "Trống Conga thấp"
+
+msgid "Low Floor Tom"
+msgstr "Trống đệm sàn thấp"
+
+msgid "Low Timbale"
+msgstr "Trống định âm thấp"
+
+msgid "Low Tom"
+msgstr "Trống đệm thấp"
+
+msgid "Low Wood Block"
+msgstr "Khối gỗ thấp"
+
+msgid "Low-Mid Tom"
+msgstr "Trống đệm nửa thấp"
+
+msgid "Maracas"
+msgstr "Maracas"
+
+msgid "Marimba"
+msgstr "Mộc cầm"
+
+msgid "Melodic Tom"
+msgstr "Trống đệm giai điệu"
+
+msgid "Music Box"
+msgstr "Hộp Nhạc"
+
+msgid "Mute Cuica"
+msgstr "Tắt Cuica"
+
+msgid "Mute Hi Conga"
+msgstr "Tắt Hi conga"
+
+msgid "Mute Triangle"
+msgstr "Tắt tiếng tam giác"
+
+msgid "Muted Trumpet"
+msgstr "Trompet câm"
+
+msgid "Nylon String Guitar"
+msgstr "Ghita dây ni lông"
+
+msgid "Oboe"
+msgstr "Kèn ô-bô"
+
+msgid "Ocarina"
+msgstr "Ocarina"
+
+msgid "Open Cuica"
+msgstr "Bật Cuica"
+
+msgid "Open Hi Conga"
+msgstr "Bật Hi Conga"
+
+msgid "Open Hi-Hat"
+msgstr "Bật Hi-hat"
+
+msgid "Open Triangle"
+msgstr "Bật tam giác"
+
+msgid "Orchestra Hit"
+msgstr "Dàn nhạc đánh"
+
+msgid "Orchestral Strings"
+msgstr "Đàn dây"
+
+msgid "Overdriven Guitar"
+msgstr "Ghi-ta ốp"
+
+msgid "Pad 1 (new age)"
+msgstr "Đệm 1 (thời kỳ mới)"
+
+msgid "Pad 2 (warm)"
+msgstr "Đệm 2 (ấm)"
+
+msgid "Pad 3 (polysynth)"
+msgstr "Đệm 3 (đa tổng hợp)"
+
+msgid "Pad 4 (choir)"
+msgstr "Đệm 4 (hợp ca)"
+
+msgid "Pad 5 (bowed)"
+msgstr "Đệm 5 (kéo vĩ)"
+
+msgid "Pad 6 (metallic)"
+msgstr "Đệm 6 (kim loại)"
+
+msgid "Pad 7 (halo)"
+msgstr "Đệm 7 (quầng)"
+
+msgid "Pad 8 (sweep)"
+msgstr "Đệm 8 (quét)"
+
+msgid "Pan Flute"
+msgstr "Sáo thần Păng"
+
+msgid "Pedal Hi-Hat"
+msgstr "Hi-Hat đạp chân"
+
+msgid "Percussive Organ"
+msgstr "Organ búa gõ"
+
+msgid "Piccolo"
+msgstr "Sáo kim"
+
+msgid "Pizzicato Strings"
+msgstr "Dây Pizzicato"
+
+msgid "Recorder"
+msgstr "Ống tiêu"
+
+msgid "Reed Organ"
+msgstr "Đàn ống lưỡi gà"
+
+msgid "Reverse Cymbal"
+msgstr "Chũm chọe ngược"
+
+msgid "Ride Bell"
+msgstr "Rung chuông"
+
+msgid "Ride Cymbal 1"
+msgstr "Chũm chọe nảy 1"
+
+msgid "Ride Cymbal 2"
+msgstr "Chũm chọe nảy 2"
+
+msgid "Rock Organ"
+msgstr "Đàn ống nhạc rốc"
+
+msgid "Seashore"
+msgstr "Bờ biển"
+
+msgid "Shakuhachi"
+msgstr "Sáo trúc Nhật"
+
+msgid "Shamisen"
+msgstr "Đàn tì bà Nhật"
+
+msgid "Shanai"
+msgstr "Shanai"
+
+msgid "Short Guiro"
+msgstr "Guiro ngắn"
+
+msgid "Short Whistle"
+msgstr "Huýt sáo ngắn"
+
+msgid "Side Stick"
+msgstr "Tiếng trống cạnh"
+
+msgid "Sitar"
+msgstr "Đàn xita"
+
+msgid "Slap Bass 1"
+msgstr "Công bát vả 1"
+
+msgid "Slap Bass 2"
+msgstr "Công bát vả 2"
+
+msgid "Soprano Sax"
+msgstr "Xác-xô giọng nữ cao"
+
+msgid "Splash Cymbal"
+msgstr "Chũm choẹ con "
+
+msgid "Steel Drums"
+msgstr "Trống kim loại"
+
+msgid "Steel String Guitar"
+msgstr "Ghita dây sắt"
+
+msgid "String Ensemble 1"
+msgstr "Ban nhạc dây 1"
+
+msgid "String Ensemble 2"
+msgstr "Ban nhạc dây 2"
+
+msgid "Synth Bass 1"
+msgstr "Trống tổng hợp 1"
+
+msgid "Synth Bass 2"
+msgstr "Trống tổng hợp 2"
+
+msgid "Synth Drum"
+msgstr "Trống tổng hợp"
+
+msgid "Synth Voice"
+msgstr "Giọng tổng hợp"
+
+msgid "SynthBrass 1"
+msgstr "Kèn đồng tổng hợp 1"
+
+msgid "SynthBrass 2"
+msgstr "Kèn đồng tổng hợp 2"
+
+msgid "SynthStrings 1"
+msgstr "Đàn dây tổng hợp 1"
+
+msgid "SynthStrings 2"
+msgstr "Đàn dây tổng hợp 2"
+
+msgid "Taiko Drum"
+msgstr "Trống Taiko"
+
+msgid "Tambourine"
+msgstr "Trống lục lạc"
+
+msgid "Tango Accordion"
+msgstr "Tango Accordion"
+
+msgid "Telephone Ring"
+msgstr "Chuông điện thoại"
+
+msgid "Tenor Sax"
+msgstr "Xác-xô giọng nam cao"
+
+msgid "Timpani"
+msgstr "Trống một mặt"
+
+msgid "Tinkle Bell"
+msgstr "Chuông rung leng keng"
+
+msgid "Tremolo Strings"
+msgstr "Đàn dây vê"
+
+msgid "Trombone"
+msgstr "Trombone"
+
+msgid "Trumpet"
+msgstr "Trumpet"
+
+msgid "Tuba"
+msgstr "Tuba"
+
+msgid "Tubular Bells"
+msgstr "Chuông ống"
+
+msgid "Vibraphone"
+msgstr "Đàn tăng rung"
+
+msgid "Vibraslap"
+msgstr "Vả rung động"
+
+msgid "Viola"
+msgstr "Đàn viola"
+
+msgid "Violin"
+msgstr "Viôlông"
+
+msgid "Voice Oohs"
+msgstr "Giọng « uu »"
+
+msgid "Whistle"
+msgstr "Huýt sáo"
+
+msgid "Woodblock"
+msgstr "Khối gỗ"
+
+msgid "Xylophone"
+msgstr "Mộc cầm"
+

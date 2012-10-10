@@ -1,0 +1,1919 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Scratch\n"
+"Report-Msgid-Bugs-To: Bulgantamir Nerguin <ar_uul_us@yahoo.com>\n"
+"POT-Creation-Date: 2008-10-10\n"
+"PO-Revision-Date: 2008-06-29\n"
+"Last-Translator: Bulgantamir Nerguin <ar_uul_us@yahoo.com>\n"
+"Language-Team: LANGUAGE <mongolr_uul_us@yahoo.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: \n"
+
+############################################
+# FORMATTING
+############################################
+
+# Language name as you'd like it to appear in the Languages menu
+# (Required)
+msgid "Language-Name"
+msgstr "Монгол хэл"
+
+# Directionality of language
+# LTR = Left to Right
+# RTL = Right to Left
+msgid "Language-Direction"
+msgstr "LTR"
+
+# Scale to apply to font size (2 for twice as large)
+# Use this if the font is too small for legibility on the Scratch interface
+msgid "Font-Scale"
+msgstr ""
+
+# Set to 'true' or 'false'
+# Use this if you do not want any of the text to be bolded, for legibility
+msgid "Suppress-Bold"
+msgstr ""
+
+# Font to use on a Windows system
+msgid "Win-Font"
+msgstr ""
+
+# Font to use on a Mac system
+msgid "Mac-Font"
+msgstr ""
+
+# Font to use on a Linux system
+msgid "Linux-Font"
+msgstr ""
+
+############################################
+# BLOCKS
+############################################
+
+msgid "%H sensor value"
+msgstr "%H мэдрэгчийн утга"
+
+msgid "%L contains %s"
+msgstr ""
+
+msgid "%a of %m"
+msgstr "%a -н %m"
+
+msgid "%b and %b"
+msgstr "%b ба %b"
+
+msgid "%b or %b"
+msgstr "%b буюу %b"
+
+msgid "%f of %n"
+msgstr "%f < %n >"
+
+msgid "%n mod %n"
+msgstr "%n mod %n"
+
+msgid "add %s to %L"
+msgstr ""
+
+msgid "answer"
+msgstr ""
+
+msgid "ask %s and wait"
+msgstr ""
+
+msgid "background #"
+msgstr "# дэвсгэр"
+
+msgid "broadcast %e"
+msgstr "%e -г дууд"
+
+msgid "broadcast %e and wait"
+msgstr "%e -г дуудаад хүлээ"
+
+msgid "change %g effect by %n"
+msgstr "%g нөлөөг %n -р өөрчил"
+
+msgid "change %v by %n"
+msgstr "%v г %n -р өөрчил"
+
+msgid "change pen color by %n"
+msgstr "үзэгний өнгийг %n -р өөрчил"
+
+msgid "change pen shade by %n"
+msgstr "үзэгний сүүдрийг %n -р өөрчил"
+
+msgid "change pen size by %n"
+msgstr "үзэгний хэмжээг %n -р өөрчил"
+
+msgid "change size by %n"
+msgstr "хэмжээг %n -р өөрчил"
+
+msgid "change tempo by %n"
+msgstr "хэмнэлийг %n -р өөрчил"
+
+msgid "change volume by %n"
+msgstr "дууны хүч %n"
+
+msgid "change x by %n"
+msgstr "x -г %n -р өөрчил"
+
+msgid "change y by %n"
+msgstr "y -г  %n -р өөрчил"
+
+msgid "clear"
+msgstr "арилга"
+
+msgid "clear graphic effects"
+msgstr "дүрсний нөлөөг арилга"
+
+msgid "color %C is touching %C?"
+msgstr "өнгө %C нь %C өнгөнд хүрсэн"
+
+msgid "control"
+msgstr "Хяналт"
+
+msgid "costume #"
+msgstr "өмсгөл #"
+
+msgid "delete %y of %L"
+msgstr ""
+
+msgid "direction"
+msgstr "чиглэл"
+
+msgid "distance to %m"
+msgstr "%m хүртэлх зай"
+
+msgid "else"
+msgstr "эсвэл"
+
+msgid "forever"
+msgstr "үргэлж"
+
+msgid "forever if %b"
+msgstr "хэрэв %b бол үргэлж"
+
+msgid "glide %n secs to x:%n y:%n"
+msgstr "%n секундэд x:%n y:%n цэгрүү гулс"
+
+msgid "go back %n layers"
+msgstr "%n давхаргын цаана ор"
+
+msgid "go to %m"
+msgstr "%m -руу оч"
+
+msgid "go to front"
+msgstr "Эхний давхарга болго"
+
+msgid "go to x:%n y:%n"
+msgstr "x:%n y:%n цэгт оч"
+
+msgid "hide"
+msgstr "нуугд"
+
+msgid "hide variable %v"
+msgstr ""
+
+msgid "if %b"
+msgstr "хэрэв %b бол"
+
+msgid "if on edge, bounce"
+msgstr "хэрэв ирмэг бол ой"
+
+msgid "insert %s at %i of %L"
+msgstr ""
+
+msgid "item %i of %L"
+msgstr ""
+
+msgid "join %s %s"
+msgstr ""
+
+msgid "key %k pressed?"
+msgstr "%k товчлуур дарагдсан"
+
+msgid "length of %L"
+msgstr ""
+
+msgid "length of %s"
+msgstr ""
+
+msgid "letter %n of %s"
+msgstr ""
+
+msgid "list"
+msgstr ""
+
+msgid "looks"
+msgstr "Үзэгдэхүй"
+
+msgid "loud?"
+msgstr "Дуу чанга уу?"
+
+msgid "loudness"
+msgstr "Дуу чангаруулвал"
+
+msgid "motion"
+msgstr "Хөдлөхүй"
+
+msgid "motor direction %W"
+msgstr ""
+
+msgid "motor off"
+msgstr ""
+
+msgid "motor on"
+msgstr ""
+
+msgid "motor on for %n secs"
+msgstr ""
+
+msgid "motor power %n"
+msgstr ""
+
+msgid "mouse down?"
+msgstr "хулгана дарагдсан"
+
+msgid "mouse x"
+msgstr "хулганы x -р"
+
+msgid "mouse y"
+msgstr "хулганы y -р"
+
+msgid "move %n steps"
+msgstr "%n алхамаар яв"
+
+msgid "next background"
+msgstr "дараах дэвсгэр"
+
+msgid "next costume"
+msgstr "дараах өмсгөл"
+
+msgid "not %b"
+msgstr "%b биш бол"
+
+msgid "operators"
+msgstr ""
+
+msgid "pen"
+msgstr "Үзэг"
+
+msgid "pen down"
+msgstr "үзгээр бич"
+
+msgid "pen up"
+msgstr "бичихээ боль"
+
+msgid "pick random %n to %n"
+msgstr "%n -с %n хооронд санамсаргүй утга ав"
+
+msgid "play drum %D for %n beats"
+msgstr "%D хэмнэлээр %n бөмбөрийг дуу гарга"
+
+msgid "play note %N for %n beats"
+msgstr "%N хэмнэлээр %n нотыг тогло"
+
+msgid "play sound %S"
+msgstr "%S -г дуу гарга"
+
+msgid "play sound %S until done"
+msgstr "%S дууг дуустал дуугарга"
+
+msgid "point in direction %d"
+msgstr "чигийг %d -р эргүүл"
+
+msgid "point towards %m"
+msgstr "%m руу эргэ"
+
+msgid "repeat %n"
+msgstr "%n удаа давта"
+
+msgid "repeat until %b"
+msgstr "%b болтол давта"
+
+msgid "replace item %i of %L with %s"
+msgstr ""
+
+msgid "reset timer"
+msgstr "тоолуурыг 0 болго"
+
+msgid "rest for %n beats"
+msgstr "%n хэмнэлтэй үлдээ"
+
+msgid "round %n"
+msgstr "%n -р тоймло"
+
+msgid "say %s"
+msgstr "%s -г хэл"
+
+msgid "say %s for %n secs"
+msgstr "%s -г %n секундэд хэл"
+
+msgid "sensing"
+msgstr "Мэдрэхүй"
+
+msgid "sensor %h?"
+msgstr "%h мэдэр?"
+
+msgid "set %g effect to %n"
+msgstr "%g нөлөөг %n -р өөрчил "
+
+msgid "set %v to %n"
+msgstr "%v -г %n болго"
+
+msgid "set instrument to %I"
+msgstr "%I хөгжмийг сонго"
+
+msgid "set pen color to %c"
+msgstr "үзэгний өнгийг %c болго"
+
+msgid "set pen color to %n"
+msgstr "үзэгний өнгийг %n болго"
+
+msgid "set pen shade to %n"
+msgstr "үзэгний сүүдрийг %n болго"
+
+msgid "set pen size to %n"
+msgstr "үзэгний хэмжээг %n болго"
+
+msgid "set size to %n%"
+msgstr "хэмжээг %n% болго"
+
+msgid "set tempo to %n bpm"
+msgstr "хэмнэлийг %n bpm болго"
+
+msgid "set volume to %n%"
+msgstr "дууны хүчийг %n% болго"
+
+msgid "set x to %n"
+msgstr "x тэнхлэг %n"
+
+msgid "set y to %n"
+msgstr "у тэнхлэг %n"
+
+msgid "show"
+msgstr "харагд"
+
+msgid "show variable %v"
+msgstr ""
+
+msgid "size"
+msgstr "хэмжээ"
+
+msgid "sound"
+msgstr "Дуу авиа"
+
+msgid "stamp"
+msgstr "дардас"
+
+msgid "stop all"
+msgstr "бүгд зогс"
+
+msgid "stop all sounds"
+msgstr "бүх дууг зогсоо"
+
+msgid "stop script"
+msgstr "зохиомж зогс"
+
+msgid "switch to background %l"
+msgstr "%l -т шилж"
+
+msgid "switch to costume %l"
+msgstr "%l өмсгөлөөр соль"
+
+msgid "tempo"
+msgstr "хэмнэл"
+
+msgid "think %s"
+msgstr "%s -г бод"
+
+msgid "think %s for %n secs"
+msgstr "%s секундын %n -г бод"
+
+msgid "timer"
+msgstr "тоолуур"
+
+msgid "touching %m?"
+msgstr "%m -д хүрсэн"
+
+msgid "touching color %C?"
+msgstr "%C өнгө"
+
+msgid "turn %n degrees"
+msgstr "%n хэмээр эргэ"
+
+msgid "variables"
+msgstr "Хувьсахуй"
+
+msgid "volume"
+msgstr "дууны эрч"
+
+msgid "wait %n secs"
+msgstr "%n секунд хүлээ"
+
+msgid "wait until %b"
+msgstr "%b болтол хүлээ"
+
+msgid "when %k key pressed"
+msgstr "хэзээ %k дарагдсан"
+
+msgid "when %m clicked"
+msgstr "хэзээ %m товшигдвол"
+
+msgid "when I receive %e"
+msgstr "%e -д дуудагдсан үед"
+
+msgid "x position"
+msgstr "x - утга"
+
+msgid "y position"
+msgstr "y - утга"
+
+############################################
+# USER INTERFACE
+############################################
+
+msgid "(empty)"
+msgstr ""
+
+msgid "1 script"
+msgstr "зохиомж 1"
+
+msgid "About Scratch"
+msgstr "Муужгайн тухай"
+
+msgid "About this project:"
+msgstr "Төслийнхөө тухай"
+
+msgid "abs"
+msgstr "abs"
+
+msgid "add comment"
+msgstr ""
+
+msgid "add comment here"
+msgstr ""
+
+msgid "all"
+msgstr ""
+
+msgid "and"
+msgstr "ба"
+
+msgid "Animation"
+msgstr ""
+
+msgid "any"
+msgstr ""
+
+msgid "Art"
+msgstr ""
+
+msgid "background"
+msgstr "дэвсгэр"
+
+msgid "backgrounds"
+msgstr "дэвсгэрүүд"
+
+msgid "Backgrounds"
+msgstr "Дэвсгэрүүд"
+
+msgid "brightness"
+msgstr "гэрэлтэлт"
+
+msgid "Brush size: "
+msgstr "Бийрний хэмжээ: "
+
+msgid "button"
+msgstr "товчлуур"
+
+msgid "button pressed"
+msgstr "товчлуур дарагдсан"
+
+msgid "Camera"
+msgstr ""
+
+msgid "can rotate"
+msgstr "эргүүлж болно"
+
+msgid "cancel"
+msgstr ""
+
+msgid "Cancel"
+msgstr "Боль"
+
+msgid "Choose a folder"
+msgstr "Хавтсаа сонго"
+
+msgid "Choose new sprite from file"
+msgstr "Дүрс файлаас сонгон авах"
+
+msgid "clean up"
+msgstr "цэвэрлэгээ"
+
+msgid "Clear"
+msgstr "цэвэрлэгээ"
+
+msgid "Clear canvas"
+msgstr "Талбарыг цэвэрлэ"
+
+msgid "Close and continue"
+msgstr ""
+
+msgid "Close dialog?"
+msgstr ""
+
+msgid "Close paint editor?"
+msgstr ""
+
+msgid "close port"
+msgstr "гарцыг хаа"
+
+msgid "Close sound recorder?"
+msgstr ""
+
+msgid "color"
+msgstr "өнгө"
+
+msgid "Compress Images"
+msgstr "зургийг шахах"
+
+msgid "Compress Sounds"
+msgstr "дууг шахах"
+
+msgid "Compress sounds and images"
+msgstr "Дуу ба зургийг шахах"
+
+msgid "Computer"
+msgstr "Компьютер"
+
+msgid "connected"
+msgstr "залгагдлаа"
+
+msgid "Connecting to "
+msgstr "Залгагдаж байна"
+
+msgid "Copy"
+msgstr "Хувилах"
+
+msgid "costume"
+msgstr "Өмсгөл"
+
+msgid "costumes"
+msgstr "өмсгөл"
+
+msgid "Costumes"
+msgstr "Өмсгөл"
+
+msgid "Could not read"
+msgstr "Унших боломжгүй ... "
+
+msgid "Could not read project; file may be damaged"
+msgstr ""
+
+msgid "Could not write file"
+msgstr "Хадгалах боломж алга"
+
+msgid "Create account"
+msgstr "Данс үүсгэх"
+
+msgid "Create an empty project"
+msgstr "Шинэ төсөл үүсгэх"
+
+msgid "Data sent. Waiting for response..."
+msgstr "Өгөгдөл дамжуулагдсан. Хариу хүлээ..."
+
+msgid "delete"
+msgstr "устга"
+
+msgid "Delete"
+msgstr "Устга"
+
+msgid "Delete a list"
+msgstr ""
+
+msgid "Delete a variable"
+msgstr "Хувьсагчийг устга"
+
+msgid "Delete this background"
+msgstr ""
+
+msgid "Delete this costume"
+msgstr "Өмсгөлийг устга"
+
+msgid "Delete this sound"
+msgstr "Дууг устга"
+
+msgid "Delete this sprite"
+msgstr ""
+
+msgid "Desktop"
+msgstr ""
+
+msgid "disable remote sensor connections"
+msgstr ""
+
+msgid "distance"
+msgstr ""
+
+msgid "Documents"
+msgstr "Бичигүүд"
+
+msgid "don't rotate"
+msgstr "бүү эргүүл"
+
+msgid "Don't Save"
+msgstr ""
+
+msgid "Done"
+msgstr ""
+
+msgid "down"
+msgstr "доошоо"
+
+msgid "down arrow"
+msgstr "доошоо сум"
+
+msgid "drag to resize"
+msgstr ""
+
+msgid "drag to rotate"
+msgstr ""
+
+msgid "draggable on website?"
+msgstr "сайт руу зөөх үү?"
+
+msgid "duplicate"
+msgstr "хувил"
+
+msgid "Duplicate"
+msgstr "Хувил"
+
+msgid "edge"
+msgstr "ирмэг"
+
+msgid "Edit"
+msgstr "Засварлах"
+
+msgid "Ellipse tool (draw outlined or filled ellipse or circle)"
+msgstr "Эллипс(будагдсан тойрог эсвэл зууван зур)"
+
+msgid "enable remote sensor connections"
+msgstr ""
+
+msgid "Enter presentation mode"
+msgstr "Үзүүлбэрт шилж"
+
+msgid "Eraser"
+msgstr "Баллуур"
+
+msgid "Eraser size"
+msgstr "Баллуурын хэмжээ"
+
+msgid "Error!"
+msgstr ""
+
+msgid "Examples"
+msgstr ""
+
+msgid "Exit presentation"
+msgstr ""
+
+msgid "Exit presentation mode"
+msgstr "Үзүүлбэрээс гар"
+
+msgid "export"
+msgstr "хадгал"
+
+msgid "Export Background"
+msgstr "Дэвсгэрийг хадгал"
+
+msgid "Export Costume"
+msgstr "Өмсгөлийг хадгал"
+
+msgid "Export failed"
+msgstr "Хадгалж чадсангүй"
+
+msgid "Export Sound"
+msgstr "Дууг хадгал"
+
+msgid "Export Sprite"
+msgstr "Дүрсийг хадгал"
+
+msgid "export this costume"
+msgstr ""
+
+msgid "export this sound"
+msgstr ""
+
+msgid "export this sprite"
+msgstr "энэ дүрсийг хадгал"
+
+msgid "Extras menu"
+msgstr "Нэмэлт цэс"
+
+msgid "Eyedropper tool (select a color)"
+msgstr "Дусаагуур (өнгө сонгогч)"
+
+msgid "Failed:"
+msgstr "Алдаа:"
+
+msgid "false"
+msgstr "худал"
+
+msgid "File"
+msgstr ""
+
+msgid "File not found"
+msgstr "Файл олдсонгүй"
+
+msgid "Fill tool (fill areas with color or gradient)"
+msgstr "Цутгах (өнгө, өнгөний уусалтаар)"
+
+msgid "first"
+msgstr ""
+
+msgid "fisheye"
+msgstr "загасан нүд глаз"
+
+msgid "Flash blocks (fast)"
+msgstr "Блокууд анивчих (хурдан)"
+
+msgid "Flash blocks (slow)"
+msgstr "Блокууд анивчих (удаан)"
+
+msgid "Flip horizontally"
+msgstr "Босоо тэнхлэгтэй урвуулах"
+
+msgid "Flip vertically"
+msgstr "Хэвтээ тэнхлэгтэй урвуулах"
+
+msgid "For all sprites"
+msgstr "Бүх дүрсэнд Ок"
+
+msgid "For this sprite only"
+msgstr "Зөвхөн энэ дүрсэнд Ок"
+
+msgid "Game"
+msgstr ""
+
+msgid "Get surprise sprite"
+msgstr "Санаандгүй дүрс сонго"
+
+msgid "Get the last thing deleted"
+msgstr "Сүүлчийн устгасныг авах"
+
+msgid "Getting Started"
+msgstr ""
+
+msgid "ghost"
+msgstr "сүнс"
+
+msgid "Go To Scratch Website"
+msgstr ""
+
+msgid "grab screen region for new costume"
+msgstr "шинэ өмсгөлийн дэлгэц"
+
+msgid "grab screen region for new sprite"
+msgstr "шинэ дүрсийн дэлгэц"
+
+msgid "Grow"
+msgstr "Өсгөлт"
+
+msgid "Grow sprite"
+msgstr "Дүрсийг өсгө"
+
+msgid "hello "
+msgstr ""
+
+msgid "Hello!"
+msgstr "Amap yy!"
+
+msgid "help"
+msgstr "тусламж"
+
+msgid "Help"
+msgstr "тусламж"
+
+msgid "Help Page"
+msgstr ""
+
+msgid "Help Screens"
+msgstr ""
+
+msgid "Hide Motor Blocks"
+msgstr ""
+
+msgid "High (biggest)"
+msgstr "Өндөр (хамгийн их)"
+
+msgid "Hmm..."
+msgstr "Xmm.."
+
+msgid "Home"
+msgstr ""
+
+msgid "Images compressed"
+msgstr "Зурагнууд шахагдсан"
+
+msgid "import"
+msgstr ""
+
+msgid "Import"
+msgstr "Оруулах"
+
+msgid "Import an image on top of your current canvas"
+msgstr "Талбарын дээд хэсэгт зураг оруулах"
+
+msgid "Import Background"
+msgstr "Дэвсгэр оруул"
+
+msgid "Import Costume"
+msgstr "Өмсгөл оруул"
+
+msgid "Import Image"
+msgstr "Зураг оруул"
+
+msgid "Import List"
+msgstr ""
+
+msgid "Import Project"
+msgstr "Төсөл оруул"
+
+msgid "import project"
+msgstr ""
+
+msgid "Import Sound"
+msgstr "Дуу оруул"
+
+msgid "Incompatible Scratch file format"
+msgstr "Муужгайд тохирохгүй байна"
+
+msgid "Is the folder read-only?"
+msgstr "Энэ хавтсан дахийг зөвхөн уншина?"
+
+msgid "JPEG Quality (10-100)?"
+msgstr "JPEG төрөл (10-100)"
+
+msgid "kbytes"
+msgstr "килобайт"
+
+msgid "Language"
+msgstr "Хэл"
+
+msgid "large readout"
+msgstr "уншихад хэт том байна"
+
+msgid "last"
+msgstr ""
+
+msgid "left"
+msgstr "зүүн"
+
+msgid "left arrow"
+msgstr "зүүн сум"
+
+msgid "length"
+msgstr ""
+
+msgid "light"
+msgstr "гэрэл"
+
+msgid "Line tool (draw lines)"
+msgstr "Шугам (шулуун зурах)"
+
+msgid "List name?"
+msgstr ""
+
+msgid "Low"
+msgstr "Бага"
+
+msgid "Lowest (smallest)"
+msgstr "Хамгийн бага (бага нь)"
+
+msgid "Make a list"
+msgstr ""
+
+msgid "Make a variable"
+msgstr "Хувьсагч сонгох"
+
+msgid "Max:"
+msgstr "Максимум:"
+
+msgid "meow"
+msgstr "мяу"
+
+msgid "Message name:"
+msgstr "Захидалын нэр:"
+
+msgid "Min:"
+msgstr "Минимум:"
+
+msgid "mod"
+msgstr "модуль"
+
+msgid "more"
+msgstr "дахиад"
+
+msgid "More tags:"
+msgstr "Бусад тэмдэглээ"
+
+msgid "mosaic"
+msgstr "хээ"
+
+msgid "mouse x:"
+msgstr "хулганы x:"
+
+msgid "mouse y:"
+msgstr "хулганы y:"
+
+msgid "mouse-pointer"
+msgstr "хулганы заагч"
+
+msgid "Move"
+msgstr "Зөөх"
+
+msgid "Music"
+msgstr "Хөгжим"
+
+msgid "My Projects"
+msgstr ""
+
+msgid "new"
+msgstr "шинэ"
+
+msgid "New"
+msgstr "Шинэ"
+
+msgid "New background:"
+msgstr "Шинэ дэвсгэр:"
+
+msgid "New costume:"
+msgstr "Шинэ өмсгөл"
+
+msgid "New file name?"
+msgstr ""
+
+msgid "New Filename:"
+msgstr "Файлын шинэ нэр: "
+
+msgid "New sound:"
+msgstr "Шинэ дуу:"
+
+msgid "New Sprite"
+msgstr "Шинэ дүрс"
+
+msgid "New sprite:"
+msgstr ""
+
+msgid "No"
+msgstr "Үгүй"
+
+msgid "No MIDI ports currently available."
+msgstr "Миди порт алга"
+
+msgid "No motion blocks"
+msgstr "Хөдлөхүйн блокууд алга"
+
+msgid "no scripts"
+msgstr ""
+
+msgid "No serial ports found"
+msgstr "Сериал порт олдсонгүй"
+
+msgid "No variables."
+msgstr "Хувьсагч алгаа"
+
+msgid "Normal"
+msgstr "Хэвийн"
+
+msgid "normal readout"
+msgstr "хэвийн уншилт"
+
+msgid "Off"
+msgstr "Салга"
+
+msgid "OK"
+msgstr "ОК"
+
+msgid "On"
+msgstr "Залга"
+
+msgid "only face left-right"
+msgstr "зөвхөн зүүн-баруун эргэ"
+
+msgid "Open"
+msgstr "Нээх"
+
+msgid "Open a Scratch project"
+msgstr "Муужгайн төсөл нээх"
+
+msgid "Open Project"
+msgstr "Төсөл нээх"
+
+msgid "or"
+msgstr "эсвэл"
+
+msgid "Paint"
+msgstr "Будах"
+
+msgid "Paint Editor"
+msgstr "Зурах засварлах"
+
+msgid "Paint new sprite"
+msgstr "Шинэ дүрс зурах"
+
+msgid "Paintbrush"
+msgstr "Бийр"
+
+msgid "Password:"
+msgstr "Нууц үг:"
+
+msgid "Percent? (100 gives original size)"
+msgstr "Хувь? (Ахны утга 100)"
+
+msgid "Pictures"
+msgstr "Зурагнууд"
+
+msgid "pixelate"
+msgstr "Цэгийг томсгох"
+
+msgid "play"
+msgstr "тогло"
+
+msgid "Please enter a number"
+msgstr "Тоо оруулна уу"
+
+msgid "pop"
+msgstr "поп"
+
+msgid "Position the cross-hair to set the rotation center"
+msgstr "Дүрсийн эргэлтийн төвийг сонгох огтлолцол"
+
+msgid "Preparing project..."
+msgstr "Төслийн бэлтгэл явагдаж байна ..."
+
+msgid "Project author:"
+msgstr "Төслийн зохиогч:"
+
+msgid "Project name"
+msgstr "Төслийн нэр"
+
+msgid "Project Notes"
+msgstr "Төслийн тухай санамж"
+
+msgid "Project notes"
+msgstr "Төслийн тухай санамж"
+
+msgid "Project uploaded."
+msgstr "Төсөл ачаалагдсан"
+
+msgid "Projects"
+msgstr "Төслүүд"
+
+msgid "Quit"
+msgstr "Гарах"
+
+msgid "Quit Scratch"
+msgstr "Муужгай-с гарах"
+
+msgid "Reading"
+msgstr ""
+
+msgid "record"
+msgstr "бичлэг"
+
+msgid "Record"
+msgstr "бичлэг"
+
+msgid "recording"
+msgstr "бичлэг хийж байна"
+
+msgid "Rectangle tool (draw outlined or filled rectangle or square)"
+msgstr "Тэгш өнцөг(Хүрээ ба будагдана)"
+
+msgid "Redo"
+msgstr "Цуцлах"
+
+msgid "Reference Guide"
+msgstr ""
+
+msgid "Remote sensor connections enabled"
+msgstr ""
+
+msgid "Remove viewer from stage"
+msgstr "Өсгөлтийг устга"
+
+msgid "resistance"
+msgstr "тогтворжилт"
+
+msgid "resize this sprite"
+msgstr ""
+
+msgid "reverse"
+msgstr ""
+
+msgid "right"
+msgstr "баруун"
+
+msgid "right arrow"
+msgstr "баруун сум"
+
+msgid "Rotate clock-wise"
+msgstr "Цагийн зүүг дагаж эргэх"
+
+msgid "Rotate counter-clock-wise"
+msgstr "Цагийн зүүний эсрэг эргэх"
+
+msgid "rotate this sprite"
+msgstr ""
+
+msgid "Rotation degrees?"
+msgstr "Эргэлтийн өнцөг"
+
+msgid "Save"
+msgstr "Хадгал"
+
+msgid "Save a copy of the current project"
+msgstr "Төслийнхөө хуулбарыг хадгал"
+
+msgid "Save As"
+msgstr "Яаж хадгалах?"
+
+msgid "Save changes before quitting?"
+msgstr ""
+
+msgid "Save failed"
+msgstr "Хадгалж чадсангүй"
+
+msgid "save picture of scripts"
+msgstr "Зохиомжийн зургийг хадгал"
+
+msgid "save picture of stage..."
+msgstr "үечилсэн зургийг хадгал..."
+
+msgid "Save Project"
+msgstr "Төслөө хадгал"
+
+msgid "Save Scripts Snapshot"
+msgstr "Дэлгэцийн зохиомжийг дүрсэд хадгал"
+
+msgid "Save Stage Shot"
+msgstr "Дэвсгэрийг дүрсэд хадгал"
+
+msgid "Save the current project"
+msgstr "Төслөө хадгал"
+
+msgid "Save the current project?"
+msgstr "Төслөө хадгалах уу?"
+
+msgid "Save this project"
+msgstr ""
+
+msgid "Scripts"
+msgstr "Зохиомж"
+
+msgid "select serial/USB port"
+msgstr "Сериал/usb -г сонго"
+
+msgid "Select tool (move, modify, or delete selection)"
+msgstr "Сонголт (сонгосоныг зөөвөрлөх, өөрчлөх, устгах)"
+
+msgid "Set costume center"
+msgstr ""
+
+msgid "Set language"
+msgstr ""
+
+msgid "Set rotation center"
+msgstr "Эргэлтийн төвийг тогтоох"
+
+msgid "Set Single Stepping"
+msgstr "нэгж алхалтыг тогтоох"
+
+msgid "set slider min and max"
+msgstr "хөшүүргийн максимум ба минимум хэмжээг тогтоох"
+
+msgid "Share"
+msgstr "Байршуулах"
+
+msgid "Share this project"
+msgstr ""
+
+msgid "Share This Project Online"
+msgstr "Сүлжээнд төслөө байршуулах"
+
+msgid "Show Motor Blocks"
+msgstr ""
+
+msgid "show ScratchBoard watcher"
+msgstr "show ScratchBoard watcher"
+
+msgid "Shrink"
+msgstr "Багасга"
+
+msgid "Shrink sprite"
+msgstr "Дүрсийг багасга"
+
+msgid "Simulation"
+msgstr ""
+
+msgid "Single-step speed?"
+msgstr "Нэг алхамын хурд"
+
+msgid "slider"
+msgstr "Хөшүүрэг"
+
+msgid "Slider range:"
+msgstr "Хөшүүргийн хэмжээ:"
+
+msgid "Sound quality:"
+msgstr "Дууны чанар:"
+
+msgid "Sound Recorder"
+msgstr "Дуу бичигч"
+
+msgid "Sounds"
+msgstr "Дуу чимээ"
+
+msgid "Sounds compressed"
+msgstr "Дууг шахсан"
+
+msgid "space"
+msgstr "спейс"
+
+msgid "Sprite"
+msgstr "Дүрс"
+
+msgid "Sprites"
+msgstr ""
+
+msgid "sqrt"
+msgstr "квадрат язгуур"
+
+msgid "Stage"
+msgstr "Тайз"
+
+msgid "Stage selected:"
+msgstr "Тайзыг сонгов:"
+
+msgid "Stamp tool (select area, then stamp copies of it)"
+msgstr "Дардас (сонгосон хэсгийн хуулбарыг үүсгэ)"
+
+msgid "Start green flag scripts"
+msgstr "Ногоон дарцаг дээр дарвал эхэлнэ"
+
+msgid "Start Single Stepping"
+msgstr "Алхмаар гүйцэтгэ"
+
+msgid "stop"
+msgstr "зогс"
+
+msgid "Stop everything"
+msgstr "Бүгд зогс"
+
+msgid "Stop Single Stepping"
+msgstr "Алхамыг зогсоо"
+
+msgid "Story"
+msgstr ""
+
+msgid "Support Site"
+msgstr ""
+
+msgid "Switch colors"
+msgstr "Өнгийг өөрчил"
+
+msgid "Switch to full stage"
+msgstr ""
+
+msgid "Switch to presentation mode"
+msgstr ""
+
+msgid "Switch to small stage"
+msgstr ""
+
+msgid "Tags:"
+msgstr "Тэмдэг:"
+
+msgid "Text tool (edit text layer)"
+msgstr "Текст (Бичих засварлах)"
+
+msgid "That variable name is already in use"
+msgstr ""
+
+msgid "that way"
+msgstr ""
+
+msgid "The file name already exists. Overwrite existing file?"
+msgstr ""
+
+msgid "thing"
+msgstr ""
+
+msgid "this way"
+msgstr ""
+
+msgid "tilt"
+msgstr ""
+
+msgid "true"
+msgstr "үнэн"
+
+msgid "Turbo speed"
+msgstr "Хурдасгах"
+
+msgid "turn into new sprite"
+msgstr "шинэ дүрс рүү шилжих"
+
+msgid "Undelete"
+msgstr ""
+
+msgid "Undo"
+msgstr "Сэргээх"
+
+msgid "up"
+msgstr "дээш"
+
+msgid "up arrow"
+msgstr "дээш сум"
+
+msgid "Updating thumbnails"
+msgstr ""
+
+msgid "Upload succeeded!"
+msgstr "Амжилттай ачааллаа!"
+
+msgid "Upload to Scratch Server"
+msgstr "Муужгайн серверт ачааллаа"
+
+msgid "Uploading"
+msgstr "Ачаалал"
+
+msgid "Variable name?"
+msgstr "Хувьсагчийн нэр?"
+
+msgid "View on stage"
+msgstr "Дэвсгэр харах"
+
+msgid "What's your name?"
+msgstr ""
+
+msgid "whirl"
+msgstr "мушгих"
+
+msgid "world"
+msgstr ""
+
+msgid "Write Multiple Project Summaries"
+msgstr "Хэд хэдэн төслийн тайлбар бичих"
+
+msgid "Write Project Summary"
+msgstr "төслийн агуулгыг бичих"
+
+msgid "Yes"
+msgstr "Тийм"
+
+msgid "Your project is now online at"
+msgstr "Таны төсөл сүлжээнд бүртгэгдсэн"
+
+msgid "Your Scratch website login name:"
+msgstr "Муужгайн сайтад таны нэр орсон байна:"
+
+msgid "Zoom in"
+msgstr "Өсгөн харах"
+
+msgid "Zoom out"
+msgstr "Багасган харах"
+
+############################################
+# MIDI INSTRUMENTS
+############################################
+
+msgid "Accordion"
+msgstr "Баян хуур"
+
+msgid "Acoustic Bass"
+msgstr "Банзан гитар"
+
+msgid "Acoustic Bass Drum"
+msgstr " Арьсан хэнгэрэг"
+
+msgid "Acoustic Grand"
+msgstr "Acoustic Grand"
+
+msgid "Acoustic Snare"
+msgstr "Acoustic Snare"
+
+msgid "Agogo"
+msgstr "Агого"
+
+msgid "Alto Sax"
+msgstr "Баргил бүрээ"
+
+msgid "Applause"
+msgstr "Алга ташилт"
+
+msgid "Bagpipe"
+msgstr "Ямаан бүрээ"
+
+msgid "Banjo"
+msgstr ""
+
+msgid "Baritone Sax"
+msgstr "Унзад бүрээ"
+
+msgid "Bass Drum 1"
+msgstr "Их хэнгэрэг 1"
+
+msgid "Bassoon"
+msgstr "Бишгүүр"
+
+msgid "Bird Tweet"
+msgstr "птичка Tweety "
+
+msgid "Blown Bottle"
+msgstr "Лонхны хүнгэнээ"
+
+msgid "Brass Section"
+msgstr "Медная духовая группа"
+
+msgid "Breath Noise"
+msgstr " Шум дыхания"
+
+msgid "Bright Acoustic"
+msgstr "Bright Acoustic"
+
+msgid "Cabasa"
+msgstr "Кабаса"
+
+msgid "Celesta"
+msgstr "Селеста"
+
+msgid "Cello"
+msgstr "Морин хуур"
+
+msgid "Chinese Cymbal"
+msgstr "Ёочин"
+
+msgid "Choir Aahs"
+msgstr "Найрал дуучдын аа"
+
+msgid "Church Organ"
+msgstr "Хийн орган"
+
+msgid "Clarinet"
+msgstr "Кларнет"
+
+msgid "Claves"
+msgstr "Клавесин"
+
+msgid "Clavinet"
+msgstr "Клавинет"
+
+msgid "Closed Hi-Hat"
+msgstr "Closed Hi-Hat"
+
+msgid "Contrabass"
+msgstr "Контрабас"
+
+msgid "Cowbell"
+msgstr "Хонх"
+
+msgid "Crash Cymbal 1"
+msgstr "Крэш-тарелка1"
+
+msgid "Crash Cymbal 2"
+msgstr "Крэш-тарелка 2"
+
+msgid "Distortion Guitar"
+msgstr "Гитарын чихараа"
+
+msgid "Drawbar Organ"
+msgstr "Орган"
+
+msgid "Dulcimer"
+msgstr "Цимбалы"
+
+msgid "Electric Bass (finger)"
+msgstr "Бас-гитар (цохилуурт)"
+
+msgid "Electric Bass (pick)"
+msgstr "Бас-гитар (медиатором)"
+
+msgid "Electric Clean Guitar"
+msgstr "Цахилгаан-гитар (соль)"
+
+msgid "Electric Grand"
+msgstr "Цахилгаан-гитар"
+
+msgid "Electric Jazz Guitar"
+msgstr "Жаз-гитар"
+
+msgid "Electric Muted Guitar"
+msgstr "Намдуу цахилгаан гитар"
+
+msgid "Electric Piano 1"
+msgstr "Цахилгаан төгөлдөр хуур"
+
+msgid "Electric Piano 2"
+msgstr "Цахилгаан төгөлдөр хуур"
+
+msgid "Electric Snare"
+msgstr "Электрон бөмбөр"
+
+msgid "English Horn"
+msgstr "Англи ямаан бүрээ"
+
+msgid "FX 1 (rain)"
+msgstr "FX 1 (бороо)"
+
+msgid "FX 2 (soundtrack)"
+msgstr "FX 2 (саундтрек)"
+
+msgid "FX 3 (crystal)"
+msgstr "FX 3 (кристал)"
+
+msgid "FX 4 (atmosphere)"
+msgstr "FX 4 (атмосфера)"
+
+msgid "FX 5 (brightness)"
+msgstr "FX 5 (гялбаа)"
+
+msgid "FX 6 (goblins)"
+msgstr "FX 6 (сүгнүүд)"
+
+msgid "FX 7 (echoes)"
+msgstr "FX 7 (цуурай)"
+
+msgid "FX 8 (sci-fi)"
+msgstr "FX 8 (ШУ-ны зөгнөл)"
+
+msgid "Fiddle"
+msgstr "Гудамжны хийл"
+
+msgid "Flute"
+msgstr "Лимбэ"
+
+msgid "French Horn"
+msgstr "Франц ямаан бүрээ"
+
+msgid "Fretless Bass"
+msgstr "Бас-гитара "
+
+msgid "Glockenspiel"
+msgstr "Хонх"
+
+msgid "Guitar Fret Noise"
+msgstr "Гитарын чимээ"
+
+msgid "Guitar Harmonics"
+msgstr "Гитарын хөг аялгуу"
+
+msgid "Gunshot"
+msgstr "Буун дуу"
+
+msgid "Hand Clap"
+msgstr "Алга хавсрах дуу"
+
+msgid "Harmonica"
+msgstr "Хөг аялгуу"
+
+msgid "Harpsichord"
+msgstr "Дарвуулт хөгжим"
+
+msgid "Helicopter"
+msgstr "Нисдэг тэрэг"
+
+msgid "Hi Bongo"
+msgstr "Hi бонго"
+
+msgid "Hi Wood Block"
+msgstr "Hi Wood Block"
+
+msgid "Hi-Mid Tom"
+msgstr "Hi-Mid Tom"
+
+msgid "High Agogo"
+msgstr "High Agogo"
+
+msgid "High Floor Tom"
+msgstr "Хэт өндөр шалны Том"
+
+msgid "High Timbale"
+msgstr "Өндөр Тимбал"
+
+msgid "High Tom"
+msgstr "Өндөр Том"
+
+msgid "Honky-Tonk"
+msgstr "Honky-Tonk"
+
+msgid "Kalimba"
+msgstr "Kalimba"
+
+msgid "Koto"
+msgstr "Koto"
+
+msgid "Lead 1 (square)"
+msgstr "Lead 1 (square)"
+
+msgid "Lead 2 (sawtooth)"
+msgstr "Lead 2 (sawtooth)"
+
+msgid "Lead 3 (calliope)"
+msgstr "Lead 3 (calliope)"
+
+msgid "Lead 4 (chiff)"
+msgstr "Lead 4 (chiff)"
+
+msgid "Lead 5 (charang)"
+msgstr "Lead 5 (charang)"
+
+msgid "Lead 6 (voice)"
+msgstr "Lead 6 (voice)"
+
+msgid "Lead 7 (fifths)"
+msgstr "Lead 7 (voice)"
+
+msgid "Lead 8 (bass+lead)"
+msgstr "Lead 8 (bass+lead)"
+
+msgid "Long Guiro"
+msgstr "Урт гуиро"
+
+msgid "Long Whistle"
+msgstr "Урт шүгэлдэлт "
+
+msgid "Low Agogo"
+msgstr "Нам агого"
+
+msgid "Low Bongo"
+msgstr "Нам бонго"
+
+msgid "Low Conga"
+msgstr "Нам конга "
+
+msgid "Low Floor Tom"
+msgstr "Нам шалны Том"
+
+msgid "Low Timbale"
+msgstr "Нам тимбал"
+
+msgid "Low Tom"
+msgstr "Нам томтом"
+
+msgid "Low Wood Block"
+msgstr "Low Wood Block"
+
+msgid "Low-Mid Tom"
+msgstr "Нам-дунд Том"
+
+msgid "Maracas"
+msgstr "Маракас"
+
+msgid "Marimba"
+msgstr "Маримба"
+
+msgid "Melodic Tom"
+msgstr "Аялгуут Том"
+
+msgid "Music Box"
+msgstr "Хөгжмийн хайрцаг"
+
+msgid "Mute Cuica"
+msgstr "Намдуу куик"
+
+msgid "Mute Hi Conga"
+msgstr "Mute Hi Conga"
+
+msgid "Mute Triangle"
+msgstr "Mute Triangle"
+
+msgid "Muted Trumpet"
+msgstr "Muted Trumpet"
+
+msgid "Nylon String Guitar"
+msgstr "Сатуркан Гитар)"
+
+msgid "Oboe"
+msgstr "Гобой"
+
+msgid "Ocarina"
+msgstr "Окарина "
+
+msgid "Open Cuica"
+msgstr "Нээлттэй куика"
+
+msgid "Open Hi Conga"
+msgstr "Нээлттэй конга"
+
+msgid "Open Hi-Hat"
+msgstr "Open Hi-Hat"
+
+msgid "Open Triangle"
+msgstr "Задгай гурвалжин"
+
+msgid "Orchestra Hit"
+msgstr "Найрал хөгжим"
+
+msgid "Orchestral Strings"
+msgstr "Үндэсний чуулга"
+
+msgid "Overdriven Guitar"
+msgstr "Гитарын хашсан аялгуу"
+
+msgid "Pad 1 (new age)"
+msgstr "Синтезатор (нью-эйж)"
+
+msgid "Pad 2 (warm)"
+msgstr "Синтезатор 2  (Дулаан)"
+
+msgid "Pad 3 (polysynth)"
+msgstr "Синтезатор 3 (Полисинтезатор)"
+
+msgid "Pad 4 (choir)"
+msgstr "Синтезатор 4 (хорын)"
+
+msgid "Pad 5 (bowed)"
+msgstr "Синтезатор 5 (хийлийн)"
+
+msgid "Pad 6 (metallic)"
+msgstr "Синтезатор 6 (металл)"
+
+msgid "Pad 7 (halo)"
+msgstr "Синтезатор 7 (ореол)"
+
+msgid "Pad 8 (sweep)"
+msgstr "Синтезатор дуу 8 (Гунших дуу)"
+
+msgid "Pan Flute"
+msgstr "Лимбэ Пан"
+
+msgid "Pedal Hi-Hat"
+msgstr "Хэт (гишгүүрт) "
+
+msgid "Percussive Organ"
+msgstr "Цохилтод орган"
+
+msgid "Piccolo"
+msgstr "Лимбэ пикколо"
+
+msgid "Pizzicato Strings"
+msgstr "Утсан пиццикато"
+
+msgid "Recorder"
+msgstr "Блок лимбэ"
+
+msgid "Reed Organ"
+msgstr "Аман хуур"
+
+msgid "Reverse Cymbal"
+msgstr "Reverse Cymbal"
+
+msgid "Ride Bell"
+msgstr "Таваг өнхрөх дуу"
+
+msgid "Ride Cymbal 1"
+msgstr "Райд-тарелка 1"
+
+msgid "Ride Cymbal 2"
+msgstr "Райд-тарелка 2"
+
+msgid "Rock Organ"
+msgstr "Рок-орган"
+
+msgid "Seashore"
+msgstr "Далайн эрэг"
+
+msgid "Shakuhachi"
+msgstr ""
+
+msgid "Shamisen"
+msgstr "Шамисен"
+
+msgid "Shanai"
+msgstr "Санаи"
+
+msgid "Short Guiro"
+msgstr "Богино гуиро"
+
+msgid "Short Whistle"
+msgstr "Богино исгэрэлт"
+
+msgid "Side Stick"
+msgstr "Side Stick"
+
+msgid "Sitar"
+msgstr "Ситар"
+
+msgid "Slap Bass 1"
+msgstr "Слэп  1"
+
+msgid "Slap Bass 2"
+msgstr "Слэп  2"
+
+msgid "Soprano Sax"
+msgstr "Шингэн Sax"
+
+msgid "Splash Cymbal"
+msgstr "Splash Cymbal"
+
+msgid "Steel Drums"
+msgstr "Steel Drums"
+
+msgid "Steel String Guitar"
+msgstr "Steel String Guitar"
+
+msgid "String Ensemble 1"
+msgstr "Утсан   1"
+
+msgid "String Ensemble 2"
+msgstr "Утсан  2"
+
+msgid "Synth Bass 1"
+msgstr "Синтез бас 1"
+
+msgid "Synth Bass 2"
+msgstr "Синтез бас 2"
+
+msgid "Synth Drum"
+msgstr "Синтез бөмбөр"
+
+msgid "Synth Voice"
+msgstr "Робот хоолой"
+
+msgid "SynthBrass 1"
+msgstr "SynthBrass 1"
+
+msgid "SynthBrass 2"
+msgstr "SynthBrass 2"
+
+msgid "SynthStrings 1"
+msgstr "SynthStrings 1"
+
+msgid "SynthStrings 2"
+msgstr "SynthStrings 2"
+
+msgid "Taiko Drum"
+msgstr "Таико"
+
+msgid "Tambourine"
+msgstr "Тамбурин"
+
+msgid "Tango Accordion"
+msgstr "Танго Аккодеон"
+
+msgid "Telephone Ring"
+msgstr "Телефон хонх"
+
+msgid "Tenor Sax"
+msgstr "Эр Саксофон"
+
+msgid "Timpani"
+msgstr "Тифани"
+
+msgid "Tinkle Bell"
+msgstr "Хонхны жингэнээ"
+
+msgid "Tremolo Strings"
+msgstr "Тремоль утсан хөгжим "
+
+msgid "Trombone"
+msgstr "Тромбон"
+
+msgid "Trumpet"
+msgstr "Труба"
+
+msgid "Tuba"
+msgstr "Туба"
+
+msgid "Tubular Bells"
+msgstr "Tubular Bells"
+
+msgid "Vibraphone"
+msgstr "Вибрафон"
+
+msgid "Vibraslap"
+msgstr "Вибро слэп"
+
+msgid "Viola"
+msgstr "Виола"
+
+msgid "Violin"
+msgstr "Хийл"
+
+msgid "Voice Oohs"
+msgstr "Хоолойн о"
+
+msgid "Whistle"
+msgstr "Шүгэл"
+
+msgid "Woodblock"
+msgstr "Модон кам"
+
+msgid "Xylophone"
+msgstr "Ялтсан хуур"
+

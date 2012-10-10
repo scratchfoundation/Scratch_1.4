@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Scratch
+Comment= Programming system and content development tool
+Exec=scratch
+Terminal=false
+Type=Application
+Icon=scratch
+Categories=Development;
+MimeType=application/x-scratch-project

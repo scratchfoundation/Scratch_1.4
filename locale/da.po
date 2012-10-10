@@ -1,0 +1,1921 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2009-06-10 11:43-0400\n"
+"Last-Translator: Barry N.C. Neville <barry@neville.dk>\n"
+"Language-Team: None\n"
+"Language: da\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 1.2.0\n"
+
+############################################
+# FORMATTING
+############################################
+
+# Language name as you'd like it to appear in the Languages menu
+# (Required)
+msgid "Language-Name"
+msgstr "Dansk "
+
+# Directionality of language
+# LTR = Left to Right
+# RTL = Right to Left
+msgid "Language-Direction"
+msgstr "LTR"
+
+# Scale to apply to font size (2 for twice as large)
+# Use this if the font is too small for legibility on the Scratch interface
+msgid "Font-Scale"
+msgstr "1"
+
+# Set to 'true' or 'false'
+# Use this if you do not want any of the text to be bolded, for legibility
+msgid "Suppress-Bold"
+msgstr "false"
+
+# Font to use on a Windows system
+msgid "Win-Font"
+msgstr ""
+
+# Font to use on a Mac system
+msgid "Mac-Font"
+msgstr ""
+
+# Font to use on a Linux system
+msgid "Linux-Font"
+msgstr ""
+
+############################################
+# BLOCKS
+############################################
+
+msgid "%H sensor value"
+msgstr "værdien af sensor %H"
+
+msgid "%L contains %s"
+msgstr "%L indeholder %s"
+
+msgid "%a of %m"
+msgstr "%a af %m"
+
+msgid "%b and %b"
+msgstr "%b og %b"
+
+msgid "%b or %b"
+msgstr "%b eller %b"
+
+msgid "%f of %n"
+msgstr "%f af %n"
+
+msgid "%n mod %n"
+msgstr "%n modulus %n"
+
+msgid "add %s to %L"
+msgstr "tilføj %s til %L"
+
+msgid "answer"
+msgstr "svar"
+
+msgid "ask %s and wait"
+msgstr "bed om %s og vent"
+
+msgid "background #"
+msgstr "baggrund nr."
+
+msgid "broadcast %e"
+msgstr "send %e til alle"
+
+msgid "broadcast %e and wait"
+msgstr "send %e til alle og vent"
+
+msgid "change %g effect by %n"
+msgstr "ændr effekten %g med %n"
+
+msgid "change %v by %n"
+msgstr "ændr %v med %n"
+
+msgid "change pen color by %n"
+msgstr "ændr penfarve med %n"
+
+msgid "change pen shade by %n"
+msgstr "ændr penintensitet med %n"
+
+msgid "change pen size by %n"
+msgstr "ændr penstørrelse med %n"
+
+msgid "change size by %n"
+msgstr "ændr størrelsen med %n"
+
+msgid "change tempo by %n"
+msgstr "ændr tempo med %n"
+
+msgid "change volume by %n"
+msgstr "ændr lydstyrke med %n"
+
+msgid "change x by %n"
+msgstr "ændr x med %n"
+
+msgid "change y by %n"
+msgstr "ændr y med %n"
+
+msgid "clear"
+msgstr "ryd"
+
+msgid "clear graphic effects"
+msgstr "fjern grafiske effekter"
+
+msgid "color %C is touching %C?"
+msgstr "berører %C farven %C?"
+
+msgid "control"
+msgstr "styring"
+
+msgid "costume #"
+msgstr "udtryk nr."
+
+msgid "delete %y of %L"
+msgstr "slet %y fra %L"
+
+msgid "direction"
+msgstr "retning"
+
+msgid "distance to %m"
+msgstr "afstand til %m"
+
+msgid "else"
+msgstr "ellers"
+
+msgid "forever"
+msgstr "for evigt"
+
+msgid "forever if %b"
+msgstr "for evigt hvis %b"
+
+msgid "glide %n secs to x:%n y:%n"
+msgstr "glid i %n sek. til x:%n y:%n"
+
+msgid "go back %n layers"
+msgstr "gå %n lag tilbage"
+
+msgid "go to %m"
+msgstr "gå til %m"
+
+msgid "go to front"
+msgstr "kom ind foran"
+
+msgid "go to x:%n y:%n"
+msgstr "gå til x:%n y:%n"
+
+msgid "hide"
+msgstr "skjul"
+
+msgid "hide variable %v"
+msgstr "skjul variabel %v"
+
+msgid "if %b"
+msgstr "hvis %b"
+
+msgid "if on edge, bounce"
+msgstr "hop tilbage ved kanten"
+
+msgid "insert %s at %i of %L"
+msgstr "indsæt %s ved %i plads i %L"
+
+msgid "item %i of %L"
+msgstr "punkt %i på %L"
+
+msgid "join %s %s"
+msgstr "%s tilkobles %s"
+
+msgid "key %k pressed?"
+msgstr "trykket på tasten %k?"
+
+msgid "length of %L"
+msgstr "længden af %L"
+
+msgid "length of %s"
+msgstr "%s længde"
+
+msgid "letter %n of %s"
+msgstr "bogstav %n af %s"
+
+msgid "list"
+msgstr "liste"
+
+msgid "looks"
+msgstr "udseende"
+
+msgid "loud?"
+msgstr "høj lyd?"
+
+msgid "loudness"
+msgstr "lydniveau"
+
+msgid "motion"
+msgstr "bevægelse"
+
+msgid "motor direction %W"
+msgstr "motorretning %W"
+
+msgid "motor off"
+msgstr "sluk motoren"
+
+msgid "motor on"
+msgstr "start motoren"
+
+msgid "motor on for %n secs"
+msgstr "kør motoren i %n sek."
+
+msgid "motor power %n"
+msgstr "motorkraft %n"
+
+msgid "mouse down?"
+msgstr "trykket på musen?"
+
+msgid "mouse x"
+msgstr "musens x-position"
+
+msgid "mouse y"
+msgstr "musens y-position"
+
+msgid "move %n steps"
+msgstr "gå %n trin"
+
+msgid "next background"
+msgstr "næste baggrund"
+
+msgid "next costume"
+msgstr "næste udtryk"
+
+msgid "not %b"
+msgstr "ikke %b"
+
+msgid "operators"
+msgstr "operatorer"
+
+msgid "pen"
+msgstr "pen"
+
+msgid "pen down"
+msgstr "sæt pennen ned"
+
+msgid "pen up"
+msgstr "tag pennen op"
+
+msgid "pick random %n to %n"
+msgstr "vælg tilfældigt mellem %n og %n"
+
+msgid "play drum %D for %n beats"
+msgstr "spil tromme %D i %n slag"
+
+msgid "play note %N for %n beats"
+msgstr "spil tone %N i %n slag"
+
+msgid "play sound %S"
+msgstr "spil lyden %S"
+
+msgid "play sound %S until done"
+msgstr "spil lyden %S indtil færdig"
+
+msgid "point in direction %d"
+msgstr "peg i retning %d"
+
+msgid "point towards %m"
+msgstr "peg mod %m"
+
+msgid "repeat %n"
+msgstr "gentag %n gange"
+
+msgid "repeat until %b"
+msgstr "gentag indtil %b"
+
+msgid "replace item %i of %L with %s"
+msgstr "erstat %i fra %L med %s"
+
+msgid "reset timer"
+msgstr "nulstil stopuret"
+
+msgid "rest for %n beats"
+msgstr "pause i %n slag"
+
+msgid "round %n"
+msgstr "afrund %n"
+
+msgid "say %s"
+msgstr "sig %s"
+
+msgid "say %s for %n secs"
+msgstr "sig %s i %n sekunder"
+
+msgid "sensing"
+msgstr "sansning"
+
+msgid "sensor %h?"
+msgstr "sensor %h?"
+
+msgid "set %g effect to %n"
+msgstr "sæt effekten %g til %n"
+
+msgid "set %v to %n"
+msgstr "sæt %v til %n"
+
+msgid "set instrument to %I"
+msgstr "skift instrument til %I"
+
+msgid "set pen color to %c"
+msgstr "skift penfarve til %c"
+
+msgid "set pen color to %n"
+msgstr "skift penfarve til %n"
+
+msgid "set pen shade to %n"
+msgstr "skift penintensitet til %n"
+
+msgid "set pen size to %n"
+msgstr "skift penstørrelse til %n"
+
+msgid "set size to %n%"
+msgstr "sæt størrelsen til %n%"
+
+msgid "set tempo to %n bpm"
+msgstr "sæt tempo til %n slag/min."
+
+msgid "set volume to %n%"
+msgstr "sæt lydstyrke til %n%"
+
+msgid "set x to %n"
+msgstr "sæt x til %n"
+
+msgid "set y to %n"
+msgstr "sæt y til %n"
+
+msgid "show"
+msgstr "vis"
+
+msgid "show variable %v"
+msgstr "vis variabel %v"
+
+msgid "size"
+msgstr "størrelse"
+
+msgid "sound"
+msgstr "lyd"
+
+msgid "stamp"
+msgstr "sæt som stempel"
+
+msgid "stop all"
+msgstr "stop alle"
+
+msgid "stop all sounds"
+msgstr "stop al lyd"
+
+msgid "stop script"
+msgstr "stop scriptet"
+
+msgid "switch to background %l"
+msgstr "skift til baggrund %l"
+
+msgid "switch to costume %l"
+msgstr "skift til udtryk %l"
+
+msgid "tempo"
+msgstr "tempo"
+
+msgid "think %s"
+msgstr "tænk %s"
+
+msgid "think %s for %n secs"
+msgstr "tænk %s i %n sekunder"
+
+msgid "timer"
+msgstr "stopur"
+
+msgid "touching %m?"
+msgstr "berører %m?"
+
+msgid "touching color %C?"
+msgstr "berører farven %C?"
+
+msgid "turn %n degrees"
+msgstr "drej %n grader"
+
+msgid "variables"
+msgstr "variabler"
+
+msgid "volume"
+msgstr "lydstyrke"
+
+msgid "wait %n secs"
+msgstr "vent %n sekunder"
+
+msgid "wait until %b"
+msgstr "vent indtil %b"
+
+msgid "when %k key pressed"
+msgstr "når du trykker på %k"
+
+msgid "when %m clicked"
+msgstr "når du klikker på %m"
+
+msgid "when I receive %e"
+msgstr "når jeg modtager %e"
+
+msgid "x position"
+msgstr "x-position"
+
+msgid "y position"
+msgstr "y-position"
+
+############################################
+# USER INTERFACE
+############################################
+
+msgid "(empty)"
+msgstr "(tom)"
+
+msgid "1 script"
+msgstr "1 script"
+
+msgid "About Scratch"
+msgstr "Om Scratch"
+
+msgid "About this project:"
+msgstr "Om dette projekt:"
+
+msgid "abs"
+msgstr "abs"
+
+msgid "add comment"
+msgstr "tilføj kommentar"
+
+msgid "add comment here"
+msgstr "tilføj kommentar her"
+
+msgid "all"
+msgstr "alle"
+
+msgid "and"
+msgstr "og"
+
+msgid "Animation"
+msgstr "Animation"
+
+msgid "any"
+msgstr "vilkårlig"
+
+msgid "Art"
+msgstr "Illustrationer"
+
+msgid "background"
+msgstr "baggrund"
+
+msgid "backgrounds"
+msgstr "baggrunde"
+
+msgid "Backgrounds"
+msgstr "baggrunde"
+
+msgid "brightness"
+msgstr "klarhed"
+
+msgid "Brush size: "
+msgstr "penselstørrelse: "
+
+msgid "button"
+msgstr "knap"
+
+msgid "button pressed"
+msgstr "trykket på knappen"
+
+msgid "Camera"
+msgstr "Kamera"
+
+msgid "can rotate"
+msgstr "kan rotere"
+
+msgid "cancel"
+msgstr "annuller"
+
+msgid "Cancel"
+msgstr "Annuller"
+
+msgid "Choose a folder"
+msgstr "Vælg en mappe"
+
+msgid "Choose new sprite from file"
+msgstr "Vælg ny sprite fra fil"
+
+msgid "clean up"
+msgstr "ryd op"
+
+msgid "Clear"
+msgstr "Ryd"
+
+msgid "Clear canvas"
+msgstr "Ryd lærredet"
+
+msgid "Close and continue"
+msgstr "Luk og fortsæt"
+
+msgid "Close dialog?"
+msgstr "Luk dialogen?"
+
+msgid "Close paint editor?"
+msgstr "Luk billededitoren?"
+
+msgid "close port"
+msgstr "luk porten"
+
+msgid "Close sound recorder?"
+msgstr "Luk lydoptageren?"
+
+msgid "color"
+msgstr "farve"
+
+msgid "Compress Images"
+msgstr "komprimer billeder"
+
+msgid "Compress Sounds"
+msgstr "komprimer lyd"
+
+msgid "Compress sounds and images"
+msgstr "komprimer lyd og billeder"
+
+msgid "Computer"
+msgstr "Denne computer"
+
+msgid "connected"
+msgstr "tilsluttet"
+
+msgid "Connecting to "
+msgstr "Kobling til"
+
+msgid "Copy"
+msgstr "Kopier"
+
+msgid "costume"
+msgstr "udtryk"
+
+msgid "costumes"
+msgstr "udtryk"
+
+msgid "Costumes"
+msgstr "udtryk"
+
+msgid "Could not read"
+msgstr "Kunne ikke læse"
+
+msgid "Could not read project; file may be damaged"
+msgstr "Kunne ikke læse projektet; filen er måske beskadiget"
+
+msgid "Could not write file"
+msgstr "Kunne ikke skrive filen"
+
+msgid "Create account"
+msgstr "Opret konto"
+
+msgid "Create an empty project"
+msgstr "Opret et tomt projekt"
+
+msgid "Data sent. Waiting for response..."
+msgstr "Data sendt.  Venter på svar..."
+
+msgid "delete"
+msgstr "slet"
+
+msgid "Delete"
+msgstr "Slet"
+
+msgid "Delete a list"
+msgstr "Slet en liste"
+
+msgid "Delete a variable"
+msgstr "Slet en variabel"
+
+msgid "Delete this background"
+msgstr "Slet baggrunden"
+
+msgid "Delete this costume"
+msgstr "Slet dette udtryk"
+
+msgid "Delete this sound"
+msgstr "Slet denne lyd"
+
+msgid "Delete this sprite"
+msgstr "Slet spriten"
+
+msgid "Desktop"
+msgstr "Skrivebord"
+
+msgid "disable remote sensor connections"
+msgstr "frakobling af fjernsensorerne"
+
+msgid "distance"
+msgstr "afstand"
+
+msgid "Documents"
+msgstr "Dokumenter"
+
+msgid "don't rotate"
+msgstr "roter ikke"
+
+msgid "Don't Save"
+msgstr "Gem ikke"
+
+msgid "Done"
+msgstr "Færdig"
+
+msgid "down"
+msgstr "ned"
+
+msgid "down arrow"
+msgstr "pil nedad"
+
+msgid "drag to resize"
+msgstr "træk for at ændre størrelse"
+
+msgid "drag to rotate"
+msgstr "træk for at rotere"
+
+msgid "draggable on website?"
+msgstr "trækbar på websiden?"
+
+msgid "duplicate"
+msgstr "mangfoldiggør"
+
+msgid "Duplicate"
+msgstr "mangfoldiggør"
+
+msgid "edge"
+msgstr "kant"
+
+msgid "Edit"
+msgstr "Editer"
+
+msgid "Ellipse tool (draw outlined or filled ellipse or circle)"
+msgstr "Ellipseværktøj (tegn ellipse eller cirkel)"
+
+msgid "enable remote sensor connections"
+msgstr "aktivér forbindelser til fjernføler"
+
+msgid "Enter presentation mode"
+msgstr "Skift til fuld skærm"
+
+msgid "Eraser"
+msgstr "Viskelæder"
+
+msgid "Eraser size"
+msgstr "Viskelæderstørrelsen"
+
+msgid "Error!"
+msgstr "Fejl!"
+
+msgid "Examples"
+msgstr "Eksempler"
+
+msgid "Exit presentation"
+msgstr "Forlad fuld skærm"
+
+msgid "Exit presentation mode"
+msgstr "forlad fuld skærm"
+
+msgid "export"
+msgstr "eksporter"
+
+msgid "Export Background"
+msgstr "Eksporter baggrund"
+
+msgid "Export Costume"
+msgstr "Eksporter udtryk"
+
+msgid "Export failed"
+msgstr "Eksport mislykkedes"
+
+msgid "Export Sound"
+msgstr "Eksporter lyd"
+
+msgid "Export Sprite"
+msgstr "eksporter Sprite"
+
+msgid "export this costume"
+msgstr "eksporter dette udtryk"
+
+msgid "export this sound"
+msgstr "eksporter denne lyd"
+
+msgid "export this sprite"
+msgstr "eksporter denne sprite"
+
+msgid "Extras menu"
+msgstr "Ekstramenu"
+
+msgid "Eyedropper tool (select a color)"
+msgstr "Øjendråbeværktøj (vælg farve)"
+
+msgid "Failed:"
+msgstr "Mislykkedes:"
+
+msgid "false"
+msgstr "falsk"
+
+msgid "File"
+msgstr "Fil"
+
+msgid "File not found"
+msgstr "Filen fandtes ikke"
+
+msgid "Fill tool (fill areas with color or gradient)"
+msgstr "Fyldeværktøj (fyld arealer med farver eller graduering)"
+
+msgid "first"
+msgstr "første"
+
+msgid "fisheye"
+msgstr "fiskeøje"
+
+msgid "Flash blocks (fast)"
+msgstr "Flash blocks (hurtige)"
+
+msgid "Flash blocks (slow)"
+msgstr "Flash blocks (langsomme)"
+
+msgid "Flip horizontally"
+msgstr "Vend horisontalt"
+
+msgid "Flip vertically"
+msgstr "Vend vertikalt"
+
+msgid "For all sprites"
+msgstr "For alle sprites"
+
+msgid "For this sprite only"
+msgstr "Kun for denne sprite"
+
+msgid "Game"
+msgstr "Spil"
+
+msgid "Get surprise sprite"
+msgstr "Få en overraskelses-sprite"
+
+msgid "Get the last thing deleted"
+msgstr "Slet den sidste ting"
+
+msgid "Getting Started"
+msgstr "Kom godt i gang"
+
+msgid "ghost"
+msgstr "spøgelse"
+
+msgid "Go To Scratch Website"
+msgstr "Gå til Scratch-websiden"
+
+msgid "grab screen region for new costume"
+msgstr "grib skærmregion til et nyt udtryk"
+
+msgid "grab screen region for new sprite"
+msgstr "grib skærmregion til en ny sprite"
+
+msgid "Grow"
+msgstr "Forstør"
+
+msgid "Grow sprite"
+msgstr "forstør spriten"
+
+msgid "hello "
+msgstr "hej"
+
+msgid "Hello!"
+msgstr "Hej!"
+
+msgid "help"
+msgstr "hjælp"
+
+msgid "Help"
+msgstr "hjælp"
+
+msgid "Help Page"
+msgstr "Hjælpeside"
+
+msgid "Help Screens"
+msgstr "Hjælpeskærme"
+
+msgid "Hide Motor Blocks"
+msgstr "Skjul motorklodser"
+
+msgid "High (biggest)"
+msgstr "Høj (størst)"
+
+msgid "Hmm..."
+msgstr "Hmm..."
+
+msgid "Home"
+msgstr "Hos mig"
+
+msgid "Images compressed"
+msgstr "Billederne komprimeret"
+
+msgid "import"
+msgstr "importer"
+
+msgid "Import"
+msgstr "Importer"
+
+msgid "Import an image on top of your current canvas"
+msgstr "Importer billede ovenpå nuværende lærred"
+
+msgid "Import Background"
+msgstr "Importer baggrund"
+
+msgid "Import Costume"
+msgstr "Importer udtryk"
+
+msgid "Import Image"
+msgstr "Importer billede"
+
+msgid "Import List"
+msgstr "Importer listen"
+
+msgid "Import Project"
+msgstr "Importer projekt"
+
+msgid "import project"
+msgstr "importer projekt"
+
+msgid "Import Sound"
+msgstr "Importer lyd"
+
+msgid "Incompatible Scratch file format"
+msgstr "Inkompatibelt Scratch-filformat"
+
+msgid "Is the folder read-only?"
+msgstr "Er mappen kun læsbar"
+
+msgid "JPEG Quality (10-100)?"
+msgstr "JPEG kvalitet (10-100)"
+
+msgid "kbytes"
+msgstr "kbytes"
+
+msgid "Language"
+msgstr "sprog"
+
+msgid "large readout"
+msgstr "Stort display"
+
+msgid "last"
+msgstr "sidste"
+
+msgid "left"
+msgstr "venstre"
+
+msgid "left arrow"
+msgstr "venstrepil"
+
+msgid "length"
+msgstr "længde"
+
+msgid "light"
+msgstr "lys"
+
+msgid "Line tool (draw lines)"
+msgstr "Linjeværktøj"
+
+msgid "List name?"
+msgstr "Hvad vil du kalde listen?"
+
+msgid "Low"
+msgstr "Lav"
+
+msgid "Lowest (smallest)"
+msgstr "Lavest (mindst)"
+
+msgid "Make a list"
+msgstr "Lav en ny liste"
+
+msgid "Make a variable"
+msgstr "Lav en ny variabel"
+
+msgid "Max:"
+msgstr "Maks.:"
+
+msgid "meow"
+msgstr "mjav"
+
+msgid "Message name:"
+msgstr "Meddelelsenavn:"
+
+msgid "Min:"
+msgstr "Min.:"
+
+msgid "mod"
+msgstr "modulus"
+
+msgid "more"
+msgstr "flere"
+
+msgid "More tags:"
+msgstr "Flere nøgleord:"
+
+msgid "mosaic"
+msgstr "mosaik"
+
+msgid "mouse x:"
+msgstr "mus x:"
+
+msgid "mouse y:"
+msgstr "mus y:"
+
+msgid "mouse-pointer"
+msgstr "musepil"
+
+msgid "Move"
+msgstr "flyt"
+
+msgid "Music"
+msgstr "Musik"
+
+msgid "My Projects"
+msgstr "Mine projekter"
+
+msgid "new"
+msgstr "ny"
+
+msgid "New"
+msgstr "ny"
+
+msgid "New background:"
+msgstr "Ny baggrund:"
+
+msgid "New costume:"
+msgstr "Nyt udtryk:"
+
+msgid "New file name?"
+msgstr ""
+
+msgid "New Filename:"
+msgstr "Nyt filnavn:"
+
+msgid "New sound:"
+msgstr "Ny lyd:"
+
+msgid "New Sprite"
+msgstr "Ny sprite"
+
+msgid "New sprite:"
+msgstr "Ny sprite"
+
+msgid "No"
+msgstr "Nej"
+
+msgid "No MIDI ports currently available."
+msgstr "Ingen MIDIport tilgængelig."
+
+msgid "No motion blocks"
+msgstr "Ingen bevægelsesklodser"
+
+msgid "no scripts"
+msgstr "ingen scripts"
+
+msgid "No serial ports found"
+msgstr "Ingen serieport tilgængelig."
+
+msgid "No variables."
+msgstr "Ingen variabler"
+
+msgid "Normal"
+msgstr "Normal"
+
+msgid "normal readout"
+msgstr "normal fremvisning"
+
+msgid "Off"
+msgstr "Slukket"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "On"
+msgstr "Tændt"
+
+msgid "only face left-right"
+msgstr "kun imod venstre eller højre"
+
+msgid "Open"
+msgstr "åbn"
+
+msgid "Open a Scratch project"
+msgstr "Åbn et Scratch projekt"
+
+msgid "Open Project"
+msgstr "Åbn projectet"
+
+msgid "or"
+msgstr "eller"
+
+msgid "Paint"
+msgstr "Mal"
+
+msgid "Paint Editor"
+msgstr "Billededitor"
+
+msgid "Paint new sprite"
+msgstr "Mal en ny sprite"
+
+msgid "Paintbrush"
+msgstr "Malerpensel"
+
+msgid "Password:"
+msgstr "Adgangskode:"
+
+msgid "Percent? (100 gives original size)"
+msgstr "Procent? (100 giver oprindelig størrelse)"
+
+msgid "Pictures"
+msgstr "Billeder"
+
+msgid "pixelate"
+msgstr "pixeler"
+
+msgid "play"
+msgstr "afspil"
+
+msgid "Please enter a number"
+msgstr "Angiv et nummer"
+
+msgid "pop"
+msgstr "knald"
+
+msgid "Position the cross-hair to set the rotation center"
+msgstr "Sæt trådkors til drejepunktet"
+
+msgid "Preparing project..."
+msgstr "Forbereder projectet..."
+
+msgid "Project author:"
+msgstr "Projektforfatter:"
+
+msgid "Project name"
+msgstr "projektnavn"
+
+msgid "Project Notes"
+msgstr "projektbeskrivelse"
+
+msgid "Project notes"
+msgstr "projektbeskrivelse"
+
+msgid "Project uploaded."
+msgstr "Projekt oploadet"
+
+msgid "Projects"
+msgstr "Projekter"
+
+msgid "Quit"
+msgstr "Afslut"
+
+msgid "Quit Scratch"
+msgstr "Afslut Scratch"
+
+msgid "Reading"
+msgstr "Læsning"
+
+msgid "record"
+msgstr "optag"
+
+msgid "Record"
+msgstr "optag"
+
+msgid "recording"
+msgstr "optagelse"
+
+msgid "Rectangle tool (draw outlined or filled rectangle or square)"
+msgstr "Rektangelværktøj (tegn rektangel eller firkant)"
+
+msgid "Redo"
+msgstr "Gør om"
+
+msgid "Reference Guide"
+msgstr "Brugervejledning"
+
+msgid "Remote sensor connections enabled"
+msgstr "Fjernsensorerne tilkoblede"
+
+msgid "Remove viewer from stage"
+msgstr "Fjern fra scenen"
+
+msgid "resistance"
+msgstr "modstand"
+
+msgid "resize this sprite"
+msgstr "spritens størrelse ændres"
+
+msgid "reverse"
+msgstr "skift retning"
+
+msgid "right"
+msgstr "højre"
+
+msgid "right arrow"
+msgstr "højrepil"
+
+msgid "Rotate clock-wise"
+msgstr "Roter med uret"
+
+msgid "Rotate counter-clock-wise"
+msgstr "Roter mod uret"
+
+msgid "rotate this sprite"
+msgstr "roter spriten"
+
+msgid "Rotation degrees?"
+msgstr "Rotationsgrader"
+
+msgid "Save"
+msgstr "Gem"
+
+msgid "Save a copy of the current project"
+msgstr "Gem en kopi af nuværende projekt"
+
+msgid "Save As"
+msgstr "Gem som"
+
+msgid "Save changes before quitting?"
+msgstr "Skal ændringerne gemmes?"
+
+msgid "Save failed"
+msgstr "Gem mislykkedes"
+
+msgid "save picture of scripts"
+msgstr "gem billede af scripts"
+
+msgid "save picture of stage..."
+msgstr "Gem billede af scenen"
+
+msgid "Save Project"
+msgstr "Gem projektet"
+
+msgid "Save Scripts Snapshot"
+msgstr "Gem scripts-snapshot"
+
+msgid "Save Stage Shot"
+msgstr "Gem scenesnapshot"
+
+msgid "Save the current project"
+msgstr "Gem nuværende projekt"
+
+msgid "Save the current project?"
+msgstr "Gem nuværende projekt?"
+
+msgid "Save this project"
+msgstr "Gem projektet"
+
+msgid "Scripts"
+msgstr "scripts"
+
+msgid "select serial/USB port"
+msgstr "Vælg serial/USB port "
+
+msgid "Select tool (move, modify, or delete selection)"
+msgstr "Selektionsværktøj (flyt, ændr, eller annuller de valgte)"
+
+msgid "Set costume center"
+msgstr "Bestem udtrykkets centrum"
+
+msgid "Set language"
+msgstr "Angiv sprog"
+
+msgid "Set rotation center"
+msgstr "Angiv omdrejningspunkt"
+
+msgid "Set Single Stepping"
+msgstr "begynd trinvis eksekvering"
+
+msgid "set slider min and max"
+msgstr "Sæt skydemodstandens min. og maks."
+
+msgid "Share"
+msgstr "udgiv"
+
+msgid "Share this project"
+msgstr "Del projektet"
+
+msgid "Share This Project Online"
+msgstr "Læg projektet på nettet"
+
+msgid "Show Motor Blocks"
+msgstr "Vis motorklodser"
+
+msgid "show ScratchBoard watcher"
+msgstr "Vis Scratchplade display"
+
+msgid "Shrink"
+msgstr "Formindsk"
+
+msgid "Shrink sprite"
+msgstr "formindsk spriten"
+
+msgid "Simulation"
+msgstr "Simulering"
+
+msgid "Single-step speed?"
+msgstr "Hastighed på trinvis eksekvering"
+
+msgid "slider"
+msgstr "skydemodstand"
+
+msgid "Slider range:"
+msgstr "Skydemodstandens værdiområde:"
+
+msgid "Sound quality:"
+msgstr "Lydkvalitet:"
+
+msgid "Sound Recorder"
+msgstr "Lydoptager"
+
+msgid "Sounds"
+msgstr "lyde"
+
+msgid "Sounds compressed"
+msgstr "Lyd komprimeret"
+
+msgid "space"
+msgstr "mellemrum"
+
+msgid "Sprite"
+msgstr "Sprite"
+
+msgid "Sprites"
+msgstr "Sprites"
+
+msgid "sqrt"
+msgstr "kvrod"
+
+msgid "Stage"
+msgstr "Scene"
+
+msgid "Stage selected:"
+msgstr "Valgt scene:"
+
+msgid "Stamp tool (select area, then stamp copies of it)"
+msgstr "Stempelværktøj (vælg areal og lav kopier)"
+
+msgid "Start green flag scripts"
+msgstr "Kør scripts med grønt flag"
+
+msgid "Start Single Stepping"
+msgstr "begynd trinvis eksekvering"
+
+msgid "stop"
+msgstr "stands"
+
+msgid "Stop everything"
+msgstr "stands alt"
+
+msgid "Stop Single Stepping"
+msgstr "stands trinvis eksekvering"
+
+msgid "Story"
+msgstr "Historie"
+
+msgid "Support Site"
+msgstr "Support-hjemmeside"
+
+msgid "Switch colors"
+msgstr "Byt farverne"
+
+msgid "Switch to full stage"
+msgstr "Skift til større skærm"
+
+msgid "Switch to presentation mode"
+msgstr "Skift til fuld skærm"
+
+msgid "Switch to small stage"
+msgstr "Skift til mindre skærm"
+
+msgid "Tags:"
+msgstr "Nøgleord:"
+
+msgid "Text tool (edit text layer)"
+msgstr "Tekstværktøj (editer tekstlag)"
+
+msgid "That variable name is already in use"
+msgstr "Dette variabelnavn er allerede i brug"
+
+msgid "that way"
+msgstr "mod uret"
+
+msgid "The file name already exists. Overwrite existing file?"
+msgstr "Filen findes allerede. Skal den eksisterende fil erstattes?"
+
+msgid "thing"
+msgstr "nogen/noget"
+
+msgid "this way"
+msgstr "med uret"
+
+msgid "tilt"
+msgstr "hældning"
+
+msgid "true"
+msgstr "sandt"
+
+msgid "Turbo speed"
+msgstr "Turbofart"
+
+msgid "turn into new sprite"
+msgstr "forvandl til ny sprite"
+
+msgid "Undelete"
+msgstr "Fortryd sletning"
+
+msgid "Undo"
+msgstr "fortryd"
+
+msgid "up"
+msgstr "op"
+
+msgid "up arrow"
+msgstr "pil opad"
+
+msgid "Updating thumbnails"
+msgstr "Opdaterer miniaturebilleder"
+
+msgid "Upload succeeded!"
+msgstr "upload lykkedes"
+
+msgid "Upload to Scratch Server"
+msgstr "Upload til Scratch Server"
+
+msgid "Uploading"
+msgstr "upload er i gang"
+
+msgid "Variable name?"
+msgstr "Hvad vil du kalde variablen?"
+
+msgid "View on stage"
+msgstr "Vis på scenen"
+
+msgid "What's your name?"
+msgstr "Hvad hedder du?"
+
+msgid "whirl"
+msgstr "vrid"
+
+msgid "world"
+msgstr "verden"
+
+msgid "Write Multiple Project Summaries"
+msgstr "skriv flere projektbeskrivelser"
+
+msgid "Write Project Summary"
+msgstr "skriv projektbeskrivelse"
+
+msgid "Yes"
+msgstr "Ja"
+
+msgid "Your project is now online at"
+msgstr "Dit projekt er nu online ved"
+
+msgid "Your Scratch website login name:"
+msgstr "Dit brugernavn til Scratch-webside:"
+
+msgid "Zoom in"
+msgstr "Zoom ind"
+
+msgid "Zoom out"
+msgstr "Zoom ud"
+
+############################################
+# MIDI INSTRUMENTS
+############################################
+
+msgid "Accordion"
+msgstr "Harmonika"
+
+msgid "Acoustic Bass"
+msgstr "Akustisk bas"
+
+msgid "Acoustic Bass Drum"
+msgstr "Akustisk stortromme"
+
+msgid "Acoustic Grand"
+msgstr "Akustisk flygel"
+
+msgid "Acoustic Snare"
+msgstr "Akustisk lilletromme"
+
+msgid "Agogo"
+msgstr "Agogo"
+
+msgid "Alto Sax"
+msgstr "Altsaxofon"
+
+msgid "Applause"
+msgstr "Applaus"
+
+msgid "Bagpipe"
+msgstr "Sækkepibe"
+
+msgid "Banjo"
+msgstr "Banjo"
+
+msgid "Baritone Sax"
+msgstr "Barytonsaxofon"
+
+msgid "Bass Drum 1"
+msgstr "Stortromme 1"
+
+msgid "Bassoon"
+msgstr "Fagot"
+
+msgid "Bird Tweet"
+msgstr "fuglekvidder"
+
+msgid "Blown Bottle"
+msgstr "Pusteflaske"
+
+msgid "Brass Section"
+msgstr "Messingsektion"
+
+msgid "Breath Noise"
+msgstr "Åndedræt"
+
+msgid "Bright Acoustic"
+msgstr "Lys akustisk klaver"
+
+msgid "Cabasa"
+msgstr "Cabasa"
+
+msgid "Celesta"
+msgstr "Celeste"
+
+msgid "Cello"
+msgstr "Cello"
+
+msgid "Chinese Cymbal"
+msgstr "Kinesisk bækken"
+
+msgid "Choir Aahs"
+msgstr "Aah i kor"
+
+msgid "Church Organ"
+msgstr "Kirkeorgel"
+
+msgid "Clarinet"
+msgstr "klarinet"
+
+msgid "Claves"
+msgstr "Claves"
+
+msgid "Clavinet"
+msgstr "Klavinet"
+
+msgid "Closed Hi-Hat"
+msgstr "Lukket high-hat"
+
+msgid "Contrabass"
+msgstr "Kontrabas"
+
+msgid "Cowbell"
+msgstr "Koklokke"
+
+msgid "Crash Cymbal 1"
+msgstr "Bækkenbrag 1"
+
+msgid "Crash Cymbal 2"
+msgstr "Bækkenbrag 2"
+
+msgid "Distortion Guitar"
+msgstr "Forvrænget guitar"
+
+msgid "Drawbar Organ"
+msgstr "Registerorgel"
+
+msgid "Dulcimer"
+msgstr "hakkebræt"
+
+msgid "Electric Bass (finger)"
+msgstr "Elektrisk bas (finger)"
+
+msgid "Electric Bass (pick)"
+msgstr "Elektrisk bas (plektron)"
+
+msgid "Electric Clean Guitar"
+msgstr "Ren elektrisk guitar"
+
+msgid "Electric Grand"
+msgstr "Elektrisk flygel"
+
+msgid "Electric Jazz Guitar"
+msgstr "Elektrisk jazzguitar"
+
+msgid "Electric Muted Guitar"
+msgstr "Dæmpet elektrisk guitar"
+
+msgid "Electric Piano 1"
+msgstr "Elektrisk klaver 1"
+
+msgid "Electric Piano 2"
+msgstr "Elektrisk klaver 2"
+
+msgid "Electric Snare"
+msgstr "Elektrisk lilletromme"
+
+msgid "English Horn"
+msgstr "Engelskhorn"
+
+msgid "FX 1 (rain)"
+msgstr "FX 1 (regn)"
+
+msgid "FX 2 (soundtrack)"
+msgstr "FX 2 (lydspor)"
+
+msgid "FX 3 (crystal)"
+msgstr "FX 3 (krystal)"
+
+msgid "FX 4 (atmosphere)"
+msgstr "FX 4 (atmosfære)"
+
+msgid "FX 5 (brightness)"
+msgstr "FX 5 (klarhet)"
+
+msgid "FX 6 (goblins)"
+msgstr "FX 6 (nisser)"
+
+msgid "FX 7 (echoes)"
+msgstr "FX 7 (ekkoer)"
+
+msgid "FX 8 (sci-fi)"
+msgstr "FX 8 (sci-fi)"
+
+msgid "Fiddle"
+msgstr "fiol"
+
+msgid "Flute"
+msgstr "Fløjte"
+
+msgid "French Horn"
+msgstr "Valdhorn"
+
+msgid "Fretless Bass"
+msgstr "Båndløs bas"
+
+msgid "Glockenspiel"
+msgstr "Klokkespil"
+
+msgid "Guitar Fret Noise"
+msgstr "Guitarbånd lyd"
+
+msgid "Guitar Harmonics"
+msgstr "Guitar overtoner"
+
+msgid "Gunshot"
+msgstr "Skud"
+
+msgid "Hand Clap"
+msgstr "Håndklap"
+
+msgid "Harmonica"
+msgstr "Mundharmonika"
+
+msgid "Harpsichord"
+msgstr "Cembalo"
+
+msgid "Helicopter"
+msgstr "Helikopter"
+
+msgid "Hi Bongo"
+msgstr "Høj bongo"
+
+msgid "Hi Wood Block"
+msgstr "Høj træklods"
+
+msgid "Hi-Mid Tom"
+msgstr "Høj-mid tam"
+
+msgid "High Agogo"
+msgstr "Høj Agogo"
+
+msgid "High Floor Tom"
+msgstr "Høj gulvtam"
+
+msgid "High Timbale"
+msgstr "Høj timbale"
+
+msgid "High Tom"
+msgstr "Høj tam"
+
+msgid "Honky-Tonk"
+msgstr "Honky-Tonk"
+
+msgid "Kalimba"
+msgstr "Kalimba"
+
+msgid "Koto"
+msgstr "Koto"
+
+msgid "Lead 1 (square)"
+msgstr "Lead 1 (firkantet bølge)"
+
+msgid "Lead 2 (sawtooth)"
+msgstr "Lead 2 (savtand-bølge)"
+
+msgid "Lead 3 (calliope)"
+msgstr "Lead 3 (damporgel)"
+
+msgid "Lead 4 (chiff)"
+msgstr "Lead 4 (chiff)"
+
+msgid "Lead 5 (charang)"
+msgstr "Lead 5 (charango)"
+
+msgid "Lead 6 (voice)"
+msgstr "Lead 6 (stemme)"
+
+msgid "Lead 7 (fifths)"
+msgstr "Lead 7 (kvinter)"
+
+msgid "Lead 8 (bass+lead)"
+msgstr "Lead 8 (bas+lead)"
+
+msgid "Long Guiro"
+msgstr "Lang guiro"
+
+msgid "Long Whistle"
+msgstr "Lang fløjte"
+
+msgid "Low Agogo"
+msgstr "Lav Agogo"
+
+msgid "Low Bongo"
+msgstr "Lav Bongo"
+
+msgid "Low Conga"
+msgstr "Lav Conga"
+
+msgid "Low Floor Tom"
+msgstr "Lav gulvtam"
+
+msgid "Low Timbale"
+msgstr "Lav Timbale"
+
+msgid "Low Tom"
+msgstr "Lav tam"
+
+msgid "Low Wood Block"
+msgstr "Lav træklods"
+
+msgid "Low-Mid Tom"
+msgstr "Lav-mid tam"
+
+msgid "Maracas"
+msgstr "Maracas"
+
+msgid "Marimba"
+msgstr "Marimba"
+
+msgid "Melodic Tom"
+msgstr "Melodisk tam-tam"
+
+msgid "Music Box"
+msgstr "Spilledåse"
+
+msgid "Mute Cuica"
+msgstr "Dæmpet cuica"
+
+msgid "Mute Hi Conga"
+msgstr "Dæmpet høj conga"
+
+msgid "Mute Triangle"
+msgstr "Dæmpet triangel"
+
+msgid "Muted Trumpet"
+msgstr "Dæmpet trompet"
+
+msgid "Nylon String Guitar"
+msgstr "Nylonstrengsguitar"
+
+msgid "Oboe"
+msgstr "Obo"
+
+msgid "Ocarina"
+msgstr "Okarina"
+
+msgid "Open Cuica"
+msgstr "Åben cuica"
+
+msgid "Open Hi Conga"
+msgstr "Åben høj conga"
+
+msgid "Open Hi-Hat"
+msgstr "Åben hi-hat"
+
+msgid "Open Triangle"
+msgstr "Åben triangel"
+
+msgid "Orchestra Hit"
+msgstr "Orkesterstød"
+
+msgid "Orchestral Strings"
+msgstr "Harpe"
+
+msgid "Overdriven Guitar"
+msgstr "Overforstærket guitar"
+
+msgid "Pad 1 (new age)"
+msgstr "Pad 1 (new age)"
+
+msgid "Pad 2 (warm)"
+msgstr "Pad 2 (varm)"
+
+msgid "Pad 3 (polysynth)"
+msgstr "Pad 3 (polysynth)"
+
+msgid "Pad 4 (choir)"
+msgstr "Pad 4 (kor)"
+
+msgid "Pad 5 (bowed)"
+msgstr "Pad 5 (stryget)"
+
+msgid "Pad 6 (metallic)"
+msgstr "Pad 6 (metallisk)"
+
+msgid "Pad 7 (halo)"
+msgstr "Pad 7 (halo)"
+
+msgid "Pad 8 (sweep)"
+msgstr "Pad 8 (sweep)"
+
+msgid "Pan Flute"
+msgstr "Panfløjte"
+
+msgid "Pedal Hi-Hat"
+msgstr "Pedal Hi-Hat"
+
+msgid "Percussive Organ"
+msgstr "Slagtøjsorgel"
+
+msgid "Piccolo"
+msgstr "Piccolofløjte"
+
+msgid "Pizzicato Strings"
+msgstr "Pizzicato på strygeinstrumenter"
+
+msgid "Recorder"
+msgstr "Blokfløjte"
+
+msgid "Reed Organ"
+msgstr "Harmonium"
+
+msgid "Reverse Cymbal"
+msgstr "Omvendt cymbal"
+
+msgid "Ride Bell"
+msgstr "Ride Bell"
+
+msgid "Ride Cymbal 1"
+msgstr "Ride Cymbal 1"
+
+msgid "Ride Cymbal 2"
+msgstr "Ride Cymbal 2"
+
+msgid "Rock Organ"
+msgstr "Rockorgel"
+
+msgid "Seashore"
+msgstr "Strandkant"
+
+msgid "Shakuhachi"
+msgstr "Shakuhachi"
+
+msgid "Shamisen"
+msgstr "Shamisen"
+
+msgid "Shanai"
+msgstr "Shanai"
+
+msgid "Short Guiro"
+msgstr "Kort Guiro"
+
+msgid "Short Whistle"
+msgstr "Kort fløjte"
+
+msgid "Side Stick"
+msgstr "Kantslag"
+
+msgid "Sitar"
+msgstr "Sitar"
+
+msgid "Slap Bass 1"
+msgstr "Slapbas 1"
+
+msgid "Slap Bass 2"
+msgstr "Slapbas 2"
+
+msgid "Soprano Sax"
+msgstr "Sopransaxofon"
+
+msgid "Splash Cymbal"
+msgstr "Splash cymbal"
+
+msgid "Steel Drums"
+msgstr "Ståltrommer"
+
+msgid "Steel String Guitar"
+msgstr "Stålstrengsguitar"
+
+msgid "String Ensemble 1"
+msgstr "Strygeensemble 1"
+
+msgid "String Ensemble 2"
+msgstr "Strygeensemble 2"
+
+msgid "Synth Bass 1"
+msgstr "Synth-bas 1"
+
+msgid "Synth Bass 2"
+msgstr "Synth-bas 2"
+
+msgid "Synth Drum"
+msgstr "Synth. tromme"
+
+msgid "Synth Voice"
+msgstr "Synth. stemme"
+
+msgid "SynthBrass 1"
+msgstr "Synth. messing 1"
+
+msgid "SynthBrass 2"
+msgstr "Synth. messing 2"
+
+msgid "SynthStrings 1"
+msgstr "Synth. strygere 1"
+
+msgid "SynthStrings 2"
+msgstr "Synth. strygere 2"
+
+msgid "Taiko Drum"
+msgstr "Taikotromme"
+
+msgid "Tambourine"
+msgstr "Tamburin"
+
+msgid "Tango Accordion"
+msgstr "Bandoneon"
+
+msgid "Telephone Ring"
+msgstr "Telefonringning"
+
+msgid "Tenor Sax"
+msgstr "Tenorsaxofon"
+
+msgid "Timpani"
+msgstr "Pauker"
+
+msgid "Tinkle Bell"
+msgstr "Lille klokke"
+
+msgid "Tremolo Strings"
+msgstr "Tremolo på stygeinstrumenter"
+
+msgid "Trombone"
+msgstr "Trækbasun"
+
+msgid "Trumpet"
+msgstr "Trompet"
+
+msgid "Tuba"
+msgstr "Tuba"
+
+msgid "Tubular Bells"
+msgstr "Rørklokker"
+
+msgid "Vibraphone"
+msgstr "Vibrafon"
+
+msgid "Vibraslap"
+msgstr "Vibraslap"
+
+msgid "Viola"
+msgstr "Bratsch"
+
+msgid "Violin"
+msgstr "Violin"
+
+msgid "Voice Oohs"
+msgstr "Uuh-stemme"
+
+msgid "Whistle"
+msgstr "fløjte"
+
+msgid "Woodblock"
+msgstr "Træklods"
+
+msgid "Xylophone"
+msgstr "Xylofon"
+

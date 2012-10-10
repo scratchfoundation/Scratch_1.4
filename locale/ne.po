@@ -1,0 +1,1921 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Scratch\n"
+"Report-Msgid-Bugs-To: Evelyn Eastmond <evelyn@media.mit.edu>\n"
+"POT-Creation-Date: 2008-03-21\n"
+"PO-Revision-Date: 2009-06-03 01:13-0400\n"
+"Last-Translator: Tsering Lama Sherpa <tlsherpa@fas.harvard.edu>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ne\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 1.2.0\n"
+
+############################################
+# FORMATTING
+############################################
+
+# Language name as you'd like it to appear in the Languages menu
+# (Required)
+msgid "Language-Name"
+msgstr "नेपाली"
+
+# Directionality of language
+# LTR = Left to Right
+# RTL = Right to Left
+msgid "Language-Direction"
+msgstr "LTR"
+
+# Scale to apply to font size (2 for twice as large)
+# Use this if the font is too small for legibility on the Scratch interface
+msgid "Font-Scale"
+msgstr "1.2"
+
+# Set to 'true' or 'false'
+# Use this if you do not want any of the text to be bolded, for legibility
+msgid "Suppress-Bold"
+msgstr ""
+
+# Font to use on a Windows system
+msgid "Win-Font"
+msgstr ""
+
+# Font to use on a Mac system
+msgid "Mac-Font"
+msgstr ""
+
+# Font to use on a Linux system
+msgid "Linux-Font"
+msgstr ""
+
+############################################
+# BLOCKS
+############################################
+
+msgid "%H sensor value"
+msgstr "मापकको गणना %H "
+
+msgid "%L contains %s"
+msgstr ""
+
+msgid "%a of %m"
+msgstr "%a मध्ये %m"
+
+msgid "%b and %b"
+msgstr "%b र %b"
+
+msgid "%b or %b"
+msgstr "%b वा %b"
+
+msgid "%f of %n"
+msgstr "%f मध्ये %n"
+
+msgid "%n mod %n"
+msgstr "%n हात लाग्यो %n"
+
+msgid "add %s to %L"
+msgstr "%sलाई %Lमा जोड्नुहोस्"
+
+msgid "answer"
+msgstr "उत्तर "
+
+msgid "ask %s and wait"
+msgstr "%s शोध र पर्ख"
+
+msgid "background #"
+msgstr "पृष्ठभुमि #"
+
+msgid "broadcast %e"
+msgstr "प्रसारण %e"
+
+msgid "broadcast %e and wait"
+msgstr "%e प्रसारण गर र कुर"
+
+msgid "change %g effect by %n"
+msgstr "%g को प्रभावलाई %n ले परिवर्तन गर"
+
+msgid "change %v by %n"
+msgstr "%v लाई %n ले परिवर्तन गर"
+
+msgid "change pen color by %n"
+msgstr "पेनको रङ्ग %n बनाऊ"
+
+msgid "change pen shade by %n"
+msgstr "पेनको छायाँ रङ्ग %n बनाऊ"
+
+msgid "change pen size by %n"
+msgstr "पेनको आकार %n बनाऊ"
+
+msgid "change size by %n"
+msgstr "आकार %n बनाऊ"
+
+msgid "change tempo by %n"
+msgstr "गति %n बनाऊ"
+
+msgid "change volume by %n"
+msgstr "आवाज %n बनाऊ"
+
+msgid "change x by %n"
+msgstr "x लाई %n बनाऊ"
+
+msgid "change y by %n"
+msgstr "y लाई %n बनाऊ"
+
+msgid "clear"
+msgstr "सफा गर"
+
+msgid "clear graphic effects"
+msgstr "ग्राफिक प्रभावलाई हटाऊ"
+
+msgid "color %C is touching %C?"
+msgstr "%C रङ्गले %C लाई छोइरहेको छ?"
+
+msgid "control"
+msgstr "नियन्त्रण"
+
+msgid "costume #"
+msgstr "लुगा #"
+
+msgid "delete %y of %L"
+msgstr "%y को %L लाई मेट्नुहोस्"
+
+msgid "direction"
+msgstr "दिशा"
+
+msgid "distance to %m"
+msgstr "%m सम्मको दुरी"
+
+msgid "else"
+msgstr "अथवा"
+
+msgid "forever"
+msgstr "सधैको लागि"
+
+msgid "forever if %b"
+msgstr "यदि %b भएमा सधैको लागि"
+
+msgid "glide %n secs to x:%n y:%n"
+msgstr "%n सेकेण्डलाई x:%n y:%n सम्म सार"
+
+msgid "go back %n layers"
+msgstr "%n तह पछाडि जाऊ"
+
+msgid "go to %m"
+msgstr "%m मा जाऊ"
+
+msgid "go to front"
+msgstr "सुरुतिर जाऊ"
+
+msgid "go to x:%n y:%n"
+msgstr "x:%n y:%n मा जाऊ"
+
+msgid "hide"
+msgstr "लुकाऊ"
+
+msgid "hide variable %v"
+msgstr "%v चल लुकाउनुहोस्"
+
+msgid "if %b"
+msgstr "यदि %b भएमा"
+
+msgid "if on edge, bounce"
+msgstr "छेउमा भएमा उफार"
+
+msgid "insert %s at %i of %L"
+msgstr ""
+
+msgid "item %i of %L"
+msgstr ""
+
+msgid "join %s %s"
+msgstr ""
+
+msgid "key %k pressed?"
+msgstr "%k बटन थिचिएको छ?"
+
+msgid "length of %L"
+msgstr "%L को लंबाई"
+
+msgid "length of %s"
+msgstr "%s को लंबाई"
+
+msgid "letter %n of %s"
+msgstr "%n को %s अक्षर "
+
+msgid "list"
+msgstr "सूची"
+
+msgid "looks"
+msgstr "देखिन्छ"
+
+msgid "loud?"
+msgstr "चर्को आवाज?"
+
+msgid "loudness"
+msgstr "आवाजको चर्कोपना"
+
+msgid "motion"
+msgstr "गति"
+
+msgid "motor direction %W"
+msgstr ""
+
+msgid "motor off"
+msgstr ""
+
+msgid "motor on"
+msgstr ""
+
+msgid "motor on for %n secs"
+msgstr ""
+
+msgid "motor power %n"
+msgstr ""
+
+msgid "mouse down?"
+msgstr "माउस थिचिएको छ?"
+
+msgid "mouse x"
+msgstr "माउस x"
+
+msgid "mouse y"
+msgstr "माउस y"
+
+msgid "move %n steps"
+msgstr "%n कदम सार"
+
+msgid "next background"
+msgstr "अर्को पृष्ठभुमि"
+
+msgid "next costume"
+msgstr "अर्को लुगा"
+
+msgid "not %b"
+msgstr "%b हैन"
+
+msgid "operators"
+msgstr ""
+
+msgid "pen"
+msgstr "कलम"
+
+msgid "pen down"
+msgstr "कलम तल"
+
+msgid "pen up"
+msgstr "कलम माथि"
+
+msgid "pick random %n to %n"
+msgstr "%n देखि %n सम्म जथाभावी छान"
+
+msgid "play drum %D for %n beats"
+msgstr "%D ड्रमलाई %n पटक बजाऊ"
+
+msgid "play note %N for %n beats"
+msgstr "%N सुरलाई %n पटक बजाऊ"
+
+msgid "play sound %S"
+msgstr "%S स्वर बजाऊ"
+
+msgid "play sound %S until done"
+msgstr "नसकेसम्म %S स्वर बजाऊ"
+
+msgid "point in direction %d"
+msgstr "%d दिशालाई देखाऊ"
+
+msgid "point towards %m"
+msgstr "%m दिशातिर देखाऊ"
+
+msgid "repeat %n"
+msgstr "%n लाई दोहोर्‍याऊ"
+
+msgid "repeat until %b"
+msgstr "%b सम्म दोहोर्‍याऊ"
+
+msgid "replace item %i of %L with %s"
+msgstr ""
+
+msgid "reset timer"
+msgstr "समय गणक पुन सुरु"
+
+msgid "rest for %n beats"
+msgstr "%n तालसम्म रोक"
+
+msgid "round %n"
+msgstr "पालो %n"
+
+msgid "say %s"
+msgstr "%s भन"
+
+msgid "say %s for %n secs"
+msgstr "%s सेकेण्डसम्म %n भन"
+
+msgid "sensing"
+msgstr "अनुभव गर्दै"
+
+msgid "sensor %h?"
+msgstr "मापक %h?"
+
+msgid "set %g effect to %n"
+msgstr "%g प्रभावलाई %n बनाऊ"
+
+msgid "set %v to %n"
+msgstr "%v लाई %n बनाऊ"
+
+msgid "set instrument to %I"
+msgstr "%I बाजा प्रयोग गर"
+
+msgid "set pen color to %c"
+msgstr "कलमको रङ्गलाई %c मा परिवर्तन गर"
+
+msgid "set pen color to %n"
+msgstr "कलमको रङ्गलाई %n मा परिवर्तन गर"
+
+msgid "set pen shade to %n"
+msgstr "कलमको रङ्ग छायाँलाई %n मा परिवर्तन गर"
+
+msgid "set pen size to %n"
+msgstr "कलमको आकारलाई %n मा परिवर्तन गर"
+
+msgid "set size to %n%"
+msgstr "आकारलाई %n मा परिवर्तन गर"
+
+msgid "set tempo to %n bpm"
+msgstr "गतिलाई %n ताल प्रति सेकेण्डमा परिवर्तन गर"
+
+msgid "set volume to %n%"
+msgstr "आवाजलाई %n मा परिवर्तन गर"
+
+msgid "set x to %n"
+msgstr "x लाई %n मा परिवर्तन गर"
+
+msgid "set y to %n"
+msgstr "y लाई %n मा परिवर्तन गर"
+
+msgid "show"
+msgstr "देखाऊ"
+
+msgid "show variable %v"
+msgstr ""
+
+msgid "size"
+msgstr "आकार"
+
+msgid "sound"
+msgstr "आवाज"
+
+msgid "stamp"
+msgstr "छाप"
+
+msgid "stop all"
+msgstr "सबैलाई रोक"
+
+msgid "stop all sounds"
+msgstr "सबै आवाजलाई रोक"
+
+msgid "stop script"
+msgstr "स्क्रिप्टलाई रोक"
+
+msgid "switch to background %l"
+msgstr "पृष्ठभुमिलाई %l मा परिवर्तन गर"
+
+msgid "switch to costume %l"
+msgstr "लुगालाई %l मा परिवर्तन गर"
+
+msgid "tempo"
+msgstr "गति"
+
+msgid "think %s"
+msgstr "%s सोच"
+
+msgid "think %s for %n secs"
+msgstr "%s सेकेण्डसम्म %n सोच"
+
+msgid "timer"
+msgstr "समय गणक"
+
+msgid "touching %m?"
+msgstr "%m लाई छुदै छौ?"
+
+msgid "touching color %C?"
+msgstr "%C रङ्गलाई छुदै छौ?"
+
+msgid "turn %n degrees"
+msgstr "%n कोण फर्क"
+
+msgid "variables"
+msgstr "चलमान"
+
+msgid "volume"
+msgstr "आयतन"
+
+msgid "wait %n secs"
+msgstr "%n सेकेण्ड पर्ख"
+
+msgid "wait until %b"
+msgstr "%b सम्म पर्ख"
+
+msgid "when %k key pressed"
+msgstr "%k बटन नथिचेसम्म पर्ख"
+
+msgid "when %m clicked"
+msgstr "%m क्लिक गरेमा"
+
+msgid "when I receive %e"
+msgstr "%e प्राप्त भएमा"
+
+msgid "x position"
+msgstr "x स्थान"
+
+msgid "y position"
+msgstr "y स्थान"
+
+############################################
+# USER INTERFACE
+############################################
+
+msgid "(empty)"
+msgstr ""
+
+msgid "1 script"
+msgstr "१ स्क्रिप्ट"
+
+msgid "About Scratch"
+msgstr "स्क्र्याचको बारे"
+
+msgid "About this project:"
+msgstr "यस परियोजनाको बारे"
+
+msgid "abs"
+msgstr "abs"
+
+msgid "add comment"
+msgstr "टिप्पणी जोड"
+
+msgid "add comment here"
+msgstr "टिप्पणी यहाँ जोड"
+
+msgid "all"
+msgstr "सबै "
+
+msgid "and"
+msgstr "र"
+
+msgid "Animation"
+msgstr "सजीवन"
+
+msgid "any"
+msgstr "कुनै "
+
+msgid "Art"
+msgstr ""
+
+msgid "background"
+msgstr "पृष्ठभुमि"
+
+msgid "backgrounds"
+msgstr "पृष्ठभुमिहरू"
+
+msgid "Backgrounds"
+msgstr "पृष्ठभुमिहरू"
+
+msgid "brightness"
+msgstr "चहक"
+
+msgid "Brush size: "
+msgstr "बुरुसको आकार:"
+
+msgid "button"
+msgstr "बटन"
+
+msgid "button pressed"
+msgstr "बटन थिचिएको"
+
+msgid "Camera"
+msgstr "कैमरा"
+
+msgid "can rotate"
+msgstr "घुमाउन मिल्ने"
+
+msgid "cancel"
+msgstr "रद्द"
+
+msgid "Cancel"
+msgstr "रद्द"
+
+msgid "Choose a folder"
+msgstr "फोल्डर छान"
+
+msgid "Choose new sprite from file"
+msgstr "फाइलबाट नयाँ स्प्राइट छान"
+
+msgid "clean up"
+msgstr "सफा गर"
+
+msgid "Clear"
+msgstr "सफा"
+
+msgid "Clear canvas"
+msgstr "क्यान्भास सफा गर"
+
+msgid "Close and continue"
+msgstr "बंद गरी जारी गर"
+
+msgid "Close dialog?"
+msgstr ""
+
+msgid "Close paint editor?"
+msgstr ""
+
+msgid "close port"
+msgstr "पोर्ट बन्द गर"
+
+msgid "Close sound recorder?"
+msgstr ""
+
+msgid "color"
+msgstr "रङग"
+
+msgid "Compress Images"
+msgstr "फोटोको फाइल सानो पार"
+
+msgid "Compress Sounds"
+msgstr "आवाजको फाइल सानो पार"
+
+msgid "Compress sounds and images"
+msgstr "आवाज र फोटोको फाइल सानो पार"
+
+msgid "Computer"
+msgstr "कम्प्युटर"
+
+msgid "connected"
+msgstr "जोडिएको"
+
+msgid "Connecting to "
+msgstr "जोडिदै"
+
+msgid "Copy"
+msgstr "सार"
+
+msgid "costume"
+msgstr "लुगा"
+
+msgid "costumes"
+msgstr "लुगाहरू"
+
+msgid "Costumes"
+msgstr "लुगाहरू"
+
+msgid "Could not read"
+msgstr "पढ्न सकिएन"
+
+msgid "Could not read project; file may be damaged"
+msgstr ""
+
+msgid "Could not write file"
+msgstr "फाइल लेख्न सकिएन"
+
+msgid "Create account"
+msgstr "खाता सुरु गर"
+
+msgid "Create an empty project"
+msgstr "खाली परियोजना सुरु गर"
+
+msgid "Data sent. Waiting for response..."
+msgstr "डेटा पठाइयो। जवाफ पर्खदै..."
+
+msgid "delete"
+msgstr "मेटाऊ"
+
+msgid "Delete"
+msgstr "मेटाऊ"
+
+msgid "Delete a list"
+msgstr "सूची मेटाऊ"
+
+msgid "Delete a variable"
+msgstr "चलमान मेटाऊ"
+
+msgid "Delete this background"
+msgstr "यो पृष्टभूमि मेटाऊ"
+
+msgid "Delete this costume"
+msgstr "यो लुगा मेटाऊ"
+
+msgid "Delete this sound"
+msgstr "यो आवान मेटाऊ"
+
+msgid "Delete this sprite"
+msgstr ""
+
+msgid "Desktop"
+msgstr "डेस्कटॉप"
+
+msgid "disable remote sensor connections"
+msgstr ""
+
+msgid "distance"
+msgstr "दूरी"
+
+msgid "Documents"
+msgstr "कागजातहरू"
+
+msgid "don't rotate"
+msgstr "नघुमाऊ"
+
+msgid "Don't Save"
+msgstr "सुरक्षित गर "
+
+msgid "Done"
+msgstr ""
+
+msgid "down"
+msgstr "तल"
+
+msgid "down arrow"
+msgstr "उधोँ धर्सो"
+
+msgid "drag to resize"
+msgstr ""
+
+msgid "drag to rotate"
+msgstr ""
+
+msgid "draggable on website?"
+msgstr "वेबसाइटमा सार्न मिल्ने?"
+
+msgid "duplicate"
+msgstr "नक्कल"
+
+msgid "Duplicate"
+msgstr "नक्कल"
+
+msgid "edge"
+msgstr "किनारा"
+
+msgid "Edit"
+msgstr "सम्पादन"
+
+msgid "Ellipse tool (draw outlined or filled ellipse or circle)"
+msgstr "अण्डाकार औजार (बाहिरी धर्सो भएको वा भरिएको अण्डाकार वा वृत बनाऊ)"
+
+msgid "enable remote sensor connections"
+msgstr ""
+
+msgid "Enter presentation mode"
+msgstr "प्रदर्शनी गर्नु"
+
+msgid "Eraser"
+msgstr "मेट्टाउ"
+
+msgid "Eraser size"
+msgstr "मेट्टाउको आकार"
+
+msgid "Error!"
+msgstr ""
+
+msgid "Examples"
+msgstr "उदाहरणहरु "
+
+msgid "Exit presentation"
+msgstr "प्रदर्शनी बन्द गर "
+
+msgid "Exit presentation mode"
+msgstr "प्रदर्शनी बन्द गर्नु"
+
+msgid "export"
+msgstr "निर्यात"
+
+msgid "Export Background"
+msgstr "पृष्ठभुमि निर्यात गर"
+
+msgid "Export Costume"
+msgstr "लुगा निर्यात गर"
+
+msgid "Export failed"
+msgstr "निर्यात सफल भएन"
+
+msgid "Export Sound"
+msgstr "आवाज निर्यात गर"
+
+msgid "Export Sprite"
+msgstr "स्प्राइट निर्यात गर"
+
+msgid "export this costume"
+msgstr ""
+
+msgid "export this sound"
+msgstr ""
+
+msgid "export this sprite"
+msgstr "यो स्प्राइट निर्यात गर"
+
+msgid "Extras menu"
+msgstr "अन्य सामाग्रीहरूको मेनु"
+
+msgid "Eyedropper tool (select a color)"
+msgstr "रङ्ग छान"
+
+msgid "Failed:"
+msgstr "असफल:"
+
+msgid "false"
+msgstr "बेठीक"
+
+msgid "File"
+msgstr "संचिका"
+
+msgid "File not found"
+msgstr "फाइल भेटिएन"
+
+msgid "Fill tool (fill areas with color or gradient)"
+msgstr "रङ्ग भर"
+
+msgid "first"
+msgstr ""
+
+msgid "fisheye"
+msgstr "माछाको आँखा"
+
+msgid "Flash blocks (fast)"
+msgstr "ब्लकहरू झिम्क्याउ (छिटो)"
+
+msgid "Flash blocks (slow)"
+msgstr "ब्लकहरू झिम्क्याउ (ढिलो)"
+
+msgid "Flip horizontally"
+msgstr "तेर्सो पल्टाऊ"
+
+msgid "Flip vertically"
+msgstr "ठाडो पल्टाऊ"
+
+msgid "For all sprites"
+msgstr "सबै स्प्राइटको निम्ति"
+
+msgid "For this sprite only"
+msgstr "यस स्प्राइटको निम्ति मात्र"
+
+msgid "Game"
+msgstr "खेल"
+
+msgid "Get surprise sprite"
+msgstr "अचम्मको स्प्राइटको प्राप्त गर"
+
+msgid "Get the last thing deleted"
+msgstr "पछिल्लो पटक मेटाइएको कुरा प्राप्त गर"
+
+msgid "Getting Started"
+msgstr ""
+
+msgid "ghost"
+msgstr "प्रतिलिपि"
+
+msgid "Go To Scratch Website"
+msgstr ""
+
+msgid "grab screen region for new costume"
+msgstr "नयाँ लुगाको निम्ति पर्दा समात"
+
+msgid "grab screen region for new sprite"
+msgstr "नयाँ स्प्राइटको निम्ति पर्दा समात"
+
+msgid "Grow"
+msgstr "बढ्नु"
+
+msgid "Grow sprite"
+msgstr "स्प्राइट बढाउनु"
+
+msgid "hello "
+msgstr "नमस्कार"
+
+msgid "Hello!"
+msgstr "नमस्कार!"
+
+msgid "help"
+msgstr "मद्दत"
+
+msgid "Help"
+msgstr "मद्दत"
+
+msgid "Help Page"
+msgstr "मद्दत पृष्ठ"
+
+msgid "Help Screens"
+msgstr ""
+
+msgid "Hide Motor Blocks"
+msgstr ""
+
+msgid "High (biggest)"
+msgstr "सबैभन्दा ठुलो"
+
+msgid "Hmm..."
+msgstr "अ..."
+
+msgid "Home"
+msgstr ""
+
+msgid "Images compressed"
+msgstr "तस्विरहरू फाइल सानो आकारको पारियो"
+
+msgid "import"
+msgstr "आयात"
+
+msgid "Import"
+msgstr "आयात"
+
+msgid "Import an image on top of your current canvas"
+msgstr "अहिलेको क्यानभासको माथि तस्विर आयात गर"
+
+msgid "Import Background"
+msgstr "पृष्ठभुमि आयात ग"
+
+msgid "Import Costume"
+msgstr "लुगा आयात गर"
+
+msgid "Import Image"
+msgstr "तस्विर आयात गर"
+
+msgid "Import List"
+msgstr "सूची आयात गर"
+
+msgid "Import Project"
+msgstr "परियोजना आयात गर"
+
+msgid "import project"
+msgstr "परियोजना आयात गर"
+
+msgid "Import Sound"
+msgstr "आवाज आयात गर"
+
+msgid "Incompatible Scratch file format"
+msgstr "नमिल्दो फाइल"
+
+msgid "Is the folder read-only?"
+msgstr "के फोल्डर पढ्न मात्र मिल्ने भएको छ?"
+
+msgid "JPEG Quality (10-100)?"
+msgstr "जेपेगको स्तर (१०-१००)"
+
+msgid "kbytes"
+msgstr "किलोबाइट"
+
+msgid "Language"
+msgstr "भाषा"
+
+msgid "large readout"
+msgstr "ठुलो पढाइ"
+
+msgid "last"
+msgstr "अन्तिम"
+
+msgid "left"
+msgstr "बायाँ"
+
+msgid "left arrow"
+msgstr "बाया धर्सो"
+
+msgid "length"
+msgstr "लंबाई"
+
+msgid "light"
+msgstr "प्रकाश"
+
+msgid "Line tool (draw lines)"
+msgstr "धर्सो तान्ने औजार"
+
+msgid "List name?"
+msgstr ""
+
+msgid "Low"
+msgstr "कम"
+
+msgid "Lowest (smallest)"
+msgstr "सबैभन्दा सानो"
+
+msgid "Make a list"
+msgstr "सूची बनाऊ"
+
+msgid "Make a variable"
+msgstr "चलमान बनाऊ"
+
+msgid "Max:"
+msgstr "सबैभन्दा ठुलो:"
+
+msgid "meow"
+msgstr "म्याउ"
+
+msgid "Message name:"
+msgstr "सन्देशको नाम:"
+
+msgid "Min:"
+msgstr "सबैभन्दा सानो:"
+
+msgid "mod"
+msgstr "हात लाग्यो"
+
+msgid "more"
+msgstr "अन्य"
+
+msgid "More tags:"
+msgstr "अन्य चिनो"
+
+msgid "mosaic"
+msgstr "मोजाइक"
+
+msgid "mouse x:"
+msgstr "माउस x:"
+
+msgid "mouse y:"
+msgstr "माउस y:"
+
+msgid "mouse-pointer"
+msgstr "माउसको तिर"
+
+msgid "Move"
+msgstr "चलाऊ"
+
+msgid "Music"
+msgstr "सङ्गीत"
+
+msgid "My Projects"
+msgstr "मेरो योजना"
+
+msgid "new"
+msgstr "नयाँ"
+
+msgid "New"
+msgstr "नयाँ"
+
+msgid "New background:"
+msgstr "नया पृष्ठभुमि:"
+
+msgid "New costume:"
+msgstr "नया लुगा:"
+
+msgid "New file name?"
+msgstr ""
+
+msgid "New Filename:"
+msgstr "नयाँ फाइल"
+
+msgid "New sound:"
+msgstr "नयाँ आवाऊ"
+
+msgid "New Sprite"
+msgstr "नयाँ स्प्राइट:"
+
+msgid "New sprite:"
+msgstr ""
+
+msgid "No"
+msgstr "हैन"
+
+msgid "No MIDI ports currently available."
+msgstr "मिडि पोर्ट उपलब्ध छैन"
+
+msgid "No motion blocks"
+msgstr "गति ब्लक छैन"
+
+msgid "no scripts"
+msgstr ""
+
+msgid "No serial ports found"
+msgstr "सिरियल पोर्ट छैन"
+
+msgid "No variables."
+msgstr "चलमान छैन"
+
+msgid "Normal"
+msgstr "सामान्य"
+
+msgid "normal readout"
+msgstr "सामान्य पढाइ"
+
+msgid "Off"
+msgstr "बन्द"
+
+msgid "OK"
+msgstr "ठिक"
+
+msgid "On"
+msgstr "खोल"
+
+msgid "only face left-right"
+msgstr "बायाँ-दायाँ मात्र"
+
+msgid "Open"
+msgstr "खोल"
+
+msgid "Open a Scratch project"
+msgstr "स्क्र्याच परियोजना खोल"
+
+msgid "Open Project"
+msgstr "परियोजना खोल"
+
+msgid "or"
+msgstr "वा"
+
+msgid "Paint"
+msgstr "चित्र बनाऊ"
+
+msgid "Paint Editor"
+msgstr "चित्र सम्पादक"
+
+msgid "Paint new sprite"
+msgstr "नयाँ स्प्राइट सम्पादन गर"
+
+msgid "Paintbrush"
+msgstr "बुरुस"
+
+msgid "Password:"
+msgstr "पासवर्ड"
+
+msgid "Percent? (100 gives original size)"
+msgstr "प्रतिशत (१०० ले पुरा जनाउँछ)"
+
+msgid "Pictures"
+msgstr "तस्वीरहरू"
+
+msgid "pixelate"
+msgstr "पिक्सेलमय बनाऊ"
+
+msgid "play"
+msgstr "खेल्नु"
+
+msgid "Please enter a number"
+msgstr "एउटा अंक दिनुहोस्"
+
+msgid "pop"
+msgstr "खोल"
+
+msgid "Position the cross-hair to set the rotation center"
+msgstr "क्रस-हेयरलाई घुमाउने वस्तुको बिचमा राख"
+
+msgid "Preparing project..."
+msgstr "परियोजनाको तयारी गर्दै..."
+
+msgid "Project author:"
+msgstr "परियोजनाको निर्माता: "
+
+msgid "Project name"
+msgstr "परियोजनाको नाम"
+
+msgid "Project Notes"
+msgstr "परियोजना सम्बन्धी टिपोटहरू"
+
+msgid "Project notes"
+msgstr "परियोजना सम्बन्धी टिपोटहरू"
+
+msgid "Project uploaded."
+msgstr "परियोजना अपलोड भयो"
+
+msgid "Projects"
+msgstr "परियोजनाहरू"
+
+msgid "Quit"
+msgstr ""
+
+msgid "Quit Scratch"
+msgstr ""
+
+msgid "Reading"
+msgstr ""
+
+msgid "record"
+msgstr "रेकर्ड"
+
+msgid "Record"
+msgstr "रेकर्ड"
+
+msgid "recording"
+msgstr "रेकर्ड गर्दै"
+
+msgid "Rectangle tool (draw outlined or filled rectangle or square)"
+msgstr "चतुर्भुज औजार (बाहिरी धर्सो भएको वा भरिएको चतुर्भुज वा वर्ग बनाऊ)"
+
+msgid "Redo"
+msgstr "पुन: दोहोर्‍याऊ"
+
+msgid "Reference Guide"
+msgstr ""
+
+msgid "Remote sensor connections enabled"
+msgstr ""
+
+msgid "Remove viewer from stage"
+msgstr "मञ्चबाट दृश्यलाई हटाऊ"
+
+msgid "resistance"
+msgstr "प्रतिरोध"
+
+msgid "resize this sprite"
+msgstr ""
+
+msgid "reverse"
+msgstr ""
+
+msgid "right"
+msgstr "दायाँ"
+
+msgid "right arrow"
+msgstr "दायाँ धर्सो"
+
+msgid "Rotate clock-wise"
+msgstr "दायाँ घुमाऊ"
+
+msgid "Rotate counter-clock-wise"
+msgstr "बायाँ घुमाऊ"
+
+msgid "rotate this sprite"
+msgstr ""
+
+msgid "Rotation degrees?"
+msgstr "घुमाई कोण"
+
+msgid "Save"
+msgstr "सञ्चय"
+
+msgid "Save a copy of the current project"
+msgstr "यस परियोजनाको अर्को प्रति सञ्चित गर"
+
+msgid "Save As"
+msgstr "अर्को नाममा सञ्चित गर"
+
+msgid "Save changes before quitting?"
+msgstr ""
+
+msgid "Save failed"
+msgstr "सञ्चित असफल"
+
+msgid "save picture of scripts"
+msgstr "स्क्रिप्टको तस्वीर सञ्चित गर"
+
+msgid "save picture of stage..."
+msgstr "मञ्चको तस्वीर सञ्चित गर"
+
+msgid "Save Project"
+msgstr "परियोजना सञ्चित गर"
+
+msgid "Save Scripts Snapshot"
+msgstr "स्क्रिप्टको फोटो सञ्चित गर"
+
+msgid "Save Stage Shot"
+msgstr "मञ्चको फोटो सञ्चित गर"
+
+msgid "Save the current project"
+msgstr "यो परियोजना सञ्चित गर"
+
+msgid "Save the current project?"
+msgstr "यो परियोजना सञ्चित गर?"
+
+msgid "Save this project"
+msgstr ""
+
+msgid "Scripts"
+msgstr "स्क्रिप्टहरू"
+
+msgid "select serial/USB port"
+msgstr "सिरियल वा USB पोर्ट छान"
+
+msgid "Select tool (move, modify, or delete selection)"
+msgstr "सार्ने, मिलाउने वा मेटाउने औजार छान"
+
+msgid "Set costume center"
+msgstr ""
+
+msgid "Set language"
+msgstr ""
+
+msgid "Set rotation center"
+msgstr "घुमाइको बिच मिलाऊ"
+
+msgid "Set Single Stepping"
+msgstr "एकल कदम बनाऊ"
+
+msgid "set slider min and max"
+msgstr "सानो र ठुलो मान मिलाऊ"
+
+msgid "Share"
+msgstr "साझा गर"
+
+msgid "Share this project"
+msgstr ""
+
+msgid "Share This Project Online"
+msgstr "यो परियोजना अनलाइन राख"
+
+msgid "Show Motor Blocks"
+msgstr ""
+
+msgid "show ScratchBoard watcher"
+msgstr "स्क्रयाचबोर्ड दर्शक देखाऊ"
+
+msgid "Shrink"
+msgstr "खुम्च्याऊ"
+
+msgid "Shrink sprite"
+msgstr "स्प्राइट खुम्च्याऊ"
+
+msgid "Simulation"
+msgstr ""
+
+msgid "Single-step speed?"
+msgstr "एकल कदम गति"
+
+msgid "slider"
+msgstr "सार्ने"
+
+msgid "Slider range:"
+msgstr "सार्नेको खण्ड"
+
+msgid "Sound quality:"
+msgstr "आवाजको स्तर"
+
+msgid "Sound Recorder"
+msgstr "आवाउ रेकर्डर"
+
+msgid "Sounds"
+msgstr "आवाजहरू"
+
+msgid "Sounds compressed"
+msgstr "आवाजको फाइलहरू सानो पारियो"
+
+msgid "space"
+msgstr "खाली ठाउँ"
+
+msgid "Sprite"
+msgstr "स्प्राइट"
+
+msgid "Sprites"
+msgstr ""
+
+msgid "sqrt"
+msgstr "वर्गमूल"
+
+msgid "Stage"
+msgstr "मञ्च"
+
+msgid "Stage selected:"
+msgstr "छानिएको मञ्च:"
+
+msgid "Stamp tool (select area, then stamp copies of it)"
+msgstr "छाप्ने औजार (क्षेत्र छानेर त्यसको प्रतिलिपि बनाऊ)"
+
+msgid "Start green flag scripts"
+msgstr "हरियो झण्डा स्क्रिप्ट सुरु"
+
+msgid "Start Single Stepping"
+msgstr "एकल कदम सुरु"
+
+msgid "stop"
+msgstr "रोक"
+
+msgid "Stop everything"
+msgstr "सबै रोक"
+
+msgid "Stop Single Stepping"
+msgstr "एकल कदम बन्द"
+
+msgid "Story"
+msgstr ""
+
+msgid "Support Site"
+msgstr ""
+
+msgid "Switch colors"
+msgstr "रङ्ग परिवर्तन गर"
+
+msgid "Switch to full stage"
+msgstr ""
+
+msgid "Switch to presentation mode"
+msgstr ""
+
+msgid "Switch to small stage"
+msgstr ""
+
+msgid "Tags:"
+msgstr "चिनोहरू:"
+
+msgid "Text tool (edit text layer)"
+msgstr "शब्द औजार"
+
+msgid "That variable name is already in use"
+msgstr ""
+
+msgid "that way"
+msgstr ""
+
+msgid "The file name already exists. Overwrite existing file?"
+msgstr ""
+
+msgid "thing"
+msgstr ""
+
+msgid "this way"
+msgstr ""
+
+msgid "tilt"
+msgstr ""
+
+msgid "true"
+msgstr "ठिक"
+
+msgid "Turbo speed"
+msgstr "अत्यधिक गति"
+
+msgid "turn into new sprite"
+msgstr "नयाँ स्प्राइटमा परिवर्तन गर"
+
+msgid "Undelete"
+msgstr ""
+
+msgid "Undo"
+msgstr "पुनर्बस्था"
+
+msgid "up"
+msgstr "माथि"
+
+msgid "up arrow"
+msgstr "उँभो धर्सो"
+
+msgid "Updating thumbnails"
+msgstr ""
+
+msgid "Upload succeeded!"
+msgstr "अपलोड भयो!"
+
+msgid "Upload to Scratch Server"
+msgstr "स्क्रयाच सर्भरमा अपलोड गर"
+
+msgid "Uploading"
+msgstr "अपलोड गर्दै"
+
+msgid "Variable name?"
+msgstr "चलमानको नाम?"
+
+msgid "View on stage"
+msgstr "मञ्चमा हेर"
+
+msgid "What's your name?"
+msgstr ""
+
+msgid "whirl"
+msgstr "घुम्नु"
+
+msgid "world"
+msgstr ""
+
+msgid "Write Multiple Project Summaries"
+msgstr "एकभन्दा बढि परियोजनाको सारांश लेख"
+
+msgid "Write Project Summary"
+msgstr "परियोजनाको सारांश लेख"
+
+msgid "Yes"
+msgstr "हो"
+
+msgid "Your project is now online at"
+msgstr "तिम्रो परियोजना हाल उपलब्ध छ: "
+
+msgid "Your Scratch website login name:"
+msgstr "तिम्रो स्क्रयाच वेबसाइटको प्रवेश नाम"
+
+msgid "Zoom in"
+msgstr "नजिकबाट हेर"
+
+msgid "Zoom out"
+msgstr "टाढाबाट हेर"
+
+############################################
+# MIDI INSTRUMENTS
+############################################
+
+msgid "Accordion"
+msgstr "एकर्डियन्"
+
+msgid "Acoustic Bass"
+msgstr "एकस्टिक बेस"
+
+msgid "Acoustic Bass Drum"
+msgstr "एकस्टिक बेस ड्रम"
+
+msgid "Acoustic Grand"
+msgstr "एकस्टिक ग्रान्ड"
+
+msgid "Acoustic Snare"
+msgstr "एकस्टिक स्नेर"
+
+msgid "Agogo"
+msgstr "एगोगो"
+
+msgid "Alto Sax"
+msgstr "अल्टो स्याक्स्"
+
+msgid "Applause"
+msgstr "ताली"
+
+msgid "Bagpipe"
+msgstr "ब्यागपाइप"
+
+msgid "Banjo"
+msgstr "बेन्जो"
+
+msgid "Baritone Sax"
+msgstr "बेरिटोन स्याक्स्"
+
+msgid "Bass Drum 1"
+msgstr "बेस ड्रम १"
+
+msgid "Bassoon"
+msgstr "ब्यासोन"
+
+msgid "Bird Tweet"
+msgstr "चराको चिरबिर"
+
+msgid "Blown Bottle"
+msgstr "बोतलमा फुक्ने"
+
+msgid "Brass Section"
+msgstr "ब्रास सेक्सन्"
+
+msgid "Breath Noise"
+msgstr "खासखुसे आवाज"
+
+msgid "Bright Acoustic"
+msgstr "ब्राइट एकस्टिक"
+
+msgid "Cabasa"
+msgstr "काबासा"
+
+msgid "Celesta"
+msgstr "सेलेस्टा"
+
+msgid "Cello"
+msgstr "सेलो"
+
+msgid "Chinese Cymbal"
+msgstr "चाइनिज सिम्बल"
+
+msgid "Choir Aahs"
+msgstr "कोएर आ"
+
+msgid "Church Organ"
+msgstr "चर्च अर्गान"
+
+msgid "Clarinet"
+msgstr "क्लारिनेट"
+
+msgid "Claves"
+msgstr "क्लाभ्स्"
+
+msgid "Clavinet"
+msgstr "क्लाभिनेट"
+
+msgid "Closed Hi-Hat"
+msgstr "बन्द हाइयाट"
+
+msgid "Contrabass"
+msgstr "कन्ट्राबेस"
+
+msgid "Cowbell"
+msgstr "काउबेल"
+
+msgid "Crash Cymbal 1"
+msgstr "क्रयास सिम्बल १"
+
+msgid "Crash Cymbal 2"
+msgstr "क्रयास सिम्बल २"
+
+msgid "Distortion Guitar"
+msgstr "डिस्टर्सन गितार"
+
+msgid "Drawbar Organ"
+msgstr "ड्रबार अर्गान"
+
+msgid "Dulcimer"
+msgstr "डुल्सिमर"
+
+msgid "Electric Bass (finger)"
+msgstr "इलेक्ट्रिक बेस (औलावाला)"
+
+msgid "Electric Bass (pick)"
+msgstr "इलेक्ट्रिक बेस (तान्ने)"
+
+msgid "Electric Clean Guitar"
+msgstr "इलेक्ट्रिक क्लिन गितार"
+
+msgid "Electric Grand"
+msgstr ""
+
+msgid "Electric Jazz Guitar"
+msgstr "इलेक्ट्रिक ज्याज गितार"
+
+msgid "Electric Muted Guitar"
+msgstr "इलेक्ट्रिक म्युटेड गितार"
+
+msgid "Electric Piano 1"
+msgstr "इलेक्ट्रिक पियानो १"
+
+msgid "Electric Piano 2"
+msgstr "इलेक्ट्रिक पियानो २"
+
+msgid "Electric Snare"
+msgstr "इलेक्ट्रिक स्नेर"
+
+msgid "English Horn"
+msgstr "अङ्ग्रेजी हर्न"
+
+msgid "FX 1 (rain)"
+msgstr "एफ एक्स १ (पानी परेको आवाज)"
+
+msgid "FX 2 (soundtrack)"
+msgstr "एफ एक्स २ (साउन्डट्रयाक)"
+
+msgid "FX 3 (crystal)"
+msgstr "एफ एक्स ३ (क्रिस्टल)"
+
+msgid "FX 4 (atmosphere)"
+msgstr "एफ एक्स ४ (वातावरणीय)"
+
+msgid "FX 5 (brightness)"
+msgstr "एफ एक्स ५ (चहक)"
+
+msgid "FX 6 (goblins)"
+msgstr "एफ एक्स ६ (गब्लिन)"
+
+msgid "FX 7 (echoes)"
+msgstr "एफ एक्स ७ (इको)"
+
+msgid "FX 8 (sci-fi)"
+msgstr "एफ एक्स ८ (वैज्ञानिक)"
+
+msgid "Fiddle"
+msgstr "फिडल"
+
+msgid "Flute"
+msgstr "बाँसुरी"
+
+msgid "French Horn"
+msgstr "फ्रेन्च हर्न"
+
+msgid "Fretless Bass"
+msgstr "फ्रेट नभएको बेस"
+
+msgid "Glockenspiel"
+msgstr "ग्लोकनस्पेल"
+
+msgid "Guitar Fret Noise"
+msgstr "गितार फ्रेट न्योइज"
+
+msgid "Guitar Harmonics"
+msgstr "गितार हार्मोनिक्स्"
+
+msgid "Gunshot"
+msgstr "गनसट"
+
+msgid "Hand Clap"
+msgstr "ह्यान्ड क्ल्याप"
+
+msgid "Harmonica"
+msgstr "हार्मोनिका"
+
+msgid "Harpsichord"
+msgstr "हार्प्सिकर्ड"
+
+msgid "Helicopter"
+msgstr "हेलिकप्टर"
+
+msgid "Hi Bongo"
+msgstr "हाइ बोंगो"
+
+msgid "Hi Wood Block"
+msgstr "हाइ उड ब्लक"
+
+msgid "Hi-Mid Tom"
+msgstr "हाइ मिड टप"
+
+msgid "High Agogo"
+msgstr "हाइ अगोगो"
+
+msgid "High Floor Tom"
+msgstr "हाइ फ्लोर टम"
+
+msgid "High Timbale"
+msgstr "हाइ टिम्बेल"
+
+msgid "High Tom"
+msgstr "हाइ टम"
+
+msgid "Honky-Tonk"
+msgstr "हङ्की टङ्क"
+
+msgid "Kalimba"
+msgstr "कालिम्बा"
+
+msgid "Koto"
+msgstr "कोतो"
+
+msgid "Lead 1 (square)"
+msgstr "लिड १ (वर्ग)"
+
+msgid "Lead 2 (sawtooth)"
+msgstr "लिड २ (स-तुथ)"
+
+msgid "Lead 3 (calliope)"
+msgstr "लिड ३ (स्यालिओप)"
+
+msgid "Lead 4 (chiff)"
+msgstr "लिड ४ (सिफ)"
+
+msgid "Lead 5 (charang)"
+msgstr "लिड ५ (चाराङ्ग)"
+
+msgid "Lead 6 (voice)"
+msgstr "लिड ६ (ध्वनी)"
+
+msgid "Lead 7 (fifths)"
+msgstr "लिड ७ (पाचौँ)"
+
+msgid "Lead 8 (bass+lead)"
+msgstr "लिड ८ (बेस + लिड)"
+
+msgid "Long Guiro"
+msgstr "लामो गुइरो"
+
+msgid "Long Whistle"
+msgstr "लामो सुसेली"
+
+msgid "Low Agogo"
+msgstr "लो अगोगो"
+
+msgid "Low Bongo"
+msgstr "लो बोङ्गो"
+
+msgid "Low Conga"
+msgstr "लो कोङ्गा"
+
+msgid "Low Floor Tom"
+msgstr "लो फ्लोर टम"
+
+msgid "Low Timbale"
+msgstr "लो टिम्बेल"
+
+msgid "Low Tom"
+msgstr "लो टम"
+
+msgid "Low Wood Block"
+msgstr "लो उड ब्लक"
+
+msgid "Low-Mid Tom"
+msgstr "लो मिड टम"
+
+msgid "Maracas"
+msgstr "मार्कास"
+
+msgid "Marimba"
+msgstr "मारिम्बा"
+
+msgid "Melodic Tom"
+msgstr "मेलोडिक टम"
+
+msgid "Music Box"
+msgstr "सङ्गीत बाकस"
+
+msgid "Mute Cuica"
+msgstr "म्युट कुइसा"
+
+msgid "Mute Hi Conga"
+msgstr "म्युट हाइ कोङ्गा"
+
+msgid "Mute Triangle"
+msgstr "म्युट त्रिकोण"
+
+msgid "Muted Trumpet"
+msgstr "म्युट ट्रम्पेट"
+
+msgid "Nylon String Guitar"
+msgstr "नाइलन स्ट्रिङ्ग गितार"
+
+msgid "Oboe"
+msgstr "ओबे"
+
+msgid "Ocarina"
+msgstr "ओसेरिना"
+
+msgid "Open Cuica"
+msgstr "ओपन कुइसा"
+
+msgid "Open Hi Conga"
+msgstr "ओपन हाइ कोङ्गा"
+
+msgid "Open Hi-Hat"
+msgstr "ओपन हाइयाट"
+
+msgid "Open Triangle"
+msgstr "ओपन त्रिकोण"
+
+msgid "Orchestra Hit"
+msgstr "अर्केस्ट्रा हिट"
+
+msgid "Orchestral Strings"
+msgstr "अर्केस्ट्रल स्ट्रिङ्गस्"
+
+msgid "Overdriven Guitar"
+msgstr "ओभरड्रिभन गितार"
+
+msgid "Pad 1 (new age)"
+msgstr "प्याड १ (नयाँ युग)"
+
+msgid "Pad 2 (warm)"
+msgstr "प्याड २ (न्यानो)"
+
+msgid "Pad 3 (polysynth)"
+msgstr "प्याड ३ (पोलीसिन्थ्)"
+
+msgid "Pad 4 (choir)"
+msgstr "प्याड ४ (कोइर)"
+
+msgid "Pad 5 (bowed)"
+msgstr "प्याड ५ (बोड)"
+
+msgid "Pad 6 (metallic)"
+msgstr "प्याड ६ (मेटालिक)"
+
+msgid "Pad 7 (halo)"
+msgstr "प्याड ७ (ह्यालो)"
+
+msgid "Pad 8 (sweep)"
+msgstr "प्याड ८ (स्विप)"
+
+msgid "Pan Flute"
+msgstr "प्यान बाँसुरी"
+
+msgid "Pedal Hi-Hat"
+msgstr "पेडल हाइह्याट"
+
+msgid "Percussive Organ"
+msgstr "प्रिकसिभ अर्गान"
+
+msgid "Piccolo"
+msgstr "पिकोलो"
+
+msgid "Pizzicato Strings"
+msgstr "पिजिकातो स्ट्रिङ्गस्"
+
+msgid "Recorder"
+msgstr "रेकर्डर"
+
+msgid "Reed Organ"
+msgstr "रिड अर्गान"
+
+msgid "Reverse Cymbal"
+msgstr "रिभर्स सिम्बल"
+
+msgid "Ride Bell"
+msgstr "राइड बेल"
+
+msgid "Ride Cymbal 1"
+msgstr "राइड सिम्बल १"
+
+msgid "Ride Cymbal 2"
+msgstr "राइड सिम्बल २"
+
+msgid "Rock Organ"
+msgstr "रक अर्गान"
+
+msgid "Seashore"
+msgstr "सिसोर"
+
+msgid "Shakuhachi"
+msgstr "स्काकुहाची"
+
+msgid "Shamisen"
+msgstr "सामिसेन"
+
+msgid "Shanai"
+msgstr "सहनाइ"
+
+msgid "Short Guiro"
+msgstr "छोटो गुइरो"
+
+msgid "Short Whistle"
+msgstr "छोटो सिटी"
+
+msgid "Side Stick"
+msgstr "साइड स्टिक"
+
+msgid "Sitar"
+msgstr "सितार"
+
+msgid "Slap Bass 1"
+msgstr "स्लाप बेस १"
+
+msgid "Slap Bass 2"
+msgstr "स्लाप बेस २"
+
+msgid "Soprano Sax"
+msgstr "सोप्रानो स्याक्स"
+
+msgid "Splash Cymbal"
+msgstr "स्प्लास सिम्बल"
+
+msgid "Steel Drums"
+msgstr "स्टिल ड्रम"
+
+msgid "Steel String Guitar"
+msgstr "स्टिल स्ट्रिङ गितार"
+
+msgid "String Ensemble 1"
+msgstr "स्ट्रिङ इनसेम्बल १"
+
+msgid "String Ensemble 2"
+msgstr "स्ट्रिङ इनसेम्बल २"
+
+msgid "Synth Bass 1"
+msgstr "सिन्थ बेस १"
+
+msgid "Synth Bass 2"
+msgstr "सिन्थ बेस २"
+
+msgid "Synth Drum"
+msgstr "सिन्थ ड्रम"
+
+msgid "Synth Voice"
+msgstr "सिन्थ भ्वोइस्"
+
+msgid "SynthBrass 1"
+msgstr "सिन्थब्रास १"
+
+msgid "SynthBrass 2"
+msgstr "सिन्थब्रास २"
+
+msgid "SynthStrings 1"
+msgstr "सिन्थस्ट्रिङ्स् १"
+
+msgid "SynthStrings 2"
+msgstr "सिन्थस्ट्रिङ्स् २"
+
+msgid "Taiko Drum"
+msgstr ""
+
+msgid "Tambourine"
+msgstr "टाम्बोरिन"
+
+msgid "Tango Accordion"
+msgstr "ट्याङ्गो एकोर्डियन"
+
+msgid "Telephone Ring"
+msgstr "टेलिफोन रिङ्ग"
+
+msgid "Tenor Sax"
+msgstr "टेनोर स्याक्स"
+
+msgid "Timpani"
+msgstr "टिम्पानी"
+
+msgid "Tinkle Bell"
+msgstr "टिङ्कल बेल"
+
+msgid "Tremolo Strings"
+msgstr "ट्रेमोलो स्ट्रिङ्स्"
+
+msgid "Trombone"
+msgstr "ट्रोम्बोन्"
+
+msgid "Trumpet"
+msgstr "ट्रम्पेट"
+
+msgid "Tuba"
+msgstr "ट्युबा"
+
+msgid "Tubular Bells"
+msgstr "ट्युबुलर बेल"
+
+msgid "Vibraphone"
+msgstr "भाइब्राफोन"
+
+msgid "Vibraslap"
+msgstr "भाइब्रास्ल्याप"
+
+msgid "Viola"
+msgstr "भोइला"
+
+msgid "Violin"
+msgstr "भाएलिन"
+
+msgid "Voice Oohs"
+msgstr "भ्वइस ओ"
+
+msgid "Whistle"
+msgstr "सुसेली"
+
+msgid "Woodblock"
+msgstr "वुडब्लक"
+
+msgid "Xylophone"
+msgstr "जाइलोफोन"
+

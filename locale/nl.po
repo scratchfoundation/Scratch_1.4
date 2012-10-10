@@ -1,0 +1,1921 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: Scratch\n"
+"Report-Msgid-Bugs-To: Evelyn Eastmond <evelyn@media.mit.edu>\n"
+"POT-Creation-Date: 2008-04-30 19:55+0200\n"
+"PO-Revision-Date: 2009-06-09 08:58-0400\n"
+"Last-Translator: Piers Titus van der Torren <pierstitus@gmail.com>\n"
+"Language-Team: Dutch <vertaling@vrijschrift.org>\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 1.2.0\n"
+
+############################################
+# FORMATTING
+############################################
+
+# Language name as you'd like it to appear in the Languages menu
+# (Required)
+msgid "Language-Name"
+msgstr "Nederlands"
+
+# Directionality of language
+# LTR = Left to Right
+# RTL = Right to Left
+msgid "Language-Direction"
+msgstr "LTR"
+
+# Scale to apply to font size (2 for twice as large)
+# Use this if the font is too small for legibility on the Scratch interface
+msgid "Font-Scale"
+msgstr "1"
+
+# Set to 'true' or 'false'
+# Use this if you do not want any of the text to be bolded, for legibility
+msgid "Suppress-Bold"
+msgstr "false"
+
+# Font to use on a Windows system
+msgid "Win-Font"
+msgstr ""
+
+# Font to use on a Mac system
+msgid "Mac-Font"
+msgstr ""
+
+# Font to use on a Linux system
+msgid "Linux-Font"
+msgstr ""
+
+############################################
+# BLOCKS
+############################################
+
+msgid "%H sensor value"
+msgstr "waarde van sensor %H"
+
+msgid "%L contains %s"
+msgstr "%L bevat %s"
+
+msgid "%a of %m"
+msgstr "%a van %m"
+
+msgid "%b and %b"
+msgstr "%b en %b"
+
+msgid "%b or %b"
+msgstr "%b of %b"
+
+msgid "%f of %n"
+msgstr "%f van %n"
+
+msgid "%n mod %n"
+msgstr "%n modulo %n"
+
+msgid "add %s to %L"
+msgstr "voeg %s toe aan %L"
+
+msgid "answer"
+msgstr "antwoord"
+
+msgid "ask %s and wait"
+msgstr "vraag %s en wacht"
+
+msgid "background #"
+msgstr "achtergrond #"
+
+msgid "broadcast %e"
+msgstr "zend signaal %e"
+
+msgid "broadcast %e and wait"
+msgstr "zend signaal %e en wacht"
+
+msgid "change %g effect by %n"
+msgstr "verander %g-effect met %n"
+
+msgid "change %v by %n"
+msgstr "verander %v met %n"
+
+msgid "change pen color by %n"
+msgstr "verander penkleur met %n"
+
+msgid "change pen shade by %n"
+msgstr "verander penhelderheid met %n"
+
+msgid "change pen size by %n"
+msgstr "verander pendikte met %n"
+
+msgid "change size by %n"
+msgstr "verander grootte met %n"
+
+msgid "change tempo by %n"
+msgstr "verander tempo met %n"
+
+msgid "change volume by %n"
+msgstr "verander volume met %n"
+
+msgid "change x by %n"
+msgstr "verander x met %n"
+
+msgid "change y by %n"
+msgstr "verander y met %n"
+
+msgid "clear"
+msgstr "wis het scherm"
+
+msgid "clear graphic effects"
+msgstr "zet alle effecten uit"
+
+msgid "color %C is touching %C?"
+msgstr "kleur %C raakt %C?"
+
+msgid "control"
+msgstr "besturen"
+
+msgid "costume #"
+msgstr "uiterlijk #"
+
+msgid "delete %y of %L"
+msgstr "verwijder item %y van %L"
+
+msgid "direction"
+msgstr "richting"
+
+msgid "distance to %m"
+msgstr "afstand tot %m"
+
+msgid "else"
+msgstr "anders"
+
+msgid "forever"
+msgstr "herhaal"
+
+msgid "forever if %b"
+msgstr "herhaal als %b"
+
+msgid "glide %n secs to x:%n y:%n"
+msgstr "schuif in %n tellen naar x:%n y:%n"
+
+msgid "go back %n layers"
+msgstr "ga %n lagen naar achteren"
+
+msgid "go to %m"
+msgstr "ga naar %m"
+
+msgid "go to front"
+msgstr "ga naar voorgrond"
+
+msgid "go to x:%n y:%n"
+msgstr "ga naar x:%n y:%n"
+
+msgid "hide"
+msgstr "verdwijn"
+
+msgid "hide variable %v"
+msgstr "verberg variabele %v"
+
+msgid "if %b"
+msgstr "als %b"
+
+msgid "if on edge, bounce"
+msgstr "keer om als aan de rand"
+
+msgid "insert %s at %i of %L"
+msgstr "voeg %s in op %i van %L"
+
+msgid "item %i of %L"
+msgstr "item %i van %L"
+
+msgid "join %s %s"
+msgstr "voeg %s en %s samen"
+
+msgid "key %k pressed?"
+msgstr "toets %k ingedrukt?"
+
+msgid "length of %L"
+msgstr "lengte van %L"
+
+msgid "length of %s"
+msgstr "lengte van %s"
+
+msgid "letter %n of %s"
+msgstr "letter %n van %s"
+
+msgid "list"
+msgstr "lijst"
+
+msgid "looks"
+msgstr "uiterlijk"
+
+msgid "loud?"
+msgstr "luid?"
+
+msgid "loudness"
+msgstr "volume"
+
+msgid "motion"
+msgstr "bewegen"
+
+msgid "motor direction %W"
+msgstr "motorrichting %W"
+
+msgid "motor off"
+msgstr "motor uit"
+
+msgid "motor on"
+msgstr "motor aan"
+
+msgid "motor on for %n secs"
+msgstr "motor aan %n"
+
+msgid "motor power %n"
+msgstr "motorvermogen %n"
+
+msgid "mouse down?"
+msgstr "muis ingedrukt?"
+
+msgid "mouse x"
+msgstr "muis x"
+
+msgid "mouse y"
+msgstr "muis y"
+
+msgid "move %n steps"
+msgstr "neem %n stappen"
+
+msgid "next background"
+msgstr "volgende achtergrond"
+
+msgid "next costume"
+msgstr "volgende uiterlijk"
+
+msgid "not %b"
+msgstr "niet %b"
+
+msgid "operators"
+msgstr "functies"
+
+msgid "pen"
+msgstr "pen"
+
+msgid "pen down"
+msgstr "pen neer"
+
+msgid "pen up"
+msgstr "pen op"
+
+msgid "pick random %n to %n"
+msgstr "willekeurig getal tussen %n en %n"
+
+msgid "play drum %D for %n beats"
+msgstr "speel slagwerk %D %n tellen"
+
+msgid "play note %N for %n beats"
+msgstr "speel noot %N %n tellen"
+
+msgid "play sound %S"
+msgstr "start geluid %S"
+
+msgid "play sound %S until done"
+msgstr "start geluid %S en wacht"
+
+msgid "point in direction %d"
+msgstr "richt naar %d graden"
+
+msgid "point towards %m"
+msgstr "richt naar %m"
+
+msgid "repeat %n"
+msgstr "herhaal %n maal"
+
+msgid "repeat until %b"
+msgstr "herhaal tot %b"
+
+msgid "replace item %i of %L with %s"
+msgstr "vervang item %i van %L door %s"
+
+msgid "reset timer"
+msgstr "zet tijd op nul"
+
+msgid "rest for %n beats"
+msgstr "pauzeer %n tellen"
+
+msgid "round %n"
+msgstr "afgerond %n"
+
+msgid "say %s"
+msgstr "zeg %s"
+
+msgid "say %s for %n secs"
+msgstr "zeg %n tellen %s"
+
+msgid "sensing"
+msgstr "waarnemen"
+
+msgid "sensor %h?"
+msgstr "sensor %h?"
+
+msgid "set %g effect to %n"
+msgstr "zet %g-effect op %n"
+
+msgid "set %v to %n"
+msgstr "maak %v %n"
+
+msgid "set instrument to %I"
+msgstr "gebruik instrument %I"
+
+msgid "set pen color to %c"
+msgstr "maak penkleur %c"
+
+msgid "set pen color to %n"
+msgstr "maak penkleur %n"
+
+msgid "set pen shade to %n"
+msgstr "maak penhelderheid %n"
+
+msgid "set pen size to %n"
+msgstr "maak pendikte %n"
+
+msgid "set size to %n%"
+msgstr "maak grootte %n%"
+
+msgid "set tempo to %n bpm"
+msgstr "maak tempo %n bpm"
+
+msgid "set volume to %n%"
+msgstr "maak volume %n%"
+
+msgid "set x to %n"
+msgstr "maak x %n"
+
+msgid "set y to %n"
+msgstr "maak y %n"
+
+msgid "show"
+msgstr "verschijn"
+
+msgid "show variable %v"
+msgstr "toon variabele %v"
+
+msgid "size"
+msgstr "grootte"
+
+msgid "sound"
+msgstr "geluid"
+
+msgid "stamp"
+msgstr "stempel"
+
+msgid "stop all"
+msgstr "stop alles"
+
+msgid "stop all sounds"
+msgstr "stop alle geluiden"
+
+msgid "stop script"
+msgstr "stop script"
+
+msgid "switch to background %l"
+msgstr "wissel naar achtergrond %l"
+
+msgid "switch to costume %l"
+msgstr "wissel naar uiterlijk %l"
+
+msgid "tempo"
+msgstr "tempo"
+
+msgid "think %s"
+msgstr "denk %s"
+
+msgid "think %s for %n secs"
+msgstr "denk %n tellen %s"
+
+msgid "timer"
+msgstr "tijd"
+
+msgid "touching %m?"
+msgstr "raak ik %m?"
+
+msgid "touching color %C?"
+msgstr "raak ik kleur %C?"
+
+msgid "turn %n degrees"
+msgstr "draai %n graden"
+
+msgid "variables"
+msgstr "variabelen"
+
+msgid "volume"
+msgstr "volume"
+
+msgid "wait %n secs"
+msgstr "wacht %n tellen"
+
+msgid "wait until %b"
+msgstr "wacht tot %b"
+
+msgid "when %k key pressed"
+msgstr "wanneer %k wordt ingedrukt"
+
+msgid "when %m clicked"
+msgstr "wanneer %m wordt aangeklikt"
+
+msgid "when I receive %e"
+msgstr "wanneer ik signaal %e ontvang"
+
+msgid "x position"
+msgstr "x-positie"
+
+msgid "y position"
+msgstr "y-positie"
+
+############################################
+# USER INTERFACE
+############################################
+
+msgid "(empty)"
+msgstr "(leeg)"
+
+msgid "1 script"
+msgstr "1 script"
+
+msgid "About Scratch"
+msgstr "Over Scratch"
+
+msgid "About this project:"
+msgstr "Projectomschrijving:"
+
+msgid "abs"
+msgstr "absoluut"
+
+msgid "add comment"
+msgstr "voeg commentaar toe"
+
+msgid "add comment here"
+msgstr "voeg hier commentaar toe"
+
+msgid "all"
+msgstr "alle"
+
+msgid "and"
+msgstr "en"
+
+msgid "Animation"
+msgstr "Animatie"
+
+msgid "any"
+msgstr "willekeurig"
+
+msgid "Art"
+msgstr "Kunst"
+
+msgid "background"
+msgstr "achtergrond"
+
+msgid "backgrounds"
+msgstr "achtergronden"
+
+msgid "Backgrounds"
+msgstr "Achtergronden"
+
+msgid "brightness"
+msgstr "helderheid"
+
+msgid "Brush size: "
+msgstr "Lijndikte: "
+
+msgid "button"
+msgstr "knop"
+
+msgid "button pressed"
+msgstr "knop ingedrukt"
+
+msgid "Camera"
+msgstr "Camera"
+
+msgid "can rotate"
+msgstr "kan helemaal rond draaien"
+
+msgid "cancel"
+msgstr "annuleren"
+
+msgid "Cancel"
+msgstr "Annuleren"
+
+msgid "Choose a folder"
+msgstr "Kies een map"
+
+msgid "Choose new sprite from file"
+msgstr "Een sprite uit een bestand kiezen"
+
+msgid "clean up"
+msgstr "ordenen"
+
+msgid "Clear"
+msgstr "Wissen"
+
+msgid "Clear canvas"
+msgstr "Het scherm leegmaken"
+
+msgid "Close and continue"
+msgstr "Afsluiten en doorgaan"
+
+msgid "Close dialog?"
+msgstr "Dialoog sluiten?"
+
+msgid "Close paint editor?"
+msgstr "Tekenmodus sluiten?"
+
+msgid "close port"
+msgstr "poort sluiten"
+
+msgid "Close sound recorder?"
+msgstr "Geluidsopname sluiten?"
+
+msgid "color"
+msgstr "kleur"
+
+msgid "Compress Images"
+msgstr "Afbeeldingen comprimeren"
+
+msgid "Compress Sounds"
+msgstr "Geluiden comprimeren"
+
+msgid "Compress sounds and images"
+msgstr "Geluiden en afbeeldingen comprimeren"
+
+msgid "Computer"
+msgstr "Computer"
+
+msgid "connected"
+msgstr "verbonden"
+
+msgid "Connecting to "
+msgstr "Verbinding maken met "
+
+msgid "Copy"
+msgstr "Kopiëren"
+
+msgid "costume"
+msgstr "uiterlijk"
+
+msgid "costumes"
+msgstr "uiterlijken"
+
+msgid "Costumes"
+msgstr "Uiterlijken"
+
+msgid "Could not read"
+msgstr "Kan niet lezen"
+
+msgid "Could not read project; file may be damaged"
+msgstr "Kan project niet lezen; bestand is mogelijk beschadigd"
+
+msgid "Could not write file"
+msgstr "Kan het bestand niet schrijven"
+
+msgid "Create account"
+msgstr "Account aanmaken"
+
+msgid "Create an empty project"
+msgstr "Een nieuw, leeg project aanmaken"
+
+msgid "Data sent. Waiting for response..."
+msgstr "Data is verzonden. Wacht op antwoord..."
+
+msgid "delete"
+msgstr "verwijderen"
+
+msgid "Delete"
+msgstr "Verwijderen"
+
+msgid "Delete a list"
+msgstr "Een lijst verwijderen"
+
+msgid "Delete a variable"
+msgstr "Een variabele verwijderen"
+
+msgid "Delete this background"
+msgstr "Deze achtergrond verwijderen"
+
+msgid "Delete this costume"
+msgstr "Dit uiterlijk verwijderen"
+
+msgid "Delete this sound"
+msgstr "Dit geluid verwijderen"
+
+msgid "Delete this sprite"
+msgstr "Deze sprite verwijderen"
+
+msgid "Desktop"
+msgstr "Bureaublad"
+
+msgid "disable remote sensor connections"
+msgstr "sensorverbindingen met elders uitschakelen"
+
+msgid "distance"
+msgstr "afstand"
+
+msgid "Documents"
+msgstr "Documenten"
+
+msgid "don't rotate"
+msgstr "kan niet draaien"
+
+msgid "Don't Save"
+msgstr "Niet opslaan"
+
+msgid "Done"
+msgstr "Klaar"
+
+msgid "down"
+msgstr "omlaag"
+
+msgid "down arrow"
+msgstr "pijltje omlaag"
+
+msgid "drag to resize"
+msgstr "sleep om grootte te veranderen"
+
+msgid "drag to rotate"
+msgstr "sleep om te draaien"
+
+msgid "draggable on website?"
+msgstr "versleepbaar op website?"
+
+msgid "duplicate"
+msgstr "kopie maken"
+
+msgid "Duplicate"
+msgstr "Kopie maken"
+
+msgid "edge"
+msgstr "rand"
+
+msgid "Edit"
+msgstr "Bewerken"
+
+msgid "Ellipse tool (draw outlined or filled ellipse or circle)"
+msgstr "Ellipsen trekken"
+
+msgid "enable remote sensor connections"
+msgstr "sensorverbindingen met elders inschakelen"
+
+msgid "Enter presentation mode"
+msgstr "Naar presentatiemodus gaan"
+
+msgid "Eraser"
+msgstr "Gummen"
+
+msgid "Eraser size"
+msgstr "Gumgrootte"
+
+msgid "Error!"
+msgstr "Fout!"
+
+msgid "Examples"
+msgstr "Voorbeelden"
+
+msgid "Exit presentation"
+msgstr "Presentatie sluiten"
+
+msgid "Exit presentation mode"
+msgstr "Presentatiemodus verlaten"
+
+msgid "export"
+msgstr "exporteren"
+
+msgid "Export Background"
+msgstr "Achtergrond exporteren"
+
+msgid "Export Costume"
+msgstr "Uiterlijk exporteren"
+
+msgid "Export failed"
+msgstr "Exporteren is mislukt"
+
+msgid "Export Sound"
+msgstr "Geluid exporteren"
+
+msgid "Export Sprite"
+msgstr "Exporteren"
+
+msgid "export this costume"
+msgstr "dit uiterlijk exporteren"
+
+msgid "export this sound"
+msgstr "dit geluid exporteren"
+
+msgid "export this sprite"
+msgstr "deze sprite exporteren"
+
+msgid "Extras menu"
+msgstr "Enkele extra functies"
+
+msgid "Eyedropper tool (select a color)"
+msgstr "Een kleur uitkiezen"
+
+msgid "Failed:"
+msgstr "Mislukt:"
+
+msgid "false"
+msgstr "onwaar"
+
+msgid "File"
+msgstr "Bestand"
+
+msgid "File not found"
+msgstr "Bestand is niet gevonden"
+
+msgid "Fill tool (fill areas with color or gradient)"
+msgstr "Met een kleur vullen"
+
+msgid "first"
+msgstr "eerste"
+
+msgid "fisheye"
+msgstr "vissenoog"
+
+msgid "Flash blocks (fast)"
+msgstr "Blokken laten knipperen (snel)"
+
+msgid "Flash blocks (slow)"
+msgstr "Blokken laten knipperen (langzaam)"
+
+msgid "Flip horizontally"
+msgstr "Horizontaal spiegelen"
+
+msgid "Flip vertically"
+msgstr "Verticaal spiegelen"
+
+msgid "For all sprites"
+msgstr "Voor alle sprites"
+
+msgid "For this sprite only"
+msgstr "Alleen voor deze sprite"
+
+msgid "Game"
+msgstr "Spel"
+
+msgid "Get surprise sprite"
+msgstr "Een verrassings-sprite toevoegen"
+
+msgid "Get the last thing deleted"
+msgstr "Het laatst verwijderde ding terugplaatsen"
+
+msgid "Getting Started"
+msgstr "Aan de slag"
+
+msgid "ghost"
+msgstr "geest"
+
+msgid "Go To Scratch Website"
+msgstr "Ga naar de Scratch website"
+
+msgid "grab screen region for new costume"
+msgstr "een gebied selecteren als nieuw uiterlijk"
+
+msgid "grab screen region for new sprite"
+msgstr "een gebied selecteren als nieuwe sprite"
+
+msgid "Grow"
+msgstr "Vergroten"
+
+msgid "Grow sprite"
+msgstr "Sprite vergroten"
+
+msgid "hello "
+msgstr "hallo "
+
+msgid "Hello!"
+msgstr "Hoi!"
+
+msgid "help"
+msgstr "hulp"
+
+msgid "Help"
+msgstr "Hulp"
+
+msgid "Help Page"
+msgstr "Hulppagina"
+
+msgid "Help Screens"
+msgstr "Hulpschermen"
+
+msgid "Hide Motor Blocks"
+msgstr "Motorblokjes verbergen"
+
+msgid "High (biggest)"
+msgstr "Hoog (grootste bestand)"
+
+msgid "Hmm..."
+msgstr "Hmm..."
+
+msgid "Home"
+msgstr ""
+
+msgid "Images compressed"
+msgstr "Gecomprimeerde afbeeldingen"
+
+msgid "import"
+msgstr "importeren"
+
+msgid "Import"
+msgstr "Importeren"
+
+msgid "Import an image on top of your current canvas"
+msgstr "Een afbeelding importeren over het huidige scherm heen"
+
+msgid "Import Background"
+msgstr "Achtergrond importeren"
+
+msgid "Import Costume"
+msgstr "Uiterlijk importeren"
+
+msgid "Import Image"
+msgstr "Afbeelding importeren"
+
+msgid "Import List"
+msgstr "Lijst importeren"
+
+msgid "Import Project"
+msgstr "Project importeren"
+
+msgid "import project"
+msgstr "project importeren"
+
+msgid "Import Sound"
+msgstr "Geluid importeren"
+
+msgid "Incompatible Scratch file format"
+msgstr "Verkeerd Scratch-bestand"
+
+msgid "Is the folder read-only?"
+msgstr "Is de map alleen-lezen?"
+
+msgid "JPEG Quality (10-100)?"
+msgstr "JPEG-kwaliteit (10-100)"
+
+msgid "kbytes"
+msgstr "kilobytes"
+
+msgid "Language"
+msgstr "Taal"
+
+msgid "large readout"
+msgstr "groot"
+
+msgid "last"
+msgstr "laatste"
+
+msgid "left"
+msgstr "links"
+
+msgid "left arrow"
+msgstr "pijltje naar links"
+
+msgid "length"
+msgstr "lengte"
+
+msgid "light"
+msgstr "licht"
+
+msgid "Line tool (draw lines)"
+msgstr "Lijnen trekken"
+
+msgid "List name?"
+msgstr "Lijstnaam?"
+
+msgid "Low"
+msgstr "Laag"
+
+msgid "Lowest (smallest)"
+msgstr "Laagst (kleinste bestand)"
+
+msgid "Make a list"
+msgstr "Een nieuwe lijst maken"
+
+msgid "Make a variable"
+msgstr "Een nieuwe variabele maken"
+
+msgid "Max:"
+msgstr "Max:"
+
+msgid "meow"
+msgstr "miauw"
+
+msgid "Message name:"
+msgstr "Berichtnaam:"
+
+msgid "Min:"
+msgstr "Min:"
+
+msgid "mod"
+msgstr "modulo"
+
+msgid "more"
+msgstr "meer"
+
+msgid "More tags:"
+msgstr "Meer categorieën:"
+
+msgid "mosaic"
+msgstr "mozaïek"
+
+msgid "mouse x:"
+msgstr "muis x:"
+
+msgid "mouse y:"
+msgstr "muis y:"
+
+msgid "mouse-pointer"
+msgstr "muisaanwijzer"
+
+msgid "Move"
+msgstr "Verplaatsen"
+
+msgid "Music"
+msgstr "Muziek"
+
+msgid "My Projects"
+msgstr "Mijn projecten"
+
+msgid "new"
+msgstr "nieuw"
+
+msgid "New"
+msgstr "Nieuw"
+
+msgid "New background:"
+msgstr "Nieuwe achtergrond:"
+
+msgid "New costume:"
+msgstr "Nieuw uiterlijk:"
+
+msgid "New file name?"
+msgstr ""
+
+msgid "New Filename:"
+msgstr "Bestandsnaam:"
+
+msgid "New sound:"
+msgstr "Nieuw geluid:"
+
+msgid "New Sprite"
+msgstr "Nieuwe sprite"
+
+msgid "New sprite:"
+msgstr "Nieuwe sprite:"
+
+msgid "No"
+msgstr "Nee"
+
+msgid "No MIDI ports currently available."
+msgstr "Geen MIDI-poorten beschikbaar"
+
+msgid "No motion blocks"
+msgstr "geen bewegingsblokken"
+
+msgid "no scripts"
+msgstr "geen scripts"
+
+msgid "No serial ports found"
+msgstr "Geen seriële poorten gevonden"
+
+msgid "No variables."
+msgstr "Er zijn geen variabelen."
+
+msgid "Normal"
+msgstr "Normaal"
+
+msgid "normal readout"
+msgstr "normaal"
+
+msgid "Off"
+msgstr "Uit"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "On"
+msgstr "Aan"
+
+msgid "only face left-right"
+msgstr "kan alleen naar links of rechts kijken"
+
+msgid "Open"
+msgstr "Openen"
+
+msgid "Open a Scratch project"
+msgstr "Een bestaand Scratch-project inlezen"
+
+msgid "Open Project"
+msgstr "Project openen"
+
+msgid "or"
+msgstr "of"
+
+msgid "Paint"
+msgstr "Tekenen"
+
+msgid "Paint Editor"
+msgstr "Tekenen"
+
+msgid "Paint new sprite"
+msgstr "Een nieuwe sprite tekenen"
+
+msgid "Paintbrush"
+msgstr "Vrij tekenen"
+
+msgid "Password:"
+msgstr "Wachtwoord:"
+
+msgid "Percent? (100 gives original size)"
+msgstr "Procent? (100 is de originele grootte)"
+
+msgid "Pictures"
+msgstr "Afbeeldingen"
+
+msgid "pixelate"
+msgstr "pixeleren"
+
+msgid "play"
+msgstr "afspelen"
+
+msgid "Please enter a number"
+msgstr "Geef een nummer"
+
+msgid "pop"
+msgstr "plop"
+
+msgid "Position the cross-hair to set the rotation center"
+msgstr "Het draaipunt (aangegeven met een kruis) verplaatsen"
+
+msgid "Preparing project..."
+msgstr "Project voorbereiden..."
+
+msgid "Project author:"
+msgstr "Naam van maker:"
+
+msgid "Project name"
+msgstr "Naam van project"
+
+msgid "Project Notes"
+msgstr "Notities"
+
+msgid "Project notes"
+msgstr "Notities"
+
+msgid "Project uploaded."
+msgstr "Project is geüpload."
+
+msgid "Projects"
+msgstr "Projecten"
+
+msgid "Quit"
+msgstr "Afsluiten"
+
+msgid "Quit Scratch"
+msgstr "Scratch afsluiten"
+
+msgid "Reading"
+msgstr "Lezen"
+
+msgid "record"
+msgstr "opnemen"
+
+msgid "Record"
+msgstr "Opnemen"
+
+msgid "recording"
+msgstr "neemt op"
+
+msgid "Rectangle tool (draw outlined or filled rectangle or square)"
+msgstr "Rechthoeken tekenen"
+
+msgid "Redo"
+msgstr "Opnieuw"
+
+msgid "Reference Guide"
+msgstr "Naslaggids"
+
+msgid "Remote sensor connections enabled"
+msgstr "Sensorverbindingen met elders zijn ingeschakeld"
+
+msgid "Remove viewer from stage"
+msgstr "Niet meer in het scherm tonen"
+
+msgid "resistance"
+msgstr "weerstand"
+
+msgid "resize this sprite"
+msgstr "deze sprite van grootte veranderen"
+
+msgid "reverse"
+msgstr "omkeren"
+
+msgid "right"
+msgstr "rechts"
+
+msgid "right arrow"
+msgstr "pijltje naar rechts"
+
+msgid "Rotate clock-wise"
+msgstr "Met de klok meedraaien"
+
+msgid "Rotate counter-clock-wise"
+msgstr "Tegen de klok indraaien"
+
+msgid "rotate this sprite"
+msgstr "deze sprite draaien"
+
+msgid "Rotation degrees?"
+msgstr "Draaiing in graden?"
+
+msgid "Save"
+msgstr "Opslaan"
+
+msgid "Save a copy of the current project"
+msgstr "Een kopie van dit project opslaan"
+
+msgid "Save As"
+msgstr "Opslaan als"
+
+msgid "Save changes before quitting?"
+msgstr "Wijzigingen opslaan voor het afsluiten?"
+
+msgid "Save failed"
+msgstr "Opslaan is mislukt"
+
+msgid "save picture of scripts"
+msgstr "afbeelding van huidige scripts opslaan"
+
+msgid "save picture of stage..."
+msgstr "afbeelding van huidige scherm opslaan"
+
+msgid "Save Project"
+msgstr "Project opslaan"
+
+msgid "Save Scripts Snapshot"
+msgstr "Scriptsafbeelding opslaan"
+
+msgid "Save Stage Shot"
+msgstr "Schermopname opslaan"
+
+msgid "Save the current project"
+msgstr "Dit project opslaan"
+
+msgid "Save the current project?"
+msgstr "Dit project opslaan?"
+
+msgid "Save this project"
+msgstr "Dit project opslaan"
+
+msgid "Scripts"
+msgstr "Scripts"
+
+msgid "select serial/USB port"
+msgstr "selecteer seriële/USB-poort"
+
+msgid "Select tool (move, modify, or delete selection)"
+msgstr "Een gebied selecteren om te bewerken"
+
+msgid "Set costume center"
+msgstr "Middelpunt van het uiterlijk instellen"
+
+msgid "Set language"
+msgstr "Taal instellen"
+
+msgid "Set rotation center"
+msgstr "Draaipunt instellen"
+
+msgid "Set Single Stepping"
+msgstr "Stap voor stap opties"
+
+msgid "set slider min and max"
+msgstr "bereik van de schuif aanpassen"
+
+msgid "Share"
+msgstr "Publiceren"
+
+msgid "Share this project"
+msgstr "Publiceer dit project"
+
+msgid "Share This Project Online"
+msgstr "Dit project online zetten zodat anderen het kunnen bekijken"
+
+msgid "Show Motor Blocks"
+msgstr "Motorblokjes tonen"
+
+msgid "show ScratchBoard watcher"
+msgstr "ScratchBoard-watcher tonen"
+
+msgid "Shrink"
+msgstr "Verkleinen"
+
+msgid "Shrink sprite"
+msgstr "Sprite verkleinen"
+
+msgid "Simulation"
+msgstr "Simulatie"
+
+msgid "Single-step speed?"
+msgstr "Stap voor stap snelheid"
+
+msgid "slider"
+msgstr "schuif"
+
+msgid "Slider range:"
+msgstr "Bereik van de schuif:"
+
+msgid "Sound quality:"
+msgstr "Geluidskwaliteit:"
+
+msgid "Sound Recorder"
+msgstr "Geluidsopname"
+
+msgid "Sounds"
+msgstr "Geluiden"
+
+msgid "Sounds compressed"
+msgstr "Geluiden zijn gecomprimeerd"
+
+msgid "space"
+msgstr "spatiebalk"
+
+msgid "Sprite"
+msgstr "sprite"
+
+msgid "Sprites"
+msgstr "Sprites"
+
+msgid "sqrt"
+msgstr "wortel"
+
+msgid "Stage"
+msgstr "Scherm"
+
+msgid "Stage selected:"
+msgstr "Scherm geselecteerd:"
+
+msgid "Stamp tool (select area, then stamp copies of it)"
+msgstr "Een gebied selecteren en er kopieën van stempelen"
+
+msgid "Start green flag scripts"
+msgstr "Start de scripts met een groene vlag"
+
+msgid "Start Single Stepping"
+msgstr "Stap voor stap uitvoeren"
+
+msgid "stop"
+msgstr "stoppen"
+
+msgid "Stop everything"
+msgstr "Stop alles"
+
+msgid "Stop Single Stepping"
+msgstr "Stap voor stap uitvoeren beeindigen"
+
+msgid "Story"
+msgstr "Verhaal"
+
+msgid "Support Site"
+msgstr "Ondersteuningssite"
+
+msgid "Switch colors"
+msgstr "Kleuren verwisselen"
+
+msgid "Switch to full stage"
+msgstr "Groot scherm gebruiken"
+
+msgid "Switch to presentation mode"
+msgstr "Ga naar presentatiemodus"
+
+msgid "Switch to small stage"
+msgstr "Klein scherm gebruiken"
+
+msgid "Tags:"
+msgstr "Categorieën:"
+
+msgid "Text tool (edit text layer)"
+msgstr "Tekstlaag bewerken"
+
+msgid "That variable name is already in use"
+msgstr "Die variabelenaam is al in gebruik"
+
+msgid "that way"
+msgstr "daarheen"
+
+msgid "The file name already exists. Overwrite existing file?"
+msgstr "De bestandsnaam bestaat al. Het huidige bestand overschrijven?"
+
+msgid "thing"
+msgstr "ding"
+
+msgid "this way"
+msgstr "hierheen"
+
+msgid "tilt"
+msgstr "helling"
+
+msgid "true"
+msgstr "waar"
+
+msgid "Turbo speed"
+msgstr "Supersnel"
+
+msgid "turn into new sprite"
+msgstr "hiervan een nieuwe sprite maken"
+
+msgid "Undelete"
+msgstr "Terughalen"
+
+msgid "Undo"
+msgstr "Ongedaan maken"
+
+msgid "up"
+msgstr "omhoog"
+
+msgid "up arrow"
+msgstr "pijltje omhoog"
+
+msgid "Updating thumbnails"
+msgstr "Bijwerken van miniaturen"
+
+msgid "Upload succeeded!"
+msgstr "Uploaden is gelukt!"
+
+msgid "Upload to Scratch Server"
+msgstr "Project uploaden naar Scratch-server"
+
+msgid "Uploading"
+msgstr "Aan het uploaden"
+
+msgid "Variable name?"
+msgstr "Naam van variabele?"
+
+msgid "View on stage"
+msgstr "Waarde in het scherm tonen"
+
+msgid "What's your name?"
+msgstr "Wat is je naam?"
+
+msgid "whirl"
+msgstr "draaikolk"
+
+msgid "world"
+msgstr "wereld"
+
+msgid "Write Multiple Project Summaries"
+msgstr "Meerdere projectsamenvattingen schrijven"
+
+msgid "Write Project Summary"
+msgstr "Een projectsamenvatting schrijven"
+
+msgid "Yes"
+msgstr "Ja"
+
+msgid "Your project is now online at"
+msgstr "Je project staat nu online op"
+
+msgid "Your Scratch website login name:"
+msgstr "Loginnaam voor Scratch-website:"
+
+msgid "Zoom in"
+msgstr "Inzoomen"
+
+msgid "Zoom out"
+msgstr "Uitzoomen"
+
+############################################
+# MIDI INSTRUMENTS
+############################################
+
+msgid "Accordion"
+msgstr "accordeon"
+
+msgid "Acoustic Bass"
+msgstr "akoestische bas"
+
+msgid "Acoustic Bass Drum"
+msgstr "akoestische bastrom"
+
+msgid "Acoustic Grand"
+msgstr "akoestische vleugel"
+
+msgid "Acoustic Snare"
+msgstr "akoestische snaartrom"
+
+msgid "Agogo"
+msgstr "agogo"
+
+msgid "Alto Sax"
+msgstr "altsax"
+
+msgid "Applause"
+msgstr "applaus"
+
+msgid "Bagpipe"
+msgstr "doedelzak"
+
+msgid "Banjo"
+msgstr "banjo"
+
+msgid "Baritone Sax"
+msgstr "baritonsax"
+
+msgid "Bass Drum 1"
+msgstr "bastrom 1"
+
+msgid "Bassoon"
+msgstr "fagot"
+
+msgid "Bird Tweet"
+msgstr "vogeltjilp"
+
+msgid "Blown Bottle"
+msgstr "aangeblazen fles"
+
+msgid "Brass Section"
+msgstr "koperblazers"
+
+msgid "Breath Noise"
+msgstr "ademhaling"
+
+msgid "Bright Acoustic"
+msgstr "heldere piano"
+
+msgid "Cabasa"
+msgstr "cabasa"
+
+msgid "Celesta"
+msgstr "celesta"
+
+msgid "Cello"
+msgstr "cello"
+
+msgid "Chinese Cymbal"
+msgstr "gong"
+
+msgid "Choir Aahs"
+msgstr "koor"
+
+msgid "Church Organ"
+msgstr "kerkorgel"
+
+msgid "Clarinet"
+msgstr "klarinet"
+
+msgid "Claves"
+msgstr "claves"
+
+msgid "Clavinet"
+msgstr "clavinet"
+
+msgid "Closed Hi-Hat"
+msgstr "gesloten hi-hat"
+
+msgid "Contrabass"
+msgstr "contrabas"
+
+msgid "Cowbell"
+msgstr "koebel"
+
+msgid "Crash Cymbal 1"
+msgstr "crashbekken 1"
+
+msgid "Crash Cymbal 2"
+msgstr "crashbekken 2"
+
+msgid "Distortion Guitar"
+msgstr "vervormde gitaar"
+
+msgid "Drawbar Organ"
+msgstr "elektronisch orgel"
+
+msgid "Dulcimer"
+msgstr "hakkebord"
+
+msgid "Electric Bass (finger)"
+msgstr "elektrische basgitaar (vingers)"
+
+msgid "Electric Bass (pick)"
+msgstr "elektrische basgitaar (plectrum)"
+
+msgid "Electric Clean Guitar"
+msgstr "elektrische gitaar"
+
+msgid "Electric Grand"
+msgstr "elektrische vleugel"
+
+msgid "Electric Jazz Guitar"
+msgstr "elektrische jazzgitaar"
+
+msgid "Electric Muted Guitar"
+msgstr "gedempte elektrische gitaar"
+
+msgid "Electric Piano 1"
+msgstr "elektrische piano 1"
+
+msgid "Electric Piano 2"
+msgstr "elektrische piano 2"
+
+msgid "Electric Snare"
+msgstr "elektronische snaartrom"
+
+msgid "English Horn"
+msgstr "althobo"
+
+msgid "FX 1 (rain)"
+msgstr "effect 1 (regen)"
+
+msgid "FX 2 (soundtrack)"
+msgstr "effect 2 (soundtrack)"
+
+msgid "FX 3 (crystal)"
+msgstr "effect 3 (kristal)"
+
+msgid "FX 4 (atmosphere)"
+msgstr "effect 4 (dampkring)"
+
+msgid "FX 5 (brightness)"
+msgstr "effect 5 (helderheid)"
+
+msgid "FX 6 (goblins)"
+msgstr "effect 6 (kabouters)"
+
+msgid "FX 7 (echoes)"
+msgstr "effect 7 (echo’s)"
+
+msgid "FX 8 (sci-fi)"
+msgstr "effect 8 (ruimte)"
+
+msgid "Fiddle"
+msgstr "fiedel"
+
+msgid "Flute"
+msgstr "dwarsfluit"
+
+msgid "French Horn"
+msgstr "hoorn"
+
+msgid "Fretless Bass"
+msgstr "fretloze basgitaar"
+
+msgid "Glockenspiel"
+msgstr "glockenspiel"
+
+msgid "Guitar Fret Noise"
+msgstr "fretgeluid"
+
+msgid "Guitar Harmonics"
+msgstr "boventonen van gitaar"
+
+msgid "Gunshot"
+msgstr "pistoolschot"
+
+msgid "Hand Clap"
+msgstr "handenklap"
+
+msgid "Harmonica"
+msgstr "harmonica"
+
+msgid "Harpsichord"
+msgstr "klavecimbel"
+
+msgid "Helicopter"
+msgstr "helikopter"
+
+msgid "Hi Bongo"
+msgstr "hoge bongo"
+
+msgid "Hi Wood Block"
+msgstr "hoog houtblok"
+
+msgid "Hi-Mid Tom"
+msgstr "midhoge tom"
+
+msgid "High Agogo"
+msgstr "hoge agogo"
+
+msgid "High Floor Tom"
+msgstr "hoge floor-tom"
+
+msgid "High Timbale"
+msgstr "hoge timbal"
+
+msgid "High Tom"
+msgstr "hoge tom"
+
+msgid "Honky-Tonk"
+msgstr "honkytonk-piano"
+
+msgid "Kalimba"
+msgstr "kalimba"
+
+msgid "Koto"
+msgstr "koto"
+
+msgid "Lead 1 (square)"
+msgstr "toon 1 (blokgolf)"
+
+msgid "Lead 2 (sawtooth)"
+msgstr "toon 2 (zaagtand)"
+
+msgid "Lead 3 (calliope)"
+msgstr "toon 3 (stoomorgel)"
+
+msgid "Lead 4 (chiff)"
+msgstr "toon 4 (chiff)"
+
+msgid "Lead 5 (charang)"
+msgstr "toon 5 (charango)"
+
+msgid "Lead 6 (voice)"
+msgstr "toon 6 (stem)"
+
+msgid "Lead 7 (fifths)"
+msgstr "toon 7 (kwinten)"
+
+msgid "Lead 8 (bass+lead)"
+msgstr "toon 8 (bas+melodie)"
+
+msgid "Long Guiro"
+msgstr "lange güiro"
+
+msgid "Long Whistle"
+msgstr "lang fluitje"
+
+msgid "Low Agogo"
+msgstr "lage agogo"
+
+msgid "Low Bongo"
+msgstr "lage bongo"
+
+msgid "Low Conga"
+msgstr "lage conga"
+
+msgid "Low Floor Tom"
+msgstr "lage floor-tom"
+
+msgid "Low Timbale"
+msgstr "lage timbal"
+
+msgid "Low Tom"
+msgstr "lage tom"
+
+msgid "Low Wood Block"
+msgstr "laag houtblok"
+
+msgid "Low-Mid Tom"
+msgstr "midlage tom"
+
+msgid "Maracas"
+msgstr "maracas"
+
+msgid "Marimba"
+msgstr "marimba"
+
+msgid "Melodic Tom"
+msgstr "melodische tom"
+
+msgid "Music Box"
+msgstr "speeldoos"
+
+msgid "Mute Cuica"
+msgstr "gedempte cuíca"
+
+msgid "Mute Hi Conga"
+msgstr "gedempte hoge conga"
+
+msgid "Mute Triangle"
+msgstr "gedempte triangel"
+
+msgid "Muted Trumpet"
+msgstr "gedempte trompet"
+
+msgid "Nylon String Guitar"
+msgstr "gitaar met nylon snaren"
+
+msgid "Oboe"
+msgstr "hobo"
+
+msgid "Ocarina"
+msgstr "ocarina"
+
+msgid "Open Cuica"
+msgstr "cuíca"
+
+msgid "Open Hi Conga"
+msgstr "hoge conga"
+
+msgid "Open Hi-Hat"
+msgstr "open hi-hat"
+
+msgid "Open Triangle"
+msgstr "triangel"
+
+msgid "Orchestra Hit"
+msgstr "orkeststoot"
+
+msgid "Orchestral Strings"
+msgstr "harp"
+
+msgid "Overdriven Guitar"
+msgstr "overstuurde gitaar"
+
+msgid "Pad 1 (new age)"
+msgstr "sfeer 1 (new age)"
+
+msgid "Pad 2 (warm)"
+msgstr "sfeer 2 (warm)"
+
+msgid "Pad 3 (polysynth)"
+msgstr "sfeer 3 (polyfoon)"
+
+msgid "Pad 4 (choir)"
+msgstr "sfeer 4 (koor)"
+
+msgid "Pad 5 (bowed)"
+msgstr "sfeer 5 (buiging)"
+
+msgid "Pad 6 (metallic)"
+msgstr "sfeer 6 (metalig)"
+
+msgid "Pad 7 (halo)"
+msgstr "sfeer 7 (halo)"
+
+msgid "Pad 8 (sweep)"
+msgstr "sfeer 8 (zwaai)"
+
+msgid "Pan Flute"
+msgstr "panfluit"
+
+msgid "Pedal Hi-Hat"
+msgstr "pedaal-hi-hat"
+
+msgid "Percussive Organ"
+msgstr "elektronisch percussieorgel"
+
+msgid "Piccolo"
+msgstr "piccolo"
+
+msgid "Pizzicato Strings"
+msgstr "strijkers (pizzicato)"
+
+msgid "Recorder"
+msgstr "blokfluit"
+
+msgid "Reed Organ"
+msgstr "harmonium"
+
+msgid "Reverse Cymbal"
+msgstr "omgekeerd bekken"
+
+msgid "Ride Bell"
+msgstr "klein bekken"
+
+msgid "Ride Cymbal 1"
+msgstr "ride-bekken 1"
+
+msgid "Ride Cymbal 2"
+msgstr "ride-bekken 2"
+
+msgid "Rock Organ"
+msgstr "rockorgel"
+
+msgid "Seashore"
+msgstr "zee"
+
+msgid "Shakuhachi"
+msgstr "shakuhachi"
+
+msgid "Shamisen"
+msgstr "shamisen"
+
+msgid "Shanai"
+msgstr "shehnai"
+
+msgid "Short Guiro"
+msgstr "korte güiro"
+
+msgid "Short Whistle"
+msgstr "kort fluitje"
+
+msgid "Side Stick"
+msgstr "randklap"
+
+msgid "Sitar"
+msgstr "sitar"
+
+msgid "Slap Bass 1"
+msgstr "slagbas 1"
+
+msgid "Slap Bass 2"
+msgstr "slagbas 2"
+
+msgid "Soprano Sax"
+msgstr "sopraansax"
+
+msgid "Splash Cymbal"
+msgstr "splashbekken"
+
+msgid "Steel Drums"
+msgstr "steeldrums"
+
+msgid "Steel String Guitar"
+msgstr "gitaar met stalen snaren"
+
+msgid "String Ensemble 1"
+msgstr "strijkersensemble 1"
+
+msgid "String Ensemble 2"
+msgstr "strijkersensemble 2"
+
+msgid "Synth Bass 1"
+msgstr "synthesizerbas 1"
+
+msgid "Synth Bass 2"
+msgstr "synthesizerbas 2"
+
+msgid "Synth Drum"
+msgstr "synthesizertrom"
+
+msgid "Synth Voice"
+msgstr "synthesizerstem"
+
+msgid "SynthBrass 1"
+msgstr "synthesizerkoperblazers 1"
+
+msgid "SynthBrass 2"
+msgstr "synthesizerkoperblazers 2"
+
+msgid "SynthStrings 1"
+msgstr "synthesizerstrijkers 1"
+
+msgid "SynthStrings 2"
+msgstr "synthesizerstrijkers 2"
+
+msgid "Taiko Drum"
+msgstr "taikodrum"
+
+msgid "Tambourine"
+msgstr "tamboerijn"
+
+msgid "Tango Accordion"
+msgstr "bandoneon"
+
+msgid "Telephone Ring"
+msgstr "telefoon"
+
+msgid "Tenor Sax"
+msgstr "tenorsax"
+
+msgid "Timpani"
+msgstr "pauk"
+
+msgid "Tinkle Bell"
+msgstr "belletje"
+
+msgid "Tremolo Strings"
+msgstr "strijkers (tremolo)"
+
+msgid "Trombone"
+msgstr "trombone"
+
+msgid "Trumpet"
+msgstr "trompet"
+
+msgid "Tuba"
+msgstr "tuba"
+
+msgid "Tubular Bells"
+msgstr "buisklokkenspel"
+
+msgid "Vibraphone"
+msgstr "vibrafoon"
+
+msgid "Vibraslap"
+msgstr "vibraslap"
+
+msgid "Viola"
+msgstr "altviool"
+
+msgid "Violin"
+msgstr "viool"
+
+msgid "Voice Oohs"
+msgstr "stem"
+
+msgid "Whistle"
+msgstr "fluitje"
+
+msgid "Woodblock"
+msgstr "houtblok"
+
+msgid "Xylophone"
+msgstr "xylofoon"
+

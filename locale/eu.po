@@ -1,0 +1,1921 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: Scratch\n"
+"Report-Msgid-Bugs-To: Evelyn Eastmond <evelyn@media.mit.edu>\n"
+"POT-Creation-Date: 2008-04-03 10:03+0100\n"
+"PO-Revision-Date: 2009-06-03 04:56-0400\n"
+"Last-Translator: jose manuel <joxegasteiz@euskalnet.net>\n"
+"Language-Team: Jose Manuel <joxegasteiz@euskalnet.net>\n"
+"Language: eu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 1.2.0\n"
+
+############################################
+# FORMATTING
+############################################
+
+# Language name as you'd like it to appear in the Languages menu
+# (Required)
+msgid "Language-Name"
+msgstr "Euskera"
+
+# Directionality of language
+# LTR = Left to Right
+# RTL = Right to Left
+msgid "Language-Direction"
+msgstr "LTR"
+
+# Scale to apply to font size (2 for twice as large)
+# Use this if the font is too small for legibility on the Scratch interface
+msgid "Font-Scale"
+msgstr ""
+
+# Set to 'true' or 'false'
+# Use this if you do not want any of the text to be bolded, for legibility
+msgid "Suppress-Bold"
+msgstr ""
+
+# Font to use on a Windows system
+msgid "Win-Font"
+msgstr ""
+
+# Font to use on a Mac system
+msgid "Mac-Font"
+msgstr ""
+
+# Font to use on a Linux system
+msgid "Linux-Font"
+msgstr ""
+
+############################################
+# BLOCKS
+############################################
+
+msgid "%H sensor value"
+msgstr "sentsorearen balioa %H"
+
+msgid "%L contains %s"
+msgstr ""
+
+msgid "%a of %m"
+msgstr "%a -- %m"
+
+msgid "%b and %b"
+msgstr "%b eta %b"
+
+msgid "%b or %b"
+msgstr "%b edo %b"
+
+msgid "%f of %n"
+msgstr "%f -- %n"
+
+msgid "%n mod %n"
+msgstr "%n mod %n"
+
+msgid "add %s to %L"
+msgstr "gehitu %s  %L zerrendan"
+
+msgid "answer"
+msgstr "erantzun"
+
+msgid "ask %s and wait"
+msgstr "galdetu %s eta itxaron"
+
+msgid "background #"
+msgstr "# hondokoa"
+
+msgid "broadcast %e"
+msgstr "bidali denei  %e"
+
+msgid "broadcast %e and wait"
+msgstr "bidali denei  %e eta itxaron"
+
+msgid "change %g effect by %n"
+msgstr "aldatu efektua  %g , %n hartuta"
+
+msgid "change %v by %n"
+msgstr "aldatu %v  %n bider"
+
+msgid "change pen color by %n"
+msgstr "aldatu arkatzaren kolorea  %n hartuta"
+
+msgid "change pen shade by %n"
+msgstr "aldatu arkatzaren intentsitatea  %n hartuta"
+
+msgid "change pen size by %n"
+msgstr "aldatu arkatzaren tamainua  %n hartuta"
+
+msgid "change size by %n"
+msgstr "aldatu tamainua  %n hartuta"
+
+msgid "change tempo by %n"
+msgstr "aldatu tempoa   %n hartuta"
+
+msgid "change volume by %n"
+msgstr "aldatu bolumena  %n hartuta"
+
+msgid "change x by %n"
+msgstr "mugitu  x   %n aldiz"
+
+msgid "change y by %n"
+msgstr "mugitu y  %n aldiz"
+
+msgid "clear"
+msgstr "ezabatu"
+
+msgid "clear graphic effects"
+msgstr "kendu efektu grafikoak"
+
+msgid "color %C is touching %C?"
+msgstr "¿kolore  %C  %C aren gainean?"
+
+msgid "control"
+msgstr "kontrola"
+
+msgid "costume #"
+msgstr "# mozorroa"
+
+msgid "delete %y of %L"
+msgstr "ezabatu %y dagoen elementua %L zerrendan"
+
+msgid "direction"
+msgstr "norabidea"
+
+msgid "distance to %m"
+msgstr "distantzia %m ra"
+
+msgid "else"
+msgstr "baldin eta ez"
+
+msgid "forever"
+msgstr "beti"
+
+msgid "forever if %b"
+msgstr "beti baldin eta %b"
+
+msgid "glide %n secs to x:%n y:%n"
+msgstr "lerratu %n segundoan:  %n x-ra  eta  %n y-ra"
+
+msgid "go back %n layers"
+msgstr "bidali atzera  %n geruza"
+
+msgid "go to %m"
+msgstr "joan  %m -ra"
+
+msgid "go to front"
+msgstr "bidali aurrera "
+
+msgid "go to x:%n y:%n"
+msgstr "joan %n x-ra  joan %n y-ra"
+
+msgid "hide"
+msgstr "ezkutatu"
+
+msgid "hide variable %v"
+msgstr "ezkutatu %v aldagaia"
+
+msgid "if %b"
+msgstr "baldin eta  %b"
+
+msgid "if on edge, bounce"
+msgstr "errebotatu ertza ukitzean "
+
+msgid "insert %s at %i of %L"
+msgstr "sartu %s  %i  %L zerrendan"
+
+msgid "item %i of %L"
+msgstr "%i dagoen elementua  %L zerrendan"
+
+msgid "join %s %s"
+msgstr "lotu %s %s"
+
+msgid "key %k pressed?"
+msgstr "%k tekla sakatuta egon?"
+
+msgid "length of %L"
+msgstr "%L zerrendaren luzera"
+
+msgid "length of %s"
+msgstr "%s zerrendaren luzera"
+
+msgid "letter %n of %s"
+msgstr "%s aren %n garren letra"
+
+msgid "list"
+msgstr "zerrenda"
+
+msgid "looks"
+msgstr "itxura"
+
+msgid "loud?"
+msgstr "soinu ozena?"
+
+msgid "loudness"
+msgstr "soinuaren bolumena"
+
+msgid "motion"
+msgstr "mugimendua"
+
+msgid "motor direction %W"
+msgstr "motorea-norabidea %W"
+
+msgid "motor off"
+msgstr "motorea itzalita"
+
+msgid "motor on"
+msgstr "motorea piztuta"
+
+msgid "motor on for %n secs"
+msgstr "motorea piztuta %n segundoan"
+
+msgid "motor power %n"
+msgstr "motorearen ahalmena %n"
+
+msgid "mouse down?"
+msgstr "sagua sakatuta egon?"
+
+msgid "mouse x"
+msgstr "saguaren x  "
+
+msgid "mouse y"
+msgstr "saguaren y  "
+
+msgid "move %n steps"
+msgstr "mugitu  %n pausu "
+
+msgid "next background"
+msgstr "hurrengo hondoa"
+
+msgid "next costume"
+msgstr "hurrengo mozorroa"
+
+msgid "not %b"
+msgstr "ez %b"
+
+msgid "operators"
+msgstr "eragiketak"
+
+msgid "pen"
+msgstr "arkatza"
+
+msgid "pen down"
+msgstr "jaitsi arkatza "
+
+msgid "pen up"
+msgstr "igo arkatza "
+
+msgid "pick random %n to %n"
+msgstr "ausazko zenbakia,  %n eta %n artekoa"
+
+msgid "play drum %D for %n beats"
+msgstr "jo %D danborra   %n  pultsuan"
+
+msgid "play note %N for %n beats"
+msgstr "jo %N  nota  %n pultsuan"
+
+msgid "play sound %S"
+msgstr "jo %S  soinua"
+
+msgid "play sound %S until done"
+msgstr "jo  %S  soinua eta itxaron"
+
+msgid "point in direction %d"
+msgstr "jarri %d                       begira"
+
+msgid "point towards %m"
+msgstr "seinalatu  %m rantz"
+
+msgid "repeat %n"
+msgstr "errepikatu %n aldiz"
+
+msgid "repeat until %b"
+msgstr "errepikatu  %b arte"
+
+msgid "replace item %i of %L with %s"
+msgstr "kendu  %i dagoen elementua %L zerrendan eta jarri %s"
+
+msgid "reset timer"
+msgstr "berrabiarazi kronometroa"
+
+msgid "rest for %n beats"
+msgstr "isiltasuna %n pultsuan"
+
+msgid "round %n"
+msgstr "biribildu %n"
+
+msgid "say %s"
+msgstr "esan %s"
+
+msgid "say %s for %n secs"
+msgstr "esan  %s  %n segundoan"
+
+msgid "sensing"
+msgstr "sentsoreak"
+
+msgid "sensor %h?"
+msgstr "%h sentsorea gaituta?"
+
+msgid "set %g effect to %n"
+msgstr "finkatu efektua  %g,  %n hartuta"
+
+msgid "set %v to %n"
+msgstr "ezarri %v   %n an"
+
+msgid "set instrument to %I"
+msgstr "finkatu %I tresna"
+
+msgid "set pen color to %c"
+msgstr "finkatu arkatzaren kolorea: %c"
+
+msgid "set pen color to %n"
+msgstr "finkatu arkatzaren kolorea %n hartuta "
+
+msgid "set pen shade to %n"
+msgstr "finkatu arkatzaren intentsitatea  %n hartuta"
+
+msgid "set pen size to %n"
+msgstr "finkatu arkatzaren tamainua  %n hartuta"
+
+msgid "set size to %n%"
+msgstr "finkatu tamainua  %n%  an"
+
+msgid "set tempo to %n bpm"
+msgstr "finkatu tempoa:  %n p/m"
+
+msgid "set volume to %n%"
+msgstr "finkatu soinu bolumena %n an "
+
+msgid "set x to %n"
+msgstr "kokatu x  %n an "
+
+msgid "set y to %n"
+msgstr "kokatu y  %n an "
+
+msgid "show"
+msgstr "erakutsi"
+
+msgid "show variable %v"
+msgstr "erakutsi %v aldagaia"
+
+msgid "size"
+msgstr "tamaina"
+
+msgid "sound"
+msgstr "soinua"
+
+msgid "stamp"
+msgstr "zigilatu"
+
+msgid "stop all"
+msgstr "gelditu dena "
+
+msgid "stop all sounds"
+msgstr "gelditu soinu guztiak "
+
+msgid "stop script"
+msgstr "gelditu programa "
+
+msgid "switch to background %l"
+msgstr "aldatu hondoa  %l ra"
+
+msgid "switch to costume %l"
+msgstr "aldatu mozorroa  %l "
+
+msgid "tempo"
+msgstr "tempo"
+
+msgid "think %s"
+msgstr "pentsatu %s an "
+
+msgid "think %s for %n secs"
+msgstr "pentsatu  %s   %n segundoan"
+
+msgid "timer"
+msgstr "kronometroa"
+
+msgid "touching %m?"
+msgstr "%m ukitzen egon?"
+
+msgid "touching color %C?"
+msgstr "%C kolorea ukitzen egon?"
+
+msgid "turn %n degrees"
+msgstr "biratu %n gradu"
+
+msgid "variables"
+msgstr "aldagaiak"
+
+msgid "volume"
+msgstr "bolumena"
+
+msgid "wait %n secs"
+msgstr "%n segundo itxaron"
+
+msgid "wait until %b"
+msgstr "%b arte itxaron"
+
+msgid "when %k key pressed"
+msgstr "%k tekla sakatzean"
+
+msgid "when %m clicked"
+msgstr "%m sakatzean"
+
+msgid "when I receive %e"
+msgstr "%e  jasotzean"
+
+msgid "x position"
+msgstr "x posizioa"
+
+msgid "y position"
+msgstr "y posizioa"
+
+############################################
+# USER INTERFACE
+############################################
+
+msgid "(empty)"
+msgstr "(hustu)"
+
+msgid "1 script"
+msgstr "programa 1"
+
+msgid "About Scratch"
+msgstr "Scratchi buruz"
+
+msgid "About this project:"
+msgstr "proiektu honi buruz"
+
+msgid "abs"
+msgstr "abs"
+
+msgid "add comment"
+msgstr "gehitu iruzkin berria"
+
+msgid "add comment here"
+msgstr "gehitu iruzkina hemen"
+
+msgid "all"
+msgstr "dena"
+
+msgid "and"
+msgstr "eta"
+
+msgid "Animation"
+msgstr "animazioa"
+
+msgid "any"
+msgstr "ausazkoa"
+
+msgid "Art"
+msgstr ""
+
+msgid "background"
+msgstr "hondoa"
+
+msgid "backgrounds"
+msgstr "hondoak"
+
+msgid "Backgrounds"
+msgstr "Hondoak"
+
+msgid "brightness"
+msgstr "distira"
+
+msgid "Brush size: "
+msgstr "Brotxaren tamaina"
+
+msgid "button"
+msgstr "botoia"
+
+msgid "button pressed"
+msgstr "botoia sakatuta"
+
+msgid "Camera"
+msgstr "Kamera"
+
+msgid "can rotate"
+msgstr "biraketa gaitua"
+
+msgid "cancel"
+msgstr "utzi"
+
+msgid "Cancel"
+msgstr "Utzi"
+
+msgid "Choose a folder"
+msgstr "karpeta hautatu"
+
+msgid "Choose new sprite from file"
+msgstr "objektu berria hautatu artxibotik"
+
+msgid "clean up"
+msgstr "garbitu"
+
+msgid "Clear"
+msgstr "Garbitu"
+
+msgid "Clear canvas"
+msgstr "Ohiala garbitu"
+
+msgid "Close and continue"
+msgstr "itxi eta jarraitu"
+
+msgid "Close dialog?"
+msgstr "elkarrizketa itxi?"
+
+msgid "Close paint editor?"
+msgstr "paint editorea itxi?"
+
+msgid "close port"
+msgstr "ataka itxi"
+
+msgid "Close sound recorder?"
+msgstr "soinu grabagailua itxi?"
+
+msgid "color"
+msgstr "kolorea"
+
+msgid "Compress Images"
+msgstr "irudiak konprimitu"
+
+msgid "Compress Sounds"
+msgstr "soinuak konprimitu"
+
+msgid "Compress sounds and images"
+msgstr "Soinuak eta irudiak konprimitu"
+
+msgid "Computer"
+msgstr "Ordenagailua"
+
+msgid "connected"
+msgstr "Konektatuta"
+
+msgid "Connecting to "
+msgstr "-ra konektatzen"
+
+msgid "Copy"
+msgstr "kopiatu"
+
+msgid "costume"
+msgstr "mozorro"
+
+msgid "costumes"
+msgstr "itxura"
+
+msgid "Costumes"
+msgstr "Itxura"
+
+msgid "Could not read"
+msgstr "Ezin da irakurri"
+
+msgid "Could not read project; file may be damaged"
+msgstr ""
+
+msgid "Could not write file"
+msgstr "Ezin da idatzi artxiboa"
+
+msgid "Create account"
+msgstr "Kontu berria sortu"
+
+msgid "Create an empty project"
+msgstr "Proiektu berria sortu"
+
+msgid "Data sent. Waiting for response..."
+msgstr "Proiektua bidalia. Erantzunaren zain"
+
+msgid "delete"
+msgstr "ezabatu"
+
+msgid "Delete"
+msgstr "Ezabatu"
+
+msgid "Delete a list"
+msgstr "Ezabatu zerrenda"
+
+msgid "Delete a variable"
+msgstr "Ezabatu aldagaia"
+
+msgid "Delete this background"
+msgstr "Ezabatu hondo hau"
+
+msgid "Delete this costume"
+msgstr "Mozorro hau ezabatu"
+
+msgid "Delete this sound"
+msgstr "Soinu hau ezabatu"
+
+msgid "Delete this sprite"
+msgstr ""
+
+msgid "Desktop"
+msgstr ""
+
+msgid "disable remote sensor connections"
+msgstr ""
+
+msgid "distance"
+msgstr "distantzia"
+
+msgid "Documents"
+msgstr "Dokumentuak"
+
+msgid "don't rotate"
+msgstr "ez biratu"
+
+msgid "Don't Save"
+msgstr "Ez gorde"
+
+msgid "Done"
+msgstr "Eginda"
+
+msgid "down"
+msgstr "behera"
+
+msgid "down arrow"
+msgstr "gezia behera"
+
+msgid "drag to resize"
+msgstr ""
+
+msgid "drag to rotate"
+msgstr "arrastatu eta biratu"
+
+msgid "draggable on website?"
+msgstr "web-ean arrastatzea gaituta?"
+
+msgid "duplicate"
+msgstr "bikoiztu"
+
+msgid "Duplicate"
+msgstr "Bikoiztu"
+
+msgid "edge"
+msgstr "ertza"
+
+msgid "Edit"
+msgstr "Editatu"
+
+msgid "Ellipse tool (draw outlined or filled ellipse or circle)"
+msgstr "Elipseak egiteko tresna"
+
+msgid "enable remote sensor connections"
+msgstr ""
+
+msgid "Enter presentation mode"
+msgstr "Aurkezpen modura sartu"
+
+msgid "Eraser"
+msgstr "borragoma"
+
+msgid "Eraser size"
+msgstr "Zirriborroaren tamaina"
+
+msgid "Error!"
+msgstr "errorea!"
+
+msgid "Examples"
+msgstr "adibideak"
+
+msgid "Exit presentation"
+msgstr "Aurkezpenetik irten"
+
+msgid "Exit presentation mode"
+msgstr "Aurkezpen modutik irten"
+
+msgid "export"
+msgstr "esportatu"
+
+msgid "Export Background"
+msgstr "Hondoa esportatu"
+
+msgid "Export Costume"
+msgstr "Mozorroa esportatu"
+
+msgid "Export failed"
+msgstr "Esportazioak huts egin du"
+
+msgid "Export Sound"
+msgstr "Soinua esportatu"
+
+msgid "Export Sprite"
+msgstr "Esportatu objektua "
+
+msgid "export this costume"
+msgstr "mozorro hau esportatu"
+
+msgid "export this sound"
+msgstr "soinu hau exportatu"
+
+msgid "export this sprite"
+msgstr "esportatu objektu hau "
+
+msgid "Extras menu"
+msgstr "Apartekoen menua"
+
+msgid "Eyedropper tool (select a color)"
+msgstr "Tantaz tantako"
+
+msgid "Failed:"
+msgstr "Errorea:"
+
+msgid "false"
+msgstr "faltsua"
+
+msgid "File"
+msgstr "Fitxategia"
+
+msgid "File not found"
+msgstr "Ez da aurkitzen fitxategia"
+
+msgid "Fill tool (fill areas with color or gradient)"
+msgstr "Kolorez betetzeko tresna"
+
+msgid "first"
+msgstr "hasieran"
+
+msgid "fisheye"
+msgstr "arrain begia"
+
+msgid "Flash blocks (fast)"
+msgstr "Blokeak argitu (azkar)"
+
+msgid "Flash blocks (slow)"
+msgstr "Blokeak argitu (astiro)"
+
+msgid "Flip horizontally"
+msgstr "Horizontalean biratu"
+
+msgid "Flip vertically"
+msgstr "Bertikalean biratu"
+
+msgid "For all sprites"
+msgstr "Objektu guztietarako"
+
+msgid "For this sprite only"
+msgstr "Objektu honetarako"
+
+msgid "Game"
+msgstr "Jokoa"
+
+msgid "Get surprise sprite"
+msgstr "Ustegabeko objektua"
+
+msgid "Get the last thing deleted"
+msgstr "Ezabatutako azken objektua"
+
+msgid "Getting Started"
+msgstr "Hastea"
+
+msgid "ghost"
+msgstr "fantasma"
+
+msgid "Go To Scratch Website"
+msgstr "Scratch webgunera joan"
+
+msgid "grab screen region for new costume"
+msgstr "Pantailaren eskualdea hautatu mozorro berri baterako"
+
+msgid "grab screen region for new sprite"
+msgstr "Pantailaren eskualdea hautatu objektu berri baterako"
+
+msgid "Grow"
+msgstr "Handitu"
+
+msgid "Grow sprite"
+msgstr "Handitu objektua "
+
+msgid "hello "
+msgstr "kaixo"
+
+msgid "Hello!"
+msgstr "kaixo!"
+
+msgid "help"
+msgstr "laguntza"
+
+msgid "Help"
+msgstr "laguntza"
+
+msgid "Help Page"
+msgstr "Laguntza orrialdea"
+
+msgid "Help Screens"
+msgstr "Laguntza pantaila"
+
+msgid "Hide Motor Blocks"
+msgstr "Motorearen bloqueak ezkutatu"
+
+msgid "High (biggest)"
+msgstr "Garaia (handiagoa)"
+
+msgid "Hmm..."
+msgstr "mmm..."
+
+msgid "Home"
+msgstr "Hasiera"
+
+msgid "Images compressed"
+msgstr "Irudi konprimituak"
+
+msgid "import"
+msgstr "inportatu"
+
+msgid "Import"
+msgstr "Inportatu"
+
+msgid "Import an image on top of your current canvas"
+msgstr "Irudia inportatu ohial honen gainera"
+
+msgid "Import Background"
+msgstr "Hondoa inportatu"
+
+msgid "Import Costume"
+msgstr "Mozorroa inportatu"
+
+msgid "Import Image"
+msgstr "Irudia inportatu"
+
+msgid "Import List"
+msgstr "zerrenda inportatu"
+
+msgid "Import Project"
+msgstr "Proiektua inportatu"
+
+msgid "import project"
+msgstr "proiektua inportatu"
+
+msgid "Import Sound"
+msgstr "Soinua inportatu"
+
+msgid "Incompatible Scratch file format"
+msgstr "Artxibo formatua ez onartua"
+
+msgid "Is the folder read-only?"
+msgstr "Soilik irakurtzeko karpeta"
+
+msgid "JPEG Quality (10-100)?"
+msgstr "JPEG (10-100) kalitatea"
+
+msgid "kbytes"
+msgstr "kbytes"
+
+msgid "Language"
+msgstr "Hizkuntza"
+
+msgid "large readout"
+msgstr "handia"
+
+msgid "last"
+msgstr "amaieran"
+
+msgid "left"
+msgstr "ezkerra"
+
+msgid "left arrow"
+msgstr "ezkerreko gezia"
+
+msgid "length"
+msgstr "luzera"
+
+msgid "light"
+msgstr "argia"
+
+msgid "Line tool (draw lines)"
+msgstr "Marretarako tresna"
+
+msgid "List name?"
+msgstr "Zerrendaren izena?"
+
+msgid "Low"
+msgstr "Baxua"
+
+msgid "Lowest (smallest)"
+msgstr "Baxuena"
+
+msgid "Make a list"
+msgstr "Zerrenda berria"
+
+msgid "Make a variable"
+msgstr "Aldagai berria"
+
+msgid "Max:"
+msgstr "Max:"
+
+msgid "meow"
+msgstr "miau"
+
+msgid "Message name:"
+msgstr "Mezuaren izena:"
+
+msgid "Min:"
+msgstr "Min:"
+
+msgid "mod"
+msgstr "mod"
+
+msgid "more"
+msgstr "gehiago"
+
+msgid "More tags:"
+msgstr "etiketa gehiago"
+
+msgid "mosaic"
+msgstr "mosaikoa"
+
+msgid "mouse x:"
+msgstr "saguaren x:"
+
+msgid "mouse y:"
+msgstr "saguaren y:"
+
+msgid "mouse-pointer"
+msgstr "saguaren erakusle"
+
+msgid "Move"
+msgstr "Mugitu"
+
+msgid "Music"
+msgstr "Musika"
+
+msgid "My Projects"
+msgstr "Nire proiektuak"
+
+msgid "new"
+msgstr "berria"
+
+msgid "New"
+msgstr "Berria"
+
+msgid "New background:"
+msgstr "Hondo berria:"
+
+msgid "New costume:"
+msgstr "Mozorro berria:"
+
+msgid "New file name?"
+msgstr ""
+
+msgid "New Filename:"
+msgstr "Artxiboaren izen berria:"
+
+msgid "New sound:"
+msgstr "Soinu berria:"
+
+msgid "New Sprite"
+msgstr "Objektu berria"
+
+msgid "New sprite:"
+msgstr "Objektu berria"
+
+msgid "No"
+msgstr "Ez"
+
+msgid "No MIDI ports currently available."
+msgstr "Ez dago erabilgarri midi atakarik"
+
+msgid "No motion blocks"
+msgstr "Ez dago mugimendu blokerik"
+
+msgid "no scripts"
+msgstr "programarik ez"
+
+msgid "No serial ports found"
+msgstr "Ez dago erabilgarri serizko atakarik"
+
+msgid "No variables."
+msgstr "Ez dago aldagarik"
+
+msgid "Normal"
+msgstr "Normala"
+
+msgid "normal readout"
+msgstr "normala"
+
+msgid "Off"
+msgstr "Itzalita"
+
+msgid "OK"
+msgstr "Onartu"
+
+msgid "On"
+msgstr "Piztuta"
+
+msgid "only face left-right"
+msgstr "Soilik ezkerrera-eskuinera begiratu"
+
+msgid "Open"
+msgstr "Ireki"
+
+msgid "Open a Scratch project"
+msgstr "Scratchen proiektua ireki"
+
+msgid "Open Project"
+msgstr "Proiektua ireki"
+
+msgid "or"
+msgstr "edo"
+
+msgid "Paint"
+msgstr "margotu"
+
+msgid "Paint Editor"
+msgstr "Margo editorea"
+
+msgid "Paint new sprite"
+msgstr "margotu objektu berria "
+
+msgid "Paintbrush"
+msgstr "Brotxa"
+
+msgid "Password:"
+msgstr "Pasahitza:"
+
+msgid "Percent? (100 gives original size)"
+msgstr "Ehinekoa? (100 da jatorrizko tamaina)"
+
+msgid "Pictures"
+msgstr "Argazkiak"
+
+msgid "pixelate"
+msgstr "pixelizatu"
+
+msgid "play"
+msgstr "jo"
+
+msgid "Please enter a number"
+msgstr "Mesedez zenbaki bat erabili"
+
+msgid "pop"
+msgstr "pop"
+
+msgid "Position the cross-hair to set the rotation center"
+msgstr "Biraketa-puntua doitu"
+
+msgid "Preparing project..."
+msgstr "Proiektua prestatzen..."
+
+msgid "Project author:"
+msgstr "Proiektoaren autorea:"
+
+msgid "Project name"
+msgstr "Proiektuaren izena"
+
+msgid "Project Notes"
+msgstr "Proiektuari Buruzko oharrak"
+
+msgid "Project notes"
+msgstr "Proiektuari buruzko oharrak"
+
+msgid "Project uploaded."
+msgstr "Proiektu partekatua."
+
+msgid "Projects"
+msgstr "Proiektuak"
+
+msgid "Quit"
+msgstr "Irten"
+
+msgid "Quit Scratch"
+msgstr "Irten Scratch-etik"
+
+msgid "Reading"
+msgstr "Irakurketa"
+
+msgid "record"
+msgstr "grabatu"
+
+msgid "Record"
+msgstr "Grabatu"
+
+msgid "recording"
+msgstr "grabaketa"
+
+msgid "Rectangle tool (draw outlined or filled rectangle or square)"
+msgstr "Errektangulo-tresnak"
+
+msgid "Redo"
+msgstr "Berregin"
+
+msgid "Reference Guide"
+msgstr "Erreferenzia gida"
+
+msgid "Remote sensor connections enabled"
+msgstr ""
+
+msgid "Remove viewer from stage"
+msgstr "kendu agertokitik begiratokia "
+
+msgid "resistance"
+msgstr "erresistentzia"
+
+msgid "resize this sprite"
+msgstr ""
+
+msgid "reverse"
+msgstr "alderantzikatu"
+
+msgid "right"
+msgstr "eskuina"
+
+msgid "right arrow"
+msgstr "eskuineko gezia"
+
+msgid "Rotate clock-wise"
+msgstr "Erloju orratzen  noranzko biraketa"
+
+msgid "Rotate counter-clock-wise"
+msgstr "Erloju orratzen kontrako noranzko biraketa"
+
+msgid "rotate this sprite"
+msgstr "objetua biratu"
+
+msgid "Rotation degrees?"
+msgstr "Biraketa"
+
+msgid "Save"
+msgstr "Gorde"
+
+msgid "Save a copy of the current project"
+msgstr "Proiekto honen kopia bat gorde"
+
+msgid "Save As"
+msgstr "Gorde honela"
+
+msgid "Save changes before quitting?"
+msgstr "Aldaketak gorde irten baino lehen?"
+
+msgid "Save failed"
+msgstr "Gordetzean huts egin du"
+
+msgid "save picture of scripts"
+msgstr "programetako irudiak gorde"
+
+msgid "save picture of stage..."
+msgstr "Agertokiko irudia gorde..."
+
+msgid "Save Project"
+msgstr "Proiektua gorde"
+
+msgid "Save Scripts Snapshot"
+msgstr "Programetako irudiak gorde"
+
+msgid "Save Stage Shot"
+msgstr "Agertotiko irudia gorde"
+
+msgid "Save the current project"
+msgstr "Proiektu hau gorde"
+
+msgid "Save the current project?"
+msgstr "Proiektu hau gorde?"
+
+msgid "Save this project"
+msgstr "Proiektu hau gorde"
+
+msgid "Scripts"
+msgstr "Gidoia"
+
+msgid "select serial/USB port"
+msgstr "USB serieko ataka hautatu"
+
+msgid "Select tool (move, modify, or delete selection)"
+msgstr "Hautapen tresna (mugitu, aldatu, hautatua ezabatu)"
+
+msgid "Set costume center"
+msgstr ""
+
+msgid "Set language"
+msgstr "Hizkuntza aukeratu"
+
+msgid "Set rotation center"
+msgstr "Biraketa puntua hautatu"
+
+msgid "Set Single Stepping"
+msgstr "pausoak ikusten hasi"
+
+msgid "set slider min and max"
+msgstr "balioaren minimo eta maximoa jarri"
+
+msgid "Share"
+msgstr "Partekatu"
+
+msgid "Share this project"
+msgstr "Proiektu hau partekatu"
+
+msgid "Share This Project Online"
+msgstr "Proiektu hau linean partekatu"
+
+msgid "Show Motor Blocks"
+msgstr "Motorearen blokeak erakutsi"
+
+msgid "show ScratchBoard watcher"
+msgstr "ScratchBoard erakutsi"
+
+msgid "Shrink"
+msgstr "txikitu"
+
+msgid "Shrink sprite"
+msgstr "Txikitu objektua "
+
+msgid "Simulation"
+msgstr "simulazioa"
+
+msgid "Single-step speed?"
+msgstr "Abiadura"
+
+msgid "slider"
+msgstr "Balioa"
+
+msgid "Slider range:"
+msgstr "Balioaren maila:"
+
+msgid "Sound quality:"
+msgstr "Soinu kalitatea:"
+
+msgid "Sound Recorder"
+msgstr "soinu grabagailua"
+
+msgid "Sounds"
+msgstr "Soinua"
+
+msgid "Sounds compressed"
+msgstr "Soinu konprimituak"
+
+msgid "space"
+msgstr "zuriunea"
+
+msgid "Sprite"
+msgstr "Objektua"
+
+msgid "Sprites"
+msgstr ""
+
+msgid "sqrt"
+msgstr "erro karratua"
+
+msgid "Stage"
+msgstr "Agertokia"
+
+msgid "Stage selected:"
+msgstr "Agertoki hautatua:"
+
+msgid "Stamp tool (select area, then stamp copies of it)"
+msgstr "Zigilua (hautatu area eta estanpatu kopiak)"
+
+msgid "Start green flag scripts"
+msgstr "Programari hasiera eman"
+
+msgid "Start Single Stepping"
+msgstr "pausoak banaka ikusi"
+
+msgid "stop"
+msgstr "gelditu"
+
+msgid "Stop everything"
+msgstr "Dena gelditu"
+
+msgid "Stop Single Stepping"
+msgstr "pausoak ikusteari utzi"
+
+msgid "Story"
+msgstr "kontaketa"
+
+msgid "Support Site"
+msgstr ""
+
+msgid "Switch colors"
+msgstr "Koloreak trukatu"
+
+msgid "Switch to full stage"
+msgstr "Aldatu agertoki osora"
+
+msgid "Switch to presentation mode"
+msgstr "Aldatu aurkezpen modura"
+
+msgid "Switch to small stage"
+msgstr "Aldatu agertoki txikira"
+
+msgid "Tags:"
+msgstr "Etiketak:"
+
+msgid "Text tool (edit text layer)"
+msgstr "Testu-tresna"
+
+msgid "That variable name is already in use"
+msgstr "Aldagai honen izena erabiltzen ari da"
+
+msgid "that way"
+msgstr "horrela"
+
+msgid "The file name already exists. Overwrite existing file?"
+msgstr "Fitxategia badago dagoeneko. Gainidatzi nahi al duzu?"
+
+msgid "thing"
+msgstr "elementua"
+
+msgid "this way"
+msgstr "honela"
+
+msgid "tilt"
+msgstr "okerdura"
+
+msgid "true"
+msgstr "egiazkoa"
+
+msgid "Turbo speed"
+msgstr "Oso azkar"
+
+msgid "turn into new sprite"
+msgstr "Objetu berri bihurtu"
+
+msgid "Undelete"
+msgstr "Desezabatu"
+
+msgid "Undo"
+msgstr "Desegin"
+
+msgid "up"
+msgstr "gora"
+
+msgid "up arrow"
+msgstr "gezia gora"
+
+msgid "Updating thumbnails"
+msgstr "Koadro txikiak eguneratze"
+
+msgid "Upload succeeded!"
+msgstr "Proiektua bidalita!"
+
+msgid "Upload to Scratch Server"
+msgstr "Scratch serbitzariara bidali"
+
+msgid "Uploading"
+msgstr "Bidaltzen"
+
+msgid "Variable name?"
+msgstr "Aldagaiaren izena?"
+
+msgid "View on stage"
+msgstr "Agertokian aurkeztu"
+
+msgid "What's your name?"
+msgstr "Zein da zure izena?"
+
+msgid "whirl"
+msgstr "zurrunbiloa"
+
+msgid "world"
+msgstr "mundua"
+
+msgid "Write Multiple Project Summaries"
+msgstr "generar version texto del código de multiples proyectos"
+
+msgid "Write Project Summary"
+msgstr "generar version texto del código del proyecto"
+
+msgid "Yes"
+msgstr "Bai"
+
+msgid "Your project is now online at"
+msgstr "Proiektua web direkzio honetan dago"
+
+msgid "Your Scratch website login name:"
+msgstr "Erabiltzailearen izena"
+
+msgid "Zoom in"
+msgstr "Hurbildu"
+
+msgid "Zoom out"
+msgstr "Urrundu"
+
+############################################
+# MIDI INSTRUMENTS
+############################################
+
+msgid "Accordion"
+msgstr ""
+
+msgid "Acoustic Bass"
+msgstr ""
+
+msgid "Acoustic Bass Drum"
+msgstr ""
+
+msgid "Acoustic Grand"
+msgstr ""
+
+msgid "Acoustic Snare"
+msgstr ""
+
+msgid "Agogo"
+msgstr ""
+
+msgid "Alto Sax"
+msgstr ""
+
+msgid "Applause"
+msgstr ""
+
+msgid "Bagpipe"
+msgstr ""
+
+msgid "Banjo"
+msgstr ""
+
+msgid "Baritone Sax"
+msgstr ""
+
+msgid "Bass Drum 1"
+msgstr ""
+
+msgid "Bassoon"
+msgstr ""
+
+msgid "Bird Tweet"
+msgstr ""
+
+msgid "Blown Bottle"
+msgstr ""
+
+msgid "Brass Section"
+msgstr ""
+
+msgid "Breath Noise"
+msgstr ""
+
+msgid "Bright Acoustic"
+msgstr ""
+
+msgid "Cabasa"
+msgstr ""
+
+msgid "Celesta"
+msgstr ""
+
+msgid "Cello"
+msgstr ""
+
+msgid "Chinese Cymbal"
+msgstr ""
+
+msgid "Choir Aahs"
+msgstr ""
+
+msgid "Church Organ"
+msgstr ""
+
+msgid "Clarinet"
+msgstr ""
+
+msgid "Claves"
+msgstr ""
+
+msgid "Clavinet"
+msgstr ""
+
+msgid "Closed Hi-Hat"
+msgstr ""
+
+msgid "Contrabass"
+msgstr ""
+
+msgid "Cowbell"
+msgstr ""
+
+msgid "Crash Cymbal 1"
+msgstr ""
+
+msgid "Crash Cymbal 2"
+msgstr ""
+
+msgid "Distortion Guitar"
+msgstr ""
+
+msgid "Drawbar Organ"
+msgstr ""
+
+msgid "Dulcimer"
+msgstr ""
+
+msgid "Electric Bass (finger)"
+msgstr ""
+
+msgid "Electric Bass (pick)"
+msgstr ""
+
+msgid "Electric Clean Guitar"
+msgstr ""
+
+msgid "Electric Grand"
+msgstr ""
+
+msgid "Electric Jazz Guitar"
+msgstr ""
+
+msgid "Electric Muted Guitar"
+msgstr ""
+
+msgid "Electric Piano 1"
+msgstr ""
+
+msgid "Electric Piano 2"
+msgstr ""
+
+msgid "Electric Snare"
+msgstr ""
+
+msgid "English Horn"
+msgstr ""
+
+msgid "FX 1 (rain)"
+msgstr ""
+
+msgid "FX 2 (soundtrack)"
+msgstr ""
+
+msgid "FX 3 (crystal)"
+msgstr ""
+
+msgid "FX 4 (atmosphere)"
+msgstr ""
+
+msgid "FX 5 (brightness)"
+msgstr ""
+
+msgid "FX 6 (goblins)"
+msgstr ""
+
+msgid "FX 7 (echoes)"
+msgstr ""
+
+msgid "FX 8 (sci-fi)"
+msgstr ""
+
+msgid "Fiddle"
+msgstr ""
+
+msgid "Flute"
+msgstr ""
+
+msgid "French Horn"
+msgstr ""
+
+msgid "Fretless Bass"
+msgstr ""
+
+msgid "Glockenspiel"
+msgstr ""
+
+msgid "Guitar Fret Noise"
+msgstr ""
+
+msgid "Guitar Harmonics"
+msgstr ""
+
+msgid "Gunshot"
+msgstr ""
+
+msgid "Hand Clap"
+msgstr ""
+
+msgid "Harmonica"
+msgstr ""
+
+msgid "Harpsichord"
+msgstr ""
+
+msgid "Helicopter"
+msgstr ""
+
+msgid "Hi Bongo"
+msgstr ""
+
+msgid "Hi Wood Block"
+msgstr ""
+
+msgid "Hi-Mid Tom"
+msgstr ""
+
+msgid "High Agogo"
+msgstr ""
+
+msgid "High Floor Tom"
+msgstr ""
+
+msgid "High Timbale"
+msgstr ""
+
+msgid "High Tom"
+msgstr ""
+
+msgid "Honky-Tonk"
+msgstr ""
+
+msgid "Kalimba"
+msgstr ""
+
+msgid "Koto"
+msgstr ""
+
+msgid "Lead 1 (square)"
+msgstr ""
+
+msgid "Lead 2 (sawtooth)"
+msgstr ""
+
+msgid "Lead 3 (calliope)"
+msgstr ""
+
+msgid "Lead 4 (chiff)"
+msgstr ""
+
+msgid "Lead 5 (charang)"
+msgstr ""
+
+msgid "Lead 6 (voice)"
+msgstr ""
+
+msgid "Lead 7 (fifths)"
+msgstr ""
+
+msgid "Lead 8 (bass+lead)"
+msgstr ""
+
+msgid "Long Guiro"
+msgstr ""
+
+msgid "Long Whistle"
+msgstr ""
+
+msgid "Low Agogo"
+msgstr ""
+
+msgid "Low Bongo"
+msgstr ""
+
+msgid "Low Conga"
+msgstr ""
+
+msgid "Low Floor Tom"
+msgstr ""
+
+msgid "Low Timbale"
+msgstr ""
+
+msgid "Low Tom"
+msgstr ""
+
+msgid "Low Wood Block"
+msgstr ""
+
+msgid "Low-Mid Tom"
+msgstr ""
+
+msgid "Maracas"
+msgstr ""
+
+msgid "Marimba"
+msgstr ""
+
+msgid "Melodic Tom"
+msgstr ""
+
+msgid "Music Box"
+msgstr ""
+
+msgid "Mute Cuica"
+msgstr ""
+
+msgid "Mute Hi Conga"
+msgstr ""
+
+msgid "Mute Triangle"
+msgstr ""
+
+msgid "Muted Trumpet"
+msgstr ""
+
+msgid "Nylon String Guitar"
+msgstr ""
+
+msgid "Oboe"
+msgstr ""
+
+msgid "Ocarina"
+msgstr ""
+
+msgid "Open Cuica"
+msgstr ""
+
+msgid "Open Hi Conga"
+msgstr ""
+
+msgid "Open Hi-Hat"
+msgstr ""
+
+msgid "Open Triangle"
+msgstr ""
+
+msgid "Orchestra Hit"
+msgstr ""
+
+msgid "Orchestral Strings"
+msgstr ""
+
+msgid "Overdriven Guitar"
+msgstr ""
+
+msgid "Pad 1 (new age)"
+msgstr ""
+
+msgid "Pad 2 (warm)"
+msgstr ""
+
+msgid "Pad 3 (polysynth)"
+msgstr ""
+
+msgid "Pad 4 (choir)"
+msgstr ""
+
+msgid "Pad 5 (bowed)"
+msgstr ""
+
+msgid "Pad 6 (metallic)"
+msgstr ""
+
+msgid "Pad 7 (halo)"
+msgstr ""
+
+msgid "Pad 8 (sweep)"
+msgstr ""
+
+msgid "Pan Flute"
+msgstr ""
+
+msgid "Pedal Hi-Hat"
+msgstr ""
+
+msgid "Percussive Organ"
+msgstr ""
+
+msgid "Piccolo"
+msgstr ""
+
+msgid "Pizzicato Strings"
+msgstr ""
+
+msgid "Recorder"
+msgstr ""
+
+msgid "Reed Organ"
+msgstr ""
+
+msgid "Reverse Cymbal"
+msgstr ""
+
+msgid "Ride Bell"
+msgstr ""
+
+msgid "Ride Cymbal 1"
+msgstr ""
+
+msgid "Ride Cymbal 2"
+msgstr ""
+
+msgid "Rock Organ"
+msgstr ""
+
+msgid "Seashore"
+msgstr ""
+
+msgid "Shakuhachi"
+msgstr ""
+
+msgid "Shamisen"
+msgstr ""
+
+msgid "Shanai"
+msgstr ""
+
+msgid "Short Guiro"
+msgstr ""
+
+msgid "Short Whistle"
+msgstr ""
+
+msgid "Side Stick"
+msgstr ""
+
+msgid "Sitar"
+msgstr ""
+
+msgid "Slap Bass 1"
+msgstr ""
+
+msgid "Slap Bass 2"
+msgstr ""
+
+msgid "Soprano Sax"
+msgstr ""
+
+msgid "Splash Cymbal"
+msgstr ""
+
+msgid "Steel Drums"
+msgstr ""
+
+msgid "Steel String Guitar"
+msgstr ""
+
+msgid "String Ensemble 1"
+msgstr ""
+
+msgid "String Ensemble 2"
+msgstr ""
+
+msgid "Synth Bass 1"
+msgstr ""
+
+msgid "Synth Bass 2"
+msgstr ""
+
+msgid "Synth Drum"
+msgstr ""
+
+msgid "Synth Voice"
+msgstr ""
+
+msgid "SynthBrass 1"
+msgstr ""
+
+msgid "SynthBrass 2"
+msgstr ""
+
+msgid "SynthStrings 1"
+msgstr ""
+
+msgid "SynthStrings 2"
+msgstr ""
+
+msgid "Taiko Drum"
+msgstr ""
+
+msgid "Tambourine"
+msgstr ""
+
+msgid "Tango Accordion"
+msgstr ""
+
+msgid "Telephone Ring"
+msgstr ""
+
+msgid "Tenor Sax"
+msgstr ""
+
+msgid "Timpani"
+msgstr ""
+
+msgid "Tinkle Bell"
+msgstr ""
+
+msgid "Tremolo Strings"
+msgstr ""
+
+msgid "Trombone"
+msgstr ""
+
+msgid "Trumpet"
+msgstr ""
+
+msgid "Tuba"
+msgstr ""
+
+msgid "Tubular Bells"
+msgstr ""
+
+msgid "Vibraphone"
+msgstr ""
+
+msgid "Vibraslap"
+msgstr ""
+
+msgid "Viola"
+msgstr ""
+
+msgid "Violin"
+msgstr ""
+
+msgid "Voice Oohs"
+msgstr ""
+
+msgid "Whistle"
+msgstr ""
+
+msgid "Woodblock"
+msgstr ""
+
+msgid "Xylophone"
+msgstr ""
+

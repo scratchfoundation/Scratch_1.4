@@ -1,0 +1,1924 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Scratch\n"
+"Report-Msgid-Bugs-To: Evelyn Eastmond <evelyn@media.mit.edu>\n"
+"POT-Creation-Date: 2008-03-13\n"
+"PO-Revision-Date: 2009-06-09 05:01-0400\n"
+"Last-Translator: Galina Protsenko <galinapro@gmail.com>\n"
+"Language-Team: Solvek <www.solvek.com>\n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Pootle 1.2.0\n"
+
+############################################
+# FORMATTING
+############################################
+
+# Language name as you'd like it to appear in the Languages menu
+# (Required)
+msgid "Language-Name"
+msgstr "Українська"
+
+# Directionality of language
+# LTR = Left to Right
+# RTL = Right to Left
+msgid "Language-Direction"
+msgstr "LTR"
+
+# Scale to apply to font size (2 for twice as large)
+# Use this if the font is too small for legibility on the Scratch interface
+msgid "Font-Scale"
+msgstr ""
+
+# Set to 'true' or 'false'
+# Use this if you do not want any of the text to be bolded, for legibility
+msgid "Suppress-Bold"
+msgstr ""
+
+# Font to use on a Windows system
+msgid "Win-Font"
+msgstr ""
+
+# Font to use on a Mac system
+msgid "Mac-Font"
+msgstr ""
+
+# Font to use on a Linux system
+msgid "Linux-Font"
+msgstr ""
+
+############################################
+# BLOCKS
+############################################
+
+msgid "%H sensor value"
+msgstr "Значення датчика %H"
+
+msgid "%L contains %s"
+msgstr "%L міститься у %s"
+
+msgid "%a of %m"
+msgstr "%a з %m"
+
+msgid "%b and %b"
+msgstr "%b і %b"
+
+msgid "%b or %b"
+msgstr "%b або %b"
+
+msgid "%f of %n"
+msgstr "%f з %n"
+
+msgid "%n mod %n"
+msgstr "остача від %n на %n"
+
+msgid "add %s to %L"
+msgstr "додати %s до %L"
+
+msgid "answer"
+msgstr "відповідь"
+
+msgid "ask %s and wait"
+msgstr "запитати %s та чекати"
+
+msgid "background #"
+msgstr "фон #"
+
+msgid "broadcast %e"
+msgstr "оповістити %e"
+
+msgid "broadcast %e and wait"
+msgstr "оповістити %e і чекати"
+
+msgid "change %g effect by %n"
+msgstr "змінити ефект %g на %n"
+
+msgid "change %v by %n"
+msgstr "змінити %v на %n"
+
+msgid "change pen color by %n"
+msgstr "змінити колір олівця на %n"
+
+msgid "change pen shade by %n"
+msgstr "змінити тінь олівця на %n"
+
+msgid "change pen size by %n"
+msgstr "змінити розмір олівця на %n"
+
+msgid "change size by %n"
+msgstr "змінити розмір на %n"
+
+msgid "change tempo by %n"
+msgstr "змінити темп на %n"
+
+msgid "change volume by %n"
+msgstr "змінити гучність на %n"
+
+msgid "change x by %n"
+msgstr "змінити x на %n"
+
+msgid "change y by %n"
+msgstr "змінити y на %n"
+
+msgid "clear"
+msgstr "очистити"
+
+msgid "clear graphic effects"
+msgstr "очистити графічні ефекти"
+
+msgid "color %C is touching %C?"
+msgstr "колір %C торкається %C?"
+
+msgid "control"
+msgstr "Керувати"
+
+# змінюється не лише костюм (одяг), а образ героя вцілому
+msgid "costume #"
+msgstr "образ №"
+
+# елемент зі списку видаляють
+msgid "delete %y of %L"
+msgstr "видалити %y з %L"
+
+msgid "direction"
+msgstr "напрямок"
+
+msgid "distance to %m"
+msgstr "відстань до %m"
+
+msgid "else"
+msgstr "інакше"
+
+msgid "forever"
+msgstr "завжди"
+
+msgid "forever if %b"
+msgstr "завжди якщо %b"
+
+msgid "glide %n secs to x:%n y:%n"
+msgstr "ковзати %n сек до x:%n y:%n"
+
+msgid "go back %n layers"
+msgstr "стати позаду %n об'єктів"
+
+msgid "go to %m"
+msgstr "переміститись в %m"
+
+msgid "go to front"
+msgstr "стати попереду всіх"
+
+msgid "go to x:%n y:%n"
+msgstr "переміститись в x:%n y:%n"
+
+msgid "hide"
+msgstr "сховати"
+
+msgid "hide variable %v"
+msgstr "сховати змінну %v"
+
+msgid "if %b"
+msgstr "якщо %b"
+
+msgid "if on edge, bounce"
+msgstr "якщо границя, відбити"
+
+msgid "insert %s at %i of %L"
+msgstr "вставити %s в %i з %L"
+
+msgid "item %i of %L"
+msgstr "елемент %i з %L"
+
+msgid "join %s %s"
+msgstr "з'єднати %s %s"
+
+msgid "key %k pressed?"
+msgstr "клавішу %k натиснуто?"
+
+msgid "length of %L"
+msgstr "довжина %L"
+
+msgid "length of %s"
+msgstr "довжина %s"
+
+msgid "letter %n of %s"
+msgstr "символ %n у %s"
+
+msgid "list"
+msgstr "список"
+
+msgid "looks"
+msgstr "Вигляд"
+
+msgid "loud?"
+msgstr "голосно?"
+
+msgid "loudness"
+msgstr "гучність"
+
+msgid "motion"
+msgstr "Рух"
+
+msgid "motor direction %W"
+msgstr "напрям двигуна %W"
+
+msgid "motor off"
+msgstr "двигун вимкнути"
+
+msgid "motor on"
+msgstr "двигун ввімкнути"
+
+msgid "motor on for %n secs"
+msgstr "двигун ввімкнути на %n сек"
+
+msgid "motor power %n"
+msgstr "потужність двигуна %n"
+
+msgid "mouse down?"
+msgstr "мишку натиснуто?"
+
+msgid "mouse x"
+msgstr "мишка x"
+
+msgid "mouse y"
+msgstr "мишка y"
+
+msgid "move %n steps"
+msgstr "переміститись на %n кроків"
+
+msgid "next background"
+msgstr "наступний фон"
+
+msgid "next costume"
+msgstr "наступний образ"
+
+msgid "not %b"
+msgstr "не %b"
+
+msgid "operators"
+msgstr "Оператори"
+
+msgid "pen"
+msgstr "Олівець"
+
+msgid "pen down"
+msgstr "опустити олівець"
+
+msgid "pen up"
+msgstr "підняти олівець"
+
+msgid "pick random %n to %n"
+msgstr "вибрати випадкове від %n до %n"
+
+msgid "play drum %D for %n beats"
+msgstr "програти на барабані %D %n ударів"
+
+msgid "play note %N for %n beats"
+msgstr "грати ноту %N %n тактів"
+
+msgid "play sound %S"
+msgstr "грати звук %S"
+
+msgid "play sound %S until done"
+msgstr "грати звук %S до завершення"
+
+msgid "point in direction %d"
+msgstr "повернути в напрямку %d"
+
+msgid "point towards %m"
+msgstr "слідувати за %m"
+
+msgid "repeat %n"
+msgstr "повторити %n"
+
+msgid "repeat until %b"
+msgstr "повторювати поки %b"
+
+msgid "replace item %i of %L with %s"
+msgstr "замінити %i %L на %s"
+
+msgid "reset timer"
+msgstr "перезапустити таймер"
+
+msgid "rest for %n beats"
+msgstr "пауза %n тактів"
+
+msgid "round %n"
+msgstr "округлити %n"
+
+msgid "say %s"
+msgstr "говорити %s"
+
+msgid "say %s for %n secs"
+msgstr "говорити %s впродовж %n сек"
+
+msgid "sensing"
+msgstr "Датчики"
+
+msgid "sensor %h?"
+msgstr "датчик %h?"
+
+msgid "set %g effect to %n"
+msgstr "встановити ефект %g в %n"
+
+msgid "set %v to %n"
+msgstr "надати %v значення %n"
+
+msgid "set instrument to %I"
+msgstr "задати інструмент %I"
+
+msgid "set pen color to %c"
+msgstr "задати колір олівця %c"
+
+msgid "set pen color to %n"
+msgstr "задати колір олівця в %n"
+
+msgid "set pen shade to %n"
+msgstr "задати тінь олівця %n"
+
+msgid "set pen size to %n"
+msgstr "задати розмір олівця %n"
+
+msgid "set size to %n%"
+msgstr "задати розмір %n%"
+
+msgid "set tempo to %n bpm"
+msgstr "встановити темп в %n уд/хв"
+
+msgid "set volume to %n%"
+msgstr "встановити гучність %n%"
+
+msgid "set x to %n"
+msgstr "задати значення x %n"
+
+msgid "set y to %n"
+msgstr "задати значення y %n"
+
+msgid "show"
+msgstr "показати"
+
+msgid "show variable %v"
+msgstr "показати змінну %v"
+
+msgid "size"
+msgstr "розмір"
+
+msgid "sound"
+msgstr "Звук"
+
+msgid "stamp"
+msgstr "штамп"
+
+msgid "stop all"
+msgstr "зупини все"
+
+msgid "stop all sounds"
+msgstr "зупини всі звуки"
+
+msgid "stop script"
+msgstr "зупинити скрипт"
+
+msgid "switch to background %l"
+msgstr "змінити фон на %l"
+
+msgid "switch to costume %l"
+msgstr "змінити образ на %l"
+
+msgid "tempo"
+msgstr "темп"
+
+msgid "think %s"
+msgstr "подумати %s"
+
+msgid "think %s for %n secs"
+msgstr "подумати %s %n сек"
+
+msgid "timer"
+msgstr "таймер"
+
+msgid "touching %m?"
+msgstr "доторкається %m?"
+
+msgid "touching color %C?"
+msgstr "доторкається кольору %C?"
+
+msgid "turn %n degrees"
+msgstr "повернути на %n градусів"
+
+msgid "variables"
+msgstr "Змінні"
+
+msgid "volume"
+msgstr "гучність"
+
+msgid "wait %n secs"
+msgstr "чекати %n секунд"
+
+msgid "wait until %b"
+msgstr "чекати поки %b"
+
+msgid "when %k key pressed"
+msgstr "коли натиснуто клавішу %k"
+
+msgid "when %m clicked"
+msgstr "коли натиснуто %m"
+
+msgid "when I receive %e"
+msgstr "коли одержую %e"
+
+msgid "x position"
+msgstr "значення x"
+
+msgid "y position"
+msgstr "значення y"
+
+############################################
+# USER INTERFACE
+############################################
+
+msgid "(empty)"
+msgstr "(порожній)"
+
+msgid "1 script"
+msgstr "1 скрипт"
+
+msgid "About Scratch"
+msgstr "Про Дряпанку"
+
+msgid "About this project:"
+msgstr "Про цей проект:"
+
+msgid "abs"
+msgstr "абс"
+
+msgid "add comment"
+msgstr "додати коментар"
+
+msgid "add comment here"
+msgstr "додати коментар тут"
+
+msgid "all"
+msgstr "все"
+
+msgid "and"
+msgstr "і"
+
+msgid "Animation"
+msgstr "Анімації"
+
+msgid "any"
+msgstr "будь-яке"
+
+msgid "Art"
+msgstr "Малюнки"
+
+msgid "background"
+msgstr "фон"
+
+msgid "backgrounds"
+msgstr "фони"
+
+msgid "Backgrounds"
+msgstr "Фони"
+
+msgid "brightness"
+msgstr "яскравість"
+
+msgid "Brush size: "
+msgstr "Розмір пензля:"
+
+msgid "button"
+msgstr "кнопка"
+
+msgid "button pressed"
+msgstr "кнопку натиснуто"
+
+msgid "Camera"
+msgstr "Камера"
+
+msgid "can rotate"
+msgstr "можна повернути"
+
+msgid "cancel"
+msgstr "скасувати"
+
+msgid "Cancel"
+msgstr "Скасувати"
+
+msgid "Choose a folder"
+msgstr "Вибрати папку"
+
+msgid "Choose new sprite from file"
+msgstr "Вибрати новий об'єкт з файла"
+
+msgid "clean up"
+msgstr "очистити"
+
+msgid "Clear"
+msgstr "Очистити"
+
+msgid "Clear canvas"
+msgstr "Очистити полотна"
+
+msgid "Close and continue"
+msgstr "Закрити та продовжити"
+
+msgid "Close dialog?"
+msgstr "Завершити діалог?"
+
+msgid "Close paint editor?"
+msgstr "Закрити граф. редактор?"
+
+msgid "close port"
+msgstr "закрити порт"
+
+msgid "Close sound recorder?"
+msgstr "Завершити звукозапис?"
+
+msgid "color"
+msgstr "колір"
+
+msgid "Compress Images"
+msgstr "стиснути картинки"
+
+msgid "Compress Sounds"
+msgstr "стиснути звуки"
+
+msgid "Compress sounds and images"
+msgstr "Стиснути звуки та картинки"
+
+msgid "Computer"
+msgstr "Комп'ютер"
+
+msgid "connected"
+msgstr "під'єднано"
+
+msgid "Connecting to "
+msgstr "Під'єднання до"
+
+msgid "Copy"
+msgstr "Копіювати"
+
+msgid "costume"
+msgstr "образ"
+
+msgid "costumes"
+msgstr "образи"
+
+msgid "Costumes"
+msgstr "Образи"
+
+msgid "Could not read"
+msgstr "Не можу прочитати"
+
+msgid "Could not read project; file may be damaged"
+msgstr "Не вдалось прочитати проект; можливо файл зіпсовано"
+
+msgid "Could not write file"
+msgstr "Не можу записати файл"
+
+msgid "Create account"
+msgstr "Створити обліковий запис"
+
+msgid "Create an empty project"
+msgstr "Створити новий проект"
+
+msgid "Data sent. Waiting for response..."
+msgstr "Дані надіслано. Чекаю на відповідь..."
+
+msgid "delete"
+msgstr "вилучити"
+
+msgid "Delete"
+msgstr "Вилучити"
+
+msgid "Delete a list"
+msgstr "Вилучити список"
+
+msgid "Delete a variable"
+msgstr "Вилучити змінну"
+
+msgid "Delete this background"
+msgstr "Вилучити цей фон"
+
+msgid "Delete this costume"
+msgstr "вилучити цей образ"
+
+msgid "Delete this sound"
+msgstr "вилучити цей звук"
+
+msgid "Delete this sprite"
+msgstr "Вилучити цей спрайт"
+
+msgid "Desktop"
+msgstr "Стільниця"
+
+msgid "disable remote sensor connections"
+msgstr "вимкнути з'єднання з сенсором"
+
+msgid "distance"
+msgstr "відстань"
+
+msgid "Documents"
+msgstr "Документи"
+
+msgid "don't rotate"
+msgstr "не повертати"
+
+msgid "Don't Save"
+msgstr "Не зберігати"
+
+msgid "Done"
+msgstr "Виконано"
+
+msgid "down"
+msgstr "вниз"
+
+msgid "down arrow"
+msgstr "стрілка вниз"
+
+msgid "drag to resize"
+msgstr "змінювати розмір"
+
+msgid "drag to rotate"
+msgstr "обертати"
+
+msgid "draggable on website?"
+msgstr "переміщувати на веб-сторінці?"
+
+msgid "duplicate"
+msgstr "дублювати"
+
+msgid "Duplicate"
+msgstr "Дублювати"
+
+msgid "edge"
+msgstr "границя"
+
+msgid "Edit"
+msgstr "Редагувати"
+
+msgid "Ellipse tool (draw outlined or filled ellipse or circle)"
+msgstr "Еліпс (намалювати заповнений чи незаповнений еліпс або коло)"
+
+msgid "enable remote sensor connections"
+msgstr "ввімкнути з'єднання з сенсором"
+
+msgid "Enter presentation mode"
+msgstr "Перейти в режим перегляду"
+
+msgid "Eraser"
+msgstr "Стирачка"
+
+msgid "Eraser size"
+msgstr "Розмір стирачки"
+
+msgid "Error!"
+msgstr "Помилка!"
+
+msgid "Examples"
+msgstr "Зразки"
+
+msgid "Exit presentation"
+msgstr "Закінчити Перегляд"
+
+msgid "Exit presentation mode"
+msgstr "Вийти з режиму перегляду"
+
+msgid "export"
+msgstr "експортувати"
+
+msgid "Export Background"
+msgstr "Експортувати фон"
+
+msgid "Export Costume"
+msgstr "Експрортувати Образ"
+
+msgid "Export failed"
+msgstr "Експортувати не вдалось"
+
+msgid "Export Sound"
+msgstr "Експортувати звук"
+
+msgid "Export Sprite"
+msgstr "Експортувати об'єкт"
+
+msgid "export this costume"
+msgstr "Експортувати цей образ"
+
+msgid "export this sound"
+msgstr "Експортувати цей звук"
+
+# спрайт - об'єкт
+msgid "export this sprite"
+msgstr "експортувати цей об'єкт"
+
+msgid "Extras menu"
+msgstr "Додаткове меню"
+
+msgid "Eyedropper tool (select a color)"
+msgstr "Піпетка (вибрати колір)"
+
+msgid "Failed:"
+msgstr "Невдача:"
+
+msgid "false"
+msgstr "хибне"
+
+msgid "File"
+msgstr "Файл"
+
+msgid "File not found"
+msgstr "Файл не знайдено"
+
+msgid "Fill tool (fill areas with color or gradient)"
+msgstr "Заливачка (залити область кольором чи градієнтом)"
+
+msgid "first"
+msgstr "перший"
+
+msgid "fisheye"
+msgstr "вздуття"
+
+msgid "Flash blocks (fast)"
+msgstr "Флеш блоки (швидко)"
+
+msgid "Flash blocks (slow)"
+msgstr "Флеш блоки (повільно)"
+
+msgid "Flip horizontally"
+msgstr "Повернути горизонтально"
+
+msgid "Flip vertically"
+msgstr "Повернути вериткально"
+
+msgid "For all sprites"
+msgstr "Для всіх об'єктів"
+
+msgid "For this sprite only"
+msgstr "Тільки для цього об'єкта"
+
+msgid "Game"
+msgstr "Ігри"
+
+msgid "Get surprise sprite"
+msgstr "Вставити випадковий об'єкт"
+
+msgid "Get the last thing deleted"
+msgstr "Відмінити останнє вилучення"
+
+msgid "Getting Started"
+msgstr "Розпочинаючи роботу"
+
+msgid "ghost"
+msgstr "привид"
+
+msgid "Go To Scratch Website"
+msgstr "На сайт Скретчу"
+
+msgid "grab screen region for new costume"
+msgstr "використати частину екрану для нового образу"
+
+msgid "grab screen region for new sprite"
+msgstr "використати частину екрана для нового об'єкта"
+
+msgid "Grow"
+msgstr "Збільшити"
+
+msgid "Grow sprite"
+msgstr "Збільшити об'єкт"
+
+msgid "hello "
+msgstr "Привіт"
+
+msgid "Hello!"
+msgstr "Привіт!"
+
+msgid "help"
+msgstr "допомога"
+
+msgid "Help"
+msgstr "допомога"
+
+msgid "Help Page"
+msgstr "Сторінка допомоги"
+
+msgid "Help Screens"
+msgstr "Підказка"
+
+msgid "Hide Motor Blocks"
+msgstr "Сховати блоки двигуна"
+
+msgid "High (biggest)"
+msgstr "Великий (найбільший)"
+
+msgid "Hmm..."
+msgstr "Хм..."
+
+msgid "Home"
+msgstr "Домашня"
+
+msgid "Images compressed"
+msgstr "Стиснуті картинки"
+
+msgid "import"
+msgstr "імпортувати"
+
+msgid "Import"
+msgstr "Імпортувати"
+
+msgid "Import an image on top of your current canvas"
+msgstr "Імпортувати картинку на верх поточного полотна"
+
+msgid "Import Background"
+msgstr "Імпортувати фон"
+
+msgid "Import Costume"
+msgstr "Імпортувати образ"
+
+msgid "Import Image"
+msgstr "Імпортувати картинку"
+
+msgid "Import List"
+msgstr "Список Імпорту"
+
+msgid "Import Project"
+msgstr "Імпортувати проект"
+
+msgid "import project"
+msgstr "імпортувати проект"
+
+msgid "Import Sound"
+msgstr "Імпортувати звук"
+
+msgid "Incompatible Scratch file format"
+msgstr "Формат файлу несумісний з Дряпанкою"
+
+msgid "Is the folder read-only?"
+msgstr "Можливо папка тільки для читання?"
+
+msgid "JPEG Quality (10-100)?"
+msgstr "Якість JPEG (10-100)"
+
+msgid "kbytes"
+msgstr "кілобайтів"
+
+msgid "Language"
+msgstr "Мова"
+
+msgid "large readout"
+msgstr "зчитування показників"
+
+msgid "last"
+msgstr "останні"
+
+msgid "left"
+msgstr "вліво"
+
+msgid "left arrow"
+msgstr "стрілка вліво"
+
+msgid "length"
+msgstr "довжина"
+
+msgid "light"
+msgstr "легкий"
+
+msgid "Line tool (draw lines)"
+msgstr "Лінія (намалювати лінію)"
+
+msgid "List name?"
+msgstr "Назва списку?"
+
+msgid "Low"
+msgstr "Зменшити"
+
+msgid "Lowest (smallest)"
+msgstr "Найменше"
+
+msgid "Make a list"
+msgstr "Створити список"
+
+msgid "Make a variable"
+msgstr "Створити змінну"
+
+msgid "Max:"
+msgstr "Макс:"
+
+msgid "meow"
+msgstr "няв"
+
+msgid "Message name:"
+msgstr "Ім'я повідомлення:"
+
+msgid "Min:"
+msgstr "Мін:"
+
+msgid "mod"
+msgstr "мод"
+
+msgid "more"
+msgstr "більше"
+
+msgid "More tags:"
+msgstr "Більше тегів:"
+
+msgid "mosaic"
+msgstr "мозаїка"
+
+msgid "mouse x:"
+msgstr "миша x:"
+
+msgid "mouse y:"
+msgstr "миша y:"
+
+msgid "mouse-pointer"
+msgstr "вказівник миші"
+
+msgid "Move"
+msgstr "перемістити"
+
+msgid "Music"
+msgstr "Музика"
+
+msgid "My Projects"
+msgstr "Мої проекти"
+
+msgid "new"
+msgstr "новий"
+
+msgid "New"
+msgstr "Новий"
+
+msgid "New background:"
+msgstr "Новий фон:"
+
+msgid "New costume:"
+msgstr "Новий образ:"
+
+msgid "New file name?"
+msgstr ""
+
+msgid "New Filename:"
+msgstr "Нове ім'я файлу:"
+
+msgid "New sound:"
+msgstr "Новий звук:"
+
+msgid "New Sprite"
+msgstr "Новий об'єкт"
+
+msgid "New sprite:"
+msgstr "Новий об'єкт:"
+
+msgid "No"
+msgstr "Ні"
+
+msgid "No MIDI ports currently available."
+msgstr "Немає доступних MIDI файлів."
+
+msgid "No motion blocks"
+msgstr "Немає рухливих блоків"
+
+msgid "no scripts"
+msgstr "немає скриптів"
+
+msgid "No serial ports found"
+msgstr "Не знайдено серійних портів"
+
+msgid "No variables."
+msgstr "Немає змінних"
+
+msgid "Normal"
+msgstr "Нормальний"
+
+msgid "normal readout"
+msgstr "нормальне зчитування"
+
+msgid "Off"
+msgstr "Вимк"
+
+msgid "OK"
+msgstr "Гаразд"
+
+msgid "On"
+msgstr "Увімкн"
+
+msgid "only face left-right"
+msgstr "приймати тільки з ліва на право"
+
+msgid "Open"
+msgstr "Відкрити"
+
+msgid "Open a Scratch project"
+msgstr "Відкрити проект Дряпанки"
+
+msgid "Open Project"
+msgstr "Відкрити проект"
+
+msgid "or"
+msgstr "або"
+
+msgid "Paint"
+msgstr "Малювати"
+
+msgid "Paint Editor"
+msgstr "Графічний редактор"
+
+msgid "Paint new sprite"
+msgstr "Намалювати новий об'єкт"
+
+msgid "Paintbrush"
+msgstr "Пензель"
+
+msgid "Password:"
+msgstr "Пароль:"
+
+msgid "Percent? (100 gives original size)"
+msgstr "Відсоток? (оригінальний розмір при 100%)"
+
+msgid "Pictures"
+msgstr "Картинки"
+
+msgid "pixelate"
+msgstr "пікселями"
+
+msgid "play"
+msgstr "грати"
+
+msgid "Please enter a number"
+msgstr "Введіть число"
+
+msgid "pop"
+msgstr "видати"
+
+msgid "Position the cross-hair to set the rotation center"
+msgstr "Встановити перехрестя для задавання центру повороту"
+
+msgid "Preparing project..."
+msgstr "Підготовка проекту..."
+
+msgid "Project author:"
+msgstr "Автор проекту:"
+
+msgid "Project name"
+msgstr "назва проекту"
+
+msgid "Project Notes"
+msgstr "Опис проекту"
+
+msgid "Project notes"
+msgstr "опис проекту"
+
+msgid "Project uploaded."
+msgstr "Проект вивантажено."
+
+msgid "Projects"
+msgstr "Проекти"
+
+msgid "Quit"
+msgstr "Завершити роботу"
+
+msgid "Quit Scratch"
+msgstr "Вийти із Дряпанки"
+
+msgid "Reading"
+msgstr "Зчитування"
+
+msgid "record"
+msgstr "записати"
+
+msgid "Record"
+msgstr "Записати"
+
+msgid "recording"
+msgstr "запис"
+
+msgid "Rectangle tool (draw outlined or filled rectangle or square)"
+msgstr "Прямокутник (намалювати заповнений або незаповнений прямокутник чи квадрат)"
+
+msgid "Redo"
+msgstr "Повернути"
+
+msgid "Reference Guide"
+msgstr "Посібник користувача"
+
+msgid "Remote sensor connections enabled"
+msgstr "З'єднання з сенсором ввімкнено "
+
+msgid "Remove viewer from stage"
+msgstr "Вилучити відображення значення"
+
+msgid "resistance"
+msgstr "резистентність"
+
+msgid "resize this sprite"
+msgstr "змінити розмір об'єкта"
+
+msgid "reverse"
+msgstr "обернути"
+
+msgid "right"
+msgstr "вправо"
+
+msgid "right arrow"
+msgstr "стрілка вправо"
+
+msgid "Rotate clock-wise"
+msgstr "Повернути за годинниковою стрілкою"
+
+msgid "Rotate counter-clock-wise"
+msgstr "Повернути проти годинникової стрілки"
+
+msgid "rotate this sprite"
+msgstr "повернути об'єкт"
+
+msgid "Rotation degrees?"
+msgstr "Кут повороту"
+
+msgid "Save"
+msgstr "Зберегти"
+
+msgid "Save a copy of the current project"
+msgstr "Зберегти копію поточного проекту"
+
+msgid "Save As"
+msgstr "Зберегти як"
+
+msgid "Save changes before quitting?"
+msgstr "Зберегти зміни перед закінченням?"
+
+msgid "Save failed"
+msgstr "Помилка збереження"
+
+msgid "save picture of scripts"
+msgstr "зберегти зображення скрипта"
+
+msgid "save picture of stage..."
+msgstr "зберегти картинку сцени..."
+
+msgid "Save Project"
+msgstr "Зберегти Проект"
+
+msgid "Save Scripts Snapshot"
+msgstr "Зберегти знімок скрипта"
+
+msgid "Save Stage Shot"
+msgstr "Сберегти знімок сцени"
+
+msgid "Save the current project"
+msgstr "Зберегти поточний проект"
+
+msgid "Save the current project?"
+msgstr "Зберегти поточний проект?"
+
+msgid "Save this project"
+msgstr "Зберегти цей проект"
+
+msgid "Scripts"
+msgstr "Скрипти"
+
+msgid "select serial/USB port"
+msgstr "вибрати COM/USB порт"
+
+msgid "Select tool (move, modify, or delete selection)"
+msgstr "Вибрати інструмент  (переміщення, зміна, вилучення області)"
+
+msgid "Set costume center"
+msgstr "Розмістити образ посередині"
+
+msgid "Set language"
+msgstr "Встановити мову"
+
+msgid "Set rotation center"
+msgstr "Задати центр повороту"
+
+msgid "Set Single Stepping"
+msgstr "задати одиничний крок"
+
+msgid "set slider min and max"
+msgstr "задати параметри слайдера"
+
+msgid "Share"
+msgstr "Відправити"
+
+msgid "Share this project"
+msgstr "Поділитись цим проектом"
+
+msgid "Share This Project Online"
+msgstr "Поділитись цим проектом з іншими"
+
+msgid "Show Motor Blocks"
+msgstr "Показати блоки двигуна"
+
+msgid "show ScratchBoard watcher"
+msgstr "показати ScratchBoard переглядач"
+
+msgid "Shrink"
+msgstr "Зменшити"
+
+msgid "Shrink sprite"
+msgstr "зменшити об'єкт"
+
+msgid "Simulation"
+msgstr "Симуляції"
+
+msgid "Single-step speed?"
+msgstr "Швидкість одного кроку"
+
+msgid "slider"
+msgstr "слайдер"
+
+msgid "Slider range:"
+msgstr "Діапазон слайдера:"
+
+msgid "Sound quality:"
+msgstr "Якість звуку:"
+
+msgid "Sound Recorder"
+msgstr "Записати звук"
+
+msgid "Sounds"
+msgstr "Звуки"
+
+msgid "Sounds compressed"
+msgstr "Стиснуті звуки"
+
+msgid "space"
+msgstr "пропуск"
+
+msgid "Sprite"
+msgstr "Об'єкт"
+
+msgid "Sprites"
+msgstr "Об'єкти"
+
+msgid "sqrt"
+msgstr "корінь"
+
+msgid "Stage"
+msgstr "Сцена"
+
+msgid "Stage selected:"
+msgstr "Сцену вибрано:"
+
+msgid "Stamp tool (select area, then stamp copies of it)"
+msgstr "Штампування (вибрати область та штампувати)"
+
+msgid "Start green flag scripts"
+msgstr "Запуск скрипта"
+
+msgid "Start Single Stepping"
+msgstr "запустити один крок"
+
+msgid "stop"
+msgstr "зупинити"
+
+msgid "Stop everything"
+msgstr "Зупинити все"
+
+msgid "Stop Single Stepping"
+msgstr "зупинити крок"
+
+msgid "Story"
+msgstr "Історії"
+
+msgid "Support Site"
+msgstr "Сайт підтримки"
+
+msgid "Switch colors"
+msgstr "Змінити кольори"
+
+msgid "Switch to full stage"
+msgstr "У повний розмір"
+
+msgid "Switch to presentation mode"
+msgstr "У режим Перегляду"
+
+msgid "Switch to small stage"
+msgstr "У зменшений розмір"
+
+msgid "Tags:"
+msgstr "Теґи:"
+
+msgid "Text tool (edit text layer)"
+msgstr "Текст (ввести або редагувати текст)"
+
+msgid "That variable name is already in use"
+msgstr "Це ім'я змінної вже використовується"
+
+msgid "that way"
+msgstr "цим шляхом"
+
+msgid "The file name already exists. Overwrite existing file?"
+msgstr "Файл з таким іменем вже існує. Перезаписати цей файл?"
+
+msgid "thing"
+msgstr "значення"
+
+msgid "this way"
+msgstr "цей шлях"
+
+msgid "tilt"
+msgstr "нахил"
+
+msgid "true"
+msgstr "істина"
+
+msgid "Turbo speed"
+msgstr "Підвищена швидкість"
+
+msgid "turn into new sprite"
+msgstr "перейти до нового об'єкту"
+
+msgid "Undelete"
+msgstr "Відновити"
+
+msgid "Undo"
+msgstr "Скасувати"
+
+msgid "up"
+msgstr "вгору"
+
+msgid "up arrow"
+msgstr "стрілка вгору"
+
+msgid "Updating thumbnails"
+msgstr "Оновити зображення"
+
+msgid "Upload succeeded!"
+msgstr "Вивантажено успішно!"
+
+msgid "Upload to Scratch Server"
+msgstr "Вивантажити на сервер Дряпанки"
+
+msgid "Uploading"
+msgstr "Вивантаження"
+
+msgid "Variable name?"
+msgstr "Ім'я змінної?"
+
+msgid "View on stage"
+msgstr "Подиватись на сцені"
+
+msgid "What's your name?"
+msgstr "Ваше ім'я?"
+
+msgid "whirl"
+msgstr "обертання"
+
+msgid "world"
+msgstr "світ"
+
+msgid "Write Multiple Project Summaries"
+msgstr "прокоментувати декілька проектів"
+
+msgid "Write Project Summary"
+msgstr "прокоментувати проект"
+
+msgid "Yes"
+msgstr "Так"
+
+msgid "Your project is now online at"
+msgstr "Ваш проект вже на сайті"
+
+msgid "Your Scratch website login name:"
+msgstr "Ваш логін на Дряпанку:"
+
+msgid "Zoom in"
+msgstr "Зменшити"
+
+msgid "Zoom out"
+msgstr "Збільшити"
+
+############################################
+# MIDI INSTRUMENTS
+############################################
+
+msgid "Accordion"
+msgstr "Акордеон"
+
+msgid "Acoustic Bass"
+msgstr "Бас-гітара"
+
+msgid "Acoustic Bass Drum"
+msgstr "Акустичний великий барабан"
+
+msgid "Acoustic Grand"
+msgstr "Акустичний рояль"
+
+msgid "Acoustic Snare"
+msgstr "Акустичний малий барабан"
+
+msgid "Agogo"
+msgstr "Аґоґо"
+
+msgid "Alto Sax"
+msgstr "Альтовий саксофон"
+
+msgid "Applause"
+msgstr "Аплодисменти"
+
+msgid "Bagpipe"
+msgstr "Волинка"
+
+msgid "Banjo"
+msgstr "Банджо"
+
+msgid "Baritone Sax"
+msgstr "Баритоновий саксофон"
+
+msgid "Bass Drum 1"
+msgstr "Великий барабан 1"
+
+msgid "Bassoon"
+msgstr "Фагот"
+
+msgid "Bird Tweet"
+msgstr "Цвірінькання"
+
+msgid "Blown Bottle"
+msgstr "Дмухання в пляшку"
+
+msgid "Brass Section"
+msgstr "Духові інструменти"
+
+msgid "Breath Noise"
+msgstr "Подих"
+
+msgid "Bright Acoustic"
+msgstr "Низька акустика"
+
+msgid "Cabasa"
+msgstr "Кабаса"
+
+msgid "Celesta"
+msgstr "Челеста"
+
+msgid "Cello"
+msgstr "Віолончель"
+
+msgid "Chinese Cymbal"
+msgstr "Китайська тарілка"
+
+msgid "Choir Aahs"
+msgstr "Хоровий спів"
+
+msgid "Church Organ"
+msgstr "Церковний орган"
+
+msgid "Clarinet"
+msgstr "Кларнет"
+
+msgid "Claves"
+msgstr "Клавес"
+
+msgid "Clavinet"
+msgstr "Клавінет"
+
+msgid "Closed Hi-Hat"
+msgstr "Закритий хет"
+
+msgid "Contrabass"
+msgstr "Контрабас"
+
+msgid "Cowbell"
+msgstr "Дзвіночок"
+
+msgid "Crash Cymbal 1"
+msgstr "Креш-тарілка 1"
+
+msgid "Crash Cymbal 2"
+msgstr "Креш-тарілка 2"
+
+msgid "Distortion Guitar"
+msgstr "Розладнана  гітара"
+
+msgid "Drawbar Organ"
+msgstr "Орган"
+
+msgid "Dulcimer"
+msgstr "Цимбали"
+
+msgid "Electric Bass (finger)"
+msgstr "Бас-гітара (щипком)"
+
+msgid "Electric Bass (pick)"
+msgstr "Бас-гітара (медіатором)"
+
+msgid "Electric Clean Guitar"
+msgstr "Акустична соло-гітара"
+
+msgid "Electric Grand"
+msgstr "Електрогітара"
+
+msgid "Electric Jazz Guitar"
+msgstr "Джазова електрогітара"
+
+msgid "Electric Muted Guitar"
+msgstr "Приглушена електрогітара"
+
+msgid "Electric Piano 1"
+msgstr "Електропіаніно 1"
+
+msgid "Electric Piano 2"
+msgstr "Електропіаніно 2"
+
+msgid "Electric Snare"
+msgstr "Малий електробарабан"
+
+msgid "English Horn"
+msgstr "Англійський ріжок"
+
+msgid "FX 1 (rain)"
+msgstr "Спецефект 1 (дощ)"
+
+msgid "FX 2 (soundtrack)"
+msgstr "Спецефект 2 (саундрек)"
+
+msgid "FX 3 (crystal)"
+msgstr "Спецефект 3 (кришталь)"
+
+msgid "FX 4 (atmosphere)"
+msgstr "Спецефект 4 (атмосфера)"
+
+msgid "FX 5 (brightness)"
+msgstr "Спецефект 5 (яскравість)"
+
+msgid "FX 6 (goblins)"
+msgstr "Спецефект 6 (гобліни)"
+
+msgid "FX 7 (echoes)"
+msgstr "Спецефект 7 (відлуння)"
+
+msgid "FX 8 (sci-fi)"
+msgstr "Спецефект 8 (наукова фантастика)"
+
+msgid "Fiddle"
+msgstr "Вулична скрипка"
+
+msgid "Flute"
+msgstr "Флейта"
+
+msgid "French Horn"
+msgstr "Французький ріжок"
+
+msgid "Fretless Bass"
+msgstr "Безладова бас-гітара"
+
+msgid "Glockenspiel"
+msgstr "Дзвіночки"
+
+msgid "Guitar Fret Noise"
+msgstr "Шум гітарних ладів"
+
+msgid "Guitar Harmonics"
+msgstr "Гітарні гармоніки"
+
+msgid "Gunshot"
+msgstr "Постріл"
+
+msgid "Hand Clap"
+msgstr "Плескіт долонь"
+
+msgid "Harmonica"
+msgstr "Гармоніка"
+
+msgid "Harpsichord"
+msgstr "Клавесин"
+
+msgid "Helicopter"
+msgstr "Гелікоптерт"
+
+msgid "Hi Bongo"
+msgstr "Високий Бонґо"
+
+msgid "Hi Wood Block"
+msgstr "Висока коробочка"
+
+msgid "Hi-Mid Tom"
+msgstr "Високий середній томтом"
+
+msgid "High Agogo"
+msgstr "Високий Аґоґо"
+
+msgid "High Floor Tom"
+msgstr "Високий напольний томтом"
+
+msgid "High Timbale"
+msgstr "Високий тимбал"
+
+msgid "High Tom"
+msgstr "Високий томтом"
+
+msgid "Honky-Tonk"
+msgstr "Розладнане фортепіано"
+
+msgid "Kalimba"
+msgstr "Калімба"
+
+msgid "Koto"
+msgstr "Кото"
+
+msgid "Lead 1 (square)"
+msgstr "Соло-гітара 1 (прямокутна хвиля)"
+
+msgid "Lead 2 (sawtooth)"
+msgstr "Соло-гітара 2 (пилкоподібна хвиля)"
+
+msgid "Lead 3 (calliope)"
+msgstr "Calliope-гітара"
+
+msgid "Lead 4 (chiff)"
+msgstr "Chiff-гітара"
+
+msgid "Lead 5 (charang)"
+msgstr "Charang-гітара"
+
+msgid "Lead 6 (voice)"
+msgstr "Соло-гітара (голосовий тембр)"
+
+msgid "Lead 7 (fifths)"
+msgstr "Соло-гітара 7"
+
+msgid "Lead 8 (bass+lead)"
+msgstr "Бас і соло-гітара"
+
+msgid "Long Guiro"
+msgstr "Довге ґуіро"
+
+msgid "Long Whistle"
+msgstr "Довгий свисток"
+
+msgid "Low Agogo"
+msgstr "Низький Аґоґо"
+
+msgid "Low Bongo"
+msgstr "Низьке Бонґо"
+
+msgid "Low Conga"
+msgstr "Низька Конґа"
+
+msgid "Low Floor Tom"
+msgstr "Низький напольний томтом"
+
+msgid "Low Timbale"
+msgstr "Низька тімбал"
+
+msgid "Low Tom"
+msgstr "Низький томтом"
+
+msgid "Low Wood Block"
+msgstr "Низький дерев'яний блок"
+
+msgid "Low-Mid Tom"
+msgstr "Низький середній томтом"
+
+msgid "Maracas"
+msgstr "Маракаси"
+
+msgid "Marimba"
+msgstr "Марімба"
+
+msgid "Melodic Tom"
+msgstr "Мелодичний томтом"
+
+msgid "Music Box"
+msgstr "Музична скринька"
+
+msgid "Mute Cuica"
+msgstr "Закрита куїка"
+
+msgid "Mute Hi Conga"
+msgstr "Закрита висока конга"
+
+msgid "Mute Triangle"
+msgstr "Закритий трикутник"
+
+msgid "Muted Trumpet"
+msgstr "Засурдинена труба"
+
+msgid "Nylon String Guitar"
+msgstr "Гітара (нейлонові струни)"
+
+msgid "Oboe"
+msgstr "Гобой"
+
+msgid "Ocarina"
+msgstr "Окаріна"
+
+msgid "Open Cuica"
+msgstr "Відкрита куїка"
+
+msgid "Open Hi Conga"
+msgstr "Відкрита висока Конґа"
+
+msgid "Open Hi-Hat"
+msgstr "Відкритий високий хет"
+
+msgid "Open Triangle"
+msgstr "Відкритий трикутник"
+
+msgid "Orchestra Hit"
+msgstr "Оркестровий акцент"
+
+msgid "Orchestral Strings"
+msgstr "Струнні"
+
+msgid "Overdriven Guitar"
+msgstr "Перемодульована гітара"
+
+msgid "Pad 1 (new age)"
+msgstr "Синтезатор 1 (нью ейдж)"
+
+msgid "Pad 2 (warm)"
+msgstr "Синтезатор 2 (теплий)"
+
+msgid "Pad 3 (polysynth)"
+msgstr "Синтезатор 3 (полісинтезатор)"
+
+msgid "Pad 4 (choir)"
+msgstr "Синтезатор 4 (хоровий)"
+
+msgid "Pad 5 (bowed)"
+msgstr "Синтезатор 5 (смичковий)"
+
+msgid "Pad 6 (metallic)"
+msgstr "Синтезатор 6 (метал)"
+
+msgid "Pad 7 (halo)"
+msgstr "Синтезатор 7 (ореол)"
+
+msgid "Pad 8 (sweep)"
+msgstr "Синтезатор 8 (гойдання)"
+
+msgid "Pan Flute"
+msgstr "Флейта Пана"
+
+msgid "Pedal Hi-Hat"
+msgstr "Хет (педаллю)"
+
+msgid "Percussive Organ"
+msgstr "Ударний орган"
+
+msgid "Piccolo"
+msgstr "Флейта пікколо"
+
+msgid "Pizzicato Strings"
+msgstr "Струнні піцікато"
+
+msgid "Recorder"
+msgstr "Блокфлейта"
+
+msgid "Reed Organ"
+msgstr "Язичковий орган"
+
+msgid "Reverse Cymbal"
+msgstr "Реверсивна тарілка (запис у зворотньому напрямку)"
+
+msgid "Ride Bell"
+msgstr "Райд-тарілка"
+
+msgid "Ride Cymbal 1"
+msgstr "Райд-тарілка 1"
+
+msgid "Ride Cymbal 2"
+msgstr "Райд-тарілка 2"
+
+msgid "Rock Organ"
+msgstr "Рок орган"
+
+msgid "Seashore"
+msgstr "Морський берег"
+
+msgid "Shakuhachi"
+msgstr "Шакухачі"
+
+msgid "Shamisen"
+msgstr "Шамісен"
+
+msgid "Shanai"
+msgstr "Санаї"
+
+msgid "Short Guiro"
+msgstr "Коротке ґуїро"
+
+msgid "Short Whistle"
+msgstr "Короткий свист"
+
+msgid "Side Stick"
+msgstr "удар по ободу"
+
+msgid "Sitar"
+msgstr "Сітар"
+
+msgid "Slap Bass 1"
+msgstr "Слеп 1"
+
+msgid "Slap Bass 2"
+msgstr "Слеп 2"
+
+msgid "Soprano Sax"
+msgstr "Сопрановий саксофон"
+
+msgid "Splash Cymbal"
+msgstr "Сплеш-тарілка"
+
+msgid "Steel Drums"
+msgstr "Сталеві барабани "
+
+msgid "Steel String Guitar"
+msgstr "Гітара (сталеві струни)"
+
+msgid "String Ensemble 1"
+msgstr "Струнний ансамбль 1"
+
+msgid "String Ensemble 2"
+msgstr "Струнний ансамбль 2"
+
+msgid "Synth Bass 1"
+msgstr "Синтезаторний бас 1"
+
+msgid "Synth Bass 2"
+msgstr "Синтезаторний бас 2"
+
+msgid "Synth Drum"
+msgstr "Синтезаторний барабан"
+
+msgid "Synth Voice"
+msgstr "Синтезований голос"
+
+msgid "SynthBrass 1"
+msgstr "Синтезаторні мідні 1"
+
+msgid "SynthBrass 2"
+msgstr "Синтезаторні мідні 2"
+
+msgid "SynthStrings 1"
+msgstr "Синтезаторні струнні 1"
+
+msgid "SynthStrings 2"
+msgstr "Синтезаторні струнні 2"
+
+msgid "Taiko Drum"
+msgstr "Барабан Таїко"
+
+msgid "Tambourine"
+msgstr "Тамбурин"
+
+msgid "Tango Accordion"
+msgstr "Танго-акордеон"
+
+msgid "Telephone Ring"
+msgstr "Телефонний дзвінок"
+
+msgid "Tenor Sax"
+msgstr "Теноровий саксофон"
+
+msgid "Timpani"
+msgstr "Тіфані"
+
+msgid "Tinkle Bell"
+msgstr "Дзвіночок"
+
+msgid "Tremolo Strings"
+msgstr "Тремулюючі струни"
+
+msgid "Trombone"
+msgstr "Тромбон"
+
+msgid "Trumpet"
+msgstr "Труба"
+
+msgid "Tuba"
+msgstr "Туба"
+
+msgid "Tubular Bells"
+msgstr "Дзвони"
+
+msgid "Vibraphone"
+msgstr "Вібрафон"
+
+msgid "Vibraslap"
+msgstr "Вібруючий слеп"
+
+msgid "Viola"
+msgstr "Альт"
+
+msgid "Violin"
+msgstr "Скрипка"
+
+msgid "Voice Oohs"
+msgstr "Вигук о"
+
+msgid "Whistle"
+msgstr "Свист"
+
+msgid "Woodblock"
+msgstr "Коробочка (гольцтон)"
+
+msgid "Xylophone"
+msgstr "Ксилофон"
+

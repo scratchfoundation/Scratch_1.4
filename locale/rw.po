@@ -1,0 +1,1920 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-07-15 09:45-0400\n"
+"PO-Revision-Date: 2009-06-02 21:41+0200\n"
+"Last-Translator: Carine <carine2k@yahoo.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: rw\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Pootle 1.2.0\n"
+
+############################################
+# FORMATTING
+############################################
+
+# Language name as you'd like it to appear in the Languages menu
+# (Required)
+msgid "Language-Name"
+msgstr "Kinyarwanda"
+
+# Directionality of language
+# LTR = Left to Right
+# RTL = Right to Left
+msgid "Language-Direction"
+msgstr "LTR"
+
+# Scale to apply to font size (2 for twice as large)
+# Use this if the font is too small for legibility on the Scratch interface
+msgid "Font-Scale"
+msgstr ""
+
+# Set to 'true' or 'false'
+# Use this if you do not want any of the text to be bolded, for legibility
+msgid "Suppress-Bold"
+msgstr ""
+
+# Font to use on a Windows system
+msgid "Win-Font"
+msgstr ""
+
+# Font to use on a Mac system
+msgid "Mac-Font"
+msgstr ""
+
+# Font to use on a Linux system
+msgid "Linux-Font"
+msgstr ""
+
+############################################
+# BLOCKS
+############################################
+
+msgid "%H sensor value"
+msgstr "%H agaciro k'icyumvirizo"
+
+msgid "%L contains %s"
+msgstr "%L irimo %s"
+
+msgid "%a of %m"
+msgstr "%a ya %m"
+
+msgid "%b and %b"
+msgstr "%b na %b"
+
+msgid "%b or %b"
+msgstr "%b cyangwa %b"
+
+msgid "%f of %n"
+msgstr "%f ya %n"
+
+msgid "%n mod %n"
+msgstr "%n mod %n"
+
+msgid "add %s to %L"
+msgstr "ongera %s ku %L"
+
+msgid "answer"
+msgstr "igisubizo"
+
+msgid "ask %s and wait"
+msgstr "baza %s hanyuma utegereze"
+
+msgid "background #"
+msgstr "Ahakorerwa ibikorwa #"
+
+msgid "broadcast %e"
+msgstr "rangurura %e"
+
+msgid "broadcast %e and wait"
+msgstr "rangurura %e kandi utegereze"
+
+msgid "change %g effect by %n"
+msgstr "hindura %g ingaruka ya %n"
+
+msgid "change %v by %n"
+msgstr "hindura %v ya %n"
+
+msgid "change pen color by %n"
+msgstr "hindura ibara ry`ikaramu  %n"
+
+msgid "change pen shade by %n"
+msgstr "hindura ikaramu isiga irangi %n"
+
+msgid "change pen size by %n"
+msgstr "hindura ingano y`ikaramuya ya %n"
+
+msgid "change size by %n"
+msgstr "hindura ingano ya %n"
+
+msgid "change tempo by %n"
+msgstr "hindura tempo ya %n"
+
+msgid "change volume by %n"
+msgstr "hindura ubunini bwa %n"
+
+msgid "change x by %n"
+msgstr "hindura x kuri %n"
+
+msgid "change y by %n"
+msgstr "hindura y ya %n"
+
+msgid "clear"
+msgstr "tunganya"
+
+msgid "clear graphic effects"
+msgstr "tunganya ingaruka z`igishushanyo"
+
+msgid "color %C is touching %C?"
+msgstr "irangi %C rirafata %C?"
+
+msgid "control"
+msgstr "imicungire"
+
+msgid "costume #"
+msgstr "umwambaro #"
+
+msgid "delete %y of %L"
+msgstr "siba %y ya %L"
+
+msgid "direction"
+msgstr "ikerekezo"
+
+msgid "distance to %m"
+msgstr "intera ku %m"
+
+msgid "else"
+msgstr "cyangwa"
+
+msgid "forever"
+msgstr "burundu"
+
+msgid "forever if %b"
+msgstr "burundu niba %b"
+
+msgid "glide %n secs to x:%n y:%n"
+msgstr "kunyereza %n amasegonda ku  x:%n y:%n"
+
+msgid "go back %n layers"
+msgstr "subira inyuma %n kushe"
+
+msgid "go to %m"
+msgstr "jya ku %m"
+
+msgid "go to front"
+msgstr "jya imbere"
+
+msgid "go to x:%n y:%n"
+msgstr "jya ku x:%n y:%n"
+
+msgid "hide"
+msgstr "hisha"
+
+msgid "hide variable %v"
+msgstr "hisha igihinduka %v"
+
+msgid "if %b"
+msgstr "niba %b"
+
+msgid "if on edge, bounce"
+msgstr "niba ku musozo, dunda"
+
+msgid "insert %s at %i of %L"
+msgstr "injiza %s kuri %i ya %L"
+
+msgid "item %i of %L"
+msgstr "igikoresho %i cya %L"
+
+msgid "join %s %s"
+msgstr "sanga %s %s"
+
+msgid "key %k pressed?"
+msgstr "ibuto %k yakanzwe?"
+
+msgid "length of %L"
+msgstr "uburebure bwa %L"
+
+msgid "length of %s"
+msgstr "uburebure bwa %s"
+
+msgid "letter %n of %s"
+msgstr "inyuguti %n ya %s"
+
+msgid "list"
+msgstr "urutonde"
+
+msgid "looks"
+msgstr "reba/kugaragara"
+
+msgid "loud?"
+msgstr "gisakuza?"
+
+msgid "loudness"
+msgstr "urusaku"
+
+msgid "motion"
+msgstr "gihindagurika"
+
+msgid "motor direction %W"
+msgstr "icyerekezo %W cy'ikinyabiziga"
+
+msgid "motor off"
+msgstr "ikinyabiziga kizimijwe"
+
+msgid "motor on"
+msgstr "ikinyabiziga cyakijwe"
+
+msgid "motor on for %n secs"
+msgstr "ikinyabiziga cyakijwe amasegonda %n"
+
+msgid "motor power %n"
+msgstr "motor power %n"
+
+msgid "mouse down?"
+msgstr "imbeba hasi?"
+
+msgid "mouse x"
+msgstr "imbeba x"
+
+msgid "mouse y"
+msgstr "imbeba y"
+
+msgid "move %n steps"
+msgstr "genda %n intambwe"
+
+msgid "next background"
+msgstr "ahakorerwa ibikorwa hakurikira"
+
+msgid "next costume"
+msgstr "umwambaro ukurikira"
+
+msgid "not %b"
+msgstr "nta %b"
+
+msgid "operators"
+msgstr "operators"
+
+msgid "pen"
+msgstr "ikaramu"
+
+msgid "pen down"
+msgstr "ikaramu  hasi"
+
+msgid "pen up"
+msgstr "ikaramu hejuru"
+
+msgid "pick random %n to %n"
+msgstr "fata kimwe muri byinshi %n nku %n"
+
+msgid "play drum %D for %n beats"
+msgstr "tera ingoma %D ku %n injyana"
+
+msgid "play note %N for %n beats"
+msgstr "kina inota %N ku %n injyana"
+
+msgid "play sound %S"
+msgstr "tera ijwi %S"
+
+msgid "play sound %S until done"
+msgstr "tera ijwi %S kugeza urangije"
+
+msgid "point in direction %d"
+msgstr "tunga mu kerekezo %d"
+
+msgid "point towards %m"
+msgstr "tunga werekeje/uganisha imbere %m"
+
+msgid "repeat %n"
+msgstr "subiramo %n"
+
+msgid "repeat until %b"
+msgstr "subiramo kugeza %b"
+
+msgid "replace item %i of %L with %s"
+msgstr "simbuza ikintu %i cya %L hamwe na %s"
+
+msgid "reset timer"
+msgstr "ongera utangize igipimisho cy`igihe"
+
+msgid "rest for %n beats"
+msgstr "ruhuka ku %n injyana"
+
+msgid "round %n"
+msgstr "inshuro %n"
+
+msgid "say %s"
+msgstr "vuga %s"
+
+msgid "say %s for %n secs"
+msgstr "vuga %s ku %n masegonda"
+
+msgid "sensing"
+msgstr "kwiyumvira"
+
+msgid "sensor %h?"
+msgstr "icyumvirizo %h?"
+
+msgid "set %g effect to %n"
+msgstr "shyira %g ingaruka ku %n"
+
+msgid "set %v to %n"
+msgstr "shyira %v ku %n"
+
+msgid "set instrument to %I"
+msgstr "shyira igikoresho ku %I"
+
+msgid "set pen color to %c"
+msgstr "shyiramo ikaramu y`irange ku %c"
+
+msgid "set pen color to %n"
+msgstr "shyiramo ikaramu y`irange ku %n"
+
+msgid "set pen shade to %n"
+msgstr "shyira ikaramu isiga ku %n"
+
+msgid "set pen size to %n"
+msgstr " shyira ingano y`ikaramu ku %n"
+
+msgid "set size to %n%"
+msgstr "shyira ingano ku %n%"
+
+msgid "set tempo to %n bpm"
+msgstr "shyira  tempo ku %n bpm"
+
+msgid "set volume to %n%"
+msgstr "shyira ubunini ku %n%"
+
+msgid "set x to %n"
+msgstr "shyira x to %n"
+
+msgid "set y to %n"
+msgstr "shyira y ku %n"
+
+msgid "show"
+msgstr "erekana"
+
+msgid "show variable %v"
+msgstr "erekana igihinduka %v"
+
+msgid "size"
+msgstr "ingano"
+
+msgid "sound"
+msgstr "ijwi"
+
+msgid "stamp"
+msgstr "kashi"
+
+msgid "stop all"
+msgstr "hagarika byose"
+
+msgid "stop all sounds"
+msgstr "hagarika amajwi yose"
+
+msgid "stop script"
+msgstr "hagarika amabwiriza "
+
+msgid "switch to background %l"
+msgstr "jya ahakorerwa ibikorwa %l"
+
+msgid "switch to costume %l"
+msgstr "jya ku mwambaro %l"
+
+msgid "tempo"
+msgstr "tempo"
+
+msgid "think %s"
+msgstr "tekereza %s"
+
+msgid "think %s for %n secs"
+msgstr "tekereza %s ku %n amasegonda"
+
+msgid "timer"
+msgstr "igipima igihe"
+
+msgid "touching %m?"
+msgstr "gufata %m?"
+
+msgid "touching color %C?"
+msgstr "gufata irange %C?"
+
+msgid "turn %n degrees"
+msgstr "hindukira %n dogire"
+
+msgid "variables"
+msgstr "ibihindagurika"
+
+msgid "volume"
+msgstr "Ubunini"
+
+msgid "wait %n secs"
+msgstr "tegereza %n amasegonda"
+
+msgid "wait until %b"
+msgstr "tegereza kugeza %b"
+
+msgid "when %k key pressed"
+msgstr "igihe%k ibuto ikanzwe"
+
+msgid "when %m clicked"
+msgstr "igihe %m ikanzwe"
+
+msgid "when I receive %e"
+msgstr "igihe nakiriye %e"
+
+msgid "x position"
+msgstr "x umwwanya"
+
+msgid "y position"
+msgstr "y umwanya"
+
+############################################
+# USER INTERFACE
+############################################
+
+msgid "(empty)"
+msgstr "(ubusa)"
+
+msgid "1 script"
+msgstr "ikibwirizwa 1"
+
+msgid "About Scratch"
+msgstr "Ibyerekeye Scratch"
+
+msgid "About this project:"
+msgstr "Ibyerekeye uyu mushinga:"
+
+msgid "abs"
+msgstr "abs"
+
+msgid "add comment"
+msgstr "gira icyo utangaza"
+
+msgid "add comment here"
+msgstr "gira icyo utangaza hano"
+
+msgid "all"
+msgstr "byose"
+
+msgid "and"
+msgstr "na"
+
+msgid "Animation"
+msgstr "Animation"
+
+msgid "any"
+msgstr "iyo ariyo yose"
+
+msgid "Art"
+msgstr "Ubuhanzi"
+
+msgid "background"
+msgstr "ahakorerwa ibikorwa"
+
+msgid "backgrounds"
+msgstr "ahakorerwa ibikorwa"
+
+msgid "Backgrounds"
+msgstr "Ahakorerwa ibikorwa"
+
+msgid "brightness"
+msgstr "umucyo"
+
+msgid "Brush size: "
+msgstr "Ingano y'uburoso:"
+
+msgid "button"
+msgstr "ibuto"
+
+msgid "button pressed"
+msgstr "ibuto ikanzwe"
+
+msgid "Camera"
+msgstr "Kamera"
+
+msgid "can rotate"
+msgstr "ishobora kwikaraga"
+
+msgid "cancel"
+msgstr "reka"
+
+msgid "Cancel"
+msgstr "Gukuraho"
+
+msgid "Choose a folder"
+msgstr "Toranya ububiko bw`amadosiye"
+
+msgid "Choose new sprite from file"
+msgstr "Toranya sprite nshya"
+
+msgid "clean up"
+msgstr "gusukura"
+
+msgid "Clear"
+msgstr "Gutunganya"
+
+msgid "Clear canvas"
+msgstr "Tunganya canvas"
+
+msgid "Close and continue"
+msgstr "Funga hanyuma ukomeze"
+
+msgid "Close dialog?"
+msgstr "funga ikiganiro?"
+
+msgid "Close paint editor?"
+msgstr "Funga aho bashushanyiriza?"
+
+msgid "close port"
+msgstr "funga umwobo"
+
+msgid "Close sound recorder?"
+msgstr "Funga imfatamajwi?"
+
+msgid "color"
+msgstr "irangi"
+
+msgid "Compress Images"
+msgstr "kwegeranya amashusho"
+
+msgid "Compress Sounds"
+msgstr "egeranya amajwi"
+
+msgid "Compress sounds and images"
+msgstr "Kwegeranya amajwi n'amashusho"
+
+msgid "Computer"
+msgstr "Mudasobwa"
+
+msgid "connected"
+msgstr "ibyahurijwe hamwe"
+
+msgid "Connecting to "
+msgstr "ibihurizwa ku"
+
+msgid "Copy"
+msgstr "Koporora"
+
+msgid "costume"
+msgstr "umwambaro"
+
+msgid "costumes"
+msgstr "imyambaro"
+
+msgid "Costumes"
+msgstr "Imyambaro"
+
+msgid "Could not read"
+msgstr "Ntiyashoboye  gusoma"
+
+msgid "Could not read project; file may be damaged"
+msgstr "Ntishoboye gusoma umushinga; idosiye ishobora kuba yarangiritse"
+
+msgid "Could not write file"
+msgstr "Ntiyashoboye kwandika idosiye"
+
+msgid "Create account"
+msgstr "Rema konti "
+
+msgid "Create an empty project"
+msgstr "Rema umushinga urimo ubusa"
+
+msgid "Data sent. Waiting for response..."
+msgstr "Byoherejwe.Hategerejwe igisubizo..."
+
+msgid "delete"
+msgstr "gusiba"
+
+msgid "Delete"
+msgstr " Gusiba"
+
+msgid "Delete a list"
+msgstr "Siba urutonde"
+
+msgid "Delete a variable"
+msgstr "Gusiba igihindagurika"
+
+msgid "Delete this background"
+msgstr "Siba ahakorewe"
+
+msgid "Delete this costume"
+msgstr "Siba uyu mwambaro"
+
+msgid "Delete this sound"
+msgstr "Siba iri jwi"
+
+msgid "Delete this sprite"
+msgstr "Siba iyi sprite"
+
+msgid "Desktop"
+msgstr "Desktop"
+
+msgid "disable remote sensor connections"
+msgstr "disable remote sensor connection"
+
+msgid "distance"
+msgstr "urugendo"
+
+msgid "Documents"
+msgstr "Amadosiye"
+
+msgid "don't rotate"
+msgstr "ntuzunguruke"
+
+msgid "Don't Save"
+msgstr "Wibika"
+
+msgid "Done"
+msgstr "Kurangiza"
+
+msgid "down"
+msgstr "hasi"
+
+msgid "down arrow"
+msgstr "akerekezo kareba hasi"
+
+msgid "drag to resize"
+msgstr "nyereza uhindure ubunini"
+
+msgid "drag to rotate"
+msgstr "nyereza uhindukize"
+
+msgid "draggable on website?"
+msgstr "byakurwa kuri website?"
+
+msgid "duplicate"
+msgstr "igicupuri"
+
+msgid "Duplicate"
+msgstr "Igicupuri"
+
+msgid "edge"
+msgstr "umusozo"
+
+msgid "Edit"
+msgstr "Hindura"
+
+msgid "Ellipse tool (draw outlined or filled ellipse or circle)"
+msgstr "Agakoresho ka Elipse (gushushanya ibyatanzwe cyangwa uruziga)"
+
+msgid "enable remote sensor connections"
+msgstr "enable remote sensor connection"
+
+msgid "Enter presentation mode"
+msgstr "Injiza uburyo bwo kugaragaza"
+
+msgid "Eraser"
+msgstr "Igihanaguzo"
+
+msgid "Eraser size"
+msgstr "Ingano y`igihanaguzo"
+
+msgid "Error!"
+msgstr "Ikosa!"
+
+msgid "Examples"
+msgstr "Ingero"
+
+msgid "Exit presentation"
+msgstr "Va mu rwerekaniro"
+
+msgid "Exit presentation mode"
+msgstr "Rangiza uburyo bwo kugaragaza"
+
+msgid "export"
+msgstr "igisohoka"
+
+msgid "Export Background"
+msgstr "Gusohoka ahakorerwaga igikorwa"
+
+msgid "Export Costume"
+msgstr "Gusohora umwambaro"
+
+msgid "Export failed"
+msgstr "Gusohoka biranze"
+
+msgid "Export Sound"
+msgstr "Gusohora ijwi"
+
+msgid "Export Sprite"
+msgstr " Sprite Isohoka"
+
+msgid "export this costume"
+msgstr "export this costume"
+
+msgid "export this sound"
+msgstr "export this sound"
+
+msgid "export this sprite"
+msgstr "sohora iyi sprite"
+
+msgid "Extras menu"
+msgstr "menu Irenze"
+
+msgid "Eyedropper tool (select a color)"
+msgstr " agakoresho ka Eyedropper (toranya irange)"
+
+msgid "Failed:"
+msgstr "Gutsindwa"
+
+msgid "false"
+msgstr "ikitari ukuri"
+
+msgid "File"
+msgstr "Idosiye"
+
+msgid "File not found"
+msgstr "Ububiko bw`amadosiye ntibubonetse"
+
+msgid "Fill tool (fill areas with color or gradient)"
+msgstr "agakoresho kuzuzamo (kuzuza irange mumyanya cyangwa gradient)"
+
+msgid "first"
+msgstr "cya mbere"
+
+msgid "fisheye"
+msgstr "fisheye"
+
+msgid "Flash blocks (fast)"
+msgstr "Flash blocks (fast)"
+
+msgid "Flash blocks (slow)"
+msgstr "Flash blocks (slow)"
+
+msgid "Flip horizontally"
+msgstr "Flip itambitse"
+
+msgid "Flip vertically"
+msgstr "Flip ihagaritse"
+
+msgid "For all sprites"
+msgstr "kuri sprites zose"
+
+msgid "For this sprite only"
+msgstr "Kuri iyi sprite yonyine"
+
+msgid "Game"
+msgstr "Umukino"
+
+msgid "Get surprise sprite"
+msgstr "Fata sprite itangaje"
+
+msgid "Get the last thing deleted"
+msgstr "Fata icyasibwe bwa nyuma"
+
+msgid "Getting Started"
+msgstr "Intangiriro"
+
+msgid "ghost"
+msgstr "Umwuka"
+
+msgid "Go To Scratch Website"
+msgstr "Jya ku rubuga rwa Scratch"
+
+msgid "grab screen region for new costume"
+msgstr "grab screen h`umwambaro mushya"
+
+msgid "grab screen region for new sprite"
+msgstr "grab screen region for new sprite"
+
+msgid "Grow"
+msgstr "Gukura"
+
+msgid "Grow sprite"
+msgstr "sprite Ikuze"
+
+msgid "hello "
+msgstr "hello"
+
+msgid "Hello!"
+msgstr "Indamukanyo"
+
+msgid "help"
+msgstr "Fasha"
+
+msgid "Help"
+msgstr "Fasha"
+
+msgid "Help Page"
+msgstr "Ipaji yifashishwa"
+
+msgid "Help Screens"
+msgstr "Help Screens"
+
+msgid "Hide Motor Blocks"
+msgstr "Hide Motor Blocks"
+
+msgid "High (biggest)"
+msgstr "Hejuru(kinini cyane)"
+
+msgid "Hmm..."
+msgstr "Hmm..."
+
+msgid "Home"
+msgstr "Ku isoko"
+
+msgid "Images compressed"
+msgstr "Amashusho yegeranyijwe"
+
+msgid "import"
+msgstr "tumiza"
+
+msgid "Import"
+msgstr "Injiza"
+
+msgid "Import an image on top of your current canvas"
+msgstr "Injiza ishusho hejuru ya canvas yawe ukoreramo"
+
+msgid "Import Background"
+msgstr "Injizamo ahokorerwa"
+
+msgid "Import Costume"
+msgstr "Injizamo umwambaro"
+
+msgid "Import Image"
+msgstr "injiza ishusho"
+
+msgid "Import List"
+msgstr "Tumiza urutonde"
+
+msgid "Import Project"
+msgstr "Injiza umushinga"
+
+msgid "import project"
+msgstr "tumiza umushinga"
+
+msgid "Import Sound"
+msgstr "Injizamo ijwi"
+
+msgid "Incompatible Scratch file format"
+msgstr "Incompatible Scratch file format"
+
+msgid "Is the folder read-only?"
+msgstr "Ni ububiko busomwa gusa?"
+
+msgid "JPEG Quality (10-100)?"
+msgstr "JPEG Quality (10-100)"
+
+msgid "kbytes"
+msgstr "kbytes"
+
+msgid "Language"
+msgstr "Ururimi"
+
+msgid "large readout"
+msgstr "large readout"
+
+msgid "last"
+msgstr "cya nyuma"
+
+msgid "left"
+msgstr "Ibumoso"
+
+msgid "left arrow"
+msgstr "Akerekezo kaganisha ibumoso"
+
+msgid "length"
+msgstr "uburebure"
+
+msgid "light"
+msgstr "Urumuri"
+
+msgid "Line tool (draw lines)"
+msgstr "Igikoresho cy'umurongo (guca imirongo)"
+
+msgid "List name?"
+msgstr "Tondagura amazina?"
+
+msgid "Low"
+msgstr "Hasi"
+
+msgid "Lowest (smallest)"
+msgstr "Hasi cyane(igitoya cyane)"
+
+msgid "Make a list"
+msgstr "Kora urutonde"
+
+msgid "Make a variable"
+msgstr "Kora igihindagurika"
+
+msgid "Max:"
+msgstr "Hejuru:"
+
+msgid "meow"
+msgstr "ubwok bw'ijwi"
+
+msgid "Message name:"
+msgstr "Izina ry'ubutumwa"
+
+msgid "Min:"
+msgstr "Hasi"
+
+msgid "mod"
+msgstr "mod"
+
+msgid "more"
+msgstr "Ibyiyongereyeho"
+
+msgid "More tags:"
+msgstr "Izindi tags:"
+
+msgid "mosaic"
+msgstr "mosaic"
+
+msgid "mouse x:"
+msgstr "mawusi x:"
+
+msgid "mouse y:"
+msgstr "mawusi y:"
+
+msgid "mouse-pointer"
+msgstr "mouse-pointer"
+
+msgid "Move"
+msgstr "genda"
+
+msgid "Music"
+msgstr "Umuziki"
+
+msgid "My Projects"
+msgstr "Imishinga yanjye"
+
+msgid "new"
+msgstr "igishya"
+
+msgid "New"
+msgstr "igishya"
+
+msgid "New background:"
+msgstr "Ahakorerwa hashya"
+
+msgid "New costume:"
+msgstr "Umwambaro mushya"
+
+msgid "New file name?"
+msgstr ""
+
+msgid "New Filename:"
+msgstr "Izina ry`ububiko bushya bwa dosiye"
+
+msgid "New sound:"
+msgstr "Ijwi rishya"
+
+msgid "New Sprite"
+msgstr " Sprite Nshya"
+
+msgid "New sprite:"
+msgstr "Sprite nshya:"
+
+msgid "No"
+msgstr "oya"
+
+msgid "No MIDI ports currently available."
+msgstr "Nta yindi myobo ya MIDI ihari ubungubu "
+
+msgid "No motion blocks"
+msgstr "Nta blocks zinyuranamo"
+
+msgid "no scripts"
+msgstr "nta scripts"
+
+msgid "No serial ports found"
+msgstr "Nta myobo ya serial ibonetse"
+
+msgid "No variables."
+msgstr "Nta bihindagurika"
+
+msgid "Normal"
+msgstr "igisanzwe"
+
+msgid "normal readout"
+msgstr "normal readout"
+
+msgid "Off"
+msgstr "kuzimya"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "On"
+msgstr "kwatsa"
+
+msgid "only face left-right"
+msgstr "reba  ibumoso-iburyo gusa"
+
+msgid "Open"
+msgstr "fungura"
+
+msgid "Open a Scratch project"
+msgstr "fungura umushinga wa Scratch"
+
+msgid "Open Project"
+msgstr "Fungura umushinga"
+
+msgid "or"
+msgstr "cyangwa"
+
+msgid "Paint"
+msgstr "siga "
+
+msgid "Paint Editor"
+msgstr "Igihindura irange"
+
+msgid "Paint new sprite"
+msgstr "Siga sprite nshya"
+
+msgid "Paintbrush"
+msgstr "Igisiga irange"
+
+msgid "Password:"
+msgstr "uburyo bwo kubika amabanga"
+
+msgid "Percent? (100 gives original size)"
+msgstr "ijanisha? (100 ritanga ingano y`umwimerere)"
+
+msgid "Pictures"
+msgstr "Amafoto"
+
+msgid "pixelate"
+msgstr "pixelate"
+
+msgid "play"
+msgstr "Gukina"
+
+msgid "Please enter a number"
+msgstr "Nyamuneka shyiramo umubare"
+
+msgid "pop"
+msgstr "ubwoko bw`ijwi"
+
+msgid "Position the cross-hair to set the rotation center"
+msgstr "Umwanya cross-hair kugirango izengurukire hagati"
+
+msgid "Preparing project..."
+msgstr "Gutegura umushinga"
+
+msgid "Project author:"
+msgstr "Nyirumushinga"
+
+msgid "Project name"
+msgstr "Izina ry`Umushinga"
+
+msgid "Project Notes"
+msgstr "Ibivuga k`Umushinga"
+
+msgid "Project notes"
+msgstr "Ibivuga k`Umushinga"
+
+msgid "Project uploaded."
+msgstr "Umushinga ushyizweho"
+
+msgid "Projects"
+msgstr "imishinga"
+
+msgid "Quit"
+msgstr "kuva"
+
+msgid "Quit Scratch"
+msgstr "Va muri sratch"
+
+msgid "Reading"
+msgstr "Gusoma"
+
+msgid "record"
+msgstr "gufata amajwi"
+
+msgid "Record"
+msgstr "Gufata amajwi"
+
+msgid "recording"
+msgstr "ifatamajwi ririmo gukorwa"
+
+msgid "Rectangle tool (draw outlined or filled rectangle or square)"
+msgstr "agakoresho k`Urukiramende(shushanya urutondekanijwe cyangwa  urukiramende rwuzuye cyangwa kare)"
+
+msgid "Redo"
+msgstr "Gukuraho ibyari bishyizweho"
+
+msgid "Reference Guide"
+msgstr "Reference Guide"
+
+msgid "Remote sensor connections enabled"
+msgstr "Remote sensor connections enabled"
+
+msgid "Remove viewer from stage"
+msgstr "Remove viewer from stage"
+
+msgid "resistance"
+msgstr "resistance"
+
+msgid "resize this sprite"
+msgstr "resize this sprite"
+
+msgid "reverse"
+msgstr "reverse"
+
+msgid "right"
+msgstr "iburyo"
+
+msgid "right arrow"
+msgstr "Akerekezo kerekana iburyo"
+
+msgid "Rotate clock-wise"
+msgstr "Rotate clock-wise"
+
+msgid "Rotate counter-clock-wise"
+msgstr "Rotate counter-clock-wise"
+
+msgid "rotate this sprite"
+msgstr "hindukiza iyi sprite"
+
+msgid "Rotation degrees?"
+msgstr "Rotation degrees"
+
+msgid "Save"
+msgstr "kuzigama/kubika"
+
+msgid "Save a copy of the current project"
+msgstr "Save a copy of the current project"
+
+msgid "Save As"
+msgstr "BIka nka"
+
+msgid "Save changes before quitting?"
+msgstr "Bika ibyahindutse mbere yo kugenda?"
+
+msgid "Save failed"
+msgstr "Kubika byanze"
+
+msgid "save picture of scripts"
+msgstr "save picture of scripts"
+
+msgid "save picture of stage..."
+msgstr "save picture of stage..."
+
+msgid "Save Project"
+msgstr "Bika umushinga"
+
+msgid "Save Scripts Snapshot"
+msgstr "Save Scripts Snapshot"
+
+msgid "Save Stage Shot"
+msgstr "Save Stage Shot"
+
+msgid "Save the current project"
+msgstr "Bika umushinga uriho gukorwa"
+
+msgid "Save the current project?"
+msgstr "Kubika umushinga uriho urakorwa"
+
+msgid "Save this project"
+msgstr "Bika uyu mushinga"
+
+msgid "Scripts"
+msgstr "Scripts"
+
+msgid "select serial/USB port"
+msgstr "select serial/USB port"
+
+msgid "Select tool (move, modify, or delete selection)"
+msgstr "Select tool (move, modify, or delete selection)"
+
+msgid "Set costume center"
+msgstr "Set costume center"
+
+msgid "Set language"
+msgstr "Hitamo ururimi"
+
+msgid "Set rotation center"
+msgstr "Set rotation center"
+
+msgid "Set Single Stepping"
+msgstr "set single stepping"
+
+msgid "set slider min and max"
+msgstr "set slider min and max"
+
+msgid "Share"
+msgstr "Gusangira"
+
+msgid "Share this project"
+msgstr "Sangira uyu mushinga"
+
+msgid "Share This Project Online"
+msgstr "Share this project online"
+
+msgid "Show Motor Blocks"
+msgstr "Show Motor Blocks"
+
+msgid "show ScratchBoard watcher"
+msgstr "show ScratchBoard watcher"
+
+msgid "Shrink"
+msgstr "Kwegerana"
+
+msgid "Shrink sprite"
+msgstr "Shrink sprite"
+
+msgid "Simulation"
+msgstr "Simulation"
+
+msgid "Single-step speed?"
+msgstr "Single-step speed"
+
+msgid "slider"
+msgstr "slider"
+
+msgid "Slider range:"
+msgstr "Slider range:"
+
+msgid "Sound quality:"
+msgstr "Sound quality:"
+
+msgid "Sound Recorder"
+msgstr "Sound Recorder"
+
+msgid "Sounds"
+msgstr "Amajwi"
+
+msgid "Sounds compressed"
+msgstr "Amajwi yejeranyijwe"
+
+msgid "space"
+msgstr "Umwanya"
+
+msgid "Sprite"
+msgstr "Sprite"
+
+msgid "Sprites"
+msgstr "Sprites"
+
+msgid "sqrt"
+msgstr "sqrt"
+
+msgid "Stage"
+msgstr "Ihuriro"
+
+msgid "Stage selected:"
+msgstr "Ihurirop ryatoranijwe"
+
+msgid "Stamp tool (select area, then stamp copies of it)"
+msgstr "Stamp tool (select area, then stamp copies of it)"
+
+msgid "Start green flag scripts"
+msgstr "Start green flag scripts"
+
+msgid "Start Single Stepping"
+msgstr "start single stepping"
+
+msgid "stop"
+msgstr "Guhagarika"
+
+msgid "Stop everything"
+msgstr "Stop everything"
+
+msgid "Stop Single Stepping"
+msgstr "stop single stepping"
+
+msgid "Story"
+msgstr "Inkuru"
+
+msgid "Support Site"
+msgstr "Support Site"
+
+msgid "Switch colors"
+msgstr "Kanda amarange"
+
+msgid "Switch to full stage"
+msgstr "Switch to fukk stage"
+
+msgid "Switch to presentation mode"
+msgstr "Hindura mu buryo bwo kwerekana"
+
+msgid "Switch to small stage"
+msgstr "Hindura mu gice gito"
+
+msgid "Tags:"
+msgstr "Tags:"
+
+msgid "Text tool (edit text layer)"
+msgstr "Text tool (edit text layer)"
+
+msgid "That variable name is already in use"
+msgstr "Igihindagurika cy'izina kirimo gukoreshwa"
+
+msgid "that way"
+msgstr "buriya buryo"
+
+msgid "The file name already exists. Overwrite existing file?"
+msgstr "Izina rya dosiye rirasanzwe. Tuyisimbuze idosiye isanzwe?"
+
+msgid "thing"
+msgstr "ikintu"
+
+msgid "this way"
+msgstr "ubu buryo"
+
+msgid "tilt"
+msgstr "hengamisha"
+
+msgid "true"
+msgstr "ukuri"
+
+msgid "Turbo speed"
+msgstr "Turbo speed"
+
+msgid "turn into new sprite"
+msgstr "turn into new sprite"
+
+msgid "Undelete"
+msgstr "Garura ibyasibwe"
+
+msgid "Undo"
+msgstr "Kugurura ibyabuze"
+
+msgid "up"
+msgstr "Hejuru"
+
+msgid "up arrow"
+msgstr "akarekezo kereka hejuru"
+
+msgid "Updating thumbnails"
+msgstr "Updating thumbnails"
+
+msgid "Upload succeeded!"
+msgstr "Gushyira kuri mudasobwabyarashobotse"
+
+msgid "Upload to Scratch Server"
+msgstr "Upload to Scratch Server"
+
+msgid "Uploading"
+msgstr "Gushyira kuri mudasobwa"
+
+msgid "Variable name?"
+msgstr "Variable name?"
+
+msgid "View on stage"
+msgstr "Reba kw`ihuriro"
+
+msgid "What's your name?"
+msgstr "Izina ryawe ni nde?"
+
+msgid "whirl"
+msgstr "whirl"
+
+msgid "world"
+msgstr "isi"
+
+msgid "Write Multiple Project Summaries"
+msgstr "Andika imishinga muncamake"
+
+msgid "Write Project Summary"
+msgstr "write project summary"
+
+msgid "Yes"
+msgstr "Yego"
+
+msgid "Your project is now online at"
+msgstr "Your project is now online at"
+
+msgid "Your Scratch website login name:"
+msgstr "Your Scratch website login name:"
+
+msgid "Zoom in"
+msgstr "Agura"
+
+msgid "Zoom out"
+msgstr "Kugabanya"
+
+############################################
+# MIDI INSTRUMENTS
+############################################
+
+msgid "Accordion"
+msgstr "Accordion"
+
+msgid "Acoustic Bass"
+msgstr "Acoustic Bass"
+
+msgid "Acoustic Bass Drum"
+msgstr "Acoustic Bass Drum"
+
+msgid "Acoustic Grand"
+msgstr "Acoustic Grand"
+
+msgid "Acoustic Snare"
+msgstr "Acoustic Snare"
+
+msgid "Agogo"
+msgstr "Agogo"
+
+msgid "Alto Sax"
+msgstr "Alto Sax"
+
+msgid "Applause"
+msgstr "Applause"
+
+msgid "Bagpipe"
+msgstr "Bagpipe"
+
+msgid "Banjo"
+msgstr "Banjo"
+
+msgid "Baritone Sax"
+msgstr "Baritone Sax"
+
+msgid "Bass Drum 1"
+msgstr "Bass Drum 1"
+
+msgid "Bassoon"
+msgstr "Bassoon"
+
+msgid "Bird Tweet"
+msgstr "Bird Tweet"
+
+msgid "Blown Bottle"
+msgstr "Blown Bottle"
+
+msgid "Brass Section"
+msgstr "Brass Section"
+
+msgid "Breath Noise"
+msgstr "Breath Noise"
+
+msgid "Bright Acoustic"
+msgstr "Bright Acoustic"
+
+msgid "Cabasa"
+msgstr "Cabasa"
+
+msgid "Celesta"
+msgstr "Celesta"
+
+msgid "Cello"
+msgstr "Cello"
+
+msgid "Chinese Cymbal"
+msgstr "Chinese Cymbal"
+
+msgid "Choir Aahs"
+msgstr "Choir Aahs"
+
+msgid "Church Organ"
+msgstr "Church Organ"
+
+msgid "Clarinet"
+msgstr "Clarinet"
+
+msgid "Claves"
+msgstr "Claves"
+
+msgid "Clavinet"
+msgstr "Clavinet"
+
+msgid "Closed Hi-Hat"
+msgstr "Closed Hi-Hat"
+
+msgid "Contrabass"
+msgstr "Contrabass"
+
+msgid "Cowbell"
+msgstr "Cowbell"
+
+msgid "Crash Cymbal 1"
+msgstr "Crash Cymbal 1"
+
+msgid "Crash Cymbal 2"
+msgstr "Crash Cymbal 2"
+
+msgid "Distortion Guitar"
+msgstr "Distortion Guitar"
+
+msgid "Drawbar Organ"
+msgstr "Drawbar Organ"
+
+msgid "Dulcimer"
+msgstr "Dulcimer"
+
+msgid "Electric Bass (finger)"
+msgstr "Electric Bass (finger)"
+
+msgid "Electric Bass (pick)"
+msgstr "Electric Bass (pick)"
+
+msgid "Electric Clean Guitar"
+msgstr "Electric Clean Guitar"
+
+msgid "Electric Grand"
+msgstr "Electric Grand"
+
+msgid "Electric Jazz Guitar"
+msgstr "Electric Jazz Guitar"
+
+msgid "Electric Muted Guitar"
+msgstr "Electric Muted Guitar"
+
+msgid "Electric Piano 1"
+msgstr "Electric Piano 1"
+
+msgid "Electric Piano 2"
+msgstr "Electric Piano 2"
+
+msgid "Electric Snare"
+msgstr "Electric Snare"
+
+msgid "English Horn"
+msgstr "English Horn"
+
+msgid "FX 1 (rain)"
+msgstr "FX 1 (rain)"
+
+msgid "FX 2 (soundtrack)"
+msgstr "FX 2 (soundtrack)"
+
+msgid "FX 3 (crystal)"
+msgstr "FX 3 (crystal)"
+
+msgid "FX 4 (atmosphere)"
+msgstr "FX 4 (atmosphere)"
+
+msgid "FX 5 (brightness)"
+msgstr "FX 5 (brightness)"
+
+msgid "FX 6 (goblins)"
+msgstr "FX 6 (goblins)"
+
+msgid "FX 7 (echoes)"
+msgstr "FX 7 (echoes)"
+
+msgid "FX 8 (sci-fi)"
+msgstr "FX 8 (sci-fi)"
+
+msgid "Fiddle"
+msgstr "Fiddle"
+
+msgid "Flute"
+msgstr "Flute"
+
+msgid "French Horn"
+msgstr "French Horn"
+
+msgid "Fretless Bass"
+msgstr "Fretless Bass"
+
+msgid "Glockenspiel"
+msgstr "Glockenspiel"
+
+msgid "Guitar Fret Noise"
+msgstr "Guitar Fret Noise"
+
+msgid "Guitar Harmonics"
+msgstr "Guitar Harmonics"
+
+msgid "Gunshot"
+msgstr "Gunshot"
+
+msgid "Hand Clap"
+msgstr "Hand Clap"
+
+msgid "Harmonica"
+msgstr "Harmonica"
+
+msgid "Harpsichord"
+msgstr "Harpsichord"
+
+msgid "Helicopter"
+msgstr "Helicopter"
+
+msgid "Hi Bongo"
+msgstr "Hi Bongo"
+
+msgid "Hi Wood Block"
+msgstr "Hi Wood Block"
+
+msgid "Hi-Mid Tom"
+msgstr "Hi-Mid Tom"
+
+msgid "High Agogo"
+msgstr "High Agogo"
+
+msgid "High Floor Tom"
+msgstr "High Floor Tom"
+
+msgid "High Timbale"
+msgstr "High Timbale"
+
+msgid "High Tom"
+msgstr "High Tom"
+
+msgid "Honky-Tonk"
+msgstr "Honky-Tonk"
+
+msgid "Kalimba"
+msgstr "Izina ry'umuntu"
+
+msgid "Koto"
+msgstr "Koto"
+
+msgid "Lead 1 (square)"
+msgstr "Lead 1 (square)"
+
+msgid "Lead 2 (sawtooth)"
+msgstr "Lead 2 (sawtooth)"
+
+msgid "Lead 3 (calliope)"
+msgstr "Lead 3 (calliope)"
+
+msgid "Lead 4 (chiff)"
+msgstr "Lead 4 (chiff)"
+
+msgid "Lead 5 (charang)"
+msgstr "Lead 5 (charang)"
+
+msgid "Lead 6 (voice)"
+msgstr "Lead 6 (voice)"
+
+msgid "Lead 7 (fifths)"
+msgstr "Lead 7 (fifths)"
+
+msgid "Lead 8 (bass+lead)"
+msgstr "Lead 8 (bass+lead)"
+
+msgid "Long Guiro"
+msgstr " Guiro Ndende"
+
+msgid "Long Whistle"
+msgstr "Ifirimbi ndende"
+
+msgid "Low Agogo"
+msgstr " Agogo Hasi"
+
+msgid "Low Bongo"
+msgstr "Bongo hasi"
+
+msgid "Low Conga"
+msgstr "Conga hasi"
+
+msgid "Low Floor Tom"
+msgstr "Tom kuri floor yo hasi"
+
+msgid "Low Timbale"
+msgstr "Timbale yo hasi"
+
+msgid "Low Tom"
+msgstr "Low Tom"
+
+msgid "Low Wood Block"
+msgstr " Wood Block yo hasi"
+
+msgid "Low-Mid Tom"
+msgstr "hasi-Hagati Tom"
+
+msgid "Maracas"
+msgstr "Maracas"
+
+msgid "Marimba"
+msgstr "Marimba"
+
+msgid "Melodic Tom"
+msgstr "Melodic Tom"
+
+msgid "Music Box"
+msgstr "Ikarito y`Umuziki"
+
+msgid "Mute Cuica"
+msgstr "Mute Cuica"
+
+msgid "Mute Hi Conga"
+msgstr "Mute Hi Conga"
+
+msgid "Mute Triangle"
+msgstr "Mute ya Mpandeshatu"
+
+msgid "Muted Trumpet"
+msgstr "Muted Trumpet"
+
+msgid "Nylon String Guitar"
+msgstr "Nylon String Guitar"
+
+msgid "Oboe"
+msgstr "Oboe"
+
+msgid "Ocarina"
+msgstr "Ocarina"
+
+msgid "Open Cuica"
+msgstr "FunguraCuica"
+
+msgid "Open Hi Conga"
+msgstr "Fungura Hi Conga"
+
+msgid "Open Hi-Hat"
+msgstr "Fungura Hi-Hat"
+
+msgid "Open Triangle"
+msgstr "Fungura Mpandeshatu"
+
+msgid "Orchestra Hit"
+msgstr "Orchestra Hit"
+
+msgid "Orchestral Strings"
+msgstr "Orchestral Strings"
+
+msgid "Overdriven Guitar"
+msgstr "Overdriven Guitar"
+
+msgid "Pad 1 (new age)"
+msgstr "Pad 1 (new age)"
+
+msgid "Pad 2 (warm)"
+msgstr "Pad 2 (warm)"
+
+msgid "Pad 3 (polysynth)"
+msgstr "Pad 3 (polysynth)"
+
+msgid "Pad 4 (choir)"
+msgstr "Pad 4 (choir)"
+
+msgid "Pad 5 (bowed)"
+msgstr "Pad 5 (bowed)"
+
+msgid "Pad 6 (metallic)"
+msgstr "Pad 6 (metallic)"
+
+msgid "Pad 7 (halo)"
+msgstr "Pad 7 (halo)"
+
+msgid "Pad 8 (sweep)"
+msgstr "Pad 8 (sweep)"
+
+msgid "Pan Flute"
+msgstr "Pan Flute"
+
+msgid "Pedal Hi-Hat"
+msgstr "Pedal Hi-Hat"
+
+msgid "Percussive Organ"
+msgstr "Percussive Organ"
+
+msgid "Piccolo"
+msgstr "Piccolo"
+
+msgid "Pizzicato Strings"
+msgstr "Pizzicato Strings"
+
+msgid "Recorder"
+msgstr "Agafata amjwi "
+
+msgid "Reed Organ"
+msgstr "Reed Organ"
+
+msgid "Reverse Cymbal"
+msgstr "Cymbal icuritswe"
+
+msgid "Ride Bell"
+msgstr "Ride Bell"
+
+msgid "Ride Cymbal 1"
+msgstr "Ride Cymbal 1"
+
+msgid "Ride Cymbal 2"
+msgstr "Ride Cymbal 2"
+
+msgid "Rock Organ"
+msgstr "Rock Organ"
+
+msgid "Seashore"
+msgstr "Seashore"
+
+msgid "Shakuhachi"
+msgstr "Shakuhachi"
+
+msgid "Shamisen"
+msgstr "Shamisen"
+
+msgid "Shanai"
+msgstr "Shanai"
+
+msgid "Short Guiro"
+msgstr " Guiro ngufi"
+
+msgid "Short Whistle"
+msgstr "Ifirimbi ngufi"
+
+msgid "Side Stick"
+msgstr "Uruhande rw`inkoni"
+
+msgid "Sitar"
+msgstr "Sitar"
+
+msgid "Slap Bass 1"
+msgstr "Slap Bass 1"
+
+msgid "Slap Bass 2"
+msgstr "Slap Bass 2"
+
+msgid "Soprano Sax"
+msgstr "Soprano Sax"
+
+msgid "Splash Cymbal"
+msgstr "Splash Cymbal"
+
+msgid "Steel Drums"
+msgstr "Igikubisho cy`Ingoma"
+
+msgid "Steel String Guitar"
+msgstr "Igikubisho cya String Gitari"
+
+msgid "String Ensemble 1"
+msgstr "String Ensemble 1"
+
+msgid "String Ensemble 2"
+msgstr "String Ensemble 2"
+
+msgid "Synth Bass 1"
+msgstr "Synth Bass 1"
+
+msgid "Synth Bass 2"
+msgstr "Synth Bass 2"
+
+msgid "Synth Drum"
+msgstr "Synth Ingoma"
+
+msgid "Synth Voice"
+msgstr "Synth Voice"
+
+msgid "SynthBrass 1"
+msgstr "SynthBrass 1"
+
+msgid "SynthBrass 2"
+msgstr "SynthBrass 2"
+
+msgid "SynthStrings 1"
+msgstr "SynthStrings 1"
+
+msgid "SynthStrings 2"
+msgstr "SynthStrings 2"
+
+msgid "Taiko Drum"
+msgstr " Ingoma yaTaiko "
+
+msgid "Tambourine"
+msgstr "Tambourine"
+
+msgid "Tango Accordion"
+msgstr "Tango Accordion"
+
+msgid "Telephone Ring"
+msgstr "Soneri ya Telefoni"
+
+msgid "Tenor Sax"
+msgstr "Tenor Sax"
+
+msgid "Timpani"
+msgstr "Timpani"
+
+msgid "Tinkle Bell"
+msgstr "Tinkle Bell"
+
+msgid "Tremolo Strings"
+msgstr "Tremolo Strings"
+
+msgid "Trombone"
+msgstr "Trombone"
+
+msgid "Trumpet"
+msgstr "Umwirongi"
+
+msgid "Tuba"
+msgstr "Tuba"
+
+msgid "Tubular Bells"
+msgstr "Tubular Bells"
+
+msgid "Vibraphone"
+msgstr "Vibraphone"
+
+msgid "Vibraslap"
+msgstr "Vibraslap"
+
+msgid "Viola"
+msgstr "Viola"
+
+msgid "Violin"
+msgstr "Violin"
+
+msgid "Voice Oohs"
+msgstr "Ijwi rya Oohs"
+
+msgid "Whistle"
+msgstr "Ifirimbi"
+
+msgid "Woodblock"
+msgstr "Woodblock"
+
+msgid "Xylophone"
+msgstr "Xylophone"
+

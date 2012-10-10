@@ -1,0 +1,1920 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: Scratch\n"
+"Report-Msgid-Bugs-To: Evelyn Eastmond <evelyn@media.mit.edu>\n"
+"POT-Creation-Date: 2008-04-03 10:03+0100\n"
+"PO-Revision-Date: 2008-08-07 11:21-0400\n"
+"Last-Translator: Aliyar Taravati <ali_taravati@yahoo.com>\n"
+"Language-Team: mohammad ehsan sadegi <m.e.sadeghi@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Pootle 1.1.0rc2\n"
+
+############################################
+# FORMATTING
+############################################
+
+# Language name as you'd like it to appear in the Languages menu
+# (Required)
+msgid "Language-Name"
+msgstr "فارسی"
+
+# Directionality of language
+# LTR = Left to Right
+# RTL = Right to Left
+msgid "Language-Direction"
+msgstr "RTL"
+
+# Scale to apply to font size (2 for twice as large)
+# Use this if the font is too small for legibility on the Scratch interface
+msgid "Font-Scale"
+msgstr "1.1"
+
+# Set to 'true' or 'false'
+# Use this if you do not want any of the text to be bolded, for legibility
+msgid "Suppress-Bold"
+msgstr ""
+
+# Font to use on a Windows system
+msgid "Win-Font"
+msgstr ""
+
+# Font to use on a Mac system
+msgid "Mac-Font"
+msgstr ""
+
+# Font to use on a Linux system
+msgid "Linux-Font"
+msgstr ""
+
+############################################
+# BLOCKS
+############################################
+
+#, fuzzy
+msgid "%H sensor value"
+msgstr "%H مقدار سنسور"
+
+msgid "%L contains %s"
+msgstr ""
+
+msgid "%a of %m"
+msgstr "%m از %a"
+
+msgid "%b and %b"
+msgstr "%b و %b"
+
+msgid "%b or %b"
+msgstr "%b یا %b"
+
+msgid "%f of %n"
+msgstr "%n از %f"
+
+msgid "%n mod %n"
+msgstr "%n2 به پیمانه‌ی %n1"
+
+msgid "add %s to %L"
+msgstr "%L را به %s اضافه کن"
+
+msgid "answer"
+msgstr ""
+
+msgid "ask %s and wait"
+msgstr ""
+
+msgid "background #"
+msgstr "پس‌زمینه"
+
+msgid "broadcast %e"
+msgstr "%e را انتشار بده"
+
+msgid "broadcast %e and wait"
+msgstr "%e را انتشار بده و صبر ‌کن"
+
+msgid "change %g effect by %n"
+msgstr "اثر %n را %g تغییر بده"
+
+msgid "change %v by %n"
+msgstr "%n را %v تغییر بده"
+
+msgid "change pen color by %n"
+msgstr "رنگ قلم را %n تغییر بده"
+
+msgid "change pen shade by %n"
+msgstr "سایه‌ی رنگ قلم را %n تغییر بده"
+
+msgid "change pen size by %n"
+msgstr "اندازه‌ی قلم را %n تغییر بده"
+
+msgid "change size by %n"
+msgstr "کن %n اندازه  را"
+
+msgid "change tempo by %n"
+msgstr "کن %n سرعت  را"
+
+msgid "change volume by %n"
+msgstr "کن %n بلندى صدا را"
+
+msgid "change x by %n"
+msgstr "عوض کن %n ایکس را با"
+
+msgid "change y by %n"
+msgstr "عوض کن %n وای را با"
+
+msgid "clear"
+msgstr "پاک کن"
+
+msgid "clear graphic effects"
+msgstr "افکت های گرافیکی را پاک کن"
+
+msgid "color %C is touching %C?"
+msgstr "تماس دارد؟ %C2 با رنگ %C1 رنگ"
+
+msgid "control"
+msgstr "اداره"
+
+msgid "costume #"
+msgstr "شماره لباس"
+
+msgid "delete %y of %L"
+msgstr ""
+
+msgid "direction"
+msgstr "جهت"
+
+msgid "distance to %m"
+msgstr "%m فاصله تا"
+
+msgid "else"
+msgstr "واگر نه"
+
+msgid "forever"
+msgstr "برای همیشه تکرار کن"
+
+msgid "forever if %b"
+msgstr "%b برای همیشه اگر"
+
+msgid "glide %n secs to x:%n y:%n"
+msgstr "%nوای 3 %n2 ثانیه یواش برو به ایکس  %n1"
+
+msgid "go back %n layers"
+msgstr "لایه به عقب %n برو"
+
+msgid "go to %m"
+msgstr "%m برو به"
+
+msgid "go to front"
+msgstr "برو به جلو"
+
+msgid "go to x:%n y:%n"
+msgstr "%n2 :وای %n1 :برو به مکان ایکس"
+
+msgid "hide"
+msgstr "پنهان کن"
+
+msgid "hide variable %v"
+msgstr ""
+
+msgid "if %b"
+msgstr "%b اگر"
+
+msgid "if on edge, bounce"
+msgstr "اگر روی خط هستی، بپر"
+
+msgid "insert %s at %i of %L"
+msgstr ""
+
+msgid "item %i of %L"
+msgstr ""
+
+msgid "join %s %s"
+msgstr ""
+
+msgid "key %k pressed?"
+msgstr "فشرده شده؟ %k آیا کلید"
+
+msgid "length of %L"
+msgstr ""
+
+msgid "length of %s"
+msgstr ""
+
+msgid "letter %n of %s"
+msgstr ""
+
+msgid "list"
+msgstr ""
+
+msgid "looks"
+msgstr "ظاهر"
+
+msgid "loud?"
+msgstr "صدای بلند؟"
+
+msgid "loudness"
+msgstr "بلندی صدا"
+
+msgid "motion"
+msgstr "حرکت"
+
+msgid "motor direction %W"
+msgstr ""
+
+msgid "motor off"
+msgstr ""
+
+msgid "motor on"
+msgstr ""
+
+msgid "motor on for %n secs"
+msgstr ""
+
+msgid "motor power %n"
+msgstr ""
+
+msgid "mouse down?"
+msgstr "فشار دادن دکمه ماوس؟"
+
+msgid "mouse x"
+msgstr "مکان ایکس ماوس"
+
+msgid "mouse y"
+msgstr "مکان وای ماوس"
+
+msgid "move %n steps"
+msgstr "گام حرکت کن %n"
+
+msgid "next background"
+msgstr "پشت زمینه بعدی"
+
+msgid "next costume"
+msgstr "لباس بعدی"
+
+msgid "not %b"
+msgstr "%b نقیض"
+
+msgid "operators"
+msgstr ""
+
+msgid "pen"
+msgstr "قلم"
+
+msgid "pen down"
+msgstr "قلم پایین"
+
+msgid "pen up"
+msgstr "قلم بالا"
+
+msgid "pick random %n to %n"
+msgstr "یک عدد حدث بزن %n2 و %n1 بين"
+
+msgid "play drum %D for %n beats"
+msgstr "ضربه بزن %n را %D طبل*"
+
+msgid "play note %N for %n beats"
+msgstr "ضربه بزن %n را برای %N نوت"
+
+msgid "play sound %S"
+msgstr "%S اجرای صدای"
+
+msgid "play sound %S until done"
+msgstr "تا وقتی تمام شود %S اجرای صدای"
+
+msgid "point in direction %d"
+msgstr "%d برو به جهت"
+
+msgid "point towards %m"
+msgstr "%m بچرخ به سمت"
+
+msgid "repeat %n"
+msgstr "بار تکرار کن %n"
+
+msgid "repeat until %b"
+msgstr "%b تکرار کن تا وقتی که"
+
+msgid "replace item %i of %L with %s"
+msgstr ""
+
+msgid "reset timer"
+msgstr "تایمر از اول"
+
+msgid "rest for %n beats"
+msgstr "استراحت کن برای %n ضرب"
+
+msgid "round %n"
+msgstr "%n گرد شده ی"
+
+msgid "say %s"
+msgstr "%s بگو"
+
+msgid "say %s for %n secs"
+msgstr "ثانيه %n برای %s بگو"
+
+msgid "sensing"
+msgstr "مشاهده"
+
+msgid "sensor %h?"
+msgstr "؟%h حسگر"
+
+msgid "set %g effect to %n"
+msgstr "کن %n را %g تأثير"
+
+msgid "set %v to %n"
+msgstr "کن %n را %v"
+
+msgid "set instrument to %I"
+msgstr "کن %I دستگاه را"
+
+msgid "set pen color to %c"
+msgstr "کن %c رنگ  مداد را"
+
+msgid "set pen color to %n"
+msgstr "کن %n رنگ  مداد را"
+
+msgid "set pen shade to %n"
+msgstr "درجه زیاد کن %n تیرگی قلم را"
+
+msgid "set pen size to %n"
+msgstr "کن %n اندازه  مداد را"
+
+msgid "set size to %n%"
+msgstr "کن % %n اندازه را"
+
+msgid "set tempo to %n bpm"
+msgstr "سرعت را %n ضربه در دقیقه کن"
+
+msgid "set volume to %n%"
+msgstr "کن % %n بلندی صدا را"
+
+msgid "set x to %n"
+msgstr "کن %n مکان ایکس را"
+
+msgid "set y to %n"
+msgstr "کن %n مکان وای را"
+
+msgid "show"
+msgstr "نشان بده"
+
+msgid "show variable %v"
+msgstr ""
+
+msgid "size"
+msgstr "اندازه"
+
+msgid "sound"
+msgstr "صدا"
+
+msgid "stamp"
+msgstr "مهر"
+
+msgid "stop all"
+msgstr "همه را متوقف کن"
+
+msgid "stop all sounds"
+msgstr "همه صدا ها را متوقف کن"
+
+msgid "stop script"
+msgstr "لیست دستور ها را متوقف کن"
+
+msgid "switch to background %l"
+msgstr "عوض کن %l با پشت زمینه "
+
+msgid "switch to costume %l"
+msgstr "عوض کن%l با لباس"
+
+msgid "tempo"
+msgstr "میزان سرعت"
+
+msgid "think %s"
+msgstr "%s فکر کن"
+
+msgid "think %s for %n secs"
+msgstr "ثانيه %n برای %s فکر کن"
+
+msgid "timer"
+msgstr "زمان سنج"
+
+msgid "touching %m?"
+msgstr "برخورد می کند؟ %m به"
+
+msgid "touching color %C?"
+msgstr "تماس دارد؟ %C با رنگ"
+
+msgid "turn %n degrees"
+msgstr "درجه دور بزن %n"
+
+msgid "variables"
+msgstr "متغیر ها"
+
+msgid "volume"
+msgstr "بلندی صدا"
+
+msgid "wait %n secs"
+msgstr "ثانيه صبر کن %n"
+
+msgid "wait until %b"
+msgstr "%b صبر کن تا"
+
+msgid "when %k key pressed"
+msgstr "وقتی کلید %k فشرده شد"
+
+msgid "when %m clicked"
+msgstr "وقتی %m کلیک شد"
+
+msgid "when I receive %e"
+msgstr "وقتی %e را دریافت کردی"
+
+msgid "x position"
+msgstr "موقعیت ایکس"
+
+msgid "y position"
+msgstr "موقعیت وای"
+
+############################################
+# USER INTERFACE
+############################################
+
+msgid "(empty)"
+msgstr ""
+
+msgid "1 script"
+msgstr "1فایل آغازگر"
+
+msgid "About Scratch"
+msgstr "درباره اسکرچ"
+
+msgid "About this project:"
+msgstr "درباره این پروژه :"
+
+msgid "abs"
+msgstr "قدرمطلق"
+
+msgid "add comment"
+msgstr ""
+
+msgid "add comment here"
+msgstr ""
+
+msgid "all"
+msgstr ""
+
+msgid "and"
+msgstr "و"
+
+msgid "Animation"
+msgstr ""
+
+msgid "any"
+msgstr ""
+
+msgid "Art"
+msgstr ""
+
+msgid "background"
+msgstr "پشت زمینه"
+
+msgid "backgrounds"
+msgstr "پشت زمینه ها"
+
+msgid "Backgrounds"
+msgstr "پشت زمینه ها"
+
+msgid "brightness"
+msgstr "شدت نور"
+
+msgid "Brush size: "
+msgstr "اندازه ی قلمو :"
+
+msgid "button"
+msgstr "دکمه"
+
+msgid "button pressed"
+msgstr "دکمه فشرده شده"
+
+msgid "Camera"
+msgstr ""
+
+msgid "can rotate"
+msgstr "بتواند بچرخد"
+
+msgid "cancel"
+msgstr ""
+
+msgid "Cancel"
+msgstr "لغو"
+
+msgid "Choose a folder"
+msgstr "انتخاب پوشه"
+
+msgid "Choose new sprite from file"
+msgstr "انتخاب آدمک جدید از پوشه"
+
+msgid "clean up"
+msgstr "پاک کردن"
+
+msgid "Clear"
+msgstr "پاک کردن"
+
+msgid "Clear canvas"
+msgstr "پاک کردن صفحه نقاشی"
+
+msgid "Close and continue"
+msgstr ""
+
+msgid "Close dialog?"
+msgstr ""
+
+msgid "Close paint editor?"
+msgstr ""
+
+msgid "close port"
+msgstr "بستن دیچه"
+
+msgid "Close sound recorder?"
+msgstr ""
+
+msgid "color"
+msgstr "رنگ"
+
+msgid "Compress Images"
+msgstr "فشرده سازی تصویر"
+
+msgid "Compress Sounds"
+msgstr "فشرده سازی صدا"
+
+msgid "Compress sounds and images"
+msgstr "صدا ها و تصاویر را فشرده کن"
+
+msgid "Computer"
+msgstr "My Computer"
+
+msgid "connected"
+msgstr "متصل شده"
+
+msgid "Connecting to "
+msgstr "در حال اتصال به"
+
+msgid "Copy"
+msgstr "کپی"
+
+msgid "costume"
+msgstr "لباس"
+
+msgid "costumes"
+msgstr "لباس ها"
+
+msgid "Costumes"
+msgstr "لباس ها"
+
+msgid "Could not read"
+msgstr "نمی توانم بخوانم"
+
+msgid "Could not read project; file may be damaged"
+msgstr ""
+
+msgid "Could not write file"
+msgstr "این فایل را نمی توانم بنویسم"
+
+msgid "Create account"
+msgstr "یک حساب ایجاد کن"
+
+msgid "Create an empty project"
+msgstr "یک پروژه خالی درست کن"
+
+msgid "Data sent. Waiting for response..."
+msgstr "...اطلاعات فرستاده شد. منتظر پاسخ هستم"
+
+msgid "delete"
+msgstr "حذف"
+
+msgid "Delete"
+msgstr "حذف"
+
+msgid "Delete a list"
+msgstr ""
+
+msgid "Delete a variable"
+msgstr "حذف متغیر"
+
+msgid "Delete this background"
+msgstr ""
+
+msgid "Delete this costume"
+msgstr "حذف این لباس"
+
+msgid "Delete this sound"
+msgstr "حذف این صدا"
+
+msgid "Delete this sprite"
+msgstr ""
+
+msgid "Desktop"
+msgstr ""
+
+msgid "disable remote sensor connections"
+msgstr ""
+
+msgid "distance"
+msgstr ""
+
+msgid "Documents"
+msgstr "MY Documents"
+
+msgid "don't rotate"
+msgstr "نتواند بچرخد"
+
+msgid "Don't Save"
+msgstr ""
+
+msgid "Done"
+msgstr ""
+
+msgid "down"
+msgstr "نکن"
+
+msgid "down arrow"
+msgstr "کلید پایین"
+
+msgid "drag to resize"
+msgstr ""
+
+msgid "drag to rotate"
+msgstr ""
+
+msgid "draggable on website?"
+msgstr "قابلیت حرکت به سایت را داشته باشد؟"
+
+msgid "duplicate"
+msgstr "کپی کردن"
+
+msgid "Duplicate"
+msgstr "کپی کردن"
+
+msgid "edge"
+msgstr "لبه"
+
+msgid "Edit"
+msgstr "ویرایش"
+
+msgid "Ellipse tool (draw outlined or filled ellipse or circle)"
+msgstr "(ابزار بیضی و دایره ( برای کشیدن بیضی ها و دایره های تو پر و تو خالی"
+
+msgid "enable remote sensor connections"
+msgstr ""
+
+msgid "Enter presentation mode"
+msgstr "حالت نمایش"
+
+msgid "Eraser"
+msgstr "پاک کن"
+
+msgid "Eraser size"
+msgstr "اندازه پاک کن"
+
+msgid "Error!"
+msgstr ""
+
+msgid "Examples"
+msgstr ""
+
+msgid "Exit presentation"
+msgstr ""
+
+msgid "Exit presentation mode"
+msgstr "از حالت نمایش خارج شو"
+
+msgid "export"
+msgstr "صادر کن"
+
+msgid "Export Background"
+msgstr "پشت زمینه را صادر کن"
+
+msgid "Export Costume"
+msgstr "لباس را صادر کن"
+
+msgid "Export failed"
+msgstr "صادر کردن شکست خورد"
+
+msgid "Export Sound"
+msgstr "صدا را صادر کن"
+
+msgid "Export Sprite"
+msgstr "آدمک را صادر کن"
+
+msgid "export this costume"
+msgstr ""
+
+msgid "export this sound"
+msgstr ""
+
+msgid "export this sprite"
+msgstr "این آدمک را صادر کن"
+
+msgid "Extras menu"
+msgstr "فهرست فوق العاده ها"
+
+msgid "Eyedropper tool (select a color)"
+msgstr "(ابزار قطره چکان (برای انتخاب رنگ ها"
+
+msgid "Failed:"
+msgstr ":شکست خورد"
+
+msgid "false"
+msgstr "نا درست"
+
+msgid "File"
+msgstr ""
+
+msgid "File not found"
+msgstr "فایل پیدا نشد"
+
+msgid "Fill tool (fill areas with color or gradient)"
+msgstr "(سطل رنگ (برای پر کردن یک سطح"
+
+msgid "first"
+msgstr ""
+
+msgid "fisheye"
+msgstr "fisheye"
+
+msgid "Flash blocks (fast)"
+msgstr "Flash blocks (fast)"
+
+msgid "Flash blocks (slow)"
+msgstr "Flash blocks (slow)"
+
+msgid "Flip horizontally"
+msgstr "برگردان افقی"
+
+msgid "Flip vertically"
+msgstr "برگردان عمودی"
+
+msgid "For all sprites"
+msgstr "برای همه آدمک ها"
+
+msgid "For this sprite only"
+msgstr "فقط برای این آدمک"
+
+msgid "Game"
+msgstr ""
+
+msgid "Get surprise sprite"
+msgstr "منو با یک آدمک غافلگیر کن"
+
+msgid "Get the last thing deleted"
+msgstr "آخرین چیزی که پاک شد را بگیر"
+
+msgid "Getting Started"
+msgstr ""
+
+msgid "ghost"
+msgstr "شبح"
+
+msgid "Go To Scratch Website"
+msgstr ""
+
+msgid "grab screen region for new costume"
+msgstr "برای آدمک جدید ناحیه صفحه را بقاپ"
+
+msgid "grab screen region for new sprite"
+msgstr "برای آدمک جدید ناحیه صفحه را بقاپ"
+
+msgid "Grow"
+msgstr "بزرگ کردن"
+
+msgid "Grow sprite"
+msgstr "آدمک را بزرگ کن"
+
+msgid "hello "
+msgstr ""
+
+msgid "Hello!"
+msgstr "!سلام"
+
+msgid "help"
+msgstr "کمک"
+
+msgid "Help"
+msgstr "کمک"
+
+msgid "Help Page"
+msgstr ""
+
+msgid "Help Screens"
+msgstr ""
+
+msgid "Hide Motor Blocks"
+msgstr ""
+
+msgid "High (biggest)"
+msgstr "(عالی (بزرگترین"
+
+msgid "Hmm..."
+msgstr "...هممم"
+
+msgid "Home"
+msgstr ""
+
+msgid "Images compressed"
+msgstr "تصاویر فشرده شد"
+
+msgid "import"
+msgstr ""
+
+msgid "Import"
+msgstr "وارد کردن"
+
+msgid "Import an image on top of your current canvas"
+msgstr "وارد کردن یک تصویر بالای همین صفحه"
+
+msgid "Import Background"
+msgstr "استيراد خلفية"
+
+msgid "Import Costume"
+msgstr "وارد کردن پشت زمینه"
+
+msgid "Import Image"
+msgstr "وارد کردن تصویر"
+
+msgid "Import List"
+msgstr ""
+
+msgid "Import Project"
+msgstr "وارد کردن پروژه"
+
+msgid "import project"
+msgstr ""
+
+msgid "Import Sound"
+msgstr "وارد کردن صدا"
+
+msgid "Incompatible Scratch file format"
+msgstr "scratch فایل ناسازگار با"
+
+msgid "Is the folder read-only?"
+msgstr "آیا این پوشه فقط خواندنی است؟"
+
+msgid "JPEG Quality (10-100)?"
+msgstr "(کیفیت تصویر (10 تا 100"
+
+msgid "kbytes"
+msgstr "كيلو بايت"
+
+msgid "Language"
+msgstr "زبان"
+
+msgid "large readout"
+msgstr "بازخوانی بزرگ"
+
+msgid "last"
+msgstr ""
+
+msgid "left"
+msgstr "چپ"
+
+msgid "left arrow"
+msgstr "کلید چپ"
+
+msgid "length"
+msgstr ""
+
+msgid "light"
+msgstr "نور"
+
+msgid "Line tool (draw lines)"
+msgstr "(ابزار خط (برای رسم خط های مستقیم"
+
+msgid "List name?"
+msgstr ""
+
+msgid "Low"
+msgstr "کم"
+
+msgid "Lowest (smallest)"
+msgstr "(کمترین (کوچکترین"
+
+msgid "Make a list"
+msgstr ""
+
+msgid "Make a variable"
+msgstr "ساخت متغیر"
+
+msgid "Max:"
+msgstr ":بیشینه"
+
+msgid "meow"
+msgstr "(مياو(صدای گربه"
+
+msgid "Message name:"
+msgstr ":نام پیغام"
+
+msgid "Min:"
+msgstr ":کمینه"
+
+msgid "mod"
+msgstr "باقیمانده"
+
+msgid "more"
+msgstr "بیشتر"
+
+msgid "More tags:"
+msgstr ":برچسب های دیگر"
+
+msgid "mosaic"
+msgstr "موزاييک"
+
+msgid "mouse x:"
+msgstr ":موقعیت ایکس ماوس"
+
+msgid "mouse y:"
+msgstr ":موقعیت وای ماوس"
+
+msgid "mouse-pointer"
+msgstr "نوک ماوس"
+
+msgid "Move"
+msgstr "حرکت دادن"
+
+msgid "Music"
+msgstr "موسیقی"
+
+msgid "My Projects"
+msgstr ""
+
+msgid "new"
+msgstr "جديد"
+
+msgid "New"
+msgstr "جديد"
+
+msgid "New background:"
+msgstr "پشت زمینه ی جدید :"
+
+msgid "New costume:"
+msgstr "لباس جدید :"
+
+msgid "New file name?"
+msgstr ""
+
+msgid "New Filename:"
+msgstr "نام فایل جدید :"
+
+msgid "New sound:"
+msgstr "صدای جديد :"
+
+msgid "New Sprite"
+msgstr "آدمک جدید"
+
+msgid "New sprite:"
+msgstr ""
+
+msgid "No"
+msgstr "نه"
+
+msgid "No MIDI ports currently available."
+msgstr ".در دسترس نیست MIDI پورت"
+
+msgid "No motion blocks"
+msgstr "هیچ بلوک متحرکی وجود ندارد"
+
+msgid "no scripts"
+msgstr ""
+
+msgid "No serial ports found"
+msgstr "پرت سریال پیدا نشد"
+
+msgid "No variables."
+msgstr ".هیچ متغیری نیست"
+
+msgid "Normal"
+msgstr "عادی"
+
+msgid "normal readout"
+msgstr "بازخوانی معمولی"
+
+msgid "Off"
+msgstr "خاموش"
+
+msgid "OK"
+msgstr "موافق"
+
+msgid "On"
+msgstr "روشن"
+
+msgid "only face left-right"
+msgstr "فقط حرکت به چپ و راست"
+
+msgid "Open"
+msgstr "باز کن"
+
+msgid "Open a Scratch project"
+msgstr "باز کردن یک پروژه اسکرچ"
+
+msgid "Open Project"
+msgstr "باز کردن پروژه"
+
+msgid "or"
+msgstr "یا"
+
+msgid "Paint"
+msgstr "رنگ کردن"
+
+msgid "Paint Editor"
+msgstr "ویرایشگر نقاشی"
+
+msgid "Paint new sprite"
+msgstr "آدمک جدید را رنگ کن"
+
+msgid "Paintbrush"
+msgstr "قلمو"
+
+msgid "Password:"
+msgstr ":رمز"
+
+msgid "Percent? (100 gives original size)"
+msgstr "(درصد؟ ( 100 اندازه واقعی می دهد"
+
+msgid "Pictures"
+msgstr "تصویر ها"
+
+msgid "pixelate"
+msgstr "pixelate"
+
+msgid "play"
+msgstr "اجرا"
+
+msgid "Please enter a number"
+msgstr "لطفا یک عدد وارد کنید"
+
+msgid "pop"
+msgstr "pop"
+
+msgid "Position the cross-hair to set the rotation center"
+msgstr "قم بتحريك إشارة الزائد لتحديد مركز الدوران"
+
+msgid "Preparing project..."
+msgstr "...آماده سازی پروژه"
+
+msgid "Project author:"
+msgstr "نویسنده پروژه :"
+
+msgid "Project name"
+msgstr "نام پروژه"
+
+msgid "Project Notes"
+msgstr "نکات پروژه"
+
+msgid "Project notes"
+msgstr "نکات پروژه"
+
+msgid "Project uploaded."
+msgstr ".پروژه فرستاده شد"
+
+msgid "Projects"
+msgstr "پروژه ها"
+
+msgid "Quit"
+msgstr "خروج"
+
+msgid "Quit Scratch"
+msgstr ""
+
+msgid "Reading"
+msgstr ""
+
+msgid "record"
+msgstr "ضبط"
+
+msgid "Record"
+msgstr "ضبط"
+
+msgid "recording"
+msgstr "در حال ضبط"
+
+msgid "Rectangle tool (draw outlined or filled rectangle or square)"
+msgstr "(ابزار چهارگوش (برای کشیدن مستطیل های تو پر و تو خالی"
+
+msgid "Redo"
+msgstr "دوباره انجام بده"
+
+msgid "Reference Guide"
+msgstr ""
+
+msgid "Remote sensor connections enabled"
+msgstr ""
+
+msgid "Remove viewer from stage"
+msgstr "بیننده را از این مرحله حذف کن"
+
+msgid "resistance"
+msgstr "مقاومت"
+
+msgid "resize this sprite"
+msgstr ""
+
+msgid "reverse"
+msgstr ""
+
+msgid "right"
+msgstr "راست"
+
+msgid "right arrow"
+msgstr "کلید راست"
+
+msgid "Rotate clock-wise"
+msgstr "چرخاندن ساعتگرد"
+
+msgid "Rotate counter-clock-wise"
+msgstr "چرخاندن پا ساعتگرد"
+
+msgid "rotate this sprite"
+msgstr ""
+
+msgid "Rotation degrees?"
+msgstr "درجه چرخش"
+
+msgid "Save"
+msgstr "ذخیره"
+
+msgid "Save a copy of the current project"
+msgstr "کپی پروژه فعلی را ذخیره کن"
+
+msgid "Save As"
+msgstr "ذخیره کن به نام"
+
+msgid "Save changes before quitting?"
+msgstr ""
+
+msgid "Save failed"
+msgstr "ذخیره کردن شکست خورد"
+
+msgid "save picture of scripts"
+msgstr "تصویر فایل آغاز گر را ذخیره کن"
+
+msgid "save picture of stage..."
+msgstr "...تصویر طبقه را ذخیره کن"
+
+msgid "Save Project"
+msgstr "پروژه را ذخیره کن"
+
+msgid "Save Scripts Snapshot"
+msgstr "Save Scripts Snapshot"
+
+msgid "Save Stage Shot"
+msgstr "Save Stage Shot"
+
+msgid "Save the current project"
+msgstr "پروژه جاری را ذخیره کن"
+
+msgid "Save the current project?"
+msgstr "پروژه جاری را ذخیره کن"
+
+msgid "Save this project"
+msgstr ""
+
+msgid "Scripts"
+msgstr "لیست فرمان"
+
+msgid "select serial/USB port"
+msgstr "را انتخاب کنید USB دریچه سریال یا"
+
+msgid "Select tool (move, modify, or delete selection)"
+msgstr "(ابزار انتخاب (تکان دادن، اصلاح کردن، یا پاک کردن انتخاب شده ها"
+
+msgid "Set costume center"
+msgstr ""
+
+msgid "Set language"
+msgstr ""
+
+msgid "Set rotation center"
+msgstr "تعیین مرکز دوران"
+
+msgid "Set Single Stepping"
+msgstr "تنظیم جهش"
+
+msgid "set slider min and max"
+msgstr "را تعیین کنید slider بیشینه و کمینه"
+
+msgid "Share"
+msgstr "به اشتراک گزاشتن"
+
+msgid "Share this project"
+msgstr ""
+
+msgid "Share This Project Online"
+msgstr "این پروژه را به صورت آن لاین به اشتراک پگزار"
+
+msgid "Show Motor Blocks"
+msgstr ""
+
+msgid "show ScratchBoard watcher"
+msgstr "مراقب صفحه اسکرچ را نمایش بده"
+
+msgid "Shrink"
+msgstr "کوچک کردن"
+
+msgid "Shrink sprite"
+msgstr "آدمک را کوچک کن"
+
+msgid "Simulation"
+msgstr ""
+
+msgid "Single-step speed?"
+msgstr "با سرعت یک گامی"
+
+msgid "slider"
+msgstr "لغزنده"
+
+msgid "Slider range:"
+msgstr ":محدوده لغزنده"
+
+msgid "Sound quality:"
+msgstr ":کیفیت صدا"
+
+msgid "Sound Recorder"
+msgstr "ضبط صوت"
+
+msgid "Sounds"
+msgstr "صدا ها"
+
+msgid "Sounds compressed"
+msgstr "صدا های فشرده شده"
+
+msgid "space"
+msgstr "space"
+
+msgid "Sprite"
+msgstr "آدمک"
+
+msgid "Sprites"
+msgstr ""
+
+msgid "sqrt"
+msgstr "جذر"
+
+msgid "Stage"
+msgstr "مرحله"
+
+msgid "Stage selected:"
+msgstr ":انتخاب مرحله"
+
+msgid "Stamp tool (select area, then stamp copies of it)"
+msgstr "(ابزار مهر (یک منطقه را انتخاب کنید بعد آن را کپی کنید"
+
+msgid "Start green flag scripts"
+msgstr "شروع لیست دستورهای پرچم سبز"
+
+msgid "Start Single Stepping"
+msgstr "شروع جهش"
+
+msgid "stop"
+msgstr "متوقف کن"
+
+msgid "Stop everything"
+msgstr "همه چز را متوقف کن"
+
+msgid "Stop Single Stepping"
+msgstr "توقف جهش"
+
+msgid "Story"
+msgstr ""
+
+msgid "Support Site"
+msgstr ""
+
+msgid "Switch colors"
+msgstr "تعویض رنگ ها"
+
+msgid "Switch to full stage"
+msgstr ""
+
+msgid "Switch to presentation mode"
+msgstr ""
+
+msgid "Switch to small stage"
+msgstr ""
+
+msgid "Tags:"
+msgstr ":برچسب"
+
+msgid "Text tool (edit text layer)"
+msgstr "(ابزار متن (برای نوشتن متن"
+
+msgid "That variable name is already in use"
+msgstr ""
+
+msgid "that way"
+msgstr ""
+
+msgid "The file name already exists. Overwrite existing file?"
+msgstr ""
+
+msgid "thing"
+msgstr ""
+
+msgid "this way"
+msgstr ""
+
+msgid "tilt"
+msgstr ""
+
+msgid "true"
+msgstr "درست"
+
+msgid "Turbo speed"
+msgstr "سرعت زیاد"
+
+msgid "turn into new sprite"
+msgstr "برو به آدمک جدید"
+
+msgid "Undelete"
+msgstr ""
+
+msgid "Undo"
+msgstr "بازگشت"
+
+msgid "up"
+msgstr "بالا"
+
+msgid "up arrow"
+msgstr "کلید بالا"
+
+msgid "Updating thumbnails"
+msgstr ""
+
+msgid "Upload succeeded!"
+msgstr "!ارسال موفق شد"
+
+msgid "Upload to Scratch Server"
+msgstr "ارسال به سرور اسکرچ"
+
+msgid "Uploading"
+msgstr "در حال ارسال"
+
+msgid "Variable name?"
+msgstr "اسم متغیر؟"
+
+msgid "View on stage"
+msgstr "در مرحله نشان بده"
+
+msgid "What's your name?"
+msgstr ""
+
+msgid "whirl"
+msgstr "چرخانیدن"
+
+msgid "world"
+msgstr ""
+
+msgid "Write Multiple Project Summaries"
+msgstr "خلاسه پروژه چندگانه را بنویس"
+
+msgid "Write Project Summary"
+msgstr "نوشتن خلاسه پروژه"
+
+msgid "Yes"
+msgstr "بله"
+
+msgid "Your project is now online at"
+msgstr "پروژه شما الان به صورت آنلاین است در"
+
+msgid "Your Scratch website login name:"
+msgstr ":نام ورودی شما در سایت اسکرچ"
+
+msgid "Zoom in"
+msgstr "بزرگنمایی"
+
+msgid "Zoom out"
+msgstr "کوچکنمایی"
+
+############################################
+# MIDI INSTRUMENTS
+############################################
+
+msgid "Accordion"
+msgstr "Accordion"
+
+msgid "Acoustic Bass"
+msgstr "Acoustic Bass"
+
+msgid "Acoustic Bass Drum"
+msgstr "Acoustic Bass Drum"
+
+msgid "Acoustic Grand"
+msgstr "Acoustic Grand"
+
+msgid "Acoustic Snare"
+msgstr "Acoustic Snare"
+
+msgid "Agogo"
+msgstr "Agogo"
+
+msgid "Alto Sax"
+msgstr "Alto Sax"
+
+msgid "Applause"
+msgstr "Applause"
+
+msgid "Bagpipe"
+msgstr "Bagpipe"
+
+msgid "Banjo"
+msgstr "Banjo"
+
+msgid "Baritone Sax"
+msgstr "Baritone Sax"
+
+msgid "Bass Drum 1"
+msgstr "Bass Drum 1"
+
+msgid "Bassoon"
+msgstr "Bassoon"
+
+msgid "Bird Tweet"
+msgstr "Bird Tweet"
+
+msgid "Blown Bottle"
+msgstr "Blown Bottle"
+
+msgid "Brass Section"
+msgstr "Brass Section"
+
+msgid "Breath Noise"
+msgstr "Breath Noise"
+
+msgid "Bright Acoustic"
+msgstr "Bright Acoustic"
+
+msgid "Cabasa"
+msgstr "Cabasa"
+
+msgid "Celesta"
+msgstr "Celesta"
+
+msgid "Cello"
+msgstr "Cello"
+
+msgid "Chinese Cymbal"
+msgstr "Chinese Cymbal"
+
+msgid "Choir Aahs"
+msgstr "Choir Aahs"
+
+msgid "Church Organ"
+msgstr "Church Organ"
+
+msgid "Clarinet"
+msgstr "Clarinet"
+
+msgid "Claves"
+msgstr "Claves"
+
+msgid "Clavinet"
+msgstr "Clavinet"
+
+msgid "Closed Hi-Hat"
+msgstr "Closed Hi-Hat"
+
+msgid "Contrabass"
+msgstr "Contrabass"
+
+msgid "Cowbell"
+msgstr "Cowbell"
+
+msgid "Crash Cymbal 1"
+msgstr "Crash Cymbal 1"
+
+msgid "Crash Cymbal 2"
+msgstr "Crash Cymbal 2"
+
+msgid "Distortion Guitar"
+msgstr "Distortion Guitar"
+
+msgid "Drawbar Organ"
+msgstr "Drawbar Organ"
+
+msgid "Dulcimer"
+msgstr "Dulcimer"
+
+msgid "Electric Bass (finger)"
+msgstr "Electric Bass (finger)"
+
+msgid "Electric Bass (pick)"
+msgstr "Electric Bass (pick)"
+
+msgid "Electric Clean Guitar"
+msgstr "Electric Clean Guitar"
+
+msgid "Electric Grand"
+msgstr "Electric Grand"
+
+msgid "Electric Jazz Guitar"
+msgstr "Electric Jazz Guitar"
+
+msgid "Electric Muted Guitar"
+msgstr "Electric Muted Guitar"
+
+msgid "Electric Piano 1"
+msgstr "Electric Piano 1"
+
+msgid "Electric Piano 2"
+msgstr "Electric Piano 2"
+
+msgid "Electric Snare"
+msgstr "Electric Snare"
+
+msgid "English Horn"
+msgstr "English Horn"
+
+msgid "FX 1 (rain)"
+msgstr "FX 1 (rain)"
+
+msgid "FX 2 (soundtrack)"
+msgstr "FX 2 (soundtrack)"
+
+msgid "FX 3 (crystal)"
+msgstr "FX 3 (crystal)"
+
+msgid "FX 4 (atmosphere)"
+msgstr "FX 4 (atmosphere)"
+
+msgid "FX 5 (brightness)"
+msgstr "FX 5 (brightness)"
+
+msgid "FX 6 (goblins)"
+msgstr "FX 6 (goblins)"
+
+msgid "FX 7 (echoes)"
+msgstr "FX 7 (echoes)"
+
+msgid "FX 8 (sci-fi)"
+msgstr "FX 8 (sci-fi)"
+
+msgid "Fiddle"
+msgstr "Fiddle"
+
+msgid "Flute"
+msgstr "Flute"
+
+msgid "French Horn"
+msgstr "French Horn"
+
+msgid "Fretless Bass"
+msgstr "Fretless Bass"
+
+msgid "Glockenspiel"
+msgstr "Glockenspiel"
+
+msgid "Guitar Fret Noise"
+msgstr "Guitar Fret Noise"
+
+msgid "Guitar Harmonics"
+msgstr "Guitar Harmonics"
+
+msgid "Gunshot"
+msgstr "Gunshot"
+
+msgid "Hand Clap"
+msgstr "Hand Clap"
+
+msgid "Harmonica"
+msgstr "Harmonica"
+
+msgid "Harpsichord"
+msgstr "Harpsichord"
+
+msgid "Helicopter"
+msgstr "Helicopter"
+
+msgid "Hi Bongo"
+msgstr "Hi Bongo"
+
+msgid "Hi Wood Block"
+msgstr "Hi Wood Block"
+
+msgid "Hi-Mid Tom"
+msgstr "Hi-Mid Tom"
+
+msgid "High Agogo"
+msgstr "High Agogo"
+
+msgid "High Floor Tom"
+msgstr "High Floor Tom"
+
+msgid "High Timbale"
+msgstr "High Timbale"
+
+msgid "High Tom"
+msgstr "High Tom"
+
+msgid "Honky-Tonk"
+msgstr "Honky-Tonk"
+
+msgid "Kalimba"
+msgstr "Kalimba"
+
+msgid "Koto"
+msgstr "Koto"
+
+msgid "Lead 1 (square)"
+msgstr "Lead 1 (square)"
+
+msgid "Lead 2 (sawtooth)"
+msgstr "Lead 2 (sawtooth)"
+
+msgid "Lead 3 (calliope)"
+msgstr "Lead 3 (calliope)"
+
+msgid "Lead 4 (chiff)"
+msgstr "Lead 4 (chiff)"
+
+msgid "Lead 5 (charang)"
+msgstr "Lead 5 (charang)"
+
+msgid "Lead 6 (voice)"
+msgstr "Lead 6 (voice)"
+
+msgid "Lead 7 (fifths)"
+msgstr "Lead 7 (fifths)"
+
+msgid "Lead 8 (bass+lead)"
+msgstr "Lead 8 (bass+lead)"
+
+msgid "Long Guiro"
+msgstr "Long Guiro"
+
+msgid "Long Whistle"
+msgstr "Long Whistle"
+
+msgid "Low Agogo"
+msgstr "Low Agogo"
+
+msgid "Low Bongo"
+msgstr "Low Bongo"
+
+msgid "Low Conga"
+msgstr "Low Conga"
+
+msgid "Low Floor Tom"
+msgstr "Low Floor Tom"
+
+msgid "Low Timbale"
+msgstr "Low Timbale"
+
+msgid "Low Tom"
+msgstr "Low Tom"
+
+msgid "Low Wood Block"
+msgstr "Low Wood Block"
+
+msgid "Low-Mid Tom"
+msgstr "Low-Mid Tom"
+
+msgid "Maracas"
+msgstr "Maracas"
+
+msgid "Marimba"
+msgstr "Marimba"
+
+msgid "Melodic Tom"
+msgstr "Melodic Tom"
+
+msgid "Music Box"
+msgstr "Music Box"
+
+msgid "Mute Cuica"
+msgstr "Mute Cuica"
+
+msgid "Mute Hi Conga"
+msgstr "Mute Hi Conga"
+
+msgid "Mute Triangle"
+msgstr "Mute Triangle"
+
+msgid "Muted Trumpet"
+msgstr "Muted Trumpet"
+
+msgid "Nylon String Guitar"
+msgstr "Nylon String Guitar"
+
+msgid "Oboe"
+msgstr "Oboe"
+
+msgid "Ocarina"
+msgstr "Ocarina"
+
+msgid "Open Cuica"
+msgstr "Open Cuica"
+
+msgid "Open Hi Conga"
+msgstr "Open Hi Conga"
+
+msgid "Open Hi-Hat"
+msgstr "Open Hi-Hat"
+
+msgid "Open Triangle"
+msgstr "Open Triangle"
+
+msgid "Orchestra Hit"
+msgstr "Orchestra Hit"
+
+msgid "Orchestral Strings"
+msgstr "Orchestral Strings"
+
+msgid "Overdriven Guitar"
+msgstr "Overdriven Guitar"
+
+msgid "Pad 1 (new age)"
+msgstr "Pad 1 (new age)"
+
+msgid "Pad 2 (warm)"
+msgstr "Pad 2 (warm)"
+
+msgid "Pad 3 (polysynth)"
+msgstr "Pad 3 (polysynth)"
+
+msgid "Pad 4 (choir)"
+msgstr "Pad 4 (choir)"
+
+msgid "Pad 5 (bowed)"
+msgstr "Pad 5 (bowed)"
+
+msgid "Pad 6 (metallic)"
+msgstr "Pad 6 (metallic)"
+
+msgid "Pad 7 (halo)"
+msgstr "Pad 7 (halo)"
+
+msgid "Pad 8 (sweep)"
+msgstr "Pad 8 (sweep)"
+
+msgid "Pan Flute"
+msgstr "Pan Flute"
+
+msgid "Pedal Hi-Hat"
+msgstr "Pedal Hi-Hat"
+
+msgid "Percussive Organ"
+msgstr "Percussive Organ"
+
+msgid "Piccolo"
+msgstr "Piccolo"
+
+msgid "Pizzicato Strings"
+msgstr "Pizzicato Strings"
+
+msgid "Recorder"
+msgstr "Recorder"
+
+msgid "Reed Organ"
+msgstr "Reed Organ"
+
+msgid "Reverse Cymbal"
+msgstr "Reverse Cymbal"
+
+msgid "Ride Bell"
+msgstr "Ride Bell"
+
+msgid "Ride Cymbal 1"
+msgstr "Ride Cymbal 1"
+
+msgid "Ride Cymbal 2"
+msgstr "Ride Cymbal 2"
+
+msgid "Rock Organ"
+msgstr "Rock Organ"
+
+msgid "Seashore"
+msgstr "Seashore"
+
+msgid "Shakuhachi"
+msgstr ""
+
+msgid "Shamisen"
+msgstr "Shamisen"
+
+msgid "Shanai"
+msgstr "Shanai"
+
+msgid "Short Guiro"
+msgstr "Short Guiro"
+
+msgid "Short Whistle"
+msgstr "Short Whistle"
+
+msgid "Side Stick"
+msgstr "Side Stick"
+
+msgid "Sitar"
+msgstr "Sitar"
+
+msgid "Slap Bass 1"
+msgstr "Slap Bass 1"
+
+msgid "Slap Bass 2"
+msgstr "Slap Bass 2"
+
+msgid "Soprano Sax"
+msgstr "Soprano Sax"
+
+msgid "Splash Cymbal"
+msgstr "Splash Cymbal"
+
+msgid "Steel Drums"
+msgstr "Steel Drums"
+
+msgid "Steel String Guitar"
+msgstr "Steel String Guitar"
+
+msgid "String Ensemble 1"
+msgstr "String Ensemble 1"
+
+msgid "String Ensemble 2"
+msgstr "String Ensemble 2"
+
+msgid "Synth Bass 1"
+msgstr "Synth Bass 1"
+
+msgid "Synth Bass 2"
+msgstr "Synth Bass 2"
+
+msgid "Synth Drum"
+msgstr "Synth Drum"
+
+msgid "Synth Voice"
+msgstr "Synth Voice"
+
+msgid "SynthBrass 1"
+msgstr "SynthBrass 1"
+
+msgid "SynthBrass 2"
+msgstr "SynthBrass 2"
+
+msgid "SynthStrings 1"
+msgstr "SynthStrings 1"
+
+msgid "SynthStrings 2"
+msgstr "SynthStrings 2"
+
+msgid "Taiko Drum"
+msgstr "Taiko Drum"
+
+msgid "Tambourine"
+msgstr "Tambourine"
+
+msgid "Tango Accordion"
+msgstr "Tango Accordion"
+
+msgid "Telephone Ring"
+msgstr "Telephone Ring"
+
+msgid "Tenor Sax"
+msgstr "Tenor Sax"
+
+msgid "Timpani"
+msgstr "Timpani"
+
+msgid "Tinkle Bell"
+msgstr "Tinkle Bell"
+
+msgid "Tremolo Strings"
+msgstr "Tremolo Strings"
+
+msgid "Trombone"
+msgstr "Trombone"
+
+msgid "Trumpet"
+msgstr "Trumpet"
+
+msgid "Tuba"
+msgstr "Tuba"
+
+msgid "Tubular Bells"
+msgstr "Tubular Bells"
+
+msgid "Vibraphone"
+msgstr "Vibraphone"
+
+msgid "Vibraslap"
+msgstr "Vibraslap"
+
+msgid "Viola"
+msgstr "Viola"
+
+msgid "Violin"
+msgstr "Violin"
+
+msgid "Voice Oohs"
+msgstr "Voice Oohs"
+
+msgid "Whistle"
+msgstr "Whistle"
+
+msgid "Woodblock"
+msgstr "Woodblock"
+
+msgid "Xylophone"
+msgstr "Xylophone"
+

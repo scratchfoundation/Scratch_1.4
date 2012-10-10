@@ -1,0 +1,1922 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: Scratch\n"
+"Report-Msgid-Bugs-To: Evelyn Eastmond <evelyn@media.mit.edu>\n"
+"POT-Creation-Date: 2008-02-29\n"
+"PO-Revision-Date: 2009-05-26 03:41-0400\n"
+"Last-Translator: Hagay Vider <hagay.vider@gmail.com>\n"
+"Language-Team: <LL@li.org>\n"
+"Language: he\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 1.2.0\n"
+
+############################################
+# FORMATTING
+############################################
+
+# Language name as you'd like it to appear in the Languages menu
+# (Required)
+msgid "Language-Name"
+msgstr "עִבְרִית"
+
+# Directionality of language
+# LTR = Left to Right
+# RTL = Right to Left
+msgid "Language-Direction"
+msgstr "RTL"
+
+# Scale to apply to font size (2 for twice as large)
+# Use this if the font is too small for legibility on the Scratch interface
+msgid "Font-Scale"
+msgstr "1.3"
+
+# Set to 'true' or 'false'
+# Use this if you do not want any of the text to be bolded, for legibility
+msgid "Suppress-Bold"
+msgstr ""
+
+# Font to use on a Windows system
+msgid "Win-Font"
+msgstr "Arial"
+
+# Font to use on a Mac system
+msgid "Mac-Font"
+msgstr ""
+
+# Font to use on a Linux system
+msgid "Linux-Font"
+msgstr "פונט לינוקס"
+
+############################################
+# BLOCKS
+############################################
+
+msgid "%H sensor value"
+msgstr "%H ערך חישן"
+
+msgid "%L contains %s"
+msgstr "%L מכיל %s"
+
+msgid "%a of %m"
+msgstr "%m של %a"
+
+msgid "%b and %b"
+msgstr "%b וגם %b"
+
+msgid "%b or %b"
+msgstr "%b או %b"
+
+msgid "%f of %n"
+msgstr "%n של %f"
+
+msgid "%n mod %n"
+msgstr "%n2 שארית %n1"
+
+msgid "add %s to %L"
+msgstr " %L ל- %s  הוסף"
+
+msgid "answer"
+msgstr "תשובה"
+
+msgid "ask %s and wait"
+msgstr "שאל %s והמתן"
+
+msgid "background #"
+msgstr "רקע"
+
+msgid "broadcast %e"
+msgstr "%e שדר מסר"
+
+msgid "broadcast %e and wait"
+msgstr "וחכה %e שדר מסר"
+
+msgid "change %g effect by %n"
+msgstr "%n -ב %g שנה אפקט"
+
+msgid "change %v by %n"
+msgstr "%n ב- %v שנה ערך"
+
+msgid "change pen color by %n"
+msgstr "%n שנה צבע עט ב"
+
+msgid "change pen shade by %n"
+msgstr "%n שנה צבע צל ב"
+
+msgid "change pen size by %n"
+msgstr "%n שנה גודל עט"
+
+msgid "change size by %n"
+msgstr "%n שנה גודל ב"
+
+msgid "change tempo by %n"
+msgstr "%n שנה קצב"
+
+msgid "change volume by %n"
+msgstr "%n שנה עוצמה"
+
+msgid "change x by %n"
+msgstr "%n ב x שנה ערך "
+
+msgid "change y by %n"
+msgstr "%n ב y שנה ערך"
+
+msgid "clear"
+msgstr "נקה"
+
+msgid "clear graphic effects"
+msgstr "נקה אפקטים"
+
+msgid "color %C is touching %C?"
+msgstr "%C2 מעל צבע %C1 צבע"
+
+msgid "control"
+msgstr "בקרה"
+
+msgid "costume #"
+msgstr "תלבושת"
+
+msgid "delete %y of %L"
+msgstr " %L מתוך %y מחק"
+
+msgid "direction"
+msgstr "כיוון"
+
+msgid "distance to %m"
+msgstr "%m המרחק אל"
+
+msgid "else"
+msgstr "ואם לא"
+
+msgid "forever"
+msgstr "לעולמים"
+
+msgid "forever if %b"
+msgstr "%b לעולמים אם"
+
+msgid "glide %n secs to x:%n y:%n"
+msgstr "%n3 :y %n2 :x-שניות ל %n1 גלוש"
+
+msgid "go back %n layers"
+msgstr "לאחור %n העבר שכבה"
+
+msgid "go to %m"
+msgstr "%m קפוץ אל"
+
+msgid "go to front"
+msgstr "העבר לשיכבה הקדמית"
+
+msgid "go to x:%n y:%n"
+msgstr "%n2 :y %n1 :x-קפוץ אל"
+
+msgid "hide"
+msgstr "הסתר"
+
+msgid "hide variable %v"
+msgstr "הסתר משתנה %v"
+
+msgid "if %b"
+msgstr "%b אם"
+
+msgid "if on edge, bounce"
+msgstr "בנגיעה במסגרת הפוך כיוון"
+
+msgid "insert %s at %i of %L"
+msgstr " %L של %i ב- %s הכנס"
+
+msgid "item %i of %L"
+msgstr "%L של %iפריט"
+
+msgid "join %s %s"
+msgstr "חבר %s %s"
+
+msgid "key %k pressed?"
+msgstr " ?נלחץ %k  מקש "
+
+msgid "length of %L"
+msgstr " של %L אורך"
+
+msgid "length of %s"
+msgstr "אורך של %s"
+
+msgid "letter %n of %s"
+msgstr "עות %n של %s"
+
+msgid "list"
+msgstr "רשימה"
+
+msgid "looks"
+msgstr "מראה"
+
+msgid "loud?"
+msgstr "?מיקרופון רועש"
+
+msgid "loudness"
+msgstr "עוצמת המיקרופון"
+
+msgid "motion"
+msgstr "תנועה"
+
+msgid "motor direction %W"
+msgstr "כוון מנוע %W"
+
+msgid "motor off"
+msgstr "מנוע מכובה"
+
+msgid "motor on"
+msgstr "מנוע דלוק"
+
+msgid "motor on for %n secs"
+msgstr "מנוע דלוק %n שניות"
+
+msgid "motor power %n"
+msgstr "עוצמת מנוע %n"
+
+msgid "mouse down?"
+msgstr "?עכבר נלחץ"
+
+msgid "mouse x"
+msgstr "x ערך עכבר בציר"
+
+msgid "mouse y"
+msgstr "y ערך עכבר בציר"
+
+msgid "move %n steps"
+msgstr "צעדים %n זוז"
+
+msgid "next background"
+msgstr "הרקע הבא"
+
+msgid "next costume"
+msgstr "התלבושת הבאה"
+
+msgid "not %b"
+msgstr "%b לא"
+
+msgid "operators"
+msgstr "מפעילים"
+
+msgid "pen"
+msgstr "עט"
+
+msgid "pen down"
+msgstr "עט מטה"
+
+msgid "pen up"
+msgstr "עט מעלה"
+
+msgid "pick random %n to %n"
+msgstr "%n2 -ל %n1 בחר מספר אקראי בין"
+
+msgid "play drum %D for %n beats"
+msgstr "beats %n למשך %D נגן בתוף"
+
+msgid "play note %N for %n beats"
+msgstr "beats %n למשך %N נגן תו"
+
+msgid "play sound %S"
+msgstr "%S נגן צליל"
+
+msgid "play sound %S until done"
+msgstr "עד לסיום %S נגן צליל"
+
+msgid "point in direction %d"
+msgstr "%d פנה לכיוון"
+
+msgid "point towards %m"
+msgstr "%m פנה לכיוונו של"
+
+msgid "repeat %n"
+msgstr "פעמים %n חזור"
+
+msgid "repeat until %b"
+msgstr "%b ...חזור עד ש "
+
+msgid "replace item %i of %L with %s"
+msgstr " %s של %L עם %i החלף"
+
+msgid "reset timer"
+msgstr "אפס מונה"
+
+msgid "rest for %n beats"
+msgstr "ביטים %n אפס למשך"
+
+msgid "round %n"
+msgstr "%n עגל"
+
+msgid "say %s"
+msgstr "%s אמור"
+
+msgid "say %s for %n secs"
+msgstr "שניות %n למשך %s אמור"
+
+msgid "sensing"
+msgstr "חיישנים"
+
+msgid "sensor %h?"
+msgstr "؟%h חישן"
+
+msgid "set %g effect to %n"
+msgstr "%n ל- %g קבע אפקט"
+
+msgid "set %v to %n"
+msgstr "%n -ל %v קבע"
+
+msgid "set instrument to %I"
+msgstr "%I קבע כלי נגינה"
+
+msgid "set pen color to %c"
+msgstr "%c קבע צבע עט"
+
+msgid "set pen color to %n"
+msgstr "%n קבע צבע צל"
+
+msgid "set pen shade to %n"
+msgstr "%n-קבע צל ל"
+
+msgid "set pen size to %n"
+msgstr "%n -קבע גודל עט ל"
+
+msgid "set size to %n%"
+msgstr "% %n -קבע גודל ל"
+
+msgid "set tempo to %n bpm"
+msgstr "bpm %n -קבע קצב ל"
+
+msgid "set volume to %n%"
+msgstr "% %n קבע עוצמת קול"
+
+msgid "set x to %n"
+msgstr "%n-ל x קבע ערך"
+
+msgid "set y to %n"
+msgstr "%n -ל y קבע ערך"
+
+msgid "show"
+msgstr "הצג"
+
+msgid "show variable %v"
+msgstr "הצג משתנה %v"
+
+msgid "size"
+msgstr "גודל"
+
+msgid "sound"
+msgstr "צלילים"
+
+msgid "stamp"
+msgstr "חותמת"
+
+msgid "stop all"
+msgstr "הפסק הכל"
+
+msgid "stop all sounds"
+msgstr "הפסק את כל הצלילים"
+
+msgid "stop script"
+msgstr "הפסק תסריט"
+
+msgid "switch to background %l"
+msgstr "%l שנה לרקע"
+
+msgid "switch to costume %l"
+msgstr "%l שנה לדמות"
+
+msgid "tempo"
+msgstr "קצב"
+
+msgid "think %s"
+msgstr "%s חשוב"
+
+msgid "think %s for %n secs"
+msgstr "שניות %n למשך %s  חשוב"
+
+msgid "timer"
+msgstr "מונה"
+
+msgid "touching %m?"
+msgstr "?%m נוגע"
+
+msgid "touching color %C?"
+msgstr "?%C נוגע בצבע"
+
+msgid "turn %n degrees"
+msgstr "מעלות %n הסתובב"
+
+msgid "variables"
+msgstr "משתנים"
+
+msgid "volume"
+msgstr "עוצמת קול"
+
+msgid "wait %n secs"
+msgstr "שניות %n חכה"
+
+msgid "wait until %b"
+msgstr "%b ...חכה עד ש"
+
+msgid "when %k key pressed"
+msgstr "כאשר נלחץ מקש %k "
+
+msgid "when %m clicked"
+msgstr "כאשר לוחצים על  %m  "
+
+msgid "when I receive %e"
+msgstr "כשמתקבל מסר %e"
+
+msgid "x position"
+msgstr " x מיקום על ציר"
+
+msgid "y position"
+msgstr "y מיקום על ציר"
+
+############################################
+# USER INTERFACE
+############################################
+
+msgid "(empty)"
+msgstr "(ריק)"
+
+msgid "1 script"
+msgstr "תסריט"
+
+msgid "About Scratch"
+msgstr "אודות"
+
+msgid "About this project:"
+msgstr ":אודות הפרויקט"
+
+msgid "abs"
+msgstr "abs"
+
+msgid "add comment"
+msgstr "הוסף הערה"
+
+msgid "add comment here"
+msgstr "הוסף הערה פה"
+
+msgid "all"
+msgstr "הכל"
+
+msgid "and"
+msgstr "וגם"
+
+msgid "Animation"
+msgstr ""
+
+msgid "any"
+msgstr "כל"
+
+msgid "Art"
+msgstr "אומנות"
+
+msgid "background"
+msgstr "רקע"
+
+msgid "backgrounds"
+msgstr "רקעים"
+
+msgid "Backgrounds"
+msgstr "רקעים"
+
+msgid "brightness"
+msgstr "בהירות"
+
+msgid "Brush size: "
+msgstr ":גודל מברשת"
+
+msgid "button"
+msgstr "לחצן"
+
+msgid "button pressed"
+msgstr "לחצן נלחץ"
+
+msgid "Camera"
+msgstr "מצלמה"
+
+msgid "can rotate"
+msgstr "דמות יכולה להסתובב"
+
+msgid "cancel"
+msgstr "בטל"
+
+msgid "Cancel"
+msgstr "בטל"
+
+msgid "Choose a folder"
+msgstr "בחר תקיה"
+
+msgid "Choose new sprite from file"
+msgstr "בחר דמות חדשה מקובץ"
+
+msgid "clean up"
+msgstr "נקה"
+
+msgid "Clear"
+msgstr "נקה"
+
+msgid "Clear canvas"
+msgstr "נקה ציור"
+
+msgid "Close and continue"
+msgstr "סגור והמשך"
+
+msgid "Close dialog?"
+msgstr "דו-שיח פרטי"
+
+msgid "Close paint editor?"
+msgstr "עורך צבע חסום"
+
+msgid "close port"
+msgstr "בחר פרויקט"
+
+msgid "Close sound recorder?"
+msgstr "סיים הקלטה"
+
+msgid "color"
+msgstr "צבע"
+
+msgid "Compress Images"
+msgstr "כווץ תמונה"
+
+msgid "Compress Sounds"
+msgstr "כווץ צליל"
+
+msgid "Compress sounds and images"
+msgstr "כווץ צלילים ותמונות"
+
+msgid "Computer"
+msgstr "מחשב"
+
+msgid "connected"
+msgstr "מחובר"
+
+msgid "Connecting to "
+msgstr "מתחבר אל"
+
+msgid "Copy"
+msgstr "העתק"
+
+msgid "costume"
+msgstr "תלבושת"
+
+msgid "costumes"
+msgstr "תלבושות"
+
+msgid "Costumes"
+msgstr "תלבושות"
+
+msgid "Could not read"
+msgstr "אין אפשרות לקרוא"
+
+msgid "Could not read project; file may be damaged"
+msgstr "לא ניתן לקרוא את הפרויקט. ייתכן והקובץ פגום."
+
+msgid "Could not write file"
+msgstr "לא יכול לכתוב לקובץ"
+
+msgid "Create account"
+msgstr "צור חשבון"
+
+msgid "Create an empty project"
+msgstr "צור פרויקט ריק"
+
+msgid "Data sent. Waiting for response..."
+msgstr "...המידע נשלח המתן "
+
+msgid "delete"
+msgstr "מחק"
+
+msgid "Delete"
+msgstr "מחק"
+
+msgid "Delete a list"
+msgstr "מחק רשימה"
+
+msgid "Delete a variable"
+msgstr "מחק משתנה"
+
+msgid "Delete this background"
+msgstr "מחק רקע זה"
+
+msgid "Delete this costume"
+msgstr "מחק דמות זו"
+
+msgid "Delete this sound"
+msgstr "מחק צליל זה"
+
+msgid "Delete this sprite"
+msgstr "מחק צליל זה"
+
+msgid "Desktop"
+msgstr "מכתבה"
+
+msgid "disable remote sensor connections"
+msgstr ""
+
+msgid "distance"
+msgstr "מרחק"
+
+msgid "Documents"
+msgstr "המסמכים שלי"
+
+msgid "don't rotate"
+msgstr "דמות אינה יכולה להסתובב"
+
+msgid "Don't Save"
+msgstr "לא לשמור"
+
+msgid "Done"
+msgstr "סיים"
+
+msgid "down"
+msgstr "מטה"
+
+msgid "down arrow"
+msgstr "חץ מטה"
+
+msgid "drag to resize"
+msgstr "גרר לשנות גודל"
+
+msgid "drag to rotate"
+msgstr "גרר לסובב"
+
+msgid "draggable on website?"
+msgstr "؟ניתן לגרירה באינטרנט"
+
+msgid "duplicate"
+msgstr "שכפל"
+
+msgid "Duplicate"
+msgstr "שכפל"
+
+msgid "edge"
+msgstr "מסגרת"
+
+msgid "Edit"
+msgstr "ערוך"
+
+msgid "Ellipse tool (draw outlined or filled ellipse or circle)"
+msgstr "(כלי עיגול (עיגולים ואליפסות ללא ועם מילוי"
+
+msgid "enable remote sensor connections"
+msgstr ""
+
+msgid "Enter presentation mode"
+msgstr "כניסה למצב מצגת"
+
+msgid "Eraser"
+msgstr "מחק"
+
+msgid "Eraser size"
+msgstr " גודל מחק"
+
+msgid "Error!"
+msgstr ""
+
+msgid "Examples"
+msgstr ""
+
+msgid "Exit presentation"
+msgstr ""
+
+msgid "Exit presentation mode"
+msgstr "יציאה ממצב מצגת"
+
+msgid "export"
+msgstr "יצא"
+
+msgid "Export Background"
+msgstr "יצא רקע"
+
+msgid "Export Costume"
+msgstr "יצא תלבושת"
+
+msgid "Export failed"
+msgstr "היצוא נכשל"
+
+msgid "Export Sound"
+msgstr "יצא צליל"
+
+msgid "Export Sprite"
+msgstr "יצא דמות"
+
+msgid "export this costume"
+msgstr ""
+
+msgid "export this sound"
+msgstr ""
+
+msgid "export this sprite"
+msgstr "יצא דמות זו"
+
+msgid "Extras menu"
+msgstr "תפריט תוספים"
+
+msgid "Eyedropper tool (select a color)"
+msgstr "טפטפת צבע"
+
+msgid "Failed:"
+msgstr ":נכשל"
+
+msgid "false"
+msgstr "שקר"
+
+msgid "File"
+msgstr ""
+
+msgid "File not found"
+msgstr "קובץ לא נמצא"
+
+msgid "Fill tool (fill areas with color or gradient)"
+msgstr "משפך הצבע"
+
+msgid "first"
+msgstr "ראשון"
+
+msgid "fisheye"
+msgstr "עין דג"
+
+msgid "Flash blocks (fast)"
+msgstr "Flash blocks (fast)"
+
+msgid "Flash blocks (slow)"
+msgstr "Flash blocks (slow)"
+
+msgid "Flip horizontally"
+msgstr "הפוך אופקית"
+
+msgid "Flip vertically"
+msgstr "הפוך אנכיתً"
+
+msgid "For all sprites"
+msgstr "לכל הדמויות"
+
+msgid "For this sprite only"
+msgstr "לדמות זו בלבד"
+
+msgid "Game"
+msgstr "משחק"
+
+msgid "Get surprise sprite"
+msgstr "קבל דמות הפתעה"
+
+msgid "Get the last thing deleted"
+msgstr "בטל את המחיקה האחרונה"
+
+msgid "Getting Started"
+msgstr ""
+
+msgid "ghost"
+msgstr "רוח"
+
+msgid "Go To Scratch Website"
+msgstr ""
+
+msgid "grab screen region for new costume"
+msgstr "לכוד מסך לקבלת תלבושת חדשה"
+
+msgid "grab screen region for new sprite"
+msgstr "לכוד מסך לקבלת דמות חדשה"
+
+msgid "Grow"
+msgstr "הגדל"
+
+msgid "Grow sprite"
+msgstr "הגדל דמות"
+
+msgid "hello "
+msgstr ""
+
+msgid "Hello!"
+msgstr "!שלום"
+
+msgid "help"
+msgstr "עזרה"
+
+msgid "Help"
+msgstr "עזרה"
+
+msgid "Help Page"
+msgstr ""
+
+msgid "Help Screens"
+msgstr ""
+
+msgid "Hide Motor Blocks"
+msgstr "הסתר לבני מנוע"
+
+msgid "High (biggest)"
+msgstr "High (biggest)"
+
+msgid "Hmm..."
+msgstr "...מממ"
+
+msgid "Home"
+msgstr "בית"
+
+msgid "Images compressed"
+msgstr "התמונה כווצה"
+
+# There are no capital letters in Hebrew
+msgid "import"
+msgstr "יבא"
+
+msgid "Import"
+msgstr "יבא"
+
+msgid "Import an image on top of your current canvas"
+msgstr "יבא תמונה לקדמת התמונה הנוכחית"
+
+msgid "Import Background"
+msgstr "יבא רקע"
+
+msgid "Import Costume"
+msgstr "יבא תלבושת"
+
+msgid "Import Image"
+msgstr "יבא תמונה"
+
+msgid "Import List"
+msgstr "יבא רשימה"
+
+msgid "Import Project"
+msgstr "יבא פרויקט"
+
+msgid "import project"
+msgstr "יבא פרויקט"
+
+msgid "Import Sound"
+msgstr "יבא קול"
+
+msgid "Incompatible Scratch file format"
+msgstr "קובץ לא מתאים לסקרטצ'"
+
+msgid "Is the folder read-only?"
+msgstr "תקיה זו לקריאה בלבד"
+
+msgid "JPEG Quality (10-100)?"
+msgstr "JPEG איכות (10-100)"
+
+msgid "kbytes"
+msgstr "kbytes"
+
+msgid "Language"
+msgstr "שפה"
+
+msgid "large readout"
+msgstr "large readout"
+
+msgid "last"
+msgstr "אחרון"
+
+msgid "left"
+msgstr "שמאלה"
+
+msgid "left arrow"
+msgstr "חץ שמאלי"
+
+msgid "length"
+msgstr "אורך"
+
+msgid "light"
+msgstr "אור"
+
+msgid "Line tool (draw lines)"
+msgstr "כלי ציור לקווים"
+
+msgid "List name?"
+msgstr "שם הרשימה"
+
+msgid "Low"
+msgstr "נמוך"
+
+msgid "Lowest (smallest)"
+msgstr "הכי נמוך (smallest)"
+
+msgid "Make a list"
+msgstr "צור רשימה"
+
+msgid "Make a variable"
+msgstr "צור משתנה"
+
+msgid "Max:"
+msgstr ":מקסימום"
+
+msgid "meow"
+msgstr "יללה"
+
+msgid "Message name:"
+msgstr ":שם המסר"
+
+msgid "Min:"
+msgstr ":מנימום"
+
+msgid "mod"
+msgstr "אופן"
+
+msgid "more"
+msgstr "יותר"
+
+msgid "More tags:"
+msgstr ":תוויות נוספות"
+
+msgid "mosaic"
+msgstr "פסיפס"
+
+msgid "mouse x:"
+msgstr ":x עכבר"
+
+msgid "mouse y:"
+msgstr ":y עכבר"
+
+msgid "mouse-pointer"
+msgstr "מצביע העכבר"
+
+msgid "Move"
+msgstr "תנועה"
+
+msgid "Music"
+msgstr "מוסיקה"
+
+msgid "My Projects"
+msgstr "פרויקטים שלי"
+
+msgid "new"
+msgstr "חדש"
+
+msgid "New"
+msgstr "חדש"
+
+msgid "New background:"
+msgstr ":רקע חדש"
+
+msgid "New costume:"
+msgstr ":תלבושת חדשה"
+
+msgid "New file name?"
+msgstr ""
+
+msgid "New Filename:"
+msgstr ":קובץ חדש"
+
+msgid "New sound:"
+msgstr ":צליל חדש"
+
+msgid "New Sprite"
+msgstr "דמות חדשה"
+
+msgid "New sprite:"
+msgstr "דמות חדשה:"
+
+msgid "No"
+msgstr "לא"
+
+msgid "No MIDI ports currently available."
+msgstr "לא נמצא מוצא צליל מידי"
+
+msgid "No motion blocks"
+msgstr "אין לבנים לתנועה"
+
+msgid "no scripts"
+msgstr ""
+
+msgid "No serial ports found"
+msgstr "No serial ports found"
+
+msgid "No variables."
+msgstr "אין משתנים"
+
+msgid "Normal"
+msgstr "נורמאלי"
+
+msgid "normal readout"
+msgstr "normal readout"
+
+msgid "Off"
+msgstr "כבה"
+
+msgid "OK"
+msgstr ""
+
+msgid "On"
+msgstr "הפעל"
+
+msgid "only face left-right"
+msgstr "דמות יכולה לפנות שמאלה וימינה בלבד"
+
+msgid "Open"
+msgstr "פתח"
+
+msgid "Open a Scratch project"
+msgstr "פתח פרויקט סקרטש"
+
+msgid "Open Project"
+msgstr "פתח פרויקט"
+
+msgid "or"
+msgstr "או"
+
+msgid "Paint"
+msgstr "צייר"
+
+msgid "Paint Editor"
+msgstr "עורך הציור"
+
+msgid "Paint new sprite"
+msgstr "צייר דמות חדשה"
+
+msgid "Paintbrush"
+msgstr "מברשת"
+
+msgid "Password:"
+msgstr ":סיסמה"
+
+msgid "Percent? (100 gives original size)"
+msgstr "(אחוזים?( 100 הוא גודל מקורי"
+
+msgid "Pictures"
+msgstr "תמונה"
+
+msgid "pixelate"
+msgstr "pixelate"
+
+msgid "play"
+msgstr "נגן"
+
+msgid "Please enter a number"
+msgstr "בבקשה הכנס מספר"
+
+msgid "pop"
+msgstr "pop"
+
+msgid "Position the cross-hair to set the rotation center"
+msgstr "מקם את הצלב במרכז לקבוע את מרכז הסיבוב"
+
+msgid "Preparing project..."
+msgstr "...מכין פרויקט"
+
+msgid "Project author:"
+msgstr ":יוצר הפרויקט"
+
+msgid "Project name"
+msgstr "שם הפרויקט"
+
+msgid "Project Notes"
+msgstr "הערות לפרויקט"
+
+msgid "Project notes"
+msgstr "הערות לפרויקט"
+
+msgid "Project uploaded."
+msgstr "הפרויקט עלה"
+
+msgid "Projects"
+msgstr "פרויקט"
+
+msgid "Quit"
+msgstr "יציאה"
+
+msgid "Quit Scratch"
+msgstr "צא מסקרטצ'"
+
+msgid "Reading"
+msgstr "קורא"
+
+msgid "record"
+msgstr "הקלט"
+
+msgid "Record"
+msgstr "הקלט"
+
+msgid "recording"
+msgstr "מקליט"
+
+msgid "Rectangle tool (draw outlined or filled rectangle or square)"
+msgstr "כלי ציור למלבן (מצייר מלבנים/מרובעים, ריקים ומלאים"
+
+msgid "Redo"
+msgstr "בצע מחדש"
+
+msgid "Reference Guide"
+msgstr ""
+
+msgid "Remote sensor connections enabled"
+msgstr ""
+
+msgid "Remove viewer from stage"
+msgstr "הסר צופה מהבמה"
+
+msgid "resistance"
+msgstr "התנגדות"
+
+msgid "resize this sprite"
+msgstr ""
+
+msgid "reverse"
+msgstr ""
+
+msgid "right"
+msgstr "ימינה"
+
+msgid "right arrow"
+msgstr "חץ ימני"
+
+msgid "Rotate clock-wise"
+msgstr "סיבוב בכיוון השעון"
+
+msgid "Rotate counter-clock-wise"
+msgstr "סיבוב נגד כיוון השעון"
+
+msgid "rotate this sprite"
+msgstr "סובב דמות זו"
+
+msgid "Rotation degrees?"
+msgstr "סיבוב במעלות"
+
+msgid "Save"
+msgstr "שמור"
+
+msgid "Save a copy of the current project"
+msgstr "שמור עותק של הפרויקט הנוכחי"
+
+msgid "Save As"
+msgstr "שמור בשם"
+
+msgid "Save changes before quitting?"
+msgstr ""
+
+msgid "Save failed"
+msgstr "השמירה נכשלה"
+
+msgid "save picture of scripts"
+msgstr "שמור תמונה של התסריט"
+
+msgid "save picture of stage..."
+msgstr "שמור תמונה של הרקע"
+
+msgid "Save Project"
+msgstr "שמור פרויקט"
+
+msgid "Save Scripts Snapshot"
+msgstr "שמור סקיצה של התסריט"
+
+msgid "Save Stage Shot"
+msgstr "Save Stage Shot"
+
+msgid "Save the current project"
+msgstr "שמור פרויקט נוכחי"
+
+msgid "Save the current project?"
+msgstr "שמור פרויקט נוכחי"
+
+msgid "Save this project"
+msgstr ""
+
+msgid "Scripts"
+msgstr "תסריטים"
+
+msgid "select serial/USB port"
+msgstr "select serial/USB port"
+
+msgid "Select tool (move, modify, or delete selection)"
+msgstr "(בחר כלים (הזזה, שינוי, מחיקת בחירה"
+
+msgid "Set costume center"
+msgstr ""
+
+msgid "Set language"
+msgstr "קבע שפה"
+
+msgid "Set rotation center"
+msgstr "קבע נקודת מרכז לסיבוב"
+
+msgid "Set Single Stepping"
+msgstr "קבע הרצת תסריט צעד אחר צעד"
+
+msgid "set slider min and max"
+msgstr "קבע נקודת מינימו ומקסימום לגולל"
+
+msgid "Share"
+msgstr "שתף"
+
+msgid "Share this project"
+msgstr "שתף פרויקט זה"
+
+msgid "Share This Project Online"
+msgstr "שתף פרויקט זה ברשת"
+
+msgid "Show Motor Blocks"
+msgstr ""
+
+msgid "show ScratchBoard watcher"
+msgstr "show ScratchBoard watcher"
+
+msgid "Shrink"
+msgstr "כווץ"
+
+msgid "Shrink sprite"
+msgstr "הקטן דמות"
+
+msgid "Simulation"
+msgstr ""
+
+msgid "Single-step speed?"
+msgstr "מהירות צעידה בתסריט"
+
+msgid "slider"
+msgstr "גולל"
+
+msgid "Slider range:"
+msgstr ":טווח הגולל"
+
+msgid "Sound quality:"
+msgstr ":איכות קול"
+
+msgid "Sound Recorder"
+msgstr "מקליט הקול"
+
+msgid "Sounds"
+msgstr "צלילים"
+
+msgid "Sounds compressed"
+msgstr "הצליל כווץ"
+
+msgid "space"
+msgstr "מקש רווח"
+
+msgid "Sprite"
+msgstr "דמות"
+
+msgid "Sprites"
+msgstr "דמויות"
+
+msgid "sqrt"
+msgstr "sqrt"
+
+msgid "Stage"
+msgstr "רקע"
+
+msgid "Stage selected:"
+msgstr ":רקע נבחר"
+
+msgid "Stamp tool (select area, then stamp copies of it)"
+msgstr "(כלי החתמה (בחרו שטח, והחתימו העתקים של השטח"
+
+msgid "Start green flag scripts"
+msgstr "הפעל תסריטי דגל ירוק"
+
+msgid "Start Single Stepping"
+msgstr "הפעלת מצב תסריט צעד אחר צעד"
+
+msgid "stop"
+msgstr "עצור"
+
+msgid "Stop everything"
+msgstr "הפסק הכל"
+
+msgid "Stop Single Stepping"
+msgstr "עצור מצב צעד אחר צעד"
+
+msgid "Story"
+msgstr "סיפור"
+
+msgid "Support Site"
+msgstr "אתר תמיכה"
+
+msgid "Switch colors"
+msgstr "החלף צבע"
+
+msgid "Switch to full stage"
+msgstr ""
+
+msgid "Switch to presentation mode"
+msgstr ""
+
+msgid "Switch to small stage"
+msgstr "שנה לבמה קטנה"
+
+msgid "Tags:"
+msgstr ":תוויות"
+
+msgid "Text tool (edit text layer)"
+msgstr "(כלי כתיבה (ערוך שכבות טקסט"
+
+msgid "That variable name is already in use"
+msgstr ""
+
+msgid "that way"
+msgstr ""
+
+msgid "The file name already exists. Overwrite existing file?"
+msgstr "שם הקובץ קיים.למחוק קובץ קודם?"
+
+msgid "thing"
+msgstr ""
+
+msgid "this way"
+msgstr ""
+
+msgid "tilt"
+msgstr ""
+
+msgid "true"
+msgstr "אמת"
+
+msgid "Turbo speed"
+msgstr "מהירות טורבו"
+
+msgid "turn into new sprite"
+msgstr "שנה לדמות חדשה"
+
+msgid "Undelete"
+msgstr ""
+
+msgid "Undo"
+msgstr "בטל"
+
+msgid "up"
+msgstr "מעלה"
+
+msgid "up arrow"
+msgstr "חץ מעלה"
+
+msgid "Updating thumbnails"
+msgstr ""
+
+msgid "Upload succeeded!"
+msgstr "הפרויקט נשלח בהצלחה"
+
+msgid "Upload to Scratch Server"
+msgstr "SCRATCH-מעלה לשרת ה"
+
+msgid "Uploading"
+msgstr "מעלה"
+
+msgid "Variable name?"
+msgstr ""
+
+msgid "View on stage"
+msgstr "נראה ברקע"
+
+msgid "What's your name?"
+msgstr ""
+
+msgid "whirl"
+msgstr "סחרור"
+
+msgid "world"
+msgstr "עולם"
+
+msgid "Write Multiple Project Summaries"
+msgstr "כתוב סיכום פרויקטים"
+
+msgid "Write Project Summary"
+msgstr "כתוב סיכום פרויקט"
+
+msgid "Yes"
+msgstr "כן"
+
+msgid "Your project is now online at"
+msgstr "הפרויקט שלך נמצא ברשת"
+
+msgid "Your Scratch website login name:"
+msgstr ":שם המשתמש לאתר סקרטצ"
+
+msgid "Zoom in"
+msgstr "קרב"
+
+msgid "Zoom out"
+msgstr "הרחק"
+
+############################################
+# MIDI INSTRUMENTS
+############################################
+
+msgid "Accordion"
+msgstr "אקורדיון"
+
+msgid "Acoustic Bass"
+msgstr "בס אקוסטי"
+
+msgid "Acoustic Bass Drum"
+msgstr "תוף בס אקוסטי"
+
+msgid "Acoustic Grand"
+msgstr "Acoustic Grand"
+
+msgid "Acoustic Snare"
+msgstr "Acoustic Snare"
+
+msgid "Agogo"
+msgstr "Agogo"
+
+msgid "Alto Sax"
+msgstr "סקסופון אלטו"
+
+msgid "Applause"
+msgstr "תרועות"
+
+msgid "Bagpipe"
+msgstr "חמת חלילים "
+
+msgid "Banjo"
+msgstr " בנג'ו"
+
+msgid "Baritone Sax"
+msgstr "סקסופון בריטון"
+
+msgid "Bass Drum 1"
+msgstr "תוף בס 1"
+
+msgid "Bassoon"
+msgstr "בסון (כלי נגינה) "
+
+msgid "Bird Tweet"
+msgstr " ציוץ"
+
+msgid "Blown Bottle"
+msgstr "נשיפת בקבוק"
+
+msgid "Brass Section"
+msgstr "Brass Section"
+
+msgid "Breath Noise"
+msgstr "רעש נשימה"
+
+msgid "Bright Acoustic"
+msgstr "אקוסטי בהיר"
+
+msgid "Cabasa"
+msgstr "Cabasa"
+
+msgid "Celesta"
+msgstr "Celesta"
+
+msgid "Cello"
+msgstr "צ'לו"
+
+msgid "Chinese Cymbal"
+msgstr "מצילתיים"
+
+msgid "Choir Aahs"
+msgstr "Choir Aahs"
+
+msgid "Church Organ"
+msgstr "אורגן כנסייה"
+
+msgid "Clarinet"
+msgstr "קלרינט"
+
+msgid "Claves"
+msgstr "מקל הקשה"
+
+msgid "Clavinet"
+msgstr "קונטרה באס"
+
+msgid "Closed Hi-Hat"
+msgstr "Closed Hi-Hat"
+
+msgid "Contrabass"
+msgstr "קונטרה באס"
+
+msgid "Cowbell"
+msgstr "פעמון הפרה"
+
+msgid "Crash Cymbal 1"
+msgstr "סימן התרסקות 1"
+
+msgid "Crash Cymbal 2"
+msgstr "סימן התרסקות 2"
+
+msgid "Distortion Guitar"
+msgstr "גיטרה עם דיסטורשן"
+
+msgid "Drawbar Organ"
+msgstr "אורגן חשמלי"
+
+msgid "Dulcimer"
+msgstr "דולצימר"
+
+msgid "Electric Bass (finger)"
+msgstr "בס חשמלי/אצבוע (finger)"
+
+msgid "Electric Bass (pick)"
+msgstr "בס חשמלי/מפרט (pick)"
+
+msgid "Electric Clean Guitar"
+msgstr "גיטרה חשמלית/נקי"
+
+msgid "Electric Grand"
+msgstr "Electric Grand"
+
+msgid "Electric Jazz Guitar"
+msgstr "גיטרת ג'ז אלקטרונית"
+
+msgid "Electric Muted Guitar"
+msgstr "Electric Muted Guitar"
+
+msgid "Electric Piano 1"
+msgstr "פסנתר חשמלי 1"
+
+msgid "Electric Piano 2"
+msgstr "פסנתר חשמלי 2"
+
+msgid "Electric Snare"
+msgstr "Electric Snare"
+
+msgid "English Horn"
+msgstr "קרן אנגלית"
+
+msgid "FX 1 (rain)"
+msgstr "FX 1 (גשם)"
+
+msgid "FX 2 (soundtrack)"
+msgstr "FX 2 (פסקול)"
+
+msgid "FX 3 (crystal)"
+msgstr "FX 3 (קריסטל)"
+
+msgid "FX 4 (atmosphere)"
+msgstr "FX 4 (אטמוספירה)"
+
+msgid "FX 5 (brightness)"
+msgstr "FX 5 (בהירות)"
+
+msgid "FX 6 (goblins)"
+msgstr "FX 6 (goblins)"
+
+msgid "FX 7 (echoes)"
+msgstr "FX 7 (הד)"
+
+msgid "FX 8 (sci-fi)"
+msgstr "FX 8 (מדע בדיוני)"
+
+msgid "Fiddle"
+msgstr "כינור"
+
+msgid "Flute"
+msgstr "חליל"
+
+msgid "French Horn"
+msgstr "קרן צרפתית"
+
+msgid "Fretless Bass"
+msgstr "בס ללא מפרט"
+
+msgid "Glockenspiel"
+msgstr "Glockenspiel"
+
+msgid "Guitar Fret Noise"
+msgstr "רעש מפרט מחליק על גיטרה"
+
+msgid "Guitar Harmonics"
+msgstr "מפוחית גיטרה"
+
+msgid "Gunshot"
+msgstr "צליל ירי"
+
+msgid "Hand Clap"
+msgstr "מחיאת כף"
+
+msgid "Harmonica"
+msgstr "מפוחית"
+
+msgid "Harpsichord"
+msgstr "Harpsichord"
+
+msgid "Helicopter"
+msgstr "הליקופטר"
+
+msgid "Hi Bongo"
+msgstr "Hi Bongo"
+
+msgid "Hi Wood Block"
+msgstr "Hi Wood Block"
+
+msgid "Hi-Mid Tom"
+msgstr "Hi-Mid Tom"
+
+msgid "High Agogo"
+msgstr "High Agogo"
+
+msgid "High Floor Tom"
+msgstr "High Floor Tom"
+
+msgid "High Timbale"
+msgstr "High Timbale"
+
+msgid "High Tom"
+msgstr "High Tom"
+
+msgid "Honky-Tonk"
+msgstr "הונקי טונק"
+
+msgid "Kalimba"
+msgstr "Kalimba"
+
+msgid "Koto"
+msgstr "Koto"
+
+msgid "Lead 1 (square)"
+msgstr "זמר 1 (square)"
+
+msgid "Lead 2 (sawtooth)"
+msgstr "זמר 2 (sawtooth)"
+
+msgid "Lead 3 (calliope)"
+msgstr "זמר 3 (calliope)"
+
+msgid "Lead 4 (chiff)"
+msgstr "זמר 4 (chiff)"
+
+msgid "Lead 5 (charang)"
+msgstr "זמר 5 (charang)"
+
+msgid "Lead 6 (voice)"
+msgstr "זמר 6 (voice)"
+
+msgid "Lead 7 (fifths)"
+msgstr "זמר 7 (fifths)"
+
+msgid "Lead 8 (bass+lead)"
+msgstr "זמר 8 (bass+lead)"
+
+msgid "Long Guiro"
+msgstr "Long Guiro"
+
+msgid "Long Whistle"
+msgstr "שריקה ארוכה"
+
+msgid "Low Agogo"
+msgstr "Low Agogo"
+
+msgid "Low Bongo"
+msgstr "Low Bongo"
+
+msgid "Low Conga"
+msgstr "Low Conga"
+
+msgid "Low Floor Tom"
+msgstr "Low Floor Tom"
+
+msgid "Low Timbale"
+msgstr "Low Timbale"
+
+msgid "Low Tom"
+msgstr "Low Tom"
+
+msgid "Low Wood Block"
+msgstr "Low Wood Block"
+
+msgid "Low-Mid Tom"
+msgstr "Low-Mid Tom"
+
+msgid "Maracas"
+msgstr "Maracas"
+
+msgid "Marimba"
+msgstr "Marimba"
+
+msgid "Melodic Tom"
+msgstr "Melodic Tom"
+
+msgid "Music Box"
+msgstr "תיבת נגינה "
+
+msgid "Mute Cuica"
+msgstr "Mute Cuica"
+
+msgid "Mute Hi Conga"
+msgstr "Mute Hi Conga"
+
+msgid "Mute Triangle"
+msgstr "Mute Triangle"
+
+msgid "Muted Trumpet"
+msgstr "Muted Trumpet"
+
+msgid "Nylon String Guitar"
+msgstr "גיטרה עם מתרי נילון"
+
+msgid "Oboe"
+msgstr "אבוב (כלי-נגינה)"
+
+msgid "Ocarina"
+msgstr "אוקרינה (כלי נשיפה עממי) "
+
+msgid "Open Cuica"
+msgstr "Open Cuica"
+
+msgid "Open Hi Conga"
+msgstr "Open Hi Conga"
+
+msgid "Open Hi-Hat"
+msgstr "Open Hi-Hat"
+
+msgid "Open Triangle"
+msgstr "Open Triangle"
+
+msgid "Orchestra Hit"
+msgstr "Orchestra Hit"
+
+msgid "Orchestral Strings"
+msgstr "תזמורת כלי מיתר"
+
+msgid "Overdriven Guitar"
+msgstr "גיטרה"
+
+msgid "Pad 1 (new age)"
+msgstr "Pad 1 (new age)"
+
+msgid "Pad 2 (warm)"
+msgstr "Pad 2 (warm)"
+
+msgid "Pad 3 (polysynth)"
+msgstr "Pad 3 (polysynth)"
+
+msgid "Pad 4 (choir)"
+msgstr "Pad 4 (choir)"
+
+msgid "Pad 5 (bowed)"
+msgstr "Pad 5 (bowed)"
+
+msgid "Pad 6 (metallic)"
+msgstr "Pad 6 (metallic)"
+
+msgid "Pad 7 (halo)"
+msgstr "Pad 7 (halo)"
+
+msgid "Pad 8 (sweep)"
+msgstr "Pad 8 (sweep)"
+
+msgid "Pan Flute"
+msgstr "חליל פאן"
+
+msgid "Pedal Hi-Hat"
+msgstr "דוושת היי-הט"
+
+msgid "Percussive Organ"
+msgstr "Percussive Organ"
+
+msgid "Piccolo"
+msgstr "פיקולו"
+
+msgid "Pizzicato Strings"
+msgstr "Pizzicato Strings"
+
+msgid "Recorder"
+msgstr "מקלט"
+
+msgid "Reed Organ"
+msgstr "Reed Organ"
+
+msgid "Reverse Cymbal"
+msgstr "Reverse Cymbal"
+
+msgid "Ride Bell"
+msgstr "Ride Bell"
+
+msgid "Ride Cymbal 1"
+msgstr "Ride Cymbal 1"
+
+msgid "Ride Cymbal 2"
+msgstr "Ride Cymbal 2"
+
+msgid "Rock Organ"
+msgstr "Rock Organ"
+
+msgid "Seashore"
+msgstr "Seashore"
+
+msgid "Shakuhachi"
+msgstr ""
+
+msgid "Shamisen"
+msgstr "Shamisen"
+
+msgid "Shanai"
+msgstr "Shanai"
+
+msgid "Short Guiro"
+msgstr " קצר חשמלי "
+
+msgid "Short Whistle"
+msgstr "Short Whistle"
+
+msgid "Side Stick"
+msgstr "Side Stick"
+
+msgid "Sitar"
+msgstr "סיטאר"
+
+msgid "Slap Bass 1"
+msgstr "Slap Bass 1"
+
+msgid "Slap Bass 2"
+msgstr "Slap Bass 2"
+
+msgid "Soprano Sax"
+msgstr "סקסופון סופרנו"
+
+msgid "Splash Cymbal"
+msgstr "Splash Cymbal"
+
+msgid "Steel Drums"
+msgstr "תוף פלדה"
+
+msgid "Steel String Guitar"
+msgstr "גיטרה אקוסטית"
+
+msgid "String Ensemble 1"
+msgstr "אנסמבל כלי מיתר 1"
+
+msgid "String Ensemble 2"
+msgstr "אנסמבל כלי מיתר 2"
+
+msgid "Synth Bass 1"
+msgstr "סינתיסיזר בס 1"
+
+msgid "Synth Bass 2"
+msgstr "סינתיסיזר בס 2"
+
+msgid "Synth Drum"
+msgstr "סינתיסיזר תופים"
+
+msgid "Synth Voice"
+msgstr "קול סינתיסייזר"
+
+msgid "SynthBrass 1"
+msgstr "SynthBrass 1"
+
+msgid "SynthBrass 2"
+msgstr "SynthBrass 2"
+
+msgid "SynthStrings 1"
+msgstr "סינתיסיזר מיתר 1"
+
+msgid "SynthStrings 2"
+msgstr "סינתיסיזר מיתר 2"
+
+msgid "Taiko Drum"
+msgstr "תופי טיקו"
+
+msgid "Tambourine"
+msgstr "תוף-מרים "
+
+msgid "Tango Accordion"
+msgstr "אקורדיון טנגו"
+
+msgid "Telephone Ring"
+msgstr "צלצול טלפון"
+
+msgid "Tenor Sax"
+msgstr "טנור סקספון"
+
+msgid "Timpani"
+msgstr "תונפנים"
+
+msgid "Tinkle Bell"
+msgstr "צלצול"
+
+msgid "Tremolo Strings"
+msgstr "טרמולו"
+
+msgid "Trombone"
+msgstr "טרומבון"
+
+msgid "Trumpet"
+msgstr "חצוצרה "
+
+msgid "Tuba"
+msgstr "טובה (כלי נשיפה ממתכת)"
+
+msgid "Tubular Bells"
+msgstr "פעמונים"
+
+msgid "Vibraphone"
+msgstr "ויברפון"
+
+msgid "Vibraslap"
+msgstr "מנדולינה"
+
+msgid "Viola"
+msgstr "ויולה "
+
+msgid "Violin"
+msgstr "כינור"
+
+msgid "Voice Oohs"
+msgstr "Voice Oohs"
+
+msgid "Whistle"
+msgstr "לשרוק"
+
+msgid "Woodblock"
+msgstr "גלופת-עץ"
+
+msgid "Xylophone"
+msgstr "קסילופון"
+

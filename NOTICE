@@ -1,0 +1,11 @@
+NOTICE
+
+We have chosen to make the Scratch source code available under an open source license because we support free software. We encourage you to remix the Scratch source code to make your own customized versions of Scratch. We ask two things of everyone who remixes our code:
+
+1. Please don't use the Scratch name, logo, Scratch Cat or Gobo images, which are our trademarks. We think it's important that people can clearly distinguish the official versions of Scratch from modified versions. Many unofficial versions of software that are still called "Scratch" would create a lot of confusion for end-users, something we want to avoid. So if you modify Scratch by making substantial changes like adding new features, be sure to give your software a new name, logo, and icon to clearly differentiate it from official releases of Scratch. However there are certain exemptions if you are adding bugfixes or packaging Scratch for a GNU/Linux distribution. See the TRADEMARK_POLICY file included with the source code for more on this, or the source code page on the Scratch website: http://info.scratch.mit.edu/GPLv2_Licensed_Scratch_Code
+
+2. Don't make it possible to upload projects to the Scratch website with substantially modified versions of Scratch. The Scratch website uses a project player that won't be able to recognize projects that use new features. So if you upload projects, they most likely won't work on our site, and won't look right when downloaded and opened in Scratch. That could be confusing for some Scratch community members. So please make sure you disable the "Sharing" functionality when remixing Scratch (or make sure that projects can only be shared to your own version of the Scratch website). The source of the Scratch website is also released under the GPL, and can be downloaded from http://info.scratch.mit.edu/ScratchR:_The_Online_Community.
+
+Happy remixing!
+Scratch Team
+December 2011

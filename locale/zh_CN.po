@@ -1,0 +1,1923 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Scratch\n"
+"Report-Msgid-Bugs-To: Evelyn Eastmond <evelyn@media.mit.edu>\n"
+"POT-Creation-Date: 2008-01-08\n"
+"PO-Revision-Date: 2009-06-26 06:35-0400\n"
+"Last-Translator: Matt <maths1996@hotmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 1.2.0\n"
+
+############################################
+# FORMATTING
+############################################
+
+# Language name as you'd like it to appear in the Languages menu
+# (Required)
+msgid "Language-Name"
+msgstr "简体中文"
+
+# Directionality of language
+# LTR = Left to Right
+# RTL = Right to Left
+msgid "Language-Direction"
+msgstr "LTR"
+
+# Scale to apply to font size (2 for twice as large)
+# Use this if the font is too small for legibility on the Scratch interface
+msgid "Font-Scale"
+msgstr "1.2"
+
+# Set to 'true' or 'false'
+# Use this if you do not want any of the text to be bolded, for legibility
+msgid "Suppress-Bold"
+msgstr "true"
+
+# Font to use on a Windows system
+msgid "Win-Font"
+msgstr "SimHei"
+
+# Font to use on a Mac system
+msgid "Mac-Font"
+msgstr "LiHei Pro"
+
+# Font to use on a Linux system
+msgid "Linux-Font"
+msgstr "uming"
+
+############################################
+# BLOCKS
+############################################
+
+msgid "%H sensor value"
+msgstr "%H 传感器的值"
+
+msgid "%L contains %s"
+msgstr "%L 包含 %s"
+
+msgid "%a of %m"
+msgstr "%m 的 %a"
+
+msgid "%b and %b"
+msgstr "%b 且 %b"
+
+msgid "%b or %b"
+msgstr "%b 或 %b"
+
+msgid "%f of %n"
+msgstr "%n 的 %f"
+
+msgid "%n mod %n"
+msgstr "%n 除以 %n 的余数"
+
+msgid "add %s to %L"
+msgstr "将 %s 加入链表 %L"
+
+msgid "answer"
+msgstr "回答"
+
+msgid "ask %s and wait"
+msgstr "询问 %s 并等待"
+
+msgid "background #"
+msgstr "背景编号"
+
+msgid "broadcast %e"
+msgstr "广播 %e"
+
+msgid "broadcast %e and wait"
+msgstr "广播 %e 并等待"
+
+msgid "change %g effect by %n"
+msgstr "将 %g 特效增加 %n"
+
+msgid "change %v by %n"
+msgstr "将变量 %v 的值增加 %n"
+
+msgid "change pen color by %n"
+msgstr "将画笔的颜色值增加 %n"
+
+msgid "change pen shade by %n"
+msgstr "将画笔的色度增加 %n"
+
+msgid "change pen size by %n"
+msgstr "将画笔的大小增加 %n"
+
+msgid "change size by %n"
+msgstr "将角色的大小增加 %n"
+
+msgid "change tempo by %n"
+msgstr "将节奏加快 %n"
+
+msgid "change volume by %n"
+msgstr "将音量增加 %n"
+
+msgid "change x by %n"
+msgstr "将x坐标增加 %n"
+
+msgid "change y by %n"
+msgstr "将y坐标增加 %n"
+
+msgid "clear"
+msgstr "清除所有画笔"
+
+msgid "clear graphic effects"
+msgstr "清除所有图形特效"
+
+msgid "color %C is touching %C?"
+msgstr "颜色 %C 碰到了 颜色 %C?"
+
+msgid "control"
+msgstr "控制"
+
+msgid "costume #"
+msgstr "造型编号"
+
+msgid "delete %y of %L"
+msgstr "删除链表%L的第 %y 项"
+
+msgid "direction"
+msgstr "方向"
+
+msgid "distance to %m"
+msgstr "到 %m 的距离"
+
+msgid "else"
+msgstr "否则"
+
+msgid "forever"
+msgstr "重复执行"
+
+msgid "forever if %b"
+msgstr "如果 %b 就重复执行"
+
+msgid "glide %n secs to x:%n y:%n"
+msgstr "在 %n 秒内，平滑移动到 x:%n y:%n"
+
+msgid "go back %n layers"
+msgstr "下移 %n 层"
+
+msgid "go to %m"
+msgstr "移到 %m"
+
+msgid "go to front"
+msgstr "移至最上层"
+
+msgid "go to x:%n y:%n"
+msgstr "移到 x:%n y:%n"
+
+msgid "hide"
+msgstr "隐藏"
+
+msgid "hide variable %v"
+msgstr "隐藏变量 %v"
+
+msgid "if %b"
+msgstr "如果 %b"
+
+msgid "if on edge, bounce"
+msgstr "碰到边缘就反弹"
+
+msgid "insert %s at %i of %L"
+msgstr "将 %s 插入到链表%L的 %i 位置"
+
+msgid "item %i of %L"
+msgstr "链表%L的第%i 项"
+
+msgid "join %s %s"
+msgstr "将 %s 加入到 %s 的后面"
+
+msgid "key %k pressed?"
+msgstr "按键 %k 是否按下？"
+
+msgid "length of %L"
+msgstr "链表 %L 的长度"
+
+msgid "length of %s"
+msgstr "%s 的长度"
+
+msgid "letter %n of %s"
+msgstr "%s 的第 %n 个字符"
+
+msgid "list"
+msgstr "链表"
+
+msgid "looks"
+msgstr "外观"
+
+msgid "loud?"
+msgstr "声音响亮？"
+
+msgid "loudness"
+msgstr "音量值"
+
+msgid "motion"
+msgstr "动作"
+
+msgid "motor direction %W"
+msgstr "马达方向 %W"
+
+msgid "motor off"
+msgstr "关闭马达"
+
+msgid "motor on"
+msgstr "打开马达"
+
+msgid "motor on for %n secs"
+msgstr "打开马达 %n 秒"
+
+msgid "motor power %n"
+msgstr "将马达能量设定为 %n"
+
+msgid "mouse down?"
+msgstr "按下鼠标?"
+
+msgid "mouse x"
+msgstr "鼠标的x坐标"
+
+msgid "mouse y"
+msgstr "鼠标的y坐标"
+
+msgid "move %n steps"
+msgstr "移动 %n 步"
+
+msgid "next background"
+msgstr "下一个背景"
+
+msgid "next costume"
+msgstr "下一个造型"
+
+msgid "not %b"
+msgstr "%b 不成立"
+
+msgid "operators"
+msgstr "数字和逻辑运算"
+
+msgid "pen"
+msgstr "画笔"
+
+msgid "pen down"
+msgstr "落笔"
+
+msgid "pen up"
+msgstr "停笔"
+
+msgid "pick random %n to %n"
+msgstr "在 %n 到 %n 间随机选一个数"
+
+msgid "play drum %D for %n beats"
+msgstr "弹奏鼓声 %D %n 拍"
+
+msgid "play note %N for %n beats"
+msgstr "弹奏音符 %N %n 拍"
+
+msgid "play sound %S"
+msgstr "播放声音 %S"
+
+msgid "play sound %S until done"
+msgstr "播放声音 %S 直到播放完毕"
+
+msgid "point in direction %d"
+msgstr "面向 %d 方向"
+
+msgid "point towards %m"
+msgstr "面向 %m"
+
+msgid "repeat %n"
+msgstr "重复执行 %n 次"
+
+msgid "repeat until %b"
+msgstr "重复执行直到 %b"
+
+msgid "replace item %i of %L with %s"
+msgstr "把链表 %L 的第 %i 项替换为 %s"
+
+msgid "reset timer"
+msgstr "计时器归零"
+
+msgid "rest for %n beats"
+msgstr "停止 %n 拍"
+
+msgid "round %n"
+msgstr "将 %n 四舍五入"
+
+msgid "say %s"
+msgstr "说 %s"
+
+msgid "say %s for %n secs"
+msgstr "说 %s %n 秒"
+
+msgid "sensing"
+msgstr "侦测"
+
+msgid "sensor %h?"
+msgstr "传感器 %h"
+
+msgid "set %g effect to %n"
+msgstr "将 %g 特效设定为 %n"
+
+msgid "set %v to %n"
+msgstr "将变量 %v 的值设定为 %n"
+
+msgid "set instrument to %I"
+msgstr "设定乐器为 %I"
+
+msgid "set pen color to %c"
+msgstr "将画笔的颜色设定为 %c"
+
+msgid "set pen color to %n"
+msgstr "将画笔的颜色值设定为 %n"
+
+msgid "set pen shade to %n"
+msgstr "将画笔的色度设定为 %n"
+
+msgid "set pen size to %n"
+msgstr "将画笔的大小设定为 %n"
+
+msgid "set size to %n%"
+msgstr "将角色的大小设定为 %n"
+
+msgid "set tempo to %n bpm"
+msgstr "将节奏设定为 %n bpm"
+
+msgid "set volume to %n%"
+msgstr "将音量设定为 %n"
+
+msgid "set x to %n"
+msgstr "将x坐标设定为 %n"
+
+msgid "set y to %n"
+msgstr "将y坐标设定为 %n"
+
+msgid "show"
+msgstr "显示"
+
+msgid "show variable %v"
+msgstr "显示变量 %v"
+
+msgid "size"
+msgstr "大小"
+
+msgid "sound"
+msgstr "声音"
+
+msgid "stamp"
+msgstr "图章"
+
+msgid "stop all"
+msgstr "全部停止"
+
+msgid "stop all sounds"
+msgstr "停止所有声音"
+
+msgid "stop script"
+msgstr "停止执行这个脚本"
+
+msgid "switch to background %l"
+msgstr "切换到背景 %l"
+
+msgid "switch to costume %l"
+msgstr "切换到造型 %l"
+
+msgid "tempo"
+msgstr "节奏"
+
+msgid "think %s"
+msgstr "思考 %s"
+
+msgid "think %s for %n secs"
+msgstr "思考 %s %n 秒"
+
+msgid "timer"
+msgstr "计时器"
+
+msgid "touching %m?"
+msgstr "碰到 %m"
+
+msgid "touching color %C?"
+msgstr "碰到颜色 %C"
+
+msgid "turn %n degrees"
+msgstr "旋转 %n 度"
+
+msgid "variables"
+msgstr "变量"
+
+msgid "volume"
+msgstr "音量"
+
+msgid "wait %n secs"
+msgstr "等待 %n 秒"
+
+msgid "wait until %b"
+msgstr "直到 %b 前都等待著"
+
+msgid "when %k key pressed"
+msgstr "当按下 %k"
+
+msgid "when %m clicked"
+msgstr "当 %m 被点击"
+
+msgid "when I receive %e"
+msgstr "当接收到 %e"
+
+msgid "x position"
+msgstr "x座标"
+
+msgid "y position"
+msgstr "y座标"
+
+############################################
+# USER INTERFACE
+############################################
+
+msgid "(empty)"
+msgstr "（空）"
+
+msgid "1 script"
+msgstr "1段脚本"
+
+msgid "About Scratch"
+msgstr "关于Scratch"
+
+msgid "About this project:"
+msgstr "关于这个作品："
+
+msgid "abs"
+msgstr "绝对值"
+
+msgid "add comment"
+msgstr "添加注释"
+
+msgid "add comment here"
+msgstr "在这里添加注释"
+
+msgid "all"
+msgstr "全部"
+
+msgid "and"
+msgstr "和"
+
+msgid "Animation"
+msgstr "动画"
+
+msgid "any"
+msgstr "任意"
+
+msgid "Art"
+msgstr "艺术"
+
+msgid "background"
+msgstr "背景"
+
+msgid "backgrounds"
+msgstr "多个背景"
+
+msgid "Backgrounds"
+msgstr "多个背景"
+
+msgid "brightness"
+msgstr "亮度"
+
+msgid "Brush size: "
+msgstr "笔刷的大小"
+
+msgid "button"
+msgstr "按钮"
+
+msgid "button pressed"
+msgstr "按下按钮"
+
+msgid "Camera"
+msgstr "照相"
+
+msgid "can rotate"
+msgstr "允许旋转"
+
+msgid "cancel"
+msgstr "取消"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "Choose a folder"
+msgstr "选择文件夹"
+
+msgid "Choose new sprite from file"
+msgstr "从文件夹中选择新的角色"
+
+msgid "clean up"
+msgstr "整理"
+
+msgid "Clear"
+msgstr "清除"
+
+msgid "Clear canvas"
+msgstr "清除画布"
+
+msgid "Close and continue"
+msgstr "关闭重新开始"
+
+msgid "Close dialog?"
+msgstr "关闭对话框？"
+
+msgid "Close paint editor?"
+msgstr "关闭绘图编辑器？"
+
+msgid "close port"
+msgstr "关闭端口"
+
+msgid "Close sound recorder?"
+msgstr "关闭录音机？"
+
+msgid "color"
+msgstr "颜色"
+
+msgid "Compress Images"
+msgstr "压缩图像"
+
+msgid "Compress Sounds"
+msgstr "压缩声音"
+
+msgid "Compress sounds and images"
+msgstr "压缩图像及声音"
+
+msgid "Computer"
+msgstr "我的电脑"
+
+msgid "connected"
+msgstr "已连接"
+
+msgid "Connecting to "
+msgstr "正连接到"
+
+msgid "Copy"
+msgstr "复制"
+
+msgid "costume"
+msgstr "造型"
+
+msgid "costumes"
+msgstr "造型"
+
+msgid "Costumes"
+msgstr "造型"
+
+msgid "Could not read"
+msgstr "无法读取"
+
+msgid "Could not read project; file may be damaged"
+msgstr "无法读取作品：文件可能已损坏"
+
+msgid "Could not write file"
+msgstr "无法写入文件"
+
+msgid "Create account"
+msgstr "创建帐号"
+
+msgid "Create an empty project"
+msgstr "创建一个新作品"
+
+msgid "Data sent. Waiting for response..."
+msgstr "资料已送出，等待回应中..."
+
+msgid "delete"
+msgstr "删除"
+
+msgid "Delete"
+msgstr "删除"
+
+msgid "Delete a list"
+msgstr "删除一个链表"
+
+msgid "Delete a variable"
+msgstr "删除变量"
+
+msgid "Delete this background"
+msgstr "删除这个背景"
+
+msgid "Delete this costume"
+msgstr "删除这个造型"
+
+msgid "Delete this sound"
+msgstr "删除这个声音"
+
+msgid "Delete this sprite"
+msgstr "删除这个子画面"
+
+msgid "Desktop"
+msgstr "桌面"
+
+msgid "disable remote sensor connections"
+msgstr "断开传感器连接"
+
+msgid "distance"
+msgstr "距离"
+
+msgid "Documents"
+msgstr "我的文件夹"
+
+msgid "don't rotate"
+msgstr "不允许旋转"
+
+msgid "Don't Save"
+msgstr "不保存"
+
+msgid "Done"
+msgstr "完成"
+
+msgid "down"
+msgstr "下"
+
+msgid "down arrow"
+msgstr "下移键"
+
+msgid "drag to resize"
+msgstr "拖拉改变大小"
+
+msgid "drag to rotate"
+msgstr "拖拉物件旋转"
+
+msgid "draggable on website?"
+msgstr "可以在网站上拖曳?"
+
+msgid "duplicate"
+msgstr "复制"
+
+msgid "Duplicate"
+msgstr "复制"
+
+msgid "edge"
+msgstr "边缘"
+
+msgid "Edit"
+msgstr "编辑"
+
+msgid "Ellipse tool (draw outlined or filled ellipse or circle)"
+msgstr "椭圆工具（可绘制空心或实心的椭圆形）"
+
+msgid "enable remote sensor connections"
+msgstr "允许远程传感器连接"
+
+msgid "Enter presentation mode"
+msgstr "进入演示模式"
+
+msgid "Eraser"
+msgstr "橡皮擦"
+
+msgid "Eraser size"
+msgstr "橡皮擦的大小"
+
+msgid "Error!"
+msgstr "错误！"
+
+msgid "Examples"
+msgstr "例子"
+
+msgid "Exit presentation"
+msgstr "返回"
+
+msgid "Exit presentation mode"
+msgstr "离开演示模式"
+
+msgid "export"
+msgstr "输出"
+
+msgid "Export Background"
+msgstr "输出背景"
+
+msgid "Export Costume"
+msgstr "输出造型"
+
+msgid "Export failed"
+msgstr "输出失败"
+
+msgid "Export Sound"
+msgstr "输出声音"
+
+msgid "Export Sprite"
+msgstr "输出角色"
+
+msgid "export this costume"
+msgstr "输出这个装饰"
+
+msgid "export this sound"
+msgstr "输出这个声音"
+
+msgid "export this sprite"
+msgstr "输出这个角色"
+
+msgid "Extras menu"
+msgstr "额外功能选单"
+
+msgid "Eyedropper tool (select a color)"
+msgstr "色彩选取工具"
+
+msgid "Failed:"
+msgstr "失败："
+
+msgid "false"
+msgstr "不成立"
+
+msgid "File"
+msgstr "文件"
+
+msgid "File not found"
+msgstr "找不到文件"
+
+msgid "Fill tool (fill areas with color or gradient)"
+msgstr "填色工具（用单色或渐变色填满一个区域）"
+
+msgid "first"
+msgstr "第一"
+
+msgid "fisheye"
+msgstr "超广角镜头"
+
+msgid "Flash blocks (fast)"
+msgstr "积木闪动速度（快）"
+
+msgid "Flash blocks (slow)"
+msgstr "积木闪动速度（慢）"
+
+msgid "Flip horizontally"
+msgstr "左右翻转"
+
+msgid "Flip vertically"
+msgstr "上下翻转"
+
+msgid "For all sprites"
+msgstr "适用所有角色"
+
+msgid "For this sprite only"
+msgstr "只适用于这个角色"
+
+msgid "Game"
+msgstr "游戏"
+
+msgid "Get surprise sprite"
+msgstr "来个令人惊喜的角色吧"
+
+msgid "Get the last thing deleted"
+msgstr "撤销最近的一次删除操作"
+
+msgid "Getting Started"
+msgstr "开始"
+
+msgid "ghost"
+msgstr "虚像"
+
+msgid "Go To Scratch Website"
+msgstr "去Scratch网站"
+
+msgid "grab screen region for new costume"
+msgstr "截取部分屏幕区域成为新造型"
+
+msgid "grab screen region for new sprite"
+msgstr "截取部分屏幕区域成为新角色"
+
+msgid "Grow"
+msgstr "放大"
+
+msgid "Grow sprite"
+msgstr "放大角色"
+
+msgid "hello "
+msgstr "你好_"
+
+msgid "Hello!"
+msgstr "你好！"
+
+msgid "help"
+msgstr "帮助"
+
+msgid "Help"
+msgstr "帮助"
+
+msgid "Help Page"
+msgstr "帮助页面"
+
+msgid "Help Screens"
+msgstr "帮助界面"
+
+msgid "Hide Motor Blocks"
+msgstr "隐藏马达模块"
+
+msgid "High (biggest)"
+msgstr "最高"
+
+msgid "Hmm..."
+msgstr "嗯..."
+
+msgid "Home"
+msgstr "主目录"
+
+msgid "Images compressed"
+msgstr "图像已压缩"
+
+msgid "import"
+msgstr "导入"
+
+msgid "Import"
+msgstr "导入"
+
+msgid "Import an image on top of your current canvas"
+msgstr "在现有的画布上导入图像"
+
+msgid "Import Background"
+msgstr "导入背景"
+
+msgid "Import Costume"
+msgstr "导入造型"
+
+msgid "Import Image"
+msgstr "导入图像"
+
+msgid "Import List"
+msgstr "导入链表"
+
+msgid "Import Project"
+msgstr "导入作品"
+
+msgid "import project"
+msgstr "导入作品"
+
+msgid "Import Sound"
+msgstr "导入声音"
+
+msgid "Incompatible Scratch file format"
+msgstr "不兼容的文件格式"
+
+msgid "Is the folder read-only?"
+msgstr "这个文件夹是只读的吗？"
+
+msgid "JPEG Quality (10-100)?"
+msgstr "JPEG压缩品质（10-100）"
+
+msgid "kbytes"
+msgstr "千字节"
+
+msgid "Language"
+msgstr "语言"
+
+msgid "large readout"
+msgstr "大型读出器"
+
+msgid "last"
+msgstr "末尾"
+
+msgid "left"
+msgstr "左"
+
+msgid "left arrow"
+msgstr "左移键"
+
+msgid "length"
+msgstr "长度"
+
+msgid "light"
+msgstr "光线"
+
+msgid "Line tool (draw lines)"
+msgstr "线条工具（绘制线条）"
+
+msgid "List name?"
+msgstr "链表名称？"
+
+msgid "Low"
+msgstr "低"
+
+msgid "Lowest (smallest)"
+msgstr "最低（最小）"
+
+msgid "Make a list"
+msgstr "新建一个链表"
+
+msgid "Make a variable"
+msgstr "新建一个变量"
+
+msgid "Max:"
+msgstr "最大值："
+
+msgid "meow"
+msgstr "喵"
+
+msgid "Message name:"
+msgstr "消息名称："
+
+msgid "Min:"
+msgstr "最小值："
+
+msgid "mod"
+msgstr "取余数"
+
+msgid "more"
+msgstr "更多"
+
+msgid "More tags:"
+msgstr "其它标签："
+
+msgid "mosaic"
+msgstr "马赛克"
+
+msgid "mouse x:"
+msgstr "鼠标的x坐标"
+
+msgid "mouse y:"
+msgstr "鼠标的y坐标"
+
+msgid "mouse-pointer"
+msgstr "鼠标指针"
+
+msgid "Move"
+msgstr "移动"
+
+msgid "Music"
+msgstr "音乐"
+
+msgid "My Projects"
+msgstr "我的文件"
+
+msgid "new"
+msgstr "新建"
+
+msgid "New"
+msgstr "新建"
+
+msgid "New background:"
+msgstr "新增背景"
+
+msgid "New costume:"
+msgstr "新增造型"
+
+msgid "New file name?"
+msgstr ""
+
+msgid "New Filename:"
+msgstr "新文件名"
+
+msgid "New sound:"
+msgstr "新增声音"
+
+msgid "New Sprite"
+msgstr "新增角色"
+
+msgid "New sprite:"
+msgstr "新增角色"
+
+msgid "No"
+msgstr "无"
+
+msgid "No MIDI ports currently available."
+msgstr "找不到可用的MIDI接口"
+
+msgid "No motion blocks"
+msgstr "无动作积木"
+
+msgid "no scripts"
+msgstr "没有角色"
+
+msgid "No serial ports found"
+msgstr "找不到序列接口"
+
+msgid "No variables."
+msgstr "无变量"
+
+msgid "Normal"
+msgstr "一般"
+
+msgid "normal readout"
+msgstr "一般读出器"
+
+msgid "Off"
+msgstr "关"
+
+msgid "OK"
+msgstr "确定"
+
+msgid "On"
+msgstr "开"
+
+msgid "only face left-right"
+msgstr "只允许左、右翻转"
+
+msgid "Open"
+msgstr "打开"
+
+msgid "Open a Scratch project"
+msgstr "打开一个Scratch作品"
+
+msgid "Open Project"
+msgstr "打开作品"
+
+msgid "or"
+msgstr "或"
+
+msgid "Paint"
+msgstr "绘图"
+
+msgid "Paint Editor"
+msgstr "绘图编辑器"
+
+msgid "Paint new sprite"
+msgstr "绘制新角色"
+
+msgid "Paintbrush"
+msgstr "笔刷工具"
+
+msgid "Password:"
+msgstr "密码:"
+
+msgid "Percent? (100 gives original size)"
+msgstr "百分比？（100代表原始大小）"
+
+msgid "Pictures"
+msgstr "图片"
+
+msgid "pixelate"
+msgstr "像素滤镜"
+
+msgid "play"
+msgstr "播放"
+
+msgid "Please enter a number"
+msgstr "请输入一个数值"
+
+msgid "pop"
+msgstr "pop音效"
+
+msgid "Position the cross-hair to set the rotation center"
+msgstr "移动十字标来设定旋转中心"
+
+msgid "Preparing project..."
+msgstr "作品准备中..."
+
+msgid "Project author:"
+msgstr "作者："
+
+msgid "Project name"
+msgstr "作品名称"
+
+msgid "Project Notes"
+msgstr "作品注解"
+
+msgid "Project notes"
+msgstr "作品注解"
+
+msgid "Project uploaded."
+msgstr "作品已上传"
+
+msgid "Projects"
+msgstr "作品"
+
+msgid "Quit"
+msgstr "退出"
+
+msgid "Quit Scratch"
+msgstr "退出Scratch"
+
+msgid "Reading"
+msgstr "正在读数"
+
+msgid "record"
+msgstr "录音"
+
+msgid "Record"
+msgstr "录音"
+
+msgid "recording"
+msgstr "录音中"
+
+msgid "Rectangle tool (draw outlined or filled rectangle or square)"
+msgstr "方形工具（绘制空心或实心方形）"
+
+msgid "Redo"
+msgstr "重做"
+
+msgid "Reference Guide"
+msgstr "参考指导"
+
+msgid "Remote sensor connections enabled"
+msgstr "连接上传感器"
+
+msgid "Remove viewer from stage"
+msgstr "不显示在舞台上"
+
+msgid "resistance"
+msgstr "阻力"
+
+msgid "resize this sprite"
+msgstr "调整角色大小"
+
+msgid "reverse"
+msgstr "反转"
+
+msgid "right"
+msgstr "右"
+
+msgid "right arrow"
+msgstr "右移键"
+
+msgid "Rotate clock-wise"
+msgstr "顺时针旋转"
+
+msgid "Rotate counter-clock-wise"
+msgstr "逆时针旋转"
+
+msgid "rotate this sprite"
+msgstr "转动这个角色"
+
+msgid "Rotation degrees?"
+msgstr "旋转角度"
+
+msgid "Save"
+msgstr "存档"
+
+msgid "Save a copy of the current project"
+msgstr "将这个作品另存一个副本"
+
+msgid "Save As"
+msgstr "另存为"
+
+msgid "Save changes before quitting?"
+msgstr "退出前保存更改吗？"
+
+msgid "Save failed"
+msgstr "保存失败"
+
+msgid "save picture of scripts"
+msgstr "将脚本存成图片"
+
+msgid "save picture of stage..."
+msgstr "将舞台存成图片"
+
+msgid "Save Project"
+msgstr "保存作品"
+
+msgid "Save Scripts Snapshot"
+msgstr "保存脚本的快照"
+
+msgid "Save Stage Shot"
+msgstr "保存舞台的照片"
+
+msgid "Save the current project"
+msgstr "保存这个作品"
+
+msgid "Save the current project?"
+msgstr "保存这个作品?"
+
+msgid "Save this project"
+msgstr "保存作品"
+
+msgid "Scripts"
+msgstr "脚本"
+
+msgid "select serial/USB port"
+msgstr "选择序列号或USB接口"
+
+msgid "Select tool (move, modify, or delete selection)"
+msgstr "选择工具（移动、修改或删除）"
+
+msgid "Set costume center"
+msgstr "设定旋转范围"
+
+msgid "Set language"
+msgstr "设定语言"
+
+msgid "Set rotation center"
+msgstr "设定旋转中心"
+
+msgid "Set Single Stepping"
+msgstr "设定单步执行程式"
+
+msgid "set slider min and max"
+msgstr "设定滑杆的最小值与最大值"
+
+msgid "Share"
+msgstr "分享"
+
+msgid "Share this project"
+msgstr "分享这个作品"
+
+msgid "Share This Project Online"
+msgstr "将此作品在网络上分享"
+
+msgid "Show Motor Blocks"
+msgstr "显示马达模块"
+
+msgid "show ScratchBoard watcher"
+msgstr "显示ScratchBoard监视器"
+
+msgid "Shrink"
+msgstr "缩小"
+
+msgid "Shrink sprite"
+msgstr "缩小角色"
+
+msgid "Simulation"
+msgstr "模拟"
+
+msgid "Single-step speed?"
+msgstr "单步执行模式的执行速度"
+
+msgid "slider"
+msgstr "滑杆"
+
+msgid "Slider range:"
+msgstr "滑杆的范围："
+
+msgid "Sound quality:"
+msgstr "音质"
+
+msgid "Sound Recorder"
+msgstr "录音机"
+
+msgid "Sounds"
+msgstr "声音"
+
+msgid "Sounds compressed"
+msgstr "声音已压缩"
+
+msgid "space"
+msgstr "空格键"
+
+msgid "Sprite"
+msgstr "角色"
+
+msgid "Sprites"
+msgstr "角色"
+
+msgid "sqrt"
+msgstr "平方根"
+
+msgid "Stage"
+msgstr "舞台"
+
+msgid "Stage selected:"
+msgstr "选择的舞台"
+
+msgid "Stamp tool (select area, then stamp copies of it)"
+msgstr "图章工具（将选择的范围当成图章使用）"
+
+msgid "Start green flag scripts"
+msgstr "开始执行绿旗控制的脚本"
+
+msgid "Start Single Stepping"
+msgstr "开始单步执行"
+
+msgid "stop"
+msgstr "停止"
+
+msgid "Stop everything"
+msgstr "全部停止"
+
+msgid "Stop Single Stepping"
+msgstr "停止单步执行"
+
+msgid "Story"
+msgstr "故事"
+
+#, fuzzy
+msgid "Support Site"
+msgstr "支持网站"
+
+msgid "Switch colors"
+msgstr "交换颜色"
+
+msgid "Switch to full stage"
+msgstr "转换成完整舞台"
+
+msgid "Switch to presentation mode"
+msgstr "转换成演示模式"
+
+msgid "Switch to small stage"
+msgstr "转换成小舞台"
+
+msgid "Tags:"
+msgstr "标签："
+
+msgid "Text tool (edit text layer)"
+msgstr "文字输入工具"
+
+msgid "That variable name is already in use"
+msgstr "变量名称已被使用"
+
+msgid "that way"
+msgstr "逆时针"
+
+msgid "The file name already exists. Overwrite existing file?"
+msgstr "文件名已经存在。覆盖已存在的文件？"
+
+#, fuzzy
+msgid "thing"
+msgstr "东西"
+
+msgid "this way"
+msgstr "顺时针"
+
+msgid "tilt"
+msgstr "倾斜"
+
+msgid "true"
+msgstr "成立"
+
+msgid "Turbo speed"
+msgstr "超速模式"
+
+msgid "turn into new sprite"
+msgstr "转换成新角色"
+
+msgid "Undelete"
+msgstr "恢复"
+
+msgid "Undo"
+msgstr "撤销"
+
+msgid "up"
+msgstr "上"
+
+msgid "up arrow"
+msgstr "上移键"
+
+msgid "Updating thumbnails"
+msgstr "正在更新缩略图"
+
+msgid "Upload succeeded!"
+msgstr "上传成功"
+
+msgid "Upload to Scratch Server"
+msgstr "上传至Scratch服务器"
+
+msgid "Uploading"
+msgstr "上传中"
+
+msgid "Variable name?"
+msgstr "变量名称?"
+
+msgid "View on stage"
+msgstr "舞台上的视图"
+
+msgid "What's your name?"
+msgstr "你的名字？"
+
+msgid "whirl"
+msgstr "旋转"
+
+msgid "world"
+msgstr "世界"
+
+msgid "Write Multiple Project Summaries"
+msgstr "撰写多个作品的摘要"
+
+msgid "Write Project Summary"
+msgstr "撰写作品摘要"
+
+msgid "Yes"
+msgstr "是的"
+
+msgid "Your project is now online at"
+msgstr "你的作品在网上的地址为"
+
+msgid "Your Scratch website login name:"
+msgstr "你的Scratch网站帐号："
+
+msgid "Zoom in"
+msgstr "放大"
+
+msgid "Zoom out"
+msgstr "缩小"
+
+############################################
+# MIDI INSTRUMENTS
+############################################
+
+msgid "Accordion"
+msgstr "手风琴"
+
+msgid "Acoustic Bass"
+msgstr "原音贝斯"
+
+msgid "Acoustic Bass Drum"
+msgstr "低音合成鼓"
+
+msgid "Acoustic Grand"
+msgstr "钢琴 "
+
+msgid "Acoustic Snare"
+msgstr "合成蛇鼓"
+
+msgid "Agogo"
+msgstr "阿果果"
+
+msgid "Alto Sax"
+msgstr "中音萨克斯"
+
+msgid "Applause"
+msgstr "掌声"
+
+msgid "Bagpipe"
+msgstr "风笛"
+
+msgid "Banjo"
+msgstr "班卓琴"
+
+msgid "Baritone Sax"
+msgstr "上低音萨克斯"
+
+msgid "Bass Drum 1"
+msgstr "低音鼓1"
+
+msgid "Bassoon"
+msgstr "低音管"
+
+msgid "Bird Tweet"
+msgstr "鸟鸣"
+
+msgid "Blown Bottle"
+msgstr "吹瓶声"
+
+msgid "Brass Section"
+msgstr "铜管合奏"
+
+msgid "Breath Noise"
+msgstr "呼吸声"
+
+msgid "Bright Acoustic"
+msgstr "亮音钢琴"
+
+msgid "Cabasa"
+msgstr "抓筒"
+
+msgid "Celesta"
+msgstr "钢片琴"
+
+msgid "Cello"
+msgstr "大提琴 "
+
+msgid "Chinese Cymbal"
+msgstr "中国铜钹"
+
+msgid "Choir Aahs"
+msgstr "唱诗歌(啊)"
+
+msgid "Church Organ"
+msgstr "教堂风琴"
+
+msgid "Clarinet"
+msgstr "单簧管"
+
+msgid "Claves"
+msgstr "古钢琴"
+
+msgid "Clavinet"
+msgstr "响棒"
+
+msgid "Closed Hi-Hat"
+msgstr "闭合双面拔"
+
+msgid "Contrabass"
+msgstr "低音提琴"
+
+msgid "Cowbell"
+msgstr "牛铃"
+
+msgid "Crash Cymbal 1"
+msgstr "铜钹1"
+
+msgid "Crash Cymbal 2"
+msgstr "铜钹2"
+
+msgid "Distortion Guitar"
+msgstr "电吉他(变音)"
+
+msgid "Drawbar Organ"
+msgstr "电风琴"
+
+msgid "Dulcimer"
+msgstr "大扬琴"
+
+msgid "Electric Bass (finger)"
+msgstr "电贝斯吉他（指拨式）"
+
+msgid "Electric Bass (pick)"
+msgstr "电贝斯吉他（拨片式）"
+
+msgid "Electric Clean Guitar"
+msgstr "电吉他（干净音）"
+
+msgid "Electric Grand"
+msgstr "电平台钢琴"
+
+msgid "Electric Jazz Guitar"
+msgstr "电吉他（爵士）"
+
+msgid "Electric Muted Guitar"
+msgstr "电吉他（闷音）"
+
+msgid "Electric Piano 1"
+msgstr "电钢琴1"
+
+msgid "Electric Piano 2"
+msgstr "电钢琴2"
+
+msgid "Electric Snare"
+msgstr "电子小鼓"
+
+msgid "English Horn"
+msgstr "英国管"
+
+msgid "FX 1 (rain)"
+msgstr "特效1（雨声）"
+
+msgid "FX 2 (soundtrack)"
+msgstr "特校2（电影音效）"
+
+msgid "FX 3 (crystal)"
+msgstr "特效3（水晶）"
+
+msgid "FX 4 (atmosphere)"
+msgstr "特效4（大气）"
+
+msgid "FX 5 (brightness)"
+msgstr "特效5（明亮）"
+
+msgid "FX 6 (goblins)"
+msgstr "特效6（小妖）"
+
+msgid "FX 7 (echoes)"
+msgstr "特效7（回声）"
+
+msgid "FX 8 (sci-fi)"
+msgstr "特效8（合成科幻）"
+
+msgid "Fiddle"
+msgstr "古提琴"
+
+msgid "Flute"
+msgstr "长笛"
+
+msgid "French Horn"
+msgstr "法国号"
+
+msgid "Fretless Bass"
+msgstr "无格贝斯"
+
+msgid "Glockenspiel"
+msgstr "铁琴"
+
+msgid "Guitar Fret Noise"
+msgstr "吉他磨弦声"
+
+msgid "Guitar Harmonics"
+msgstr "合音吉他"
+
+msgid "Gunshot"
+msgstr "枪声"
+
+msgid "Hand Clap"
+msgstr "拍掌"
+
+msgid "Harmonica"
+msgstr "口琴"
+
+msgid "Harpsichord"
+msgstr "大键琴"
+
+msgid "Helicopter"
+msgstr "直升机"
+
+msgid "Hi Bongo"
+msgstr "南美小鼓-高音"
+
+msgid "Hi Wood Block"
+msgstr "高音木鱼"
+
+msgid "Hi-Mid Tom"
+msgstr "中音鼓-中高音"
+
+msgid "High Agogo"
+msgstr "高音阿哥哥鼓"
+
+msgid "High Floor Tom"
+msgstr "落地中音鼓-高音"
+
+msgid "High Timbale"
+msgstr "定音鼓-高音"
+
+msgid "High Tom"
+msgstr "高音鼓"
+
+msgid "Honky-Tonk"
+msgstr "美国西钢琴"
+
+msgid "Kalimba"
+msgstr "非洲拇指琴"
+
+msgid "Koto"
+msgstr "十叁弦古筝"
+
+msgid "Lead 1 (square)"
+msgstr "合成主音1（方波）"
+
+msgid "Lead 2 (sawtooth)"
+msgstr "合成主音2（锯齿波）"
+
+msgid "Lead 3 (calliope)"
+msgstr "合成主音3（诗歌）"
+
+msgid "Lead 4 (chiff)"
+msgstr "合成主音4（合成吹管）"
+
+msgid "Lead 5 (charang)"
+msgstr "合成主音5（合成电吉他）"
+
+msgid "Lead 6 (voice)"
+msgstr "合成主音6（人声键盘）"
+
+msgid "Lead 7 (fifths)"
+msgstr "合成主音7（五度音）"
+
+msgid "Lead 8 (bass+lead)"
+msgstr "合成主音8（低音+主音）"
+
+msgid "Long Guiro"
+msgstr "长梗笛"
+
+msgid "Long Whistle"
+msgstr "长口哨"
+
+msgid "Low Agogo"
+msgstr "低音阿哥哥"
+
+msgid "Low Bongo"
+msgstr "南美小鼓-低音"
+
+msgid "Low Conga"
+msgstr "康加鼓-低音"
+
+msgid "Low Floor Tom"
+msgstr "落地中音鼓-低音"
+
+msgid "Low Timbale"
+msgstr "定音鼓-低音"
+
+msgid "Low Tom"
+msgstr "中音鼓-低音"
+
+msgid "Low Wood Block"
+msgstr "低音木鱼"
+
+msgid "Low-Mid Tom"
+msgstr "中音鼓-中低音"
+
+msgid "Maracas"
+msgstr "响葫芦"
+
+msgid "Marimba"
+msgstr "立奏木琴"
+
+msgid "Melodic Tom"
+msgstr "古式高音鼓"
+
+msgid "Music Box"
+msgstr "音乐盒"
+
+msgid "Mute Cuica"
+msgstr "库加鼓-闷音"
+
+msgid "Mute Hi Conga"
+msgstr "康加鼓-闷音"
+
+msgid "Mute Triangle"
+msgstr "叁角铁-闷音"
+
+msgid "Muted Trumpet"
+msgstr "闷音小号"
+
+msgid "Nylon String Guitar"
+msgstr "古典吉他"
+
+msgid "Oboe"
+msgstr "双簧管"
+
+msgid "Ocarina"
+msgstr "陶笛"
+
+msgid "Open Cuica"
+msgstr "库加鼓-开音"
+
+msgid "Open Hi Conga"
+msgstr "康加鼓-开高音"
+
+msgid "Open Hi-Hat"
+msgstr "开放双面钹"
+
+msgid "Open Triangle"
+msgstr "叁角铁-开音"
+
+msgid "Orchestra Hit"
+msgstr "管弦合奏"
+
+msgid "Orchestral Strings"
+msgstr "交响弦乐"
+
+msgid "Overdriven Guitar"
+msgstr "电吉他(浊音)"
+
+msgid "Pad 1 (new age)"
+msgstr "合成音色1（新世纪）"
+
+msgid "Pad 2 (warm)"
+msgstr "合成音色2（温暖）"
+
+msgid "Pad 3 (polysynth)"
+msgstr "合成音色3（多重合音）"
+
+msgid "Pad 4 (choir)"
+msgstr "合成音色4（人声合唱）"
+
+msgid "Pad 5 (bowed)"
+msgstr "合成音色5（玻璃）"
+
+msgid "Pad 6 (metallic)"
+msgstr "合成音色6（金属）"
+
+msgid "Pad 7 (halo)"
+msgstr "合成音色7（光华）"
+
+msgid "Pad 8 (sweep)"
+msgstr "合成音色8（扫掠）"
+
+msgid "Pan Flute"
+msgstr "排笛"
+
+msgid "Pedal Hi-Hat"
+msgstr "踏板双面钹"
+
+msgid "Percussive Organ"
+msgstr "敲击风琴"
+
+msgid "Piccolo"
+msgstr "短笛"
+
+msgid "Pizzicato Strings"
+msgstr "弦乐拨奏"
+
+msgid "Recorder"
+msgstr "木笛"
+
+msgid "Reed Organ"
+msgstr "簧片风琴"
+
+msgid "Reverse Cymbal"
+msgstr "音钹"
+
+msgid "Ride Bell"
+msgstr "悬掛钟"
+
+msgid "Ride Cymbal 1"
+msgstr "高架钹1"
+
+msgid "Ride Cymbal 2"
+msgstr "高架钹2"
+
+msgid "Rock Organ"
+msgstr "摇滚风琴"
+
+msgid "Seashore"
+msgstr "海浪声"
+
+msgid "Shakuhachi"
+msgstr "尺八箫"
+
+msgid "Shamisen"
+msgstr "叁味线"
+
+msgid "Shanai"
+msgstr "唢呐"
+
+msgid "Short Guiro"
+msgstr "短梗笛"
+
+msgid "Short Whistle"
+msgstr "短口哨"
+
+msgid "Side Stick"
+msgstr "鼓边敲击"
+
+msgid "Sitar"
+msgstr "西塔琴"
+
+msgid "Slap Bass 1"
+msgstr "重贝斯1"
+
+msgid "Slap Bass 2"
+msgstr "重贝斯2"
+
+msgid "Soprano Sax"
+msgstr "高音萨克斯"
+
+msgid "Splash Cymbal"
+msgstr "溅开钹声"
+
+msgid "Steel Drums"
+msgstr "钢鼓"
+
+msgid "Steel String Guitar"
+msgstr "民谣吉他"
+
+msgid "String Ensemble 1"
+msgstr "弦乐合奏-1"
+
+msgid "String Ensemble 2"
+msgstr "弦乐合奏-2"
+
+msgid "Synth Bass 1"
+msgstr "电子合成贝斯-1"
+
+msgid "Synth Bass 2"
+msgstr "电子合成贝斯-2"
+
+msgid "Synth Drum"
+msgstr "电子合成鼓"
+
+msgid "Synth Voice"
+msgstr "合成人声"
+
+msgid "SynthBrass 1"
+msgstr "合成铜管1"
+
+msgid "SynthBrass 2"
+msgstr "合成铜管2"
+
+msgid "SynthStrings 1"
+msgstr "合成弦乐-1"
+
+msgid "SynthStrings 2"
+msgstr "合成弦乐-2"
+
+msgid "Taiko Drum"
+msgstr "太鼓"
+
+msgid "Tambourine"
+msgstr "铃鼓"
+
+msgid "Tango Accordion"
+msgstr "探戈手风琴"
+
+msgid "Telephone Ring"
+msgstr "电话铃声"
+
+msgid "Tenor Sax"
+msgstr "次中音萨克斯"
+
+msgid "Timpani"
+msgstr "定音鼓"
+
+msgid "Tinkle Bell"
+msgstr "叮噹声"
+
+msgid "Tremolo Strings"
+msgstr "弦乐颤音"
+
+msgid "Trombone"
+msgstr "长号"
+
+msgid "Trumpet"
+msgstr "小号"
+
+msgid "Tuba"
+msgstr "低音号"
+
+msgid "Tubular Bells"
+msgstr "管钟"
+
+msgid "Vibraphone"
+msgstr "抖音琴"
+
+msgid "Vibraslap"
+msgstr "颤击"
+
+msgid "Viola"
+msgstr "中提琴"
+
+msgid "Violin"
+msgstr "小提琴"
+
+msgid "Voice Oohs"
+msgstr "唱诗歌(喔)"
+
+msgid "Whistle"
+msgstr "口哨声"
+
+msgid "Woodblock"
+msgstr "木鱼"
+
+msgid "Xylophone"
+msgstr "木琴"
+

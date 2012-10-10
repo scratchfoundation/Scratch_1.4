@@ -1,0 +1,5 @@
+Scratch 1.4 is licensed under the GPL v2. See the included gpl-2.0.txt.  Under GPLv2 section 2 (and under section 5 of GPLv3 if you elect to use GPLv3 for a modified version), all modified versions of Scratch must be appropriately so designated.  Modified source code files must be prominently marked as modified, including date of modification. All such information should also be placed in the dialog box that appears when the "Help > About" menu is selected during execution of the modified program.
+
+The Scratch squeak plugins, in /src/plugins, are Licensed under the MIT License. See the source code header files.
+
+Scratch Support materials (/Help), sample Media files (/Media), and sample projects (/Projects), are licensed under the Creative Commons Attribution-ShareAlike 3.0 Generic (CC BY-SA 3.0) license. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.

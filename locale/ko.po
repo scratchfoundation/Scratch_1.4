@@ -1,0 +1,2070 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2009-06-24 10:34-0400\n"
+"Last-Translator: WonYoung.Chang <won0c@naver.com>\n"
+"Language-Team: \n"
+"Language: ko\n"
+"MIME-Version: \n"
+"Content-Type: \n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 1.2.0\n"
+
+############################################
+# FORMATTING
+############################################
+
+# Language name as you'd like it to appear in the Languages menu
+# (Required)
+msgid "Language-Name"
+msgstr "한국어"
+
+# Directionality of language
+# LTR = Left to Right
+# RTL = Right to Left
+msgid "Language-Direction"
+msgstr "LTR"
+
+# Scale to apply to font size (2 for twice as large)
+# Use this if the font is too small for legibility on the Scratch interface
+msgid "Font-Scale"
+msgstr "1.1"
+
+# Set to 'true' or 'false'
+# Use this if you do not want any of the text to be bolded, for legibility
+msgid "Suppress-Bold"
+msgstr ""
+
+# Font to use on a Windows system
+msgid "Win-Font"
+msgstr "Gulim"
+
+# Font to use on a Mac system
+msgid "Mac-Font"
+msgstr "Gothic"
+
+# Font to use on a Linux system
+msgid "Linux-Font"
+msgstr ""
+
+############################################
+# BLOCKS
+############################################
+
+msgid "%H sensor value"
+msgstr "%H센서값"
+
+# won0c@naver.com 이 수정(09.06.23)
+msgid "%L contains %s"
+msgstr "%L 에 %s 포함?"
+
+msgid "%a of %m"
+msgstr "%m 의 %a"
+
+msgid "%b and %b"
+msgstr "%b 그리고 %b"
+
+msgid "%b or %b"
+msgstr "%b 또는 %b"
+
+msgid "%f of %n"
+msgstr "%n 의 %f"
+
+msgid "%n mod %n"
+msgstr "%n 나누기 %n 의 나머지"
+
+msgid "add %s to %L"
+msgstr "%L에 %s 추가하기"
+
+# 정보창의교육연구소에서 수정(09.05.31)
+msgid "answer"
+msgstr "대답"
+
+# 정보창의교육연구소에서 수정(09.05.31)
+msgid "ask %s and wait"
+msgstr "%s을(를) 묻고 기다리기"
+
+msgid "background #"
+msgstr "배경 #"
+
+# won0c@naver.com 이 수정(09.06.23)<br />
+# 모든 스프라이트에게 동일한 메시지를 전달하는 것이므로 "방송하기"가 더 직관적임
+msgid "broadcast %e"
+msgstr "%e 방송하기"
+
+# won0c@naver.com 이 수정(09.06.23)
+# 모든 스프라이트에게 동일한 메시지를 전달하는 것이므로 "방송하기"가 더 직관적임
+msgid "broadcast %e and wait"
+msgstr "%e 방송하고 기다리기"
+
+msgid "change %g effect by %n"
+msgstr "%g 효과 %n 만큼 바꾸기"
+
+# won0c@naver.com 이 수정(09.06.23)
+# "변경하기"로 번역하면 다소 오해의 소지가 있을 수 있음. "누적하기"가 직관적임
+msgid "change %v by %n"
+msgstr "%v 에 %n 씩 누적하기"
+
+msgid "change pen color by %n"
+msgstr "펜의 색 %n 만큼 바꾸기"
+
+msgid "change pen shade by %n"
+msgstr "펜의 그림자 %n 만큼 바꾸기"
+
+msgid "change pen size by %n"
+msgstr "펜의 크기 %n 만큼 바꾸기"
+
+msgid "change size by %n"
+msgstr "크기 %n 만큼 바꾸기"
+
+msgid "change tempo by %n"
+msgstr "템포 %n 만큼 바꾸기"
+
+msgid "change volume by %n"
+msgstr "음량 %n 만큼 바꾸기"
+
+msgid "change x by %n"
+msgstr "x좌표 %n 만큼 바꾸기"
+
+msgid "change y by %n"
+msgstr "y좌표 %n 만큼 바꾸기"
+
+msgid "clear"
+msgstr "지우기"
+
+msgid "clear graphic effects"
+msgstr "그래픽 효과 지우기"
+
+msgid "color %C is touching %C?"
+msgstr "%C 색이 %C 색에 닿기?"
+
+msgid "control"
+msgstr "제어"
+
+# won0c@naver.com 이 수정(09.06.23)<br />
+# costume을 "그림"으로 번역하면 다소 명확하지 않을 수 있음. Costume이란 스프라이트의 다양한 모양을 나타내므로, "모양"이 직관적임
+msgid "costume #"
+msgstr "모양 #"
+
+# won0c@naver.com 이 수정(09.06.23)
+msgid "delete %y of %L"
+msgstr "%L 에서 %y 위치의 아이템 삭제하기"
+
+msgid "direction"
+msgstr "방향"
+
+msgid "distance to %m"
+msgstr "%m 까지 거리"
+
+msgid "else"
+msgstr "아니면"
+
+# won0c@naver.com 이 수정(09.06.23)
+msgid "forever"
+msgstr "무한 반복"
+
+# won0c@naver.com 이 수정(09.06.23)<br />
+# "forever if"는 조건이 참인 동안 반복하되, 조건이 거짓인 경우에도 조건이 참이 되는지 무한히 확인하므로, 이에 대한 직관적인 번역이 필요함
+msgid "forever if %b"
+msgstr "반복 %b 계속 확인"
+
+msgid "glide %n secs to x:%n y:%n"
+msgstr "%n 초 동안 x:%n, y:%n 쪽으로 움직이기"
+
+# won0c@naver.com 이 수정(09.06.23)
+msgid "go back %n layers"
+msgstr "%n 번째로 물러나기"
+
+# won0c@naver.com 이 수정(09.06.23)
+msgid "go to %m"
+msgstr "%m 위치로 가기"
+
+# won0c@naver.com 이 수정(09.06.23)
+msgid "go to front"
+msgstr "맨 앞으로 나오기"
+
+msgid "go to x:%n y:%n"
+msgstr "x:%n, y:%n 쪽으로 가기"
+
+msgid "hide"
+msgstr "숨기기"
+
+msgid "hide variable %v"
+msgstr "변수 %v 숨기기"
+
+msgid "if %b"
+msgstr "만약 %b 라면"
+
+msgid "if on edge, bounce"
+msgstr "벽에 닿으면 튕기기"
+
+# won0c@naver.com 이 수정(09.06.23)
+msgid "insert %s at %i of %L"
+msgstr "%L 의 %i 위치에 %s 넣기"
+
+# won0c@naver.com 이 수정(09.06.23)
+msgid "item %i of %L"
+msgstr "%L %i 위치의 아이템"
+
+msgid "join %s %s"
+msgstr "%s %s 결합하기"
+
+msgid "key %k pressed?"
+msgstr "%k 키 클릭하기?"
+
+# won0c@naver.com 이 수정(09.06.23)
+msgid "length of %L"
+msgstr "%L 의 크기"
+
+# 정보창의교육연구소에서 수정(09.05.31)
+# 
+msgid "length of %s"
+msgstr "%s 의 길이"
+
+# 1.4에서 확인 필요.&lt;span class="translation-space"&gt; &lt;/span&gt;
+# 
+# 정보창의교육연구소에서 수정(09.05.31)
+# 
+msgid "letter %n of %s"
+msgstr "%s의 %n 번째 글자"
+
+msgid "list"
+msgstr "리스트"
+
+msgid "looks"
+msgstr "형태"
+
+msgid "loud?"
+msgstr "소리들리기?"
+
+msgid "loudness"
+msgstr "음량"
+
+msgid "motion"
+msgstr "동작"
+
+# 정보창의교육연구소에서 수정(09.05.31)
+msgid "motor direction %W"
+msgstr "모터 %W 회전"
+
+# 정보창의교육연구소에서 수정(09.05.31)
+# 
+msgid "motor off"
+msgstr "모터 끄기"
+
+# 정보창의교육연구소에서 수정(09.05.31)
+# 
+msgid "motor on"
+msgstr "모터 켜기"
+
+# 정보창의교육연구소에서 수정(09.05.31)
+# 
+msgid "motor on for %n secs"
+msgstr "%n초 동안 모터 켜기"
+
+# 이건 어떤 의미의 명령일까?
+msgid "motor power %n"
+msgstr "모터 파워 %n"
+
+msgid "mouse down?"
+msgstr "마우스 클릭하기?"
+
+# won0c@naver.com 이 수정(09.06.23)
+msgid "mouse x"
+msgstr "마우스 x좌표"
+
+# won0c@naver.com 이 수정(09.06.23)
+msgid "mouse y"
+msgstr "마우스 y좌표"
+
+msgid "move %n steps"
+msgstr "%n 만큼 움직이기"
+
+msgid "next background"
+msgstr "다음 배경"
+
+# won0c@naver.com 이 수정(09.06.23)
+# costume을 "그림"으로 번역하면 다소 명확하지 않을 수 있음. Costume이란 스프라이트의 다양한 모양을 나타내므로, "모양"이 직관적임
+msgid "next costume"
+msgstr "다음 모양"
+
+msgid "not %b"
+msgstr "%b (이)가 아니다"
+
+# 정보창의교육연구소에서 수정(09.05.31)
+msgid "operators"
+msgstr "연산"
+
+msgid "pen"
+msgstr "펜"
+
+msgid "pen down"
+msgstr "펜 내리기"
+
+msgid "pen up"
+msgstr "펜 올리기"
+
+msgid "pick random %n to %n"
+msgstr "%n 부터 %n 사이의 난수"
+
+msgid "play drum %D for %n beats"
+msgstr "%D 드럼 %n 박자로 연주하기"
+
+# note가 음계와 박자의 합이라서 %N에는 음계, %n에는 박자를 붙였습니다. 
+msgid "play note %N for %n beats"
+msgstr "%N 음계 %n 박자로 연주하기"
+
+msgid "play sound %S"
+msgstr "%S 소리내기"
+
+msgid "play sound %S until done"
+msgstr "끝날때까지 %S 소리내기 "
+
+msgid "point in direction %d"
+msgstr "%d 도 방향 보기"
+
+msgid "point towards %m"
+msgstr "%m 쪽 보기"
+
+# won0c@naver.com 이 수정(09.06.23)
+msgid "repeat %n"
+msgstr "반복 %n 회"
+
+# won0c@naver.com 이 수정(09.06.23)
+msgid "repeat until %b"
+msgstr "반복 %b 까지"
+
+# won0c@naver.com 이 수정(09.06.23)
+msgid "replace item %i of %L with %s"
+msgstr "%L %i 위치의 아이템을 %s 로 바꾸기"
+
+msgid "reset timer"
+msgstr "타이머 초기화"
+
+msgid "rest for %n beats"
+msgstr "%n 박자 쉬기"
+
+msgid "round %n"
+msgstr "%n 반올림"
+
+msgid "say %s"
+msgstr "%s 말하기"
+
+msgid "say %s for %n secs"
+msgstr "%s %n 초동안 말하기"
+
+msgid "sensing"
+msgstr "관찰"
+
+msgid "sensor %h?"
+msgstr "센서의 %h?"
+
+msgid "set %g effect to %n"
+msgstr "%g 효과 %n 만큼 주기"
+
+# won0c@naver.com 이 수정(09.06.23)
+msgid "set %v to %n"
+msgstr "%v 에 %n 저장"
+
+msgid "set instrument to %I"
+msgstr "%I 번 악기 사용하기"
+
+msgid "set pen color to %c"
+msgstr "펜의 색 %c 로 정하기"
+
+msgid "set pen color to %n"
+msgstr "펜의 색 %n 로 정하기"
+
+msgid "set pen shade to %n"
+msgstr "펜의 그림자 %n 로 정하기"
+
+msgid "set pen size to %n"
+msgstr "펜의 크기 %n 로 정하기"
+
+msgid "set size to %n%"
+msgstr "크기 %n% 로 정하기"
+
+msgid "set tempo to %n bpm"
+msgstr "템포 %n BPM로 맞추기"
+
+msgid "set volume to %n%"
+msgstr "음량 %n% 로 맞추기"
+
+msgid "set x to %n"
+msgstr "x좌표 %n 로 정하기"
+
+msgid "set y to %n"
+msgstr "y좌표 %n 로 정하기"
+
+msgid "show"
+msgstr "보이기"
+
+msgid "show variable %v"
+msgstr "변수 %v 보이기"
+
+msgid "size"
+msgstr "크기"
+
+msgid "sound"
+msgstr "소리"
+
+msgid "stamp"
+msgstr "스탬프"
+
+msgid "stop all"
+msgstr "모두 멈추기"
+
+msgid "stop all sounds"
+msgstr "모든 소리 끄기"
+
+msgid "stop script"
+msgstr "스크립트 멈추기"
+
+msgid "switch to background %l"
+msgstr "배경 %l 로 바꾸기"
+
+# won0c@naver.com 이 수정(09.06.23)<br />
+# costume을 "그림"으로 번역하면 다소 명확하지 않을 수 있음. Costume이란 스프라이트의 다양한 모양을 나타내므로, "모양"이 직관적임
+msgid "switch to costume %l"
+msgstr "모양 %l 로 바꾸기"
+
+msgid "tempo"
+msgstr "템포"
+
+msgid "think %s"
+msgstr "%s 생각하기"
+
+msgid "think %s for %n secs"
+msgstr "%s %n 초간 생각하기"
+
+msgid "timer"
+msgstr "타이머"
+
+msgid "touching %m?"
+msgstr "%m 에 닿기?"
+
+msgid "touching color %C?"
+msgstr "%C 색에 닿기?"
+
+msgid "turn %n degrees"
+msgstr "%n 도 돌기"
+
+msgid "variables"
+msgstr "변수"
+
+msgid "volume"
+msgstr "음량"
+
+msgid "wait %n secs"
+msgstr "%n 초 기다리기"
+
+msgid "wait until %b"
+msgstr "%b 까지 기다리기"
+
+msgid "when %k key pressed"
+msgstr "%k 키 눌렀을 때"
+
+msgid "when %m clicked"
+msgstr "%m 클릭되었을 때"
+
+msgid "when I receive %e"
+msgstr "%e 받을 때"
+
+msgid "x position"
+msgstr "x좌표"
+
+msgid "y position"
+msgstr "y좌표"
+
+############################################
+# USER INTERFACE
+############################################
+
+msgid "(empty)"
+msgstr "(비어 있음)"
+
+# 설정, 지정
+msgid "1 script"
+msgstr "1 스크립트"
+
+msgid "About Scratch"
+msgstr "스크래치란?"
+
+# won0c@naver.com 이 수정(09.06.23)
+msgid "About this project:"
+msgstr "프로젝트 정보"
+
+msgid "abs"
+msgstr "절대값"
+
+# won0c@naver.com 이 수정(09.06.23)
+msgid "add comment"
+msgstr "주석 추가하기"
+
+# won0c@naver.com 이 수정(09.06.23)
+msgid "add comment here"
+msgstr "여기에 주석 추가하기"
+
+msgid "all"
+msgstr "모두"
+
+msgid "and"
+msgstr "그리고"
+
+msgid "Animation"
+msgstr "애니메이션"
+
+msgid "any"
+msgstr "아무"
+
+msgid "Art"
+msgstr "예술"
+
+msgid "background"
+msgstr "배경"
+
+# 배경들 -> 배경
+msgid "backgrounds"
+msgstr "배경"
+
+msgid "Backgrounds"
+msgstr "배경"
+
+msgid "brightness"
+msgstr "밝기"
+
+msgid "Brush size: "
+msgstr "붓 크기"
+
+msgid "button"
+msgstr "버튼"
+
+msgid "button pressed"
+msgstr "버튼 누르기"
+
+# 정보창의교육연구소에서 수정(09.05.31)
+# 
+msgid "Camera"
+msgstr "카메라"
+
+msgid "can rotate"
+msgstr "회전 가능"
+
+msgid "cancel"
+msgstr "취소"
+
+msgid "Cancel"
+msgstr "취소"
+
+msgid "Choose a folder"
+msgstr "폴더를 고르세요"
+
+# won0c@naver.com 이 수정(09.06.23)
+msgid "Choose new sprite from file"
+msgstr "새로운 스프라이트 파일 선택하기"
+
+msgid "clean up"
+msgstr "스크립트 정리하기"
+
+msgid "Clear"
+msgstr "지우기"
+
+# 1.3 에서는 깨끗하게 지우기 였음
+msgid "Clear canvas"
+msgstr "캔버스 지우기"
+
+# 어디에 쓰이는 명령일까요? 
+#, fuzzy
+msgid "Close and continue"
+msgstr "창 닫고 계속하기"
+
+msgid "Close dialog?"
+msgstr "창을 닫을까요?"
+
+msgid "Close paint editor?"
+msgstr "그림판을 닫을까요?"
+
+msgid "close port"
+msgstr "포트 닫기"
+
+msgid "Close sound recorder?"
+msgstr "녹음기를 닫을까요?"
+
+msgid "color"
+msgstr "색깔"
+
+msgid "Compress Images"
+msgstr "이미지 압축하기"
+
+msgid "Compress Sounds"
+msgstr "소리 압축하기"
+
+msgid "Compress sounds and images"
+msgstr "소리/이미지 압축하기"
+
+msgid "Computer"
+msgstr "내 컴퓨터"
+
+msgid "connected"
+msgstr "연결되기"
+
+msgid "Connecting to "
+msgstr "연결 중"
+
+msgid "Copy"
+msgstr "복사"
+
+# won0c@naver.com 이 수정(09.06.23)<br />
+# costume을 "그림"으로 번역하면 다소 명확하지 않을 수 있음. Costume이란 스프라이트의 다양한 모양을 나타내므로, "모양"이 직관적임
+msgid "costume"
+msgstr "모양"
+
+# won0c@naver.com 이 수정(09.06.23)<br />
+# costume을 "그림"으로 번역하면 다소 명확하지 않을 수 있음. Costume이란 스프라이트의 다양한 모양을 나타내므로, "모양"이 직관적임
+msgid "costumes"
+msgstr "모양"
+
+# won0c@naver.com 이 수정(09.06.23)<br />
+# costume을 "그림"으로 번역하면 다소 명확하지 않을 수 있음. Costume이란 스프라이트의 다양한 모양을 나타내므로, "모양"이 직관적임
+msgid "Costumes"
+msgstr "모양"
+
+msgid "Could not read"
+msgstr "읽을 수 없습니다"
+
+msgid "Could not read project; file may be damaged"
+msgstr "프로젝트를 읽을 수 없습니다. 파일이 손상된 것 같습니다."
+
+msgid "Could not write file"
+msgstr "파일에 쓸 수 없습니다"
+
+msgid "Create account"
+msgstr "계정 만들기"
+
+msgid "Create an empty project"
+msgstr "새로운 프로젝트 만들기"
+
+msgid "Data sent. Waiting for response..."
+msgstr "데이터를 보냈습니다. 결과를 기다리는 중..."
+
+msgid "delete"
+msgstr "삭제"
+
+msgid "Delete"
+msgstr "삭제"
+
+msgid "Delete a list"
+msgstr "리스트 삭제"
+
+msgid "Delete a variable"
+msgstr "변수 삭제"
+
+# won0c@naver.com 이 수정(09.06.23)
+# 삭제 버튼에 대한 풍선 도움말이므로, 보다 직관적인 이해를 위해 다른 불필요한 단어는 삭제함
+msgid "Delete this background"
+msgstr "삭제"
+
+# won0c@naver.com 이 수정(09.06.23)
+# 삭제 버튼에 대한 풍선 도움말이므로, 보다 직관적인 이해를 위해 다른 불필요한 단어는 삭제함
+msgid "Delete this costume"
+msgstr "삭제"
+
+# won0c@naver.com 이 수정(09.06.23)
+# 삭제 버튼에 대한 풍선 도움말이므로, 보다 직관적인 이해를 위해 다른 불필요한 단어는 삭제함
+msgid "Delete this sound"
+msgstr "삭제"
+
+# won0c@naver.com 이 수정(09.06.23)
+# 삭제 버튼에 대한 풍선 도움말이므로, 보다 직관적인 이해를 위해 다른 불필요한 단어는 삭제함
+msgid "Delete this sprite"
+msgstr "삭제"
+
+msgid "Desktop"
+msgstr "바탕화면"
+
+msgid "disable remote sensor connections"
+msgstr "원격 센서 연결 끄기"
+
+msgid "distance"
+msgstr "거리"
+
+msgid "Documents"
+msgstr "내 문서"
+
+msgid "don't rotate"
+msgstr "회전할 수 없습니다"
+
+# 어디에 쓰일까?
+msgid "Don't Save"
+msgstr "저장하지 않기"
+
+msgid "Done"
+msgstr "완료"
+
+msgid "down"
+msgstr "아래"
+
+msgid "down arrow"
+msgstr "아래방향 화살표"
+
+# won0c@naver.com 이 수정(09.06.23)
+msgid "drag to resize"
+msgstr "드래그해서 크기 조절하기"
+
+# # won0c@naver.com 이 수정(09.06.23)
+msgid "drag to rotate"
+msgstr "드래그해서 회전시키기"
+
+# won0c@naver.com 이 수정(09.06.23)
+msgid "draggable on website?"
+msgstr "온라인 공유시 드래그 가능?"
+
+msgid "duplicate"
+msgstr "복사"
+
+msgid "Duplicate"
+msgstr "복사"
+
+msgid "edge"
+msgstr "벽"
+
+msgid "Edit"
+msgstr "편집"
+
+msgid "Ellipse tool (draw outlined or filled ellipse or circle)"
+msgstr "원그리기 도구(테두리, 꽉 찬 타원, 원형 그리기)"
+
+msgid "enable remote sensor connections"
+msgstr "원격 센서 연결 활성화"
+
+msgid "Enter presentation mode"
+msgstr "프레젠테이션 모드"
+
+msgid "Eraser"
+msgstr "지우개"
+
+msgid "Eraser size"
+msgstr "지우개 크기"
+
+msgid "Error!"
+msgstr "에러!"
+
+msgid "Examples"
+msgstr "예제"
+
+msgid "Exit presentation"
+msgstr "프레젠테이션 끝내기"
+
+# 1.3 번역 : 프레젠테이션 모드를 빠진다
+msgid "Exit presentation mode"
+msgstr "프레젠테이션 모드 끝내기"
+
+msgid "export"
+msgstr "내보내기"
+
+msgid "Export Background"
+msgstr "배경 내보내기"
+
+# won0c@naver.com 이 수정(09.06.23)
+# costume을 "그림"으로 번역하면 다소 명확하지 않을 수 있음. Costume이란 스프라이트의 다양한 모양을 나타내므로, "모양"이 직관적임
+msgid "Export Costume"
+msgstr "모양 내보내기"
+
+msgid "Export failed"
+msgstr "내보내기 실패"
+
+msgid "Export Sound"
+msgstr "소리 내보내기"
+
+msgid "Export Sprite"
+msgstr "스프라이트 내보내기"
+
+# won0c@naver.com 이 수정(09.06.23)<br />
+# costume을 "그림"으로 번역하면 다소 명확하지 않을 수 있음. Costume이란 스프라이트의 다양한 모양을 나타내므로, "모양"이 직관적임
+# "내보내기"에 대한 팝업 메뉴이므로, 보다 직관적인 이해를 위해 다른 불필요한 단어는 삭제함
+msgid "export this costume"
+msgstr "내보내기"
+
+# won0c@naver.com 이 수정(09.06.23)
+# "내보내기"에 대한 팝업 메뉴이므로, 보다 직관적인 이해를 위해 다른 불필요한 단어는 삭제함
+msgid "export this sound"
+msgstr "내보내기"
+
+# won0c@naver.com 이 수정(09.06.23)
+# "내보내기"에 대한 팝업 메뉴이므로, 보다 직관적인 이해를 위해 다른 불필요한 단어는 삭제함
+msgid "export this sprite"
+msgstr "내보내기"
+
+msgid "Extras menu"
+msgstr "기타 메뉴"
+
+msgid "Eyedropper tool (select a color)"
+msgstr "색 고르기 도구(원하는 색을 선택하세요)"
+
+msgid "Failed:"
+msgstr "실패:"
+
+msgid "false"
+msgstr "거짓"
+
+msgid "File"
+msgstr "파일"
+
+msgid "File not found"
+msgstr "파일이 없습니다"
+
+msgid "Fill tool (fill areas with color or gradient)"
+msgstr "채우기 도구(색이나 그라데이션 입히기)"
+
+msgid "first"
+msgstr "첫번째"
+
+msgid "fisheye"
+msgstr "어안 렌즈"
+
+msgid "Flash blocks (fast)"
+msgstr "블록 깜박이기 (빠르게)"
+
+msgid "Flash blocks (slow)"
+msgstr "블록을 깜박이기 (느리게)"
+
+msgid "Flip horizontally"
+msgstr "수평으로 뒤집기"
+
+msgid "Flip vertically"
+msgstr "수직으로 뒤집기"
+
+msgid "For all sprites"
+msgstr "모든 스프라이트에 대해"
+
+msgid "For this sprite only"
+msgstr "이 스프라이트에 대해"
+
+msgid "Game"
+msgstr "게임"
+
+# won0c@naver.com 이 수정(09.06.23)
+msgid "Get surprise sprite"
+msgstr "무작위로 스프라이트 가져오기"
+
+msgid "Get the last thing deleted"
+msgstr "마지막 작업 되돌리기"
+
+msgid "Getting Started"
+msgstr "시작하기"
+
+msgid "ghost"
+msgstr "반투명"
+
+# won0c@naver.com 이 수정(09.06.23)
+msgid "Go To Scratch Website"
+msgstr "스크래치 사이트 가기"
+
+# won0c@naver.com 이 수정(09.06.23)<br />
+# "grab"은 일상 용어에서 "화면 캡처"로 사용됨
+# 또한, costume을 "그림"으로 번역하면 다소 명확하지 않을 수 있음. Costume이란 스프라이트의 다양한 모양을 나타내므로, "모양"이 직관적임
+msgid "grab screen region for new costume"
+msgstr "화면 영역을 캡처해서 새로운 모양 만들기"
+
+# won0c@naver.com 이 수정(09.06.23)
+# "grab"은 일상 용어에서 "화면 캡처"로 사용됨
+msgid "grab screen region for new sprite"
+msgstr "화면 영역을 캡처해서 새로운 스프라이트 만들기"
+
+msgid "Grow"
+msgstr "확대"
+
+# 1.3 확대
+msgid "Grow sprite"
+msgstr "스프라이트 확대"
+
+msgid "hello "
+msgstr "안녕 "
+
+msgid "Hello!"
+msgstr "안녕!"
+
+# won0c@naver.com 이 수정(09.06.23)
+msgid "help"
+msgstr "블록 도움말"
+
+msgid "Help"
+msgstr "도움말"
+
+# 정보창의교육연구소에서 수정(09.05.31)
+# 
+msgid "Help Page"
+msgstr "도움말 페이지"
+
+# 정보창의교육연구소에서 수정(09.05.31)
+# 
+msgid "Help Screens"
+msgstr "블록 사용 도움말"
+
+# 정보창의교육연구소에서 수정(09.05.31)
+# 
+msgid "Hide Motor Blocks"
+msgstr "모터 블록 감추기"
+
+msgid "High (biggest)"
+msgstr "높다 (최대)"
+
+msgid "Hmm..."
+msgstr "흠... "
+
+msgid "Home"
+msgstr "홈"
+
+msgid "Images compressed"
+msgstr "압축된 화상"
+
+msgid "import"
+msgstr "가져오기"
+
+msgid "Import"
+msgstr "가져오기"
+
+msgid "Import an image on top of your current canvas"
+msgstr "현재의 캔버스 위로 그림 가져오기"
+
+msgid "Import Background"
+msgstr "배경 가져오기"
+
+# won0c@naver.com 이 수정(09.06.23)
+# costume을 "그림"으로 번역하면 다소 명확하지 않을 수 있음. Costume이란 스프라이트의 다양한 모양을 나타내므로, "모양"이 직관적임
+msgid "Import Costume"
+msgstr "모양 가져오기"
+
+msgid "Import Image"
+msgstr "그림 가져오기"
+
+msgid "Import List"
+msgstr "리스트 가져오기"
+
+msgid "Import Project"
+msgstr "프로젝트 가져오기"
+
+msgid "import project"
+msgstr "프로젝트 가져오기"
+
+msgid "Import Sound"
+msgstr "소리 가져오기"
+
+msgid "Incompatible Scratch file format"
+msgstr "Scratch의 파일 형식 호환되지 않습니다"
+
+msgid "Is the folder read-only?"
+msgstr "이 폴더는 읽기 전용 아닙니까?"
+
+msgid "JPEG Quality (10-100)?"
+msgstr "JPEG의 품질 (10-100)"
+
+msgid "kbytes"
+msgstr "킬로 바이트"
+
+msgid "Language"
+msgstr "언어"
+
+msgid "large readout"
+msgstr "크게 보기"
+
+msgid "last"
+msgstr "마지막"
+
+msgid "left"
+msgstr "왼쪽"
+
+msgid "left arrow"
+msgstr "왼쪽 화살표"
+
+msgid "length"
+msgstr "길이"
+
+msgid "light"
+msgstr "빛"
+
+msgid "Line tool (draw lines)"
+msgstr "선그리기 도구 (선을 그립니다)"
+
+# won0c@naver.com 이 수정(09.06.23)
+msgid "List name?"
+msgstr "리스트 이름 ?"
+
+msgid "Low"
+msgstr "낮다"
+
+msgid "Lowest (smallest)"
+msgstr "가장 낮다 (최소)"
+
+msgid "Make a list"
+msgstr "리스트 만들기"
+
+# won0c@naver.com 이 수정(09.06.23)
+msgid "Make a variable"
+msgstr "변수 만들기"
+
+msgid "Max:"
+msgstr "최대값:"
+
+msgid "meow"
+msgstr "냐옹"
+
+msgid "Message name:"
+msgstr "메세지의 이름:"
+
+msgid "Min:"
+msgstr "최소값:"
+
+msgid "mod"
+msgstr "나머지"
+
+msgid "more"
+msgstr "더"
+
+msgid "More tags:"
+msgstr "태그 추가하기"
+
+msgid "mosaic"
+msgstr "모자이크"
+
+msgid "mouse x:"
+msgstr "마우스의 x좌표:"
+
+msgid "mouse y:"
+msgstr "마우스의 y좌표:"
+
+msgid "mouse-pointer"
+msgstr "마우스의 포인터"
+
+msgid "Move"
+msgstr "이동"
+
+msgid "Music"
+msgstr "내 음악"
+
+msgid "My Projects"
+msgstr "내 프로젝트"
+
+msgid "new"
+msgstr "새로 만들기"
+
+msgid "New"
+msgstr "새로 만들기"
+
+msgid "New background:"
+msgstr "새로운 배경:"
+
+# won0c@naver.com 이 수정(09.06.23)
+# costume을 "그림"으로 번역하면 다소 명확하지 않을 수 있음. Costume이란 스프라이트의 다양한 모양을 나타내므로, "모양"이 직관적임
+msgid "New costume:"
+msgstr "새로운 모양"
+
+msgid "New file name?"
+msgstr ""
+
+msgid "New Filename:"
+msgstr "새로운 파일이름"
+
+msgid "New sound:"
+msgstr "새로운 소리"
+
+msgid "New Sprite"
+msgstr "새로운 스프라이트"
+
+msgid "New sprite:"
+msgstr "새로운 스프라이트:"
+
+msgid "No"
+msgstr "아니오"
+
+msgid "No MIDI ports currently available."
+msgstr "현재 사용할 수 있는 MIDI 포트가 없습니다."
+
+msgid "No motion blocks"
+msgstr "움직이는 블록이 없습니다."
+
+msgid "no scripts"
+msgstr "스크립트가 없습니다."
+
+msgid "No serial ports found"
+msgstr "시리얼 포트가 없습니다."
+
+msgid "No variables."
+msgstr "변수가 없습니다."
+
+msgid "Normal"
+msgstr "보통"
+
+msgid "normal readout"
+msgstr "보통 읽기"
+
+msgid "Off"
+msgstr "끄기"
+
+# won0c@naver.com 이 수정(09.06.23)<br />
+# "예"가 아니고, "확인"이 맞음
+msgid "OK"
+msgstr "확인"
+
+msgid "On"
+msgstr "켜기"
+
+msgid "only face left-right"
+msgstr "왼쪽에서 오른쪽으로만"
+
+msgid "Open"
+msgstr "열기"
+
+msgid "Open a Scratch project"
+msgstr "프로젝트 열기"
+
+msgid "Open Project"
+msgstr "프로젝트 열기"
+
+msgid "or"
+msgstr "또는"
+
+msgid "Paint"
+msgstr "그림"
+
+msgid "Paint Editor"
+msgstr "그림판"
+
+msgid "Paint new sprite"
+msgstr "새로운 스프라이트 그리기"
+
+msgid "Paintbrush"
+msgstr "그림 붓"
+
+msgid "Password:"
+msgstr "암호"
+
+msgid "Percent? (100 gives original size)"
+msgstr "퍼센트? (기본크기는 100 입니다)"
+
+msgid "Pictures"
+msgstr "그림"
+
+msgid "pixelate"
+msgstr "픽셀화"
+
+msgid "play"
+msgstr "재생"
+
+msgid "Please enter a number"
+msgstr "숫자를 넣어 주세요"
+
+msgid "pop"
+msgstr "꺼내기"
+
+msgid "Position the cross-hair to set the rotation center"
+msgstr "회전 중심을 설정하기 위한 십자가의 위치"
+
+msgid "Preparing project..."
+msgstr "프로젝트 준비중..."
+
+msgid "Project author:"
+msgstr "만든 사람"
+
+msgid "Project name"
+msgstr "프로젝트 이름"
+
+msgid "Project Notes"
+msgstr "프로젝트 메모"
+
+msgid "Project notes"
+msgstr "프로젝트 메모"
+
+msgid "Project uploaded."
+msgstr "업로드된 프로젝트."
+
+msgid "Projects"
+msgstr "프로젝트"
+
+msgid "Quit"
+msgstr "끝내기"
+
+msgid "Quit Scratch"
+msgstr "스크래치 끝내기"
+
+msgid "Reading"
+msgstr "읽기"
+
+msgid "record"
+msgstr "녹음"
+
+msgid "Record"
+msgstr "녹음"
+
+msgid "recording"
+msgstr "녹음중"
+
+msgid "Rectangle tool (draw outlined or filled rectangle or square)"
+msgstr "사각형 도구 (테두리, 꽉 찬 사각형, 정사각형 그리기) "
+
+msgid "Redo"
+msgstr "재시도"
+
+msgid "Reference Guide"
+msgstr "참고사항 안내"
+
+msgid "Remote sensor connections enabled"
+msgstr "원격 센서 연결 켜기"
+
+msgid "Remove viewer from stage"
+msgstr "무대로부터 뷰어를 지운다"
+
+msgid "resistance"
+msgstr "저항"
+
+# 정보창의교육연구소에서 수정(09.05.31)
+msgid "resize this sprite"
+msgstr "스프라이트 크기 조절"
+
+# 정보창의교육연구소에서 수정(09.05.31)
+# 
+msgid "reverse"
+msgstr "역방향"
+
+msgid "right"
+msgstr "오른쪽"
+
+msgid "right arrow"
+msgstr "오른쪽 화살표"
+
+msgid "Rotate clock-wise"
+msgstr "시계 방향으로 회전"
+
+msgid "Rotate counter-clock-wise"
+msgstr "반시계방향으로 회전"
+
+# 정보창의교육연구소에서 수정(09.05.31)
+# 
+msgid "rotate this sprite"
+msgstr "스프라이트 회전 조절"
+
+msgid "Rotation degrees?"
+msgstr "회전 각도"
+
+msgid "Save"
+msgstr "저장"
+
+msgid "Save a copy of the current project"
+msgstr "현재 프로젝트를 다른 이름으로 저장"
+
+msgid "Save As"
+msgstr "다른 이름으로 저장"
+
+msgid "Save changes before quitting?"
+msgstr "끝내기전에 변경된 내용을 저장 할까요?"
+
+msgid "Save failed"
+msgstr "저장 실패"
+
+msgid "save picture of scripts"
+msgstr "스크립트를 그림으로 저장"
+
+# won0c@naver.com 이 수정(09.06.23)
+msgid "save picture of stage..."
+msgstr "무대를 그림으로 저장..."
+
+msgid "Save Project"
+msgstr "프로젝트 저장"
+
+msgid "Save Scripts Snapshot"
+msgstr "스크립트를 그림으로 저장"
+
+msgid "Save Stage Shot"
+msgstr "무대 사진을 저장"
+
+msgid "Save the current project"
+msgstr "현재 프로젝트를 저장할까요"
+
+msgid "Save the current project?"
+msgstr "현재 프로젝트를 저장할까요?"
+
+# 정보창의교육연구소에서 수정(09.05.31)
+msgid "Save this project"
+msgstr "프로젝트 저장"
+
+msgid "Scripts"
+msgstr "스크립트"
+
+msgid "select serial/USB port"
+msgstr "시리얼/USB 포트 선택"
+
+msgid "Select tool (move, modify, or delete selection)"
+msgstr "선택 도구(이동, 수정 또는 지우는 영역)"
+
+# won0c@naver.com 이 수정(09.06.23)
+# costume을 "그림"으로 번역하면 다소 명확하지 않을 수 있음. Costume이란 스프라이트의 다양한 모양을 나타내므로, "모양"이 직관적임
+msgid "Set costume center"
+msgstr "모양의 중심 설정"
+
+# 정보창의교육연구소에서 수정(09.05.31)
+# 
+msgid "Set language"
+msgstr "언어 선택"
+
+msgid "Set rotation center"
+msgstr "회전 중심 설정"
+
+# won0c@naver.com 이 수정(09.06.23)
+msgid "Set Single Stepping"
+msgstr "단계별 실행 설정"
+
+msgid "set slider min and max"
+msgstr "슬라이더의 최소값 최대값 설정"
+
+msgid "Share"
+msgstr "공유"
+
+# 정보창의교육연구소에서 수정(09.05.31)
+# 
+msgid "Share this project"
+msgstr "프로젝트 공유"
+
+# 1.3 온라인 공유
+msgid "Share This Project Online"
+msgstr "프로젝트 온라인 공유"
+
+# 정보창의교육연구소에서 수정(09.05.31)
+# 
+msgid "Show Motor Blocks"
+msgstr "모터 블록 보기"
+
+msgid "show ScratchBoard watcher"
+msgstr "ScratchBoard 감시판 보이기"
+
+msgid "Shrink"
+msgstr "축소"
+
+# 스프라이트 축소?
+msgid "Shrink sprite"
+msgstr "스프라이트 축소"
+
+msgid "Simulation"
+msgstr "시뮬레이션"
+
+msgid "Single-step speed?"
+msgstr "단계별 실행 속도"
+
+msgid "slider"
+msgstr "슬라이더"
+
+msgid "Slider range:"
+msgstr "슬라이더의 범위:"
+
+msgid "Sound quality:"
+msgstr "소리 품질:"
+
+msgid "Sound Recorder"
+msgstr "녹음기"
+
+msgid "Sounds"
+msgstr "소리"
+
+msgid "Sounds compressed"
+msgstr "압축된 소리"
+
+msgid "space"
+msgstr "스페이스"
+
+msgid "Sprite"
+msgstr "스프라이트"
+
+# 그냥 스프라이트 일것 같진 않구. 음.. 어떤 상황에서 쓰는지 봐야겠네요 --동희<span class="translation-space"> </span>
+# 
+msgid "Sprites"
+msgstr "스프라이트"
+
+msgid "sqrt"
+msgstr "제곱근"
+
+msgid "Stage"
+msgstr "무대"
+
+msgid "Stage selected:"
+msgstr "선택된 무대"
+
+msgid "Stamp tool (select area, then stamp copies of it)"
+msgstr "도장 (선택한 영역의 복사본으로 도장찍기)"
+
+msgid "Start green flag scripts"
+msgstr "시작"
+
+# won0c@naver.com 이 수정(09.06.23)
+msgid "Start Single Stepping"
+msgstr "단계별 실행 시작"
+
+msgid "stop"
+msgstr "중지"
+
+msgid "Stop everything"
+msgstr "모두 중지"
+
+# won0c@naver.com 이 수정(09.06.23)
+msgid "Stop Single Stepping"
+msgstr "단계별 실행 중지"
+
+msgid "Story"
+msgstr "이야기"
+
+msgid "Support Site"
+msgstr "지원 사이트"
+
+msgid "Switch colors"
+msgstr "색 바꾸기"
+
+# 정보창의교육연구소에서 수정(09.05.31)
+msgid "Switch to full stage"
+msgstr "무대화면 크게 보기"
+
+# 정보창의교육연구소에서 수정(09.05.31)
+# 
+msgid "Switch to presentation mode"
+msgstr "프리젠테이션 화면"
+
+# 정보창의교육연구소에서 수정(09.05.31)
+msgid "Switch to small stage"
+msgstr "무대화면 작게 보기"
+
+msgid "Tags:"
+msgstr "태그:"
+
+msgid "Text tool (edit text layer)"
+msgstr "텍스트 도구 (텍스트층을 편집)"
+
+msgid "That variable name is already in use"
+msgstr "변수 이름은 이미 사용되고 있습니다."
+
+# 정보창의교육연구소에서 수정(09.05.31)
+# 
+msgid "that way"
+msgstr "반시계방향"
+
+msgid "The file name already exists. Overwrite existing file?"
+msgstr "파일 이름이 이미 존재합니다. 기존의 파일을 덮어쓰겠습니까?"
+
+# won0c@naver.com 이 수정(09.06.23)
+# thing은 굳이 번역할 필요 없음. 억지로 번역하려고 하면 더 이상할 수 있으므로...
+msgid "thing"
+msgstr "    "
+
+# 정보창의교육연구소에서 수정(09.05.31)
+# 
+msgid "this way"
+msgstr "시계방향"
+
+msgid "tilt"
+msgstr "기울기"
+
+msgid "true"
+msgstr "참"
+
+msgid "Turbo speed"
+msgstr "터보 스피드"
+
+msgid "turn into new sprite"
+msgstr "새로운 스프라이트로 변하기"
+
+# 정보창의교육연구소에서 수정(09.05.31)
+# 
+msgid "Undelete"
+msgstr "삭제 취소"
+
+msgid "Undo"
+msgstr "되돌리기"
+
+msgid "up"
+msgstr "위"
+
+msgid "up arrow"
+msgstr "위쪽 화살표"
+
+msgid "Updating thumbnails"
+msgstr "썸네일 업로드 중"
+
+msgid "Upload succeeded!"
+msgstr "업로드 성공!"
+
+msgid "Upload to Scratch Server"
+msgstr "공유하기"
+
+msgid "Uploading"
+msgstr "업로드 중"
+
+# won0c@naver.com 이 수정(09.06.23)
+msgid "Variable name?"
+msgstr "변수 이름 ?"
+
+msgid "View on stage"
+msgstr "무대 위에 표시"
+
+msgid "What's your name?"
+msgstr "당신의 이름은?"
+
+msgid "whirl"
+msgstr "소용돌이"
+
+# 세계?
+#, fuzzy
+msgid "world"
+msgstr "세계"
+
+msgid "Write Multiple Project Summaries"
+msgstr "여러 프로젝트의 설명을 쓰시오"
+
+msgid "Write Project Summary"
+msgstr "프로젝트의 설명을 쓰시오"
+
+msgid "Yes"
+msgstr "네"
+
+msgid "Your project is now online at"
+msgstr "당신의 프로젝트는 현재 온라인상에 있습니다"
+
+# won0c@naver.com 이 수정(09.06.23)
+msgid "Your Scratch website login name:"
+msgstr "Scratch 사이트 ID:"
+
+msgid "Zoom in"
+msgstr "확대"
+
+msgid "Zoom out"
+msgstr "축소"
+
+############################################
+# MIDI INSTRUMENTS
+############################################
+
+# 참고: http://vod.ssem.or.kr:8080/cd_files/F06/ele/mus/e_%ED%83%80%EC%95%85%EA%B8%B0/intro.htm
+# http://www.icanpiano.com/board/board.html?code=dp_1&page=1&type=v&num1=999974&num2=00000&lock=N
+msgid "Accordion"
+msgstr "아코디언"
+
+msgid "Acoustic Bass"
+msgstr "어쿠스틱 베이스"
+
+msgid "Acoustic Bass Drum"
+msgstr "어쿠스틱 베이스 드럼"
+
+msgid "Acoustic Grand"
+msgstr "어쿠스틱 그랜드 피아노"
+
+msgid "Acoustic Snare"
+msgstr "어쿠스틱 스내어"
+
+msgid "Agogo"
+msgstr "아고고"
+
+msgid "Alto Sax"
+msgstr "알토 색소폰"
+
+msgid "Applause"
+msgstr "갈채"
+
+msgid "Bagpipe"
+msgstr "백파이프"
+
+msgid "Banjo"
+msgstr "밴조"
+
+msgid "Baritone Sax"
+msgstr "바리톤 색소폰"
+
+msgid "Bass Drum 1"
+msgstr "베이스 드럼 1"
+
+msgid "Bassoon"
+msgstr "바순"
+
+msgid "Bird Tweet"
+msgstr "작은새의 지저귐"
+
+msgid "Blown Bottle"
+msgstr "병 불기"
+
+msgid "Brass Section"
+msgstr "금관악기 섹션"
+
+msgid "Breath Noise"
+msgstr "숨소리"
+
+msgid "Bright Acoustic"
+msgstr "밝은 음색의 피아노"
+
+msgid "Cabasa"
+msgstr "카바사"
+
+msgid "Celesta"
+msgstr "체레스타"
+
+msgid "Cello"
+msgstr "첼로"
+
+msgid "Chinese Cymbal"
+msgstr "차이니즈 심벌즈"
+
+msgid "Choir Aahs"
+msgstr "합창「아―」"
+
+msgid "Church Organ"
+msgstr "교회 오르간"
+
+msgid "Clarinet"
+msgstr "클라리넷"
+
+msgid "Claves"
+msgstr "클라베스"
+
+msgid "Clavinet"
+msgstr "클라비넷"
+
+msgid "Closed Hi-Hat"
+msgstr "닫힌 하이-햇"
+
+msgid "Contrabass"
+msgstr "콘트라베이스"
+
+msgid "Cowbell"
+msgstr "카우벨"
+
+msgid "Crash Cymbal 1"
+msgstr "심벌즈 1"
+
+msgid "Crash Cymbal 2"
+msgstr "심벌즈 2"
+
+msgid "Distortion Guitar"
+msgstr "뒤틀린소리의 기타"
+
+msgid "Drawbar Organ"
+msgstr "드로우바 오르간"
+
+msgid "Dulcimer"
+msgstr "덜시머"
+
+msgid "Electric Bass (finger)"
+msgstr "일렉 베이스 (손가락)"
+
+msgid "Electric Bass (pick)"
+msgstr "일렉 베이스 (피크)"
+
+msgid "Electric Clean Guitar"
+msgstr "일렉 클린 기타"
+
+msgid "Electric Grand"
+msgstr "일렉 그랜드 피아노"
+
+msgid "Electric Jazz Guitar"
+msgstr "전자 재즈 기타"
+
+msgid "Electric Muted Guitar"
+msgstr "전자 뮤트 기타"
+
+msgid "Electric Piano 1"
+msgstr "전자 피아노 1"
+
+msgid "Electric Piano 2"
+msgstr "전자 피아노 2"
+
+msgid "Electric Snare"
+msgstr "전자 스내어"
+
+msgid "English Horn"
+msgstr "영국식 호른"
+
+msgid "FX 1 (rain)"
+msgstr "효과음 1 (비)"
+
+msgid "FX 2 (soundtrack)"
+msgstr "효과음 2 (사운드트랙)"
+
+msgid "FX 3 (crystal)"
+msgstr "효과음 3 (크리스탈)"
+
+msgid "FX 4 (atmosphere)"
+msgstr "효과음 4 (분위기)"
+
+msgid "FX 5 (brightness)"
+msgstr "효과음 5 (밝기)"
+
+msgid "FX 6 (goblins)"
+msgstr "효과음 6 (고블린)"
+
+msgid "FX 7 (echoes)"
+msgstr "효과음 7 (메아리)"
+
+msgid "FX 8 (sci-fi)"
+msgstr "효과음 8 (SF)"
+
+msgid "Fiddle"
+msgstr "피들"
+
+msgid "Flute"
+msgstr "플룻"
+
+msgid "French Horn"
+msgstr "프랑스식 호른"
+
+msgid "Fretless Bass"
+msgstr "플렛리스 베이스"
+
+msgid "Glockenspiel"
+msgstr "글로켄슈필"
+
+msgid "Guitar Fret Noise"
+msgstr "기타의 플렛 노이즈"
+
+msgid "Guitar Harmonics"
+msgstr "기타 화음"
+
+msgid "Gunshot"
+msgstr "총소리"
+
+msgid "Hand Clap"
+msgstr "박수"
+
+msgid "Harmonica"
+msgstr "하모니카"
+
+msgid "Harpsichord"
+msgstr "하프시코드"
+
+msgid "Helicopter"
+msgstr "헬리콥터"
+
+msgid "Hi Bongo"
+msgstr "하이 봉고"
+
+msgid "Hi Wood Block"
+msgstr "하이 우드 블록"
+
+msgid "Hi-Mid Tom"
+msgstr "하이-미드 탐"
+
+msgid "High Agogo"
+msgstr "하이 아고고"
+
+msgid "High Floor Tom"
+msgstr "하이 플로어 탐"
+
+msgid "High Timbale"
+msgstr "하이 팀벌"
+
+msgid "High Tom"
+msgstr "하이 탐"
+
+msgid "Honky-Tonk"
+msgstr "홍키 퐁크 피아노"
+
+msgid "Kalimba"
+msgstr "칼림바"
+
+msgid "Koto"
+msgstr "가야금"
+
+msgid "Lead 1 (square)"
+msgstr "리드 1 (사각파)"
+
+msgid "Lead 2 (sawtooth)"
+msgstr "리드 2 (톱니)"
+
+msgid "Lead 3 (calliope)"
+msgstr "리드 3 (증기오르간)"
+
+msgid "Lead 4 (chiff)"
+msgstr "리드 4 (치프노이즈)"
+
+msgid "Lead 5 (charang)"
+msgstr "리드 5 (차랑고)"
+
+msgid "Lead 6 (voice)"
+msgstr "리드 6 (목소리)"
+
+msgid "Lead 7 (fifths)"
+msgstr "리드 7 (5도 음정)"
+
+msgid "Lead 8 (bass+lead)"
+msgstr "리드 8 (베이스와 리드)"
+
+msgid "Long Guiro"
+msgstr "긴 귀로"
+
+msgid "Long Whistle"
+msgstr "긴 휘파람"
+
+msgid "Low Agogo"
+msgstr "로우 아고고"
+
+msgid "Low Bongo"
+msgstr "로우 봉고"
+
+msgid "Low Conga"
+msgstr "로우 콩가"
+
+msgid "Low Floor Tom"
+msgstr "로우 플로어 탐"
+
+msgid "Low Timbale"
+msgstr "로우 팀벌"
+
+msgid "Low Tom"
+msgstr "로우 탐"
+
+msgid "Low Wood Block"
+msgstr "로우 나무블록"
+
+msgid "Low-Mid Tom"
+msgstr "로우-미드 탐"
+
+msgid "Maracas"
+msgstr "마라카스"
+
+msgid "Marimba"
+msgstr "마림바"
+
+msgid "Melodic Tom"
+msgstr "멜로디 톰"
+
+msgid "Music Box"
+msgstr "뮤직 박스"
+
+msgid "Mute Cuica"
+msgstr "뮤트 퀴카"
+
+msgid "Mute Hi Conga"
+msgstr "뮤트 하이 콩가"
+
+msgid "Mute Triangle"
+msgstr "뮤트 트라이앵글"
+
+msgid "Muted Trumpet"
+msgstr "뮤트 트럼펫"
+
+msgid "Nylon String Guitar"
+msgstr "나일론줄 기타"
+
+msgid "Oboe"
+msgstr "오보에"
+
+msgid "Ocarina"
+msgstr "오카리나"
+
+msgid "Open Cuica"
+msgstr "오픈 퀴카"
+
+msgid "Open Hi Conga"
+msgstr "오픈 하이 콩가"
+
+msgid "Open Hi-Hat"
+msgstr "오픈 하이-햇"
+
+msgid "Open Triangle"
+msgstr "오픈 트라이앵글"
+
+msgid "Orchestra Hit"
+msgstr "오케스트라 히트"
+
+msgid "Orchestral Strings"
+msgstr "오케스트라의 현악기"
+
+msgid "Overdriven Guitar"
+msgstr "오버 드라이브 기타"
+
+msgid "Pad 1 (new age)"
+msgstr "패드 1 (뉴 에이지)"
+
+msgid "Pad 2 (warm)"
+msgstr "패드 2 (따뜻하다)"
+
+msgid "Pad 3 (polysynth)"
+msgstr "패드 3 (폴리신디)"
+
+msgid "Pad 4 (choir)"
+msgstr "패드 4 (합창)"
+
+msgid "Pad 5 (bowed)"
+msgstr "패드 5 (활)"
+
+msgid "Pad 6 (metallic)"
+msgstr "패드 6 (메탈)"
+
+msgid "Pad 7 (halo)"
+msgstr "패드 7 (할로)"
+
+msgid "Pad 8 (sweep)"
+msgstr "패드 8 (스위프)"
+
+msgid "Pan Flute"
+msgstr "팬 플룻"
+
+msgid "Pedal Hi-Hat"
+msgstr "페달 하이 햇"
+
+msgid "Percussive Organ"
+msgstr "퍼커시브 오르간"
+
+msgid "Piccolo"
+msgstr "피콜로"
+
+msgid "Pizzicato Strings"
+msgstr "손가락으로 퉁기는 현악 연주"
+
+msgid "Recorder"
+msgstr "리코더"
+
+msgid "Reed Organ"
+msgstr "리드 오르간"
+
+msgid "Reverse Cymbal"
+msgstr "리버스 심벌즈"
+
+msgid "Ride Bell"
+msgstr "라이드 벨"
+
+msgid "Ride Cymbal 1"
+msgstr "라이드 심벌즈 1"
+
+msgid "Ride Cymbal 2"
+msgstr "라이드 심벌즈 2"
+
+msgid "Rock Organ"
+msgstr "락 오르간"
+
+msgid "Seashore"
+msgstr "해변"
+
+msgid "Shakuhachi"
+msgstr "퉁소"
+
+msgid "Shamisen"
+msgstr "샤미센"
+
+msgid "Shanai"
+msgstr "샤나이"
+
+msgid "Short Guiro"
+msgstr "짧은 귀로"
+
+msgid "Short Whistle"
+msgstr "짧은 휘파람"
+
+msgid "Side Stick"
+msgstr "사이드 스틱"
+
+msgid "Sitar"
+msgstr "시타르"
+
+msgid "Slap Bass 1"
+msgstr "슬랩 베이스 1"
+
+msgid "Slap Bass 2"
+msgstr "슬랩 베이스 2"
+
+msgid "Soprano Sax"
+msgstr "소프라노 색소폰"
+
+msgid "Splash Cymbal"
+msgstr "스플래쉬 심벌즈"
+
+msgid "Steel Drums"
+msgstr "스틸 드럼"
+
+msgid "Steel String Guitar"
+msgstr "쇠줄 기타"
+
+msgid "String Ensemble 1"
+msgstr "현악 합주 1"
+
+msgid "String Ensemble 2"
+msgstr "현악 합주 2"
+
+msgid "Synth Bass 1"
+msgstr "신디 베이스 1"
+
+msgid "Synth Bass 2"
+msgstr "신디 베이스 2"
+
+msgid "Synth Drum"
+msgstr "신디 드럼"
+
+msgid "Synth Voice"
+msgstr "신디 보이스"
+
+msgid "SynthBrass 1"
+msgstr "신디 브라스 1"
+
+msgid "SynthBrass 2"
+msgstr "신디 브라스 2"
+
+msgid "SynthStrings 1"
+msgstr "신디 스트링 1"
+
+msgid "SynthStrings 2"
+msgstr "신디 스트링 2"
+
+msgid "Taiko Drum"
+msgstr "타이코 드럼"
+
+msgid "Tambourine"
+msgstr "탬버린"
+
+msgid "Tango Accordion"
+msgstr "탱고 아코디언"
+
+msgid "Telephone Ring"
+msgstr "전화 벨"
+
+msgid "Tenor Sax"
+msgstr "테너 색소폰"
+
+msgid "Timpani"
+msgstr "팀파니"
+
+msgid "Tinkle Bell"
+msgstr "방울소리"
+
+msgid "Tremolo Strings"
+msgstr "트레몰로 스트링"
+
+msgid "Trombone"
+msgstr "트럼본"
+
+msgid "Trumpet"
+msgstr "트럼펫"
+
+msgid "Tuba"
+msgstr "튜바"
+
+msgid "Tubular Bells"
+msgstr "튜블러 벨"
+
+msgid "Vibraphone"
+msgstr "비브라폰"
+
+msgid "Vibraslap"
+msgstr "비브라슬랩"
+
+msgid "Viola"
+msgstr "비올라"
+
+msgid "Violin"
+msgstr "바이올린"
+
+msgid "Voice Oohs"
+msgstr "오~"
+
+msgid "Whistle"
+msgstr "휘파람"
+
+msgid "Woodblock"
+msgstr "나무블록"
+
+msgid "Xylophone"
+msgstr "실로폰"
+

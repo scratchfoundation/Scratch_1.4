@@ -1,0 +1,1929 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: Scratch\n"
+"Report-Msgid-Bugs-To: Evelyn Eastmond <evelyn@media.mit.edu>\n"
+"POT-Creation-Date: 2008-01-04\n"
+"PO-Revision-Date: 2009-05-30 17:54-0400\n"
+"Last-Translator: Klas Schöldström <klasbricks@yahoo.se>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 1.2.0\n"
+
+############################################
+# FORMATTING
+############################################
+
+# Language name as you'd like it to appear in the Languages menu
+# (Required)
+msgid "Language-Name"
+msgstr "svenska"
+
+# Directionality of language
+# LTR = Left to Right
+# RTL = Right to Left
+msgid "Language-Direction"
+msgstr "LTR"
+
+# Scale to apply to font size (2 for twice as large)
+# Use this if the font is too small for legibility on the Scratch interface
+msgid "Font-Scale"
+msgstr "1"
+
+# Set to 'true' or 'false'
+# Use this if you do not want any of the text to be bolded, for legibility
+msgid "Suppress-Bold"
+msgstr "false"
+
+# Font to use on a Windows system
+msgid "Win-Font"
+msgstr ""
+
+# Font to use on a Mac system
+msgid "Mac-Font"
+msgstr ""
+
+# Font to use on a Linux system
+msgid "Linux-Font"
+msgstr ""
+
+############################################
+# BLOCKS
+############################################
+
+msgid "%H sensor value"
+msgstr "sensorns %H värde"
+
+# Andra förslag
+# finns i, har 
+msgid "%L contains %s"
+msgstr "%L innehåller %s"
+
+msgid "%a of %m"
+msgstr "%a av %m"
+
+msgid "%b and %b"
+msgstr "%b och %b"
+
+msgid "%b or %b"
+msgstr "%b eller %b"
+
+msgid "%f of %n"
+msgstr "%f av %n"
+
+msgid "%n mod %n"
+msgstr "%n mod %n"
+
+msgid "add %s to %L"
+msgstr "lägg till %s till %L"
+
+msgid "answer"
+msgstr "svar"
+
+msgid "ask %s and wait"
+msgstr "fråga %s och vänta"
+
+msgid "background #"
+msgstr "bakgrund #"
+
+msgid "broadcast %e"
+msgstr "sända %e"
+
+msgid "broadcast %e and wait"
+msgstr "sända %e och vänta"
+
+msgid "change %g effect by %n"
+msgstr "ändra %g effekten med %n"
+
+msgid "change %v by %n"
+msgstr "ändra %v med %n"
+
+msgid "change pen color by %n"
+msgstr "ändra pennans färg med %n"
+
+msgid "change pen shade by %n"
+msgstr "ändra pennans nyans med %n"
+
+msgid "change pen size by %n"
+msgstr "ändra pennans storlek med %n"
+
+msgid "change size by %n"
+msgstr "ändra storlek med %n"
+
+msgid "change tempo by %n"
+msgstr "ändra tempo med %n"
+
+msgid "change volume by %n"
+msgstr "ändra volym med %n"
+
+msgid "change x by %n"
+msgstr "ändra x med %n"
+
+msgid "change y by %n"
+msgstr "ändra y med %n"
+
+msgid "clear"
+msgstr "radera"
+
+msgid "clear graphic effects"
+msgstr "ta bort grafisk effekt"
+
+msgid "color %C is touching %C?"
+msgstr "är färgen %C över %C?"
+
+msgid "control"
+msgstr "kontroll"
+
+msgid "costume #"
+msgstr "klädsel #"
+
+msgid "delete %y of %L"
+msgstr "ta bort %y i %L"
+
+msgid "direction"
+msgstr "riktning"
+
+msgid "distance to %m"
+msgstr "avstånd till %m"
+
+msgid "else"
+msgstr "annars"
+
+msgid "forever"
+msgstr "för alltid"
+
+msgid "forever if %b"
+msgstr "för alltid om %b"
+
+msgid "glide %n secs to x:%n y:%n"
+msgstr "glid %n sek till x:%n y:%n"
+
+msgid "go back %n layers"
+msgstr "gå ned %n lager"
+
+msgid "go to %m"
+msgstr "gå till %m"
+
+msgid "go to front"
+msgstr "lägg överst"
+
+msgid "go to x:%n y:%n"
+msgstr "gå till x:%n y:%n"
+
+msgid "hide"
+msgstr "göm"
+
+msgid "hide variable %v"
+msgstr "göm variabel %v"
+
+msgid "if %b"
+msgstr "om %b"
+
+msgid "if on edge, bounce"
+msgstr "studsa om vid kanten"
+
+msgid "insert %s at %i of %L"
+msgstr "sätt in %s på %i i %L"
+
+msgid "item %i of %L"
+msgstr "%i i %L"
+
+# Annan möjlighet är sammansätta men det är 11 tecken och förena 6 tecken, s ihop s skulle bli 4.
+msgid "join %s %s"
+msgstr "förena %s %s"
+
+msgid "key %k pressed?"
+msgstr "%k nedtryckt?"
+
+msgid "length of %L"
+msgstr "längd på %L"
+
+msgid "length of %s"
+msgstr "längd på %s"
+
+msgid "letter %n of %s"
+msgstr "bokstav %n i %s"
+
+msgid "list"
+msgstr "lista"
+
+msgid "looks"
+msgstr "utseende"
+
+msgid "loud?"
+msgstr "starkt ljud?"
+
+msgid "loudness"
+msgstr "ljudnivå"
+
+msgid "motion"
+msgstr "rörelse"
+
+msgid "motor direction %W"
+msgstr "motorriktning %W"
+
+msgid "motor off"
+msgstr "motor av"
+
+msgid "motor on"
+msgstr "motor på"
+
+msgid "motor on for %n secs"
+msgstr "motor på i %n sekunder"
+
+msgid "motor power %n"
+msgstr "motor kraft %n"
+
+msgid "mouse down?"
+msgstr "musknappen?"
+
+msgid "mouse x"
+msgstr "mus x"
+
+msgid "mouse y"
+msgstr "mus y"
+
+msgid "move %n steps"
+msgstr "gå %n steg"
+
+msgid "next background"
+msgstr "nästa bakgrund"
+
+msgid "next costume"
+msgstr "nästa klädsel"
+
+msgid "not %b"
+msgstr "inte %b"
+
+msgid "operators"
+msgstr "operator"
+
+msgid "pen"
+msgstr "penna"
+
+msgid "pen down"
+msgstr "penna ned"
+
+msgid "pen up"
+msgstr "penna upp"
+
+msgid "pick random %n to %n"
+msgstr "slumptal %n till %n"
+
+msgid "play drum %D for %n beats"
+msgstr "spela trumman %D i %n taktslag"
+
+msgid "play note %N for %n beats"
+msgstr "spela tonen %N i %n taktslag"
+
+msgid "play sound %S"
+msgstr "spela ljudet %S"
+
+msgid "play sound %S until done"
+msgstr "spela ljudet %S tills färdig"
+
+msgid "point in direction %d"
+msgstr "peka i %d riktning"
+
+msgid "point towards %m"
+msgstr "peka mot %m"
+
+msgid "repeat %n"
+msgstr "repetera %n"
+
+msgid "repeat until %b"
+msgstr "repetera tills %b"
+
+msgid "replace item %i of %L with %s"
+msgstr "ersätt %i i %L med %s"
+
+msgid "reset timer"
+msgstr "nollställ timer"
+
+msgid "rest for %n beats"
+msgstr "pausa i %n taktslag"
+
+msgid "round %n"
+msgstr "avrunda %n"
+
+msgid "say %s"
+msgstr "säg %s"
+
+msgid "say %s for %n secs"
+msgstr "säg %s i %n sekunder"
+
+msgid "sensing"
+msgstr "känna av"
+
+msgid "sensor %h?"
+msgstr "sensorn %h?"
+
+msgid "set %g effect to %n"
+msgstr "sätt %g effekten till %n"
+
+msgid "set %v to %n"
+msgstr "sätt %v till %n"
+
+msgid "set instrument to %I"
+msgstr "sätt instrument till %I"
+
+msgid "set pen color to %c"
+msgstr "sätt pennans färg till %c"
+
+msgid "set pen color to %n"
+msgstr "sätt pennans färg till %n"
+
+msgid "set pen shade to %n"
+msgstr "sätt pennans nyans till %n"
+
+msgid "set pen size to %n"
+msgstr "sätt pennans storlek till %n"
+
+msgid "set size to %n%"
+msgstr "sätt storleken till %n%"
+
+msgid "set tempo to %n bpm"
+msgstr "sätt tempo till %n bpm"
+
+msgid "set volume to %n%"
+msgstr "sätt volym till %n%"
+
+msgid "set x to %n"
+msgstr "sätt x till %n"
+
+msgid "set y to %n"
+msgstr "sätt y till %n"
+
+msgid "show"
+msgstr "visa"
+
+msgid "show variable %v"
+msgstr "visa variabel %v"
+
+msgid "size"
+msgstr "storlek"
+
+msgid "sound"
+msgstr "ljud"
+
+msgid "stamp"
+msgstr "stämpla"
+
+msgid "stop all"
+msgstr "stoppa alla"
+
+msgid "stop all sounds"
+msgstr "stoppa all ljud"
+
+msgid "stop script"
+msgstr "stoppa scriptet"
+
+msgid "switch to background %l"
+msgstr "växla till bakgrund %l"
+
+msgid "switch to costume %l"
+msgstr "växla till klädsel %l"
+
+msgid "tempo"
+msgstr "tempo"
+
+msgid "think %s"
+msgstr "tänk %s"
+
+msgid "think %s for %n secs"
+msgstr "tänk %s i %n sekunder"
+
+msgid "timer"
+msgstr "timer"
+
+msgid "touching %m?"
+msgstr "rör %m?"
+
+msgid "touching color %C?"
+msgstr "rör färgen %C?"
+
+msgid "turn %n degrees"
+msgstr "vänd %n grader"
+
+msgid "variables"
+msgstr "variabler"
+
+msgid "volume"
+msgstr "volym"
+
+msgid "wait %n secs"
+msgstr "vänta %n sekunder"
+
+msgid "wait until %b"
+msgstr "vänta tills %b"
+
+msgid "when %k key pressed"
+msgstr "när %k trycks"
+
+msgid "when %m clicked"
+msgstr "när %m klickas på"
+
+msgid "when I receive %e"
+msgstr "när jag tar emot %e"
+
+msgid "x position"
+msgstr "x-läge"
+
+msgid "y position"
+msgstr "y-läge"
+
+############################################
+# USER INTERFACE
+############################################
+
+msgid "(empty)"
+msgstr "(tom)"
+
+msgid "1 script"
+msgstr "1 script"
+
+msgid "About Scratch"
+msgstr "Om Scratch"
+
+msgid "About this project:"
+msgstr "Om projektet:"
+
+msgid "abs"
+msgstr "abs"
+
+msgid "add comment"
+msgstr "kommentera"
+
+msgid "add comment here"
+msgstr "kommentera här"
+
+msgid "all"
+msgstr "alla"
+
+msgid "and"
+msgstr "och"
+
+msgid "Animation"
+msgstr "Animation"
+
+# Old word random is use in list 
+msgid "any"
+msgstr "någon"
+
+# Vart finns den
+msgid "Art"
+msgstr "Konst"
+
+msgid "background"
+msgstr "bakgrund"
+
+msgid "backgrounds"
+msgstr "bakgrunder"
+
+msgid "Backgrounds"
+msgstr "Bakgrunder"
+
+msgid "brightness"
+msgstr "ljushet"
+
+msgid "Brush size: "
+msgstr "Penselstorlek: "
+
+msgid "button"
+msgstr "knapp"
+
+msgid "button pressed"
+msgstr "knapp tryckt"
+
+msgid "Camera"
+msgstr "Kamera"
+
+msgid "can rotate"
+msgstr "kan roteras"
+
+msgid "cancel"
+msgstr "avbryt"
+
+msgid "Cancel"
+msgstr "Avbryt"
+
+msgid "Choose a folder"
+msgstr "Välj en mapp"
+
+msgid "Choose new sprite from file"
+msgstr "Välj ny sprite från fil"
+
+msgid "clean up"
+msgstr "städa up"
+
+msgid "Clear"
+msgstr "Radera"
+
+msgid "Clear canvas"
+msgstr "Radera ytan"
+
+# Är det spara eller ej
+msgid "Close and continue"
+msgstr "Stäng och fortsätta"
+
+msgid "Close dialog?"
+msgstr "Stäng fönster"
+
+msgid "Close paint editor?"
+msgstr "Sluta att rita?"
+
+msgid "close port"
+msgstr "stäng port"
+
+msgid "Close sound recorder?"
+msgstr "Sluta och spela in?"
+
+msgid "color"
+msgstr "färg"
+
+msgid "Compress Images"
+msgstr "Komprimera bilder"
+
+msgid "Compress Sounds"
+msgstr "Komprimera ljud"
+
+msgid "Compress sounds and images"
+msgstr "Komprimera ljud och bilder"
+
+msgid "Computer"
+msgstr "Dator"
+
+msgid "connected"
+msgstr "uppkopplad"
+
+msgid "Connecting to "
+msgstr "Kopplar upp mot "
+
+msgid "Copy"
+msgstr "Kopiera"
+
+msgid "costume"
+msgstr "klädsel"
+
+msgid "costumes"
+msgstr "klädslar"
+
+msgid "Costumes"
+msgstr "Klädslar"
+
+msgid "Could not read"
+msgstr "Kunde inte läsa"
+
+msgid "Could not read project; file may be damaged"
+msgstr "Kan inte läsa projektfil; filen kan vara skadad"
+
+msgid "Could not write file"
+msgstr "Kunde inte skriva filen"
+
+msgid "Create account"
+msgstr "Skapa konto"
+
+msgid "Create an empty project"
+msgstr "Skapa ett tomt projekt"
+
+msgid "Data sent. Waiting for response..."
+msgstr "Data skickat. Väntar på svar..."
+
+msgid "delete"
+msgstr "radera"
+
+msgid "Delete"
+msgstr "Radera"
+
+msgid "Delete a list"
+msgstr "Radera lista"
+
+msgid "Delete a variable"
+msgstr "Ta bort en variabel"
+
+msgid "Delete this background"
+msgstr "Radera den här bakgrunden"
+
+msgid "Delete this costume"
+msgstr "Radera denna klädsel"
+
+msgid "Delete this sound"
+msgstr "Radera ljudet"
+
+msgid "Delete this sprite"
+msgstr "Radera den här spriten"
+
+msgid "Desktop"
+msgstr "Skrivbord"
+
+msgid "disable remote sensor connections"
+msgstr "avaktivera sensor fjärranslutningar"
+
+msgid "distance"
+msgstr "avstånd"
+
+msgid "Documents"
+msgstr "Dokument"
+
+msgid "don't rotate"
+msgstr "rotera inte"
+
+msgid "Don't Save"
+msgstr "Sluta"
+
+msgid "Done"
+msgstr "Klart"
+
+msgid "down"
+msgstr "ned"
+
+msgid "down arrow"
+msgstr "pil ned"
+
+msgid "drag to resize"
+msgstr "dra för att ändra storlek"
+
+msgid "drag to rotate"
+msgstr "dra för att rotera"
+
+msgid "draggable on website?"
+msgstr "möjlig att dra-släppa på websida?"
+
+msgid "duplicate"
+msgstr "kopiera"
+
+msgid "Duplicate"
+msgstr "Kopiera"
+
+msgid "edge"
+msgstr "kant"
+
+msgid "Edit"
+msgstr "Redigera"
+
+msgid "Ellipse tool (draw outlined or filled ellipse or circle)"
+msgstr "Ellips-verktyg (rita ofylld eller fylld ellips eller cirkel)"
+
+msgid "enable remote sensor connections"
+msgstr "möjliggör sensor fjärranslutningar"
+
+msgid "Enter presentation mode"
+msgstr "Visa presentationsläge"
+
+msgid "Eraser"
+msgstr "Suddgummi"
+
+msgid "Eraser size"
+msgstr "Storlek på suddgummi"
+
+msgid "Error!"
+msgstr "Fel!"
+
+msgid "Examples"
+msgstr "Exempel"
+
+msgid "Exit presentation"
+msgstr "Avsluta presentationen"
+
+msgid "Exit presentation mode"
+msgstr "Lämna presentationsläge"
+
+msgid "export"
+msgstr "exportera"
+
+msgid "Export Background"
+msgstr "Exportera bakgrund"
+
+msgid "Export Costume"
+msgstr "Exportera klädsel"
+
+msgid "Export failed"
+msgstr "Export misslyckades"
+
+msgid "Export Sound"
+msgstr "Exportera ljud"
+
+msgid "Export Sprite"
+msgstr "Exportera sprite"
+
+msgid "export this costume"
+msgstr "Exportera denna klädsel"
+
+msgid "export this sound"
+msgstr "Exportera detta ljud"
+
+msgid "export this sprite"
+msgstr "exportera denna sprite"
+
+msgid "Extras menu"
+msgstr "Tilläggsmeny "
+
+msgid "Eyedropper tool (select a color)"
+msgstr "Färgpipett (välj en färg)"
+
+msgid "Failed:"
+msgstr "Misslyckades:"
+
+msgid "false"
+msgstr "felaktig"
+
+msgid "File"
+msgstr "Fil"
+
+msgid "File not found"
+msgstr "Filen hittades inte"
+
+msgid "Fill tool (fill areas with color or gradient)"
+msgstr "Fyllnadsverktyg (fyll område med färg eller övertoning)"
+
+msgid "first"
+msgstr "första"
+
+msgid "fisheye"
+msgstr "fisheye"
+
+msgid "Flash blocks (fast)"
+msgstr "Låt block blinka (snabbt)"
+
+msgid "Flash blocks (slow)"
+msgstr "Låt block blinka (sakta)"
+
+msgid "Flip horizontally"
+msgstr "Vänd horisontellt"
+
+msgid "Flip vertically"
+msgstr "Vänd vertikalt"
+
+msgid "For all sprites"
+msgstr "För alla sprites"
+
+msgid "For this sprite only"
+msgstr "Enbart för denna sprite"
+
+msgid "Game"
+msgstr "Spel"
+
+msgid "Get surprise sprite"
+msgstr "Hämta slumpmässig sprite"
+
+msgid "Get the last thing deleted"
+msgstr "Ångra senast raderad"
+
+# Tveksam 
+msgid "Getting Started"
+msgstr "Har börjat"
+
+msgid "ghost"
+msgstr "genomskinlighet"
+
+msgid "Go To Scratch Website"
+msgstr "Gå till Scratchs webbsida"
+
+msgid "grab screen region for new costume"
+msgstr "kopiera skärmområde till en ny klädsel"
+
+msgid "grab screen region for new sprite"
+msgstr "kopiera skärmområde till en ny sprite"
+
+msgid "Grow"
+msgstr "Förstora"
+
+msgid "Grow sprite"
+msgstr "Förstora sprite"
+
+msgid "hello "
+msgstr "hej"
+
+msgid "Hello!"
+msgstr "Hej!"
+
+msgid "help"
+msgstr "hjälp"
+
+msgid "Help"
+msgstr "hjälp"
+
+msgid "Help Page"
+msgstr "Hjälp sida"
+
+msgid "Help Screens"
+msgstr "Hjälp skärm"
+
+msgid "Hide Motor Blocks"
+msgstr "Göm motorblocken"
+
+msgid "High (biggest)"
+msgstr "Hög (störst)"
+
+msgid "Hmm..."
+msgstr "Hmm..."
+
+msgid "Home"
+msgstr "Hem"
+
+msgid "Images compressed"
+msgstr "Bilder komprimerade"
+
+msgid "import"
+msgstr "importera"
+
+msgid "Import"
+msgstr "Importera"
+
+msgid "Import an image on top of your current canvas"
+msgstr "Importera en bild överst på nuvarande projektbild"
+
+msgid "Import Background"
+msgstr "Importera bakgrund"
+
+msgid "Import Costume"
+msgstr "Importera klädsel"
+
+msgid "Import Image"
+msgstr "Importera bild"
+
+msgid "Import List"
+msgstr "Importera en lista"
+
+msgid "Import Project"
+msgstr "Importera projekt"
+
+msgid "import project"
+msgstr "importa ett projekt"
+
+msgid "Import Sound"
+msgstr "Importera ljud"
+
+msgid "Incompatible Scratch file format"
+msgstr "Inte kompatibelt Scratch filformat"
+
+msgid "Is the folder read-only?"
+msgstr "Är mappen skrivskyddad?"
+
+msgid "JPEG Quality (10-100)?"
+msgstr "JPEG kvalitet (10-100)"
+
+msgid "kbytes"
+msgstr "kbytes"
+
+# swedish a with dot is not shown in RC 14 aug 2008
+msgid "Language"
+msgstr "språk"
+
+msgid "large readout"
+msgstr "stor avläsning"
+
+msgid "last"
+msgstr "sista"
+
+msgid "left"
+msgstr "vänster"
+
+msgid "left arrow"
+msgstr "pil vänster"
+
+msgid "length"
+msgstr "längd"
+
+msgid "light"
+msgstr "ljus"
+
+msgid "Line tool (draw lines)"
+msgstr "Linjeverktyg (dra linjer)"
+
+msgid "List name?"
+msgstr "Listnamn?"
+
+msgid "Low"
+msgstr "Låg"
+
+msgid "Lowest (smallest)"
+msgstr "Lägst (minst)"
+
+msgid "Make a list"
+msgstr "Skapa en lista"
+
+msgid "Make a variable"
+msgstr "Ny variabel"
+
+msgid "Max:"
+msgstr "Max:"
+
+msgid "meow"
+msgstr "mjau"
+
+msgid "Message name:"
+msgstr "Meddelandenamn:"
+
+msgid "Min:"
+msgstr "Min:"
+
+msgid "mod"
+msgstr "mod"
+
+msgid "more"
+msgstr "fler"
+
+msgid "More tags:"
+msgstr "Fler kategorier:"
+
+msgid "mosaic"
+msgstr "mosaik"
+
+msgid "mouse x:"
+msgstr "mus x:"
+
+msgid "mouse y:"
+msgstr "mus y:"
+
+msgid "mouse-pointer"
+msgstr "musmarkör"
+
+msgid "Move"
+msgstr "Flytta"
+
+msgid "Music"
+msgstr "Musik"
+
+msgid "My Projects"
+msgstr "Mina projekt"
+
+msgid "new"
+msgstr "ny"
+
+msgid "New"
+msgstr "Ny"
+
+msgid "New background:"
+msgstr "Ny bakgrund:"
+
+msgid "New costume:"
+msgstr "Ny klädsel"
+
+msgid "New file name?"
+msgstr ""
+
+msgid "New Filename:"
+msgstr "Nytt filnamn:"
+
+msgid "New sound:"
+msgstr "Nytt ljud:"
+
+msgid "New Sprite"
+msgstr "Ny sprite"
+
+msgid "New sprite:"
+msgstr "Ny sprite:"
+
+msgid "No"
+msgstr "Nej"
+
+msgid "No MIDI ports currently available."
+msgstr "Inga MIDI-portar tillgängliga för tillfället"
+
+msgid "No motion blocks"
+msgstr "Inga rörelseblock"
+
+msgid "no scripts"
+msgstr "inga scripts"
+
+msgid "No serial ports found"
+msgstr "Inga seriella portar hittades"
+
+msgid "No variables."
+msgstr "Inga variabler."
+
+msgid "Normal"
+msgstr "Normal"
+
+msgid "normal readout"
+msgstr "normal avläsning"
+
+msgid "Off"
+msgstr "Av"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "On"
+msgstr "På"
+
+msgid "only face left-right"
+msgstr "enbart vänd vänster-höger"
+
+msgid "Open"
+msgstr "Öppna"
+
+msgid "Open a Scratch project"
+msgstr "Öppna ett Scratchprojekt"
+
+msgid "Open Project"
+msgstr "Öppna projekt"
+
+msgid "or"
+msgstr "eller"
+
+msgid "Paint"
+msgstr "Rita"
+
+msgid "Paint Editor"
+msgstr "Ritprogram"
+
+msgid "Paint new sprite"
+msgstr "Rita ny sprite"
+
+msgid "Paintbrush"
+msgstr "Pensel"
+
+msgid "Password:"
+msgstr "Lösenord:"
+
+msgid "Percent? (100 gives original size)"
+msgstr "Procent? (100 återställer till orginal)"
+
+msgid "Pictures"
+msgstr "Bilder"
+
+msgid "pixelate"
+msgstr "förvandla pixlar"
+
+msgid "play"
+msgstr "spela"
+
+msgid "Please enter a number"
+msgstr "Var vänlig mata in en siffra"
+
+msgid "pop"
+msgstr "pop"
+
+msgid "Position the cross-hair to set the rotation center"
+msgstr "Positionera hårkorset för center av rotationen"
+
+msgid "Preparing project..."
+msgstr "Förbereder projekt..."
+
+msgid "Project author:"
+msgstr "Projektets skapare:"
+
+msgid "Project name"
+msgstr "Projektnamn"
+
+msgid "Project Notes"
+msgstr "Projektanteckningar"
+
+msgid "Project notes"
+msgstr "Projektanteckningar"
+
+msgid "Project uploaded."
+msgstr "Projektet uppladdat."
+
+msgid "Projects"
+msgstr "Projekt"
+
+msgid "Quit"
+msgstr "Sluta"
+
+msgid "Quit Scratch"
+msgstr "Sluta Scratch"
+
+msgid "Reading"
+msgstr "Läser"
+
+msgid "record"
+msgstr "spela in"
+
+msgid "Record"
+msgstr "Spela in"
+
+msgid "recording"
+msgstr "spelar in"
+
+msgid "Rectangle tool (draw outlined or filled rectangle or square)"
+msgstr "Rektangelverktyg (rita ofylld eller fylld rektangel eller fyrkant)"
+
+msgid "Redo"
+msgstr "Gör om"
+
+msgid "Reference Guide"
+msgstr "referens handbok"
+
+msgid "Remote sensor connections enabled"
+msgstr "fjärranslutna sensorer aktiverade"
+
+msgid "Remove viewer from stage"
+msgstr "Avlägsna betraktare från scenen"
+
+msgid "resistance"
+msgstr "motstånd"
+
+msgid "resize this sprite"
+msgstr "ändra storlek på denna sprite"
+
+msgid "reverse"
+msgstr "vända"
+
+msgid "right"
+msgstr "höger"
+
+msgid "right arrow"
+msgstr "pil höger"
+
+msgid "Rotate clock-wise"
+msgstr "Rotera medurs"
+
+msgid "Rotate counter-clock-wise"
+msgstr "Rotera moturs"
+
+msgid "rotate this sprite"
+msgstr "rotera denna sprite"
+
+msgid "Rotation degrees?"
+msgstr "Rotationsvinkel"
+
+msgid "Save"
+msgstr "Spara"
+
+msgid "Save a copy of the current project"
+msgstr "Spara en kopia av aktuellt projekt"
+
+msgid "Save As"
+msgstr "Spara som"
+
+msgid "Save changes before quitting?"
+msgstr "Spara ändringar innan du slutar"
+
+msgid "Save failed"
+msgstr "Det gick inte att spara"
+
+msgid "save picture of scripts"
+msgstr "spara avbild av script"
+
+msgid "save picture of stage..."
+msgstr "spara avbild av scenen..."
+
+msgid "Save Project"
+msgstr "Spara projekt"
+
+msgid "Save Scripts Snapshot"
+msgstr "Spara snapshot av script"
+
+msgid "Save Stage Shot"
+msgstr "Spara scenavbild"
+
+msgid "Save the current project"
+msgstr "Spara aktuellt projekt"
+
+msgid "Save the current project?"
+msgstr "Spara aktuellt projekt?"
+
+msgid "Save this project"
+msgstr "Spara detta projekt"
+
+msgid "Scripts"
+msgstr "Script"
+
+msgid "select serial/USB port"
+msgstr "välj seriell/USB-port"
+
+msgid "Select tool (move, modify, or delete selection)"
+msgstr "Välj verktyg (flytta, modifiera, eller radera markering)"
+
+msgid "Set costume center"
+msgstr "Sätt mittpunkt på klädseln"
+
+msgid "Set language"
+msgstr "Välj språk"
+
+msgid "Set rotation center"
+msgstr "Sätt rotationscenter"
+
+msgid "Set Single Stepping"
+msgstr "Sätt på stegvis körning"
+
+msgid "set slider min and max"
+msgstr "sätt reglage min och max"
+
+msgid "Share"
+msgstr "Dela ut"
+
+msgid "Share this project"
+msgstr "Dela ut detta projekt"
+
+msgid "Share This Project Online"
+msgstr "Dela ut detta projekt online"
+
+msgid "Show Motor Blocks"
+msgstr "Visa motorblocken"
+
+msgid "show ScratchBoard watcher"
+msgstr "visa bevakare-Scratchboard"
+
+msgid "Shrink"
+msgstr "Förminska"
+
+msgid "Shrink sprite"
+msgstr "Förminska sprite"
+
+msgid "Simulation"
+msgstr "Simulation"
+
+msgid "Single-step speed?"
+msgstr "Hastighet stegvis körning"
+
+msgid "slider"
+msgstr "reglage"
+
+msgid "Slider range:"
+msgstr "Reglageområde:"
+
+msgid "Sound quality:"
+msgstr "Ljudkvalitet:"
+
+msgid "Sound Recorder"
+msgstr "Ljudinspelare"
+
+msgid "Sounds"
+msgstr "Ljud"
+
+msgid "Sounds compressed"
+msgstr "Ljud komprimerat"
+
+msgid "space"
+msgstr "mellanslag"
+
+msgid "Sprite"
+msgstr "Sprite"
+
+msgid "Sprites"
+msgstr "Sprites"
+
+msgid "sqrt"
+msgstr "sqrt"
+
+msgid "Stage"
+msgstr "Scen"
+
+msgid "Stage selected:"
+msgstr "Scen vald:"
+
+msgid "Stamp tool (select area, then stamp copies of it)"
+msgstr "Stämpelverktyg (välj yta, stämpla kopior av ytan"
+
+msgid "Start green flag scripts"
+msgstr "Starta grönflagg-script"
+
+msgid "Start Single Stepping"
+msgstr "Starta stegvis körning"
+
+msgid "stop"
+msgstr "stopp"
+
+msgid "Stop everything"
+msgstr "Stoppa allt"
+
+msgid "Stop Single Stepping"
+msgstr "stoppa stegvis körning"
+
+msgid "Story"
+msgstr "Historia"
+
+msgid "Support Site"
+msgstr "Supportwebbsida"
+
+msgid "Switch colors"
+msgstr "Skifta färger"
+
+msgid "Switch to full stage"
+msgstr "Ändra till normal scen"
+
+msgid "Switch to presentation mode"
+msgstr "Ändra till presentationsläge"
+
+msgid "Switch to small stage"
+msgstr "Ändra till liten scen"
+
+msgid "Tags:"
+msgstr "Kategori:"
+
+msgid "Text tool (edit text layer)"
+msgstr "Textverktyg (redigera textlager)"
+
+msgid "That variable name is already in use"
+msgstr "Namnet finns redan  "
+
+msgid "that way"
+msgstr "framåt"
+
+msgid "The file name already exists. Overwrite existing file?"
+msgstr "Filnamnet finns redan. Skriv över filen?"
+
+msgid "thing"
+msgstr "värde"
+
+msgid "this way"
+msgstr "bakåt"
+
+msgid "tilt"
+msgstr "luta"
+
+msgid "true"
+msgstr "sant"
+
+msgid "Turbo speed"
+msgstr "Turbohastighet"
+
+msgid "turn into new sprite"
+msgstr "Förvandla till ny sprite"
+
+msgid "Undelete"
+msgstr "Ångra radering"
+
+msgid "Undo"
+msgstr "Ångra"
+
+msgid "up"
+msgstr "upp"
+
+msgid "up arrow"
+msgstr "pil upp"
+
+msgid "Updating thumbnails"
+msgstr "Uppdaterar förhandsgranskningsbilder"
+
+msgid "Upload succeeded!"
+msgstr "Uppladdningen lyckades!"
+
+msgid "Upload to Scratch Server"
+msgstr "Ladda upp till Scratchserver"
+
+msgid "Uploading"
+msgstr "Laddar upp"
+
+msgid "Variable name?"
+msgstr "Variabelnamn?"
+
+msgid "View on stage"
+msgstr "Visa på scenen"
+
+msgid "What's your name?"
+msgstr "Vad heter du?"
+
+msgid "whirl"
+msgstr "virvel"
+
+msgid "world"
+msgstr "världen"
+
+msgid "Write Multiple Project Summaries"
+msgstr "skriv summering av flera projekt"
+
+msgid "Write Project Summary"
+msgstr "skriv summering av projektet"
+
+msgid "Yes"
+msgstr "Ja"
+
+msgid "Your project is now online at"
+msgstr "Ditt projekt finns nu online på"
+
+msgid "Your Scratch website login name:"
+msgstr "Ditt login namn på Scratchwebsidan:"
+
+msgid "Zoom in"
+msgstr "Zooma in"
+
+msgid "Zoom out"
+msgstr "Zooma ut"
+
+############################################
+# MIDI INSTRUMENTS
+############################################
+
+msgid "Accordion"
+msgstr "Dragspel"
+
+msgid "Acoustic Bass"
+msgstr "Akustisk bas"
+
+msgid "Acoustic Bass Drum"
+msgstr "Akustiskt bastrumma"
+
+msgid "Acoustic Grand"
+msgstr "Akustisk flygel"
+
+msgid "Acoustic Snare"
+msgstr "Akustisk virveltrumma"
+
+msgid "Agogo"
+msgstr "Agogo"
+
+msgid "Alto Sax"
+msgstr "Altsaxofon"
+
+msgid "Applause"
+msgstr "Applåder"
+
+msgid "Bagpipe"
+msgstr "Säckpipa"
+
+msgid "Banjo"
+msgstr "Banjo"
+
+msgid "Baritone Sax"
+msgstr "Barytonsaxofon"
+
+msgid "Bass Drum 1"
+msgstr "Bastrumma 1"
+
+msgid "Bassoon"
+msgstr "Fagott"
+
+msgid "Bird Tweet"
+msgstr "Fågelkvitter"
+
+msgid "Blown Bottle"
+msgstr "Blås flaska"
+
+msgid "Brass Section"
+msgstr "Brassektion"
+
+msgid "Breath Noise"
+msgstr "Andningsljud"
+
+msgid "Bright Acoustic"
+msgstr "Ljus akustiskt piano"
+
+msgid "Cabasa"
+msgstr "Cabasa"
+
+msgid "Celesta"
+msgstr "Celeste"
+
+msgid "Cello"
+msgstr "Cello"
+
+msgid "Chinese Cymbal"
+msgstr "Kinesisk cymbal"
+
+msgid "Choir Aahs"
+msgstr "Aah i kör"
+
+msgid "Church Organ"
+msgstr "Kyrkorgel"
+
+msgid "Clarinet"
+msgstr "Klarinett"
+
+msgid "Claves"
+msgstr "Claves"
+
+msgid "Clavinet"
+msgstr "Klavinett"
+
+msgid "Closed Hi-Hat"
+msgstr "Stängd Hi-Hat"
+
+msgid "Contrabass"
+msgstr "Kontrabas"
+
+msgid "Cowbell"
+msgstr "Koskälla"
+
+msgid "Crash Cymbal 1"
+msgstr "Kraschcymbal 1"
+
+msgid "Crash Cymbal 2"
+msgstr "Kraschcymbal 2"
+
+msgid "Distortion Guitar"
+msgstr "Distad elgitarr"
+
+msgid "Drawbar Organ"
+msgstr "Drawbarorgel"
+
+msgid "Dulcimer"
+msgstr "Hackbräde"
+
+msgid "Electric Bass (finger)"
+msgstr "Elbas (finger)"
+
+msgid "Electric Bass (pick)"
+msgstr "Elbas (plektrum)"
+
+msgid "Electric Clean Guitar"
+msgstr "Elgitarr (ren)"
+
+msgid "Electric Grand"
+msgstr "Elektrisk flygel"
+
+msgid "Electric Jazz Guitar"
+msgstr "Elgitarr (jazz)"
+
+msgid "Electric Muted Guitar"
+msgstr "Elgitarr (dämpad)"
+
+msgid "Electric Piano 1"
+msgstr "Elpiano 1"
+
+msgid "Electric Piano 2"
+msgstr "Elpiano 2"
+
+msgid "Electric Snare"
+msgstr "Elektrisk virveltrumma"
+
+msgid "English Horn"
+msgstr "Engelsk horn"
+
+msgid "FX 1 (rain)"
+msgstr "FX 1 (regn)"
+
+msgid "FX 2 (soundtrack)"
+msgstr "FX 2 (ljudspår)"
+
+msgid "FX 3 (crystal)"
+msgstr "FX 3 (kristall)"
+
+msgid "FX 4 (atmosphere)"
+msgstr "FX 4 (atmosfär)"
+
+msgid "FX 5 (brightness)"
+msgstr "FX 5 (klarhet)"
+
+msgid "FX 6 (goblins)"
+msgstr "FX 6 (goblins)"
+
+msgid "FX 7 (echoes)"
+msgstr "FX 7 (eko)"
+
+msgid "FX 8 (sci-fi)"
+msgstr "FX 8 (sci-fi)"
+
+msgid "Fiddle"
+msgstr "Fiol"
+
+msgid "Flute"
+msgstr "Flöjt"
+
+msgid "French Horn"
+msgstr "Franskt horn"
+
+msgid "Fretless Bass"
+msgstr "Bandlös bas"
+
+msgid "Glockenspiel"
+msgstr "Klockspel"
+
+msgid "Guitar Fret Noise"
+msgstr "Gitarrband ljud"
+
+msgid "Guitar Harmonics"
+msgstr "Gitarr övertoner"
+
+msgid "Gunshot"
+msgstr "Gevärskott"
+
+msgid "Hand Clap"
+msgstr "Handklapp"
+
+msgid "Harmonica"
+msgstr "Munspel"
+
+msgid "Harpsichord"
+msgstr "Cembalo"
+
+msgid "Helicopter"
+msgstr "Helikopter"
+
+msgid "Hi Bongo"
+msgstr "Hög bongo"
+
+msgid "Hi Wood Block"
+msgstr "Hög träblock"
+
+msgid "Hi-Mid Tom"
+msgstr "Hög-mid puka"
+
+msgid "High Agogo"
+msgstr "Hög agogo"
+
+msgid "High Floor Tom"
+msgstr "Hög golvpuka"
+
+msgid "High Timbale"
+msgstr "Hög timbale"
+
+msgid "High Tom"
+msgstr "Hög puka"
+
+msgid "Honky-Tonk"
+msgstr "Honky-Tonk piano"
+
+msgid "Kalimba"
+msgstr "Kalimba"
+
+msgid "Koto"
+msgstr "Koto"
+
+msgid "Lead 1 (square)"
+msgstr "Ton 1 (fyrkantsvåg)"
+
+msgid "Lead 2 (sawtooth)"
+msgstr "Ton 2 (sågtandsvåg)"
+
+msgid "Lead 3 (calliope)"
+msgstr "Ton 3 (orgelpositiv)"
+
+msgid "Lead 4 (chiff)"
+msgstr "Ton 4 (chiff)"
+
+msgid "Lead 5 (charang)"
+msgstr "Ton 5 (charango)"
+
+msgid "Lead 6 (voice)"
+msgstr "Ton 6 (röst)"
+
+msgid "Lead 7 (fifths)"
+msgstr "Ton 7 (kvinter)"
+
+msgid "Lead 8 (bass+lead)"
+msgstr "Ton 8 (bas+ton)"
+
+msgid "Long Guiro"
+msgstr "Lång guiro"
+
+msgid "Long Whistle"
+msgstr "Lång visselsignal"
+
+msgid "Low Agogo"
+msgstr "Låg agogo"
+
+msgid "Low Bongo"
+msgstr "Låg bongo"
+
+msgid "Low Conga"
+msgstr "Låg conga"
+
+msgid "Low Floor Tom"
+msgstr "Låg golvpuka"
+
+msgid "Low Timbale"
+msgstr "Låg timbale"
+
+msgid "Low Tom"
+msgstr "Låg puka"
+
+msgid "Low Wood Block"
+msgstr "Låg träblock"
+
+msgid "Low-Mid Tom"
+msgstr "Låg-mid puka"
+
+msgid "Maracas"
+msgstr "Maraccas"
+
+msgid "Marimba"
+msgstr "Marimba"
+
+msgid "Melodic Tom"
+msgstr "Melodisk puka"
+
+msgid "Music Box"
+msgstr "Speldosa"
+
+msgid "Mute Cuica"
+msgstr "Dämpad cuica"
+
+msgid "Mute Hi Conga"
+msgstr "Dämpad hög conga"
+
+msgid "Mute Triangle"
+msgstr "Dämpad triangel"
+
+msgid "Muted Trumpet"
+msgstr "Dämpad trumpet"
+
+msgid "Nylon String Guitar"
+msgstr "Nylonsträngad gitarr"
+
+msgid "Oboe"
+msgstr "Oboe"
+
+msgid "Ocarina"
+msgstr "Okarina"
+
+msgid "Open Cuica"
+msgstr "Öppen cuica"
+
+msgid "Open Hi Conga"
+msgstr "Öppen hög conga"
+
+msgid "Open Hi-Hat"
+msgstr "Öppen Hi-Hat"
+
+msgid "Open Triangle"
+msgstr "Öppen triangel"
+
+msgid "Orchestra Hit"
+msgstr "Orkester slag"
+
+msgid "Orchestral Strings"
+msgstr "Orkester stråkar"
+
+msgid "Overdriven Guitar"
+msgstr "Överstyrd gitarr"
+
+msgid "Pad 1 (new age)"
+msgstr "Pad 1 (new age)"
+
+msgid "Pad 2 (warm)"
+msgstr "Pad 2 (varm)"
+
+msgid "Pad 3 (polysynth)"
+msgstr "Pad 3 (polysynth)"
+
+msgid "Pad 4 (choir)"
+msgstr "Pad 4 (kör)"
+
+msgid "Pad 5 (bowed)"
+msgstr "Pad 5 (stråke)"
+
+msgid "Pad 6 (metallic)"
+msgstr "Pad 6 (metallisk)"
+
+msgid "Pad 7 (halo)"
+msgstr "Pad 7 (halo)"
+
+msgid "Pad 8 (sweep)"
+msgstr "Pad 8 (svep)"
+
+msgid "Pan Flute"
+msgstr "Panflöjt"
+
+msgid "Pedal Hi-Hat"
+msgstr "Pedal Hi-Hat"
+
+msgid "Percussive Organ"
+msgstr "Slagverksorgel"
+
+msgid "Piccolo"
+msgstr "Piccoloflöjt"
+
+msgid "Pizzicato Strings"
+msgstr "Pizzicato stråkar"
+
+msgid "Recorder"
+msgstr "Blockflöjt"
+
+msgid "Reed Organ"
+msgstr "Harmonium"
+
+msgid "Reverse Cymbal"
+msgstr "Omvänd cymbal"
+
+msgid "Ride Bell"
+msgstr "Mässingsklocka"
+
+msgid "Ride Cymbal 1"
+msgstr "Ridecymbal 1"
+
+msgid "Ride Cymbal 2"
+msgstr "Ridecymbal 2"
+
+msgid "Rock Organ"
+msgstr "Rockorgel"
+
+msgid "Seashore"
+msgstr "Strandkant"
+
+msgid "Shakuhachi"
+msgstr "Shakuhachi"
+
+msgid "Shamisen"
+msgstr "Shamisen"
+
+msgid "Shanai"
+msgstr "Shanai"
+
+msgid "Short Guiro"
+msgstr "Koer guiro"
+
+msgid "Short Whistle"
+msgstr "Kort visselsignal"
+
+msgid "Side Stick"
+msgstr "Kantslag"
+
+msgid "Sitar"
+msgstr "Sitar"
+
+msgid "Slap Bass 1"
+msgstr "Slapbas 1"
+
+msgid "Slap Bass 2"
+msgstr "Slapbas 2"
+
+msgid "Soprano Sax"
+msgstr "Sopransaxofon"
+
+msgid "Splash Cymbal"
+msgstr "Splash cymbal"
+
+msgid "Steel Drums"
+msgstr "Oljefat - trummor"
+
+msgid "Steel String Guitar"
+msgstr "Stålsträngad gitarr"
+
+msgid "String Ensemble 1"
+msgstr "Stråkensemble 1"
+
+msgid "String Ensemble 2"
+msgstr "Stråkensemble 2"
+
+msgid "Synth Bass 1"
+msgstr "Synthbas 1"
+
+msgid "Synth Bass 2"
+msgstr "Synthbas 2"
+
+msgid "Synth Drum"
+msgstr "Synthtrummor"
+
+msgid "Synth Voice"
+msgstr "Syntetisk röst"
+
+msgid "SynthBrass 1"
+msgstr "Synth bleckblås 1"
+
+msgid "SynthBrass 2"
+msgstr "Synth bleckblås 2"
+
+msgid "SynthStrings 1"
+msgstr "Synthstråkar 1"
+
+msgid "SynthStrings 2"
+msgstr "Synthstråkar 2"
+
+msgid "Taiko Drum"
+msgstr "Taiko trumma"
+
+msgid "Tambourine"
+msgstr "Tamburin"
+
+msgid "Tango Accordion"
+msgstr "Tangodragspel"
+
+msgid "Telephone Ring"
+msgstr "Telefonsignal"
+
+msgid "Tenor Sax"
+msgstr "Tenorsaxofon"
+
+msgid "Timpani"
+msgstr "Pukor"
+
+msgid "Tinkle Bell"
+msgstr "Liten klocka"
+
+msgid "Tremolo Strings"
+msgstr "Tremolo stråkar"
+
+msgid "Trombone"
+msgstr "Trombone"
+
+msgid "Trumpet"
+msgstr "Trumpet"
+
+msgid "Tuba"
+msgstr "Tuba"
+
+msgid "Tubular Bells"
+msgstr "Rörklockor"
+
+msgid "Vibraphone"
+msgstr "Vibrafon"
+
+msgid "Vibraslap"
+msgstr "Vibraslap"
+
+msgid "Viola"
+msgstr "Viola"
+
+msgid "Violin"
+msgstr "Violin"
+
+msgid "Voice Oohs"
+msgstr "Uhh röst"
+
+msgid "Whistle"
+msgstr "Visselpipa"
+
+msgid "Woodblock"
+msgstr "Träblock"
+
+msgid "Xylophone"
+msgstr "Xylophone"
+

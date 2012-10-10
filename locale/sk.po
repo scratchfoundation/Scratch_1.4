@@ -1,0 +1,1922 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-08-16 08:11-0400\n"
+"PO-Revision-Date: 2008-10-02 01:49-0400\n"
+"Last-Translator: Miroslava Drahošová <drahosovam@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: ENCODING\n"
+"X-Generator: Pootle 1.1.0rc2\n"
+
+############################################
+# FORMATTING
+############################################
+
+# Language name as you'd like it to appear in the Languages menu
+# (Required)
+msgid "Language-Name"
+msgstr "Slovak"
+
+# Directionality of language
+# LTR = Left to Right
+# RTL = Right to Left
+msgid "Language-Direction"
+msgstr ""
+
+# Scale to apply to font size (2 for twice as large)
+# Use this if the font is too small for legibility on the Scratch interface
+msgid "Font-Scale"
+msgstr ""
+
+# Set to 'true' or 'false'
+# Use this if you do not want any of the text to be bolded, for legibility
+msgid "Suppress-Bold"
+msgstr ""
+
+# Font to use on a Windows system
+msgid "Win-Font"
+msgstr ""
+
+# Font to use on a Mac system
+msgid "Mac-Font"
+msgstr ""
+
+# Font to use on a Linux system
+msgid "Linux-Font"
+msgstr ""
+
+############################################
+# BLOCKS
+############################################
+
+msgid "%H sensor value"
+msgstr "hodnota senzoru %H"
+
+msgid "%L contains %s"
+msgstr ""
+
+msgid "%a of %m"
+msgstr "%a z %m"
+
+msgid "%b and %b"
+msgstr "%b a %b"
+
+msgid "%b or %b"
+msgstr "%b alebo %b"
+
+msgid "%f of %n"
+msgstr "%f z %n"
+
+msgid "%n mod %n"
+msgstr "%n mod %n"
+
+# pridaj %s k %L
+msgid "add %s to %L"
+msgstr "pridaj %s k %L"
+
+msgid "answer"
+msgstr ""
+
+msgid "ask %s and wait"
+msgstr ""
+
+msgid "background #"
+msgstr "číslo pozadia"
+
+msgid "broadcast %e"
+msgstr "pošli všetkým %e"
+
+msgid "broadcast %e and wait"
+msgstr "pošli všetkým %e a počkaj"
+
+msgid "change %g effect by %n"
+msgstr "zmeň %g efekt o %n"
+
+msgid "change %v by %n"
+msgstr "zmeň %v o %n"
+
+msgid "change pen color by %n"
+msgstr "zmeň farbu pera o %n"
+
+msgid "change pen shade by %n"
+msgstr "zmeň odtieň pera o %n"
+
+msgid "change pen size by %n"
+msgstr "zmeň hrúbku pera o %n"
+
+msgid "change size by %n"
+msgstr "zmeň veľkosť o %n"
+
+msgid "change tempo by %n"
+msgstr "zmeň tempo o %n"
+
+msgid "change volume by %n"
+msgstr "zmeň hlasitosť o %n"
+
+msgid "change x by %n"
+msgstr "zmeň x o %n"
+
+msgid "change y by %n"
+msgstr "zmeň y o %n"
+
+msgid "clear"
+msgstr "zmaž plochu"
+
+msgid "clear graphic effects"
+msgstr "zruš grafické efekty"
+
+msgid "color %C is touching %C?"
+msgstr "farba %C je na farbe %C?"
+
+msgid "control"
+msgstr "ovládanie"
+
+msgid "costume #"
+msgstr "číslo kostýmu"
+
+msgid "delete %y of %L"
+msgstr "vymaž %y z %L"
+
+msgid "direction"
+msgstr "smer"
+
+msgid "distance to %m"
+msgstr "vzdialenosť od %m"
+
+msgid "else"
+msgstr "inak"
+
+msgid "forever"
+msgstr "stále opakuj"
+
+msgid "forever if %b"
+msgstr "stále opakuj, ak %b"
+
+msgid "glide %n secs to x:%n y:%n"
+msgstr "plachti %n sekúnd na pozícii x: %n  y: %n"
+
+msgid "go back %n layers"
+msgstr "späť o %n vrstiev"
+
+msgid "go to %m"
+msgstr "choď na %m"
+
+msgid "go to front"
+msgstr "choď do popredia"
+
+msgid "go to x:%n y:%n"
+msgstr "choď na pozíciu x: %n  y: %n"
+
+msgid "hide"
+msgstr "schovaj sa"
+
+msgid "hide variable %v"
+msgstr "schovaj premennú %v"
+
+msgid "if %b"
+msgstr "ak %b"
+
+msgid "if on edge, bounce"
+msgstr "ak narazíš na okraj, odraz sa"
+
+msgid "insert %s at %i of %L"
+msgstr "vlož %s na %i v %L"
+
+msgid "item %i of %L"
+msgstr "prvok %i z %L"
+
+msgid "join %s %s"
+msgstr ""
+
+msgid "key %k pressed?"
+msgstr "je klávesa %k stlačená?"
+
+msgid "length of %L"
+msgstr "dĺžka %L"
+
+msgid "length of %s"
+msgstr ""
+
+msgid "letter %n of %s"
+msgstr ""
+
+msgid "list"
+msgstr "zoznam"
+
+msgid "looks"
+msgstr "vzhľad"
+
+msgid "loud?"
+msgstr "nahlas?"
+
+msgid "loudness"
+msgstr "hlasitosť"
+
+msgid "motion"
+msgstr "pohyb"
+
+msgid "motor direction %W"
+msgstr ""
+
+msgid "motor off"
+msgstr ""
+
+msgid "motor on"
+msgstr ""
+
+msgid "motor on for %n secs"
+msgstr ""
+
+msgid "motor power %n"
+msgstr ""
+
+msgid "mouse down?"
+msgstr "myš stlačená?"
+
+msgid "mouse x"
+msgstr "súradnica myši x"
+
+msgid "mouse y"
+msgstr "súradnica myši y"
+
+msgid "move %n steps"
+msgstr "posuň sa o %n krokov"
+
+msgid "next background"
+msgstr "nasledujúce pozadie"
+
+msgid "next costume"
+msgstr "nasledujúci kostým"
+
+msgid "not %b"
+msgstr "nie je %b"
+
+msgid "operators"
+msgstr ""
+
+msgid "pen"
+msgstr "pero"
+
+#, fuzzy
+msgid "pen down"
+msgstr "pero dole"
+
+#, fuzzy
+msgid "pen up"
+msgstr "pero hore"
+
+msgid "pick random %n to %n"
+msgstr "vyber náhodné číslo od %n do %n"
+
+msgid "play drum %D for %n beats"
+msgstr "zabubnuj %D %n krát"
+
+msgid "play note %N for %n beats"
+msgstr "hraj notu %N %n dôb "
+
+msgid "play sound %S"
+msgstr "zahraj zvuk %S"
+
+msgid "play sound %S until done"
+msgstr "zahraj zvuk %S a počkaj"
+
+msgid "point in direction %d"
+msgstr "vyraz smerom %d"
+
+msgid "point towards %m"
+msgstr "vyraz k %m"
+
+msgid "repeat %n"
+msgstr "opakuj %n krát"
+
+msgid "repeat until %b"
+msgstr "opakuj pokiaľ nenastane %b"
+
+msgid "replace item %i of %L with %s"
+msgstr "nahraď %i v %L prvkom %s"
+
+msgid "reset timer"
+msgstr "vynuluj časovač"
+
+msgid "rest for %n beats"
+msgstr "%n dôb nehraj"
+
+msgid "round %n"
+msgstr "zaokrúhli %n"
+
+msgid "say %s"
+msgstr "povedz %s"
+
+msgid "say %s for %n secs"
+msgstr "hovor %s ďalších %n sekúnd"
+
+msgid "sensing"
+msgstr "vnímanie"
+
+msgid "sensor %h?"
+msgstr "senzor %h?"
+
+msgid "set %g effect to %n"
+msgstr "nastav efekt %g na %n"
+
+msgid "set %v to %n"
+msgstr "nastav %v na %n"
+
+msgid "set instrument to %I"
+msgstr "nastav nástroj na %I"
+
+msgid "set pen color to %c"
+msgstr "nastav farbu pera na %c"
+
+msgid "set pen color to %n"
+msgstr "nastav farbu pera na %n"
+
+msgid "set pen shade to %n"
+msgstr "nastav odtieň pera na %n"
+
+msgid "set pen size to %n"
+msgstr "nastav hrúbku pera na %n"
+
+msgid "set size to %n%"
+msgstr "nastav veľkosť na %n%"
+
+msgid "set tempo to %n bpm"
+msgstr "nastav tempo na %n bpm"
+
+msgid "set volume to %n%"
+msgstr "nastav hlasitosť na %n%"
+
+msgid "set x to %n"
+msgstr "nastav x na %n"
+
+msgid "set y to %n"
+msgstr "nastav y na %n"
+
+msgid "show"
+msgstr "zobraz"
+
+msgid "show variable %v"
+msgstr "ukáž premennú %v"
+
+msgid "size"
+msgstr "veľkosť"
+
+msgid "sound"
+msgstr "zvuk"
+
+msgid "stamp"
+msgstr "opečiatkuj sa"
+
+msgid "stop all"
+msgstr "zastav všetko"
+
+msgid "stop all sounds"
+msgstr "zastav všetky zvuky"
+
+msgid "stop script"
+msgstr "zastav scenár"
+
+msgid "switch to background %l"
+msgstr "nastav pozadie %l"
+
+msgid "switch to costume %l"
+msgstr "obleč si kostým %l"
+
+msgid "tempo"
+msgstr "tempo"
+
+msgid "think %s"
+msgstr "pomysli si %s"
+
+msgid "think %s for %n secs"
+msgstr "mysli si %s ďalších %n sekúnd"
+
+msgid "timer"
+msgstr "časovač"
+
+msgid "touching %m?"
+msgstr "dotýka sa %m?"
+
+msgid "touching color %C?"
+msgstr "dotýka sa farby %C?"
+
+msgid "turn %n degrees"
+msgstr "otoč sa o %n stupňov"
+
+msgid "variables"
+msgstr "premenné"
+
+msgid "volume"
+msgstr "hlasitosť"
+
+msgid "wait %n secs"
+msgstr "počkaj %n sekúnd"
+
+msgid "wait until %b"
+msgstr "počkaj kým nenastane %b"
+
+msgid "when %k key pressed"
+msgstr "po stlačení klávesy %k"
+
+msgid "when %m clicked"
+msgstr "po kliknutí na %m"
+
+msgid "when I receive %e"
+msgstr "po obdržaní správy %e"
+
+msgid "x position"
+msgstr "pozícia x"
+
+msgid "y position"
+msgstr "pozícia y"
+
+############################################
+# USER INTERFACE
+############################################
+
+msgid "(empty)"
+msgstr "(prázdny)"
+
+msgid "1 script"
+msgstr "1 scénár"
+
+msgid "About Scratch"
+msgstr "O Scratchi"
+
+msgid "About this project:"
+msgstr "O tomto projekte:"
+
+msgid "abs"
+msgstr "abs"
+
+msgid "add comment"
+msgstr "pridaj komentár"
+
+msgid "add comment here"
+msgstr "pridaj komentár sem"
+
+msgid "all"
+msgstr "všetko"
+
+msgid "and"
+msgstr "a"
+
+msgid "Animation"
+msgstr ""
+
+msgid "any"
+msgstr "hociktorý"
+
+msgid "Art"
+msgstr ""
+
+msgid "background"
+msgstr "pozadie"
+
+msgid "backgrounds"
+msgstr "pozadia"
+
+msgid "Backgrounds"
+msgstr "Pozadia"
+
+msgid "brightness"
+msgstr "jas"
+
+msgid "Brush size: "
+msgstr "Veľkosť štetca:"
+
+msgid "button"
+msgstr "tlačidlo"
+
+msgid "button pressed"
+msgstr "stlačené tlačidlo"
+
+msgid "Camera"
+msgstr ""
+
+msgid "can rotate"
+msgstr "možné otočiť"
+
+msgid "cancel"
+msgstr "storno"
+
+msgid "Cancel"
+msgstr "Storno"
+
+msgid "Choose a folder"
+msgstr "Vyber adresár"
+
+msgid "Choose new sprite from file"
+msgstr "Vyber si animáciu zo súboru"
+
+msgid "clean up"
+msgstr "usporiadať"
+
+msgid "Clear"
+msgstr "Zmaž"
+
+msgid "Clear canvas"
+msgstr "Vymaž plátno"
+
+msgid "Close and continue"
+msgstr ""
+
+msgid "Close dialog?"
+msgstr "Zatvoriť dialóg?"
+
+msgid "Close paint editor?"
+msgstr "Zatvoriť kreslenie?"
+
+msgid "close port"
+msgstr "zavrieť port"
+
+msgid "Close sound recorder?"
+msgstr "Ukončiť nahrávanie?"
+
+msgid "color"
+msgstr "farba"
+
+msgid "Compress Images"
+msgstr "komprimovať obrázky"
+
+msgid "Compress Sounds"
+msgstr "komprimovať zvuky"
+
+msgid "Compress sounds and images"
+msgstr "Komprimácia zvukov a obrázkov"
+
+msgid "Computer"
+msgstr "Počítač"
+
+msgid "connected"
+msgstr "pripojené"
+
+msgid "Connecting to "
+msgstr "Pripájam k _"
+
+msgid "Copy"
+msgstr "Kopíruj"
+
+msgid "costume"
+msgstr "kostým"
+
+msgid "costumes"
+msgstr "kostýmy"
+
+msgid "Costumes"
+msgstr "Kostýmy"
+
+msgid "Could not read"
+msgstr "Nemožno prečítať"
+
+msgid "Could not read project; file may be damaged"
+msgstr "Nemožno načítať projekt, súbor môže byť poškodený"
+
+msgid "Could not write file"
+msgstr "Nemožno zapísať súbor"
+
+msgid "Create account"
+msgstr "Vytvor účet"
+
+msgid "Create an empty project"
+msgstr "Vytvor prázdny projekt"
+
+msgid "Data sent. Waiting for response..."
+msgstr "Údaje boli odoslané, čakám na odpoveď..."
+
+msgid "delete"
+msgstr "vymaž"
+
+msgid "Delete"
+msgstr "Vymaž"
+
+msgid "Delete a list"
+msgstr "Vymaž zoznam"
+
+msgid "Delete a variable"
+msgstr "Vymaž premennú"
+
+msgid "Delete this background"
+msgstr ""
+
+msgid "Delete this costume"
+msgstr "Vymaž tento kostým"
+
+msgid "Delete this sound"
+msgstr "Vymaž tento zvuk"
+
+msgid "Delete this sprite"
+msgstr ""
+
+msgid "Desktop"
+msgstr ""
+
+msgid "disable remote sensor connections"
+msgstr ""
+
+msgid "distance"
+msgstr ""
+
+msgid "Documents"
+msgstr "Dokumenty"
+
+msgid "don't rotate"
+msgstr "neotáčať"
+
+msgid "Don't Save"
+msgstr ""
+
+msgid "Done"
+msgstr ""
+
+msgid "down"
+msgstr "dole"
+
+msgid "down arrow"
+msgstr "šipka dole"
+
+msgid "drag to resize"
+msgstr ""
+
+msgid "drag to rotate"
+msgstr ""
+
+msgid "draggable on website?"
+msgstr ""
+
+msgid "duplicate"
+msgstr ""
+
+msgid "Duplicate"
+msgstr ""
+
+msgid "edge"
+msgstr "okraj"
+
+msgid "Edit"
+msgstr "Uprav"
+
+msgid "Ellipse tool (draw outlined or filled ellipse or circle)"
+msgstr "Elipsa (kruh alebo elipsa, prázdna alebo plná)"
+
+msgid "enable remote sensor connections"
+msgstr ""
+
+msgid "Enter presentation mode"
+msgstr "Spustiť prezentáciu"
+
+msgid "Eraser"
+msgstr "Guma"
+
+msgid "Eraser size"
+msgstr "Veľkosť gumy"
+
+msgid "Error!"
+msgstr ""
+
+msgid "Examples"
+msgstr ""
+
+msgid "Exit presentation"
+msgstr ""
+
+msgid "Exit presentation mode"
+msgstr "Ukončiť prezentáciu"
+
+msgid "export"
+msgstr "exportovať"
+
+msgid "Export Background"
+msgstr "Exportuj pozadie"
+
+msgid "Export Costume"
+msgstr "Exportuj kostým"
+
+msgid "Export failed"
+msgstr ""
+
+msgid "Export Sound"
+msgstr "Exportuj zvuk"
+
+msgid "Export Sprite"
+msgstr ""
+
+msgid "export this costume"
+msgstr ""
+
+msgid "export this sound"
+msgstr ""
+
+msgid "export this sprite"
+msgstr ""
+
+msgid "Extras menu"
+msgstr "Rôzne"
+
+msgid "Eyedropper tool (select a color)"
+msgstr ""
+
+msgid "Failed:"
+msgstr "Chyba:"
+
+msgid "false"
+msgstr ""
+
+msgid "File"
+msgstr ""
+
+msgid "File not found"
+msgstr "Nemožno nájsť súbor"
+
+msgid "Fill tool (fill areas with color or gradient)"
+msgstr ""
+
+msgid "first"
+msgstr "prvý"
+
+msgid "fisheye"
+msgstr "rybie oko"
+
+msgid "Flash blocks (fast)"
+msgstr ""
+
+msgid "Flash blocks (slow)"
+msgstr ""
+
+msgid "Flip horizontally"
+msgstr "Otočiť vodorovne"
+
+msgid "Flip vertically"
+msgstr "Otočiť zvislo"
+
+msgid "For all sprites"
+msgstr "Pre všetky animácie"
+
+msgid "For this sprite only"
+msgstr "Len pre túto animáciu"
+
+msgid "Game"
+msgstr ""
+
+msgid "Get surprise sprite"
+msgstr ""
+
+msgid "Get the last thing deleted"
+msgstr ""
+
+msgid "Getting Started"
+msgstr ""
+
+msgid "ghost"
+msgstr ""
+
+msgid "Go To Scratch Website"
+msgstr ""
+
+msgid "grab screen region for new costume"
+msgstr ""
+
+msgid "grab screen region for new sprite"
+msgstr ""
+
+msgid "Grow"
+msgstr ""
+
+msgid "Grow sprite"
+msgstr ""
+
+msgid "hello "
+msgstr ""
+
+msgid "Hello!"
+msgstr "Ahoj !"
+
+msgid "help"
+msgstr "pomoc"
+
+msgid "Help"
+msgstr "pomoc"
+
+msgid "Help Page"
+msgstr ""
+
+msgid "Help Screens"
+msgstr ""
+
+msgid "Hide Motor Blocks"
+msgstr ""
+
+msgid "High (biggest)"
+msgstr "Vysoký (najväčší)"
+
+msgid "Hmm..."
+msgstr "Hmm..."
+
+msgid "Home"
+msgstr "Domov"
+
+msgid "Images compressed"
+msgstr "Komprimované obrázky"
+
+msgid "import"
+msgstr "import"
+
+msgid "Import"
+msgstr "Import"
+
+msgid "Import an image on top of your current canvas"
+msgstr "Importovať obrázok nad zvolenú vrstvu"
+
+msgid "Import Background"
+msgstr "Importovať pozadie"
+
+msgid "Import Costume"
+msgstr ""
+
+msgid "Import Image"
+msgstr "Importovať obrázok"
+
+msgid "Import List"
+msgstr "Zoznam importov"
+
+msgid "Import Project"
+msgstr "Import projektu"
+
+msgid "import project"
+msgstr "import projektu"
+
+msgid "Import Sound"
+msgstr "Import zvuku"
+
+msgid "Incompatible Scratch file format"
+msgstr "Formát súboru nie je kompatibilný so Scratch"
+
+msgid "Is the folder read-only?"
+msgstr "Je zložka určená len na čítanie ?"
+
+msgid "JPEG Quality (10-100)?"
+msgstr "JPEG kvalita (10-100) ?"
+
+msgid "kbytes"
+msgstr "kbytov"
+
+msgid "Language"
+msgstr "Jazyk"
+
+msgid "large readout"
+msgstr ""
+
+msgid "last"
+msgstr "posledný"
+
+msgid "left"
+msgstr "vľavo"
+
+msgid "left arrow"
+msgstr "zarovnanie vľavo"
+
+msgid "length"
+msgstr "dľžka"
+
+msgid "light"
+msgstr "svetlo"
+
+msgid "Line tool (draw lines)"
+msgstr ""
+
+msgid "List name?"
+msgstr ""
+
+msgid "Low"
+msgstr "Slabý"
+
+msgid "Lowest (smallest)"
+msgstr "Najnižší (najslabší)"
+
+msgid "Make a list"
+msgstr "Vytvoriť zoznam"
+
+msgid "Make a variable"
+msgstr "Vytvoriť premennú"
+
+msgid "Max:"
+msgstr "Maximum:"
+
+msgid "meow"
+msgstr "miau"
+
+msgid "Message name:"
+msgstr "Názov správy:"
+
+msgid "Min:"
+msgstr "Minimum:"
+
+msgid "mod"
+msgstr "mod"
+
+msgid "more"
+msgstr "viac"
+
+msgid "More tags:"
+msgstr "Viac značiek:"
+
+msgid "mosaic"
+msgstr "mozaika"
+
+msgid "mouse x:"
+msgstr "X pozícia kurzora:"
+
+msgid "mouse y:"
+msgstr "Y pozícia kurzora:"
+
+msgid "mouse-pointer"
+msgstr "ukazateľ myši"
+
+msgid "Move"
+msgstr "Presunúť"
+
+msgid "Music"
+msgstr "Hudba"
+
+msgid "My Projects"
+msgstr ""
+
+msgid "new"
+msgstr "nový"
+
+msgid "New"
+msgstr "Nový"
+
+msgid "New background:"
+msgstr "Nové pozadie:"
+
+msgid "New costume:"
+msgstr ""
+
+msgid "New file name?"
+msgstr ""
+
+msgid "New Filename:"
+msgstr "Názov nového súboru:"
+
+msgid "New sound:"
+msgstr "Nový zvuk:"
+
+msgid "New Sprite"
+msgstr ""
+
+msgid "New sprite:"
+msgstr ""
+
+msgid "No"
+msgstr "Nie"
+
+msgid "No MIDI ports currently available."
+msgstr "MIDI porty nie sú momentálne k dispozícii."
+
+msgid "No motion blocks"
+msgstr ""
+
+msgid "no scripts"
+msgstr "žiadne skripty"
+
+msgid "No serial ports found"
+msgstr "Sériový port nebol nájdený"
+
+msgid "No variables."
+msgstr "Žiadne premenné."
+
+msgid "Normal"
+msgstr "Normálny"
+
+msgid "normal readout"
+msgstr "normálny výstup"
+
+msgid "Off"
+msgstr "Vypnutý"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "On"
+msgstr "Zapnutý"
+
+msgid "only face left-right"
+msgstr ""
+
+msgid "Open"
+msgstr "Otvoriť"
+
+msgid "Open a Scratch project"
+msgstr "Otvoriť Scratch projekt"
+
+msgid "Open Project"
+msgstr "Otvoriť projekt"
+
+msgid "or"
+msgstr "alebo"
+
+msgid "Paint"
+msgstr "Maľba"
+
+msgid "Paint Editor"
+msgstr "Editor kreslenia"
+
+msgid "Paint new sprite"
+msgstr "Kresliť novú animáciu"
+
+msgid "Paintbrush"
+msgstr "Štetec"
+
+msgid "Password:"
+msgstr "Heslo:"
+
+msgid "Percent? (100 gives original size)"
+msgstr "Percentuálne (100 vyjadruje originálnu veľkosť) ?"
+
+msgid "Pictures"
+msgstr "Obrázky"
+
+msgid "pixelate"
+msgstr ""
+
+msgid "play"
+msgstr "hrať"
+
+msgid "Please enter a number"
+msgstr "Prosím zadaj číslo"
+
+msgid "pop"
+msgstr ""
+
+msgid "Position the cross-hair to set the rotation center"
+msgstr "Pozíciou ukazateľa nastav stred rotácie"
+
+msgid "Preparing project..."
+msgstr "Pripravujem projekt ..."
+
+msgid "Project author:"
+msgstr "Autor projektu:"
+
+msgid "Project name"
+msgstr "Názov projektu:"
+
+msgid "Project Notes"
+msgstr "Poznámky k projektu"
+
+msgid "Project notes"
+msgstr "Poznámky k projektu"
+
+msgid "Project uploaded."
+msgstr "Projekt bol nahraný."
+
+msgid "Projects"
+msgstr "Projekty"
+
+msgid "Quit"
+msgstr "Ukončiť"
+
+msgid "Quit Scratch"
+msgstr "Ukončiť Scratch"
+
+msgid "Reading"
+msgstr ""
+
+msgid "record"
+msgstr "záznam"
+
+msgid "Record"
+msgstr "Záznam"
+
+msgid "recording"
+msgstr "nahrávanie"
+
+msgid "Rectangle tool (draw outlined or filled rectangle or square)"
+msgstr "Obdĺžnik (kresli plný alebo len obrys obdĺžnika alebo štvorca)"
+
+msgid "Redo"
+msgstr "Znova"
+
+msgid "Reference Guide"
+msgstr ""
+
+msgid "Remote sensor connections enabled"
+msgstr ""
+
+msgid "Remove viewer from stage"
+msgstr "Odobrať zobrazenie zo scény"
+
+msgid "resistance"
+msgstr "odpor"
+
+msgid "resize this sprite"
+msgstr ""
+
+msgid "reverse"
+msgstr ""
+
+msgid "right"
+msgstr "vpravo"
+
+msgid "right arrow"
+msgstr "šipka vpravo"
+
+msgid "Rotate clock-wise"
+msgstr "Otočiť v smere hodinových ručičiek"
+
+msgid "Rotate counter-clock-wise"
+msgstr "Otočiť proti smeru hodinových ručičiek"
+
+msgid "rotate this sprite"
+msgstr ""
+
+msgid "Rotation degrees?"
+msgstr "Uhol otočenia"
+
+msgid "Save"
+msgstr "Uložiť"
+
+msgid "Save a copy of the current project"
+msgstr "Uložiť kópiu tohto projektu"
+
+msgid "Save As"
+msgstr "Uložiť ako"
+
+msgid "Save changes before quitting?"
+msgstr ""
+
+msgid "Save failed"
+msgstr "Ukladanie neúspešné"
+
+msgid "save picture of scripts"
+msgstr ""
+
+msgid "save picture of stage..."
+msgstr "Ulož obrázok scény"
+
+msgid "Save Project"
+msgstr "Uložiť projekt"
+
+msgid "Save Scripts Snapshot"
+msgstr ""
+
+msgid "Save Stage Shot"
+msgstr "Uloženie snímku scény"
+
+msgid "Save the current project"
+msgstr "Uložiť tento projekt"
+
+msgid "Save the current project?"
+msgstr "Uložiť tento projekt?"
+
+msgid "Save this project"
+msgstr ""
+
+msgid "Scripts"
+msgstr "Skripty"
+
+msgid "select serial/USB port"
+msgstr "vyber sériový/USB port"
+
+msgid "Select tool (move, modify, or delete selection)"
+msgstr "Výber (presun, zmeny, rušenie)"
+
+msgid "Set costume center"
+msgstr ""
+
+msgid "Set language"
+msgstr ""
+
+msgid "Set rotation center"
+msgstr "Nastav stred otáčania"
+
+msgid "Set Single Stepping"
+msgstr "nastaviť krokovanie"
+
+msgid "set slider min and max"
+msgstr "nastav posúvaču minimum a maximum"
+
+msgid "Share"
+msgstr "Zverejniť"
+
+msgid "Share this project"
+msgstr ""
+
+msgid "Share This Project Online"
+msgstr "Zdieľať tento projekt online"
+
+msgid "Show Motor Blocks"
+msgstr ""
+
+msgid "show ScratchBoard watcher"
+msgstr ""
+
+msgid "Shrink"
+msgstr "Zmenšiť"
+
+msgid "Shrink sprite"
+msgstr ""
+
+msgid "Simulation"
+msgstr ""
+
+msgid "Single-step speed?"
+msgstr "Rýchlosť krokovania"
+
+msgid "slider"
+msgstr "posúvač"
+
+msgid "Slider range:"
+msgstr "Rozsah posúvača:"
+
+msgid "Sound quality:"
+msgstr "Kvalita zvuku:"
+
+msgid "Sound Recorder"
+msgstr "Záznam zvuku"
+
+msgid "Sounds"
+msgstr "Zvuky"
+
+msgid "Sounds compressed"
+msgstr ""
+
+msgid "space"
+msgstr "medzerovník"
+
+msgid "Sprite"
+msgstr ""
+
+msgid "Sprites"
+msgstr ""
+
+msgid "sqrt"
+msgstr ""
+
+msgid "Stage"
+msgstr "Scéna"
+
+msgid "Stage selected:"
+msgstr "Je zvolená scéna:"
+
+msgid "Stamp tool (select area, then stamp copies of it)"
+msgstr "Pečiatkovač (vyber oblasť, potom ju opečiatkuj)"
+
+msgid "Start green flag scripts"
+msgstr ""
+
+msgid "Start Single Stepping"
+msgstr "začať krokovanie"
+
+msgid "stop"
+msgstr "zastaviť"
+
+msgid "Stop everything"
+msgstr "Zastaviť všetko"
+
+msgid "Stop Single Stepping"
+msgstr "ukončiť krokovanie"
+
+msgid "Story"
+msgstr ""
+
+msgid "Support Site"
+msgstr ""
+
+msgid "Switch colors"
+msgstr "Zameniť farby"
+
+msgid "Switch to full stage"
+msgstr ""
+
+msgid "Switch to presentation mode"
+msgstr ""
+
+msgid "Switch to small stage"
+msgstr ""
+
+msgid "Tags:"
+msgstr "Tagy:"
+
+msgid "Text tool (edit text layer)"
+msgstr "Text (edituj textovú vrstvu)"
+
+msgid "That variable name is already in use"
+msgstr "Premenná s týmto menom už existuje"
+
+msgid "that way"
+msgstr ""
+
+msgid "The file name already exists. Overwrite existing file?"
+msgstr "Súbor s týmto menom už existuje. Prepísať súbor?"
+
+msgid "thing"
+msgstr ""
+
+msgid "this way"
+msgstr ""
+
+msgid "tilt"
+msgstr ""
+
+msgid "true"
+msgstr "pravda"
+
+msgid "Turbo speed"
+msgstr "Turbo rýchlosť"
+
+msgid "turn into new sprite"
+msgstr ""
+
+msgid "Undelete"
+msgstr ""
+
+msgid "Undo"
+msgstr "Naspať"
+
+msgid "up"
+msgstr "hore"
+
+msgid "up arrow"
+msgstr "šipka hore"
+
+msgid "Updating thumbnails"
+msgstr ""
+
+msgid "Upload succeeded!"
+msgstr ""
+
+msgid "Upload to Scratch Server"
+msgstr ""
+
+msgid "Uploading"
+msgstr ""
+
+msgid "Variable name?"
+msgstr "Meno premennej?"
+
+msgid "View on stage"
+msgstr "Zobraziť na scéne"
+
+msgid "What's your name?"
+msgstr ""
+
+msgid "whirl"
+msgstr ""
+
+msgid "world"
+msgstr ""
+
+msgid "Write Multiple Project Summaries"
+msgstr ""
+
+msgid "Write Project Summary"
+msgstr ""
+
+msgid "Yes"
+msgstr "Áno"
+
+msgid "Your project is now online at"
+msgstr "Tvoj projekt je teraz online na"
+
+msgid "Your Scratch website login name:"
+msgstr "Prihlasovacie meno na Sratch stránke:"
+
+msgid "Zoom in"
+msgstr "Priblížiť"
+
+msgid "Zoom out"
+msgstr "Oddialiť"
+
+############################################
+# MIDI INSTRUMENTS
+############################################
+
+msgid "Accordion"
+msgstr "Akordeón"
+
+msgid "Acoustic Bass"
+msgstr ""
+
+msgid "Acoustic Bass Drum"
+msgstr ""
+
+msgid "Acoustic Grand"
+msgstr ""
+
+msgid "Acoustic Snare"
+msgstr ""
+
+msgid "Agogo"
+msgstr ""
+
+msgid "Alto Sax"
+msgstr ""
+
+msgid "Applause"
+msgstr "Potlesk"
+
+msgid "Bagpipe"
+msgstr ""
+
+msgid "Banjo"
+msgstr "Bendžo"
+
+msgid "Baritone Sax"
+msgstr ""
+
+msgid "Bass Drum 1"
+msgstr ""
+
+msgid "Bassoon"
+msgstr ""
+
+msgid "Bird Tweet"
+msgstr "Vtáčí štebot"
+
+msgid "Blown Bottle"
+msgstr ""
+
+msgid "Brass Section"
+msgstr ""
+
+msgid "Breath Noise"
+msgstr ""
+
+msgid "Bright Acoustic"
+msgstr ""
+
+msgid "Cabasa"
+msgstr ""
+
+msgid "Celesta"
+msgstr ""
+
+msgid "Cello"
+msgstr "Violončelo"
+
+msgid "Chinese Cymbal"
+msgstr ""
+
+msgid "Choir Aahs"
+msgstr ""
+
+msgid "Church Organ"
+msgstr ""
+
+msgid "Clarinet"
+msgstr ""
+
+msgid "Claves"
+msgstr ""
+
+msgid "Clavinet"
+msgstr ""
+
+msgid "Closed Hi-Hat"
+msgstr ""
+
+msgid "Contrabass"
+msgstr ""
+
+msgid "Cowbell"
+msgstr ""
+
+msgid "Crash Cymbal 1"
+msgstr ""
+
+msgid "Crash Cymbal 2"
+msgstr ""
+
+msgid "Distortion Guitar"
+msgstr ""
+
+msgid "Drawbar Organ"
+msgstr ""
+
+msgid "Dulcimer"
+msgstr ""
+
+msgid "Electric Bass (finger)"
+msgstr ""
+
+msgid "Electric Bass (pick)"
+msgstr ""
+
+msgid "Electric Clean Guitar"
+msgstr ""
+
+msgid "Electric Grand"
+msgstr ""
+
+msgid "Electric Jazz Guitar"
+msgstr ""
+
+msgid "Electric Muted Guitar"
+msgstr ""
+
+msgid "Electric Piano 1"
+msgstr ""
+
+msgid "Electric Piano 2"
+msgstr ""
+
+msgid "Electric Snare"
+msgstr ""
+
+msgid "English Horn"
+msgstr ""
+
+msgid "FX 1 (rain)"
+msgstr ""
+
+msgid "FX 2 (soundtrack)"
+msgstr ""
+
+msgid "FX 3 (crystal)"
+msgstr ""
+
+msgid "FX 4 (atmosphere)"
+msgstr ""
+
+msgid "FX 5 (brightness)"
+msgstr ""
+
+msgid "FX 6 (goblins)"
+msgstr ""
+
+msgid "FX 7 (echoes)"
+msgstr ""
+
+msgid "FX 8 (sci-fi)"
+msgstr ""
+
+msgid "Fiddle"
+msgstr ""
+
+msgid "Flute"
+msgstr ""
+
+msgid "French Horn"
+msgstr ""
+
+msgid "Fretless Bass"
+msgstr ""
+
+msgid "Glockenspiel"
+msgstr ""
+
+msgid "Guitar Fret Noise"
+msgstr ""
+
+msgid "Guitar Harmonics"
+msgstr ""
+
+msgid "Gunshot"
+msgstr ""
+
+msgid "Hand Clap"
+msgstr ""
+
+msgid "Harmonica"
+msgstr ""
+
+msgid "Harpsichord"
+msgstr ""
+
+msgid "Helicopter"
+msgstr ""
+
+msgid "Hi Bongo"
+msgstr ""
+
+msgid "Hi Wood Block"
+msgstr ""
+
+msgid "Hi-Mid Tom"
+msgstr ""
+
+msgid "High Agogo"
+msgstr ""
+
+msgid "High Floor Tom"
+msgstr ""
+
+msgid "High Timbale"
+msgstr ""
+
+msgid "High Tom"
+msgstr ""
+
+msgid "Honky-Tonk"
+msgstr ""
+
+msgid "Kalimba"
+msgstr ""
+
+msgid "Koto"
+msgstr ""
+
+msgid "Lead 1 (square)"
+msgstr ""
+
+msgid "Lead 2 (sawtooth)"
+msgstr ""
+
+msgid "Lead 3 (calliope)"
+msgstr ""
+
+msgid "Lead 4 (chiff)"
+msgstr ""
+
+msgid "Lead 5 (charang)"
+msgstr ""
+
+msgid "Lead 6 (voice)"
+msgstr ""
+
+msgid "Lead 7 (fifths)"
+msgstr ""
+
+msgid "Lead 8 (bass+lead)"
+msgstr ""
+
+msgid "Long Guiro"
+msgstr ""
+
+msgid "Long Whistle"
+msgstr ""
+
+msgid "Low Agogo"
+msgstr ""
+
+msgid "Low Bongo"
+msgstr ""
+
+msgid "Low Conga"
+msgstr ""
+
+msgid "Low Floor Tom"
+msgstr ""
+
+msgid "Low Timbale"
+msgstr ""
+
+msgid "Low Tom"
+msgstr ""
+
+msgid "Low Wood Block"
+msgstr ""
+
+msgid "Low-Mid Tom"
+msgstr ""
+
+msgid "Maracas"
+msgstr ""
+
+msgid "Marimba"
+msgstr ""
+
+msgid "Melodic Tom"
+msgstr ""
+
+msgid "Music Box"
+msgstr ""
+
+msgid "Mute Cuica"
+msgstr ""
+
+msgid "Mute Hi Conga"
+msgstr ""
+
+msgid "Mute Triangle"
+msgstr ""
+
+msgid "Muted Trumpet"
+msgstr ""
+
+msgid "Nylon String Guitar"
+msgstr ""
+
+msgid "Oboe"
+msgstr ""
+
+msgid "Ocarina"
+msgstr ""
+
+msgid "Open Cuica"
+msgstr ""
+
+msgid "Open Hi Conga"
+msgstr ""
+
+msgid "Open Hi-Hat"
+msgstr ""
+
+msgid "Open Triangle"
+msgstr ""
+
+msgid "Orchestra Hit"
+msgstr ""
+
+msgid "Orchestral Strings"
+msgstr ""
+
+msgid "Overdriven Guitar"
+msgstr ""
+
+msgid "Pad 1 (new age)"
+msgstr ""
+
+msgid "Pad 2 (warm)"
+msgstr ""
+
+msgid "Pad 3 (polysynth)"
+msgstr ""
+
+msgid "Pad 4 (choir)"
+msgstr ""
+
+msgid "Pad 5 (bowed)"
+msgstr ""
+
+msgid "Pad 6 (metallic)"
+msgstr ""
+
+msgid "Pad 7 (halo)"
+msgstr ""
+
+msgid "Pad 8 (sweep)"
+msgstr ""
+
+msgid "Pan Flute"
+msgstr ""
+
+msgid "Pedal Hi-Hat"
+msgstr ""
+
+msgid "Percussive Organ"
+msgstr ""
+
+msgid "Piccolo"
+msgstr ""
+
+msgid "Pizzicato Strings"
+msgstr ""
+
+msgid "Recorder"
+msgstr ""
+
+msgid "Reed Organ"
+msgstr ""
+
+msgid "Reverse Cymbal"
+msgstr ""
+
+msgid "Ride Bell"
+msgstr ""
+
+msgid "Ride Cymbal 1"
+msgstr ""
+
+msgid "Ride Cymbal 2"
+msgstr ""
+
+msgid "Rock Organ"
+msgstr ""
+
+msgid "Seashore"
+msgstr ""
+
+msgid "Shakuhachi"
+msgstr ""
+
+msgid "Shamisen"
+msgstr ""
+
+msgid "Shanai"
+msgstr ""
+
+msgid "Short Guiro"
+msgstr ""
+
+msgid "Short Whistle"
+msgstr ""
+
+msgid "Side Stick"
+msgstr ""
+
+msgid "Sitar"
+msgstr ""
+
+msgid "Slap Bass 1"
+msgstr ""
+
+msgid "Slap Bass 2"
+msgstr ""
+
+msgid "Soprano Sax"
+msgstr ""
+
+msgid "Splash Cymbal"
+msgstr ""
+
+msgid "Steel Drums"
+msgstr ""
+
+msgid "Steel String Guitar"
+msgstr ""
+
+msgid "String Ensemble 1"
+msgstr ""
+
+msgid "String Ensemble 2"
+msgstr ""
+
+msgid "Synth Bass 1"
+msgstr ""
+
+msgid "Synth Bass 2"
+msgstr ""
+
+msgid "Synth Drum"
+msgstr ""
+
+msgid "Synth Voice"
+msgstr ""
+
+msgid "SynthBrass 1"
+msgstr ""
+
+msgid "SynthBrass 2"
+msgstr ""
+
+msgid "SynthStrings 1"
+msgstr ""
+
+msgid "SynthStrings 2"
+msgstr ""
+
+msgid "Taiko Drum"
+msgstr ""
+
+msgid "Tambourine"
+msgstr ""
+
+msgid "Tango Accordion"
+msgstr ""
+
+msgid "Telephone Ring"
+msgstr ""
+
+msgid "Tenor Sax"
+msgstr ""
+
+msgid "Timpani"
+msgstr ""
+
+msgid "Tinkle Bell"
+msgstr ""
+
+msgid "Tremolo Strings"
+msgstr ""
+
+msgid "Trombone"
+msgstr ""
+
+msgid "Trumpet"
+msgstr ""
+
+msgid "Tuba"
+msgstr ""
+
+msgid "Tubular Bells"
+msgstr ""
+
+msgid "Vibraphone"
+msgstr ""
+
+msgid "Vibraslap"
+msgstr ""
+
+msgid "Viola"
+msgstr ""
+
+msgid "Violin"
+msgstr ""
+
+msgid "Voice Oohs"
+msgstr ""
+
+msgid "Whistle"
+msgstr ""
+
+msgid "Woodblock"
+msgstr ""
+
+msgid "Xylophone"
+msgstr ""
+

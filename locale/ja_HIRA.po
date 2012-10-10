@@ -1,0 +1,1920 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Scratch\n"
+"Report-Msgid-Bugs-To: Evelyn Eastmond <evelyn@media.mit.edu>\n"
+"POT-Creation-Date: 2008-05-02\n"
+"PO-Revision-Date: 2009-06-07 00:46-0400\n"
+"Last-Translator: Kazuhiro Abe <abee@squeakland.jp>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ja_HIRA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Pootle 1.2.0\n"
+
+############################################
+# FORMATTING
+############################################
+
+# Language name as you'd like it to appear in the Languages menu
+# (Required)
+msgid "Language-Name"
+msgstr "にほんご"
+
+# Directionality of language
+# LTR = Left to Right
+# RTL = Right to Left
+msgid "Language-Direction"
+msgstr "LTR"
+
+# Scale to apply to font size (2 for twice as large)
+# Use this if the font is too small for legibility on the Scratch interface
+msgid "Font-Scale"
+msgstr "1.3"
+
+# Set to 'true' or 'false'
+# Use this if you do not want any of the text to be bolded, for legibility
+msgid "Suppress-Bold"
+msgstr "false"
+
+# Font to use on a Windows system
+msgid "Win-Font"
+msgstr ""
+
+# Font to use on a Mac system
+msgid "Mac-Font"
+msgstr ""
+
+# Font to use on a Linux system
+msgid "Linux-Font"
+msgstr ""
+
+############################################
+# BLOCKS
+############################################
+
+msgid "%H sensor value"
+msgstr "%H センサーのあたい"
+
+msgid "%L contains %s"
+msgstr "%L に %s がふくまれる"
+
+msgid "%a of %m"
+msgstr "%m の %a"
+
+msgid "%b and %b"
+msgstr "%b かつ %b"
+
+msgid "%b or %b"
+msgstr "%b または %b "
+
+msgid "%f of %n"
+msgstr "%n の %f"
+
+msgid "%n mod %n"
+msgstr "%n を %n でわったあまり"
+
+msgid "add %s to %L"
+msgstr "%s を %L についか"
+
+msgid "answer"
+msgstr "こたえ"
+
+msgid "ask %s and wait"
+msgstr "%s ときいてまつ"
+
+msgid "background #"
+msgstr "はいけいのばんごう"
+
+msgid "broadcast %e"
+msgstr "%e をおくる"
+
+msgid "broadcast %e and wait"
+msgstr "%e をおくってまつ"
+
+msgid "change %g effect by %n"
+msgstr "%g のこうかを %n ずつかえる"
+
+msgid "change %v by %n"
+msgstr "%v を %n ずつかえる"
+
+msgid "change pen color by %n"
+msgstr "ペンのいろを %n ずつかえる"
+
+msgid "change pen shade by %n"
+msgstr "ペンのこさを %n ずつかえる"
+
+msgid "change pen size by %n"
+msgstr "ペンのふとさを %n ずつかえる"
+
+msgid "change size by %n"
+msgstr "おおきさを %n ずつかえる"
+
+msgid "change tempo by %n"
+msgstr "テンポを %n ずつかえる"
+
+msgid "change volume by %n"
+msgstr "おんりょうを %n ずつかえる"
+
+msgid "change x by %n"
+msgstr "xざひょうを %n ずつかえる"
+
+msgid "change y by %n"
+msgstr "yざひょうを %n ずつかえる"
+
+msgid "clear"
+msgstr "けす"
+
+msgid "clear graphic effects"
+msgstr "がぞうこうかをなくす"
+
+msgid "color %C is touching %C?"
+msgstr "%C いろが %C いろにふれた"
+
+msgid "control"
+msgstr "せいぎょ"
+
+msgid "costume #"
+msgstr "コスチュームのばんごう"
+
+msgid "delete %y of %L"
+msgstr "%y ばんめを %L からさくじょ"
+
+msgid "direction"
+msgstr "むき"
+
+msgid "distance to %m"
+msgstr "%m までのきょり"
+
+msgid "else"
+msgstr "でなければ"
+
+msgid "forever"
+msgstr "ずっと"
+
+msgid "forever if %b"
+msgstr "もし %b なら、ずっと"
+
+msgid "glide %n secs to x:%n y:%n"
+msgstr "%n びょうでxざひょうを %n に、yざひょうを %n にかえる"
+
+msgid "go back %n layers"
+msgstr "%n ばんめにいどう"
+
+msgid "go to %m"
+msgstr "%m へいく"
+
+msgid "go to front"
+msgstr "まえにだす"
+
+msgid "go to x:%n y:%n"
+msgstr "xざひょうを %n 、yざひょうを %n にする"
+
+msgid "hide"
+msgstr "かくす"
+
+msgid "hide variable %v"
+msgstr "へんすう %v をかくす"
+
+msgid "if %b"
+msgstr "もし %b なら"
+
+msgid "if on edge, bounce"
+msgstr "もしはしについたら、はねかえる"
+
+msgid "insert %s at %i of %L"
+msgstr "%L の %i ばんめに %s をそうにゅうする"
+
+msgid "item %i of %L"
+msgstr "%L の %i ばんめ"
+
+msgid "join %s %s"
+msgstr "%s と %s をつなぐ"
+
+msgid "key %k pressed?"
+msgstr "%k キーがおされた"
+
+msgid "length of %L"
+msgstr "%L のながさ"
+
+msgid "length of %s"
+msgstr "%s のながさ"
+
+msgid "letter %n of %s"
+msgstr "%s の %n ばんめのもじ"
+
+msgid "list"
+msgstr "リスト"
+
+msgid "looks"
+msgstr "みため"
+
+msgid "loud?"
+msgstr "うるさい"
+
+msgid "loudness"
+msgstr "おんりょう"
+
+msgid "motion"
+msgstr "うごき"
+
+msgid "motor direction %W"
+msgstr "モーターのかいてんを %W にする"
+
+msgid "motor off"
+msgstr "モーターをオフにする"
+
+msgid "motor on"
+msgstr "モーターをオンにする"
+
+msgid "motor on for %n secs"
+msgstr "モーターを %n 秒オンにする"
+
+msgid "motor power %n"
+msgstr "モーターのパワーを %n にする"
+
+msgid "mouse down?"
+msgstr "マウスがおされた"
+
+msgid "mouse x"
+msgstr "マウスのxざひょう"
+
+msgid "mouse y"
+msgstr "マウスのyざひょう"
+
+msgid "move %n steps"
+msgstr "%n ぽうごかす"
+
+msgid "next background"
+msgstr "つぎのはいけいにする"
+
+msgid "next costume"
+msgstr "つぎのコスチュームにする"
+
+msgid "not %b"
+msgstr "%b ではない"
+
+msgid "operators"
+msgstr "えんざん"
+
+msgid "pen"
+msgstr "ペン"
+
+msgid "pen down"
+msgstr "ペンをおろす"
+
+msgid "pen up"
+msgstr "ペンをあげる"
+
+msgid "pick random %n to %n"
+msgstr "%n から %n までのらんすう"
+
+msgid "play drum %D for %n beats"
+msgstr "%D のドラムを %n はくならす"
+
+msgid "play note %N for %n beats"
+msgstr "%N のおんぷを %n はくならす"
+
+msgid "play sound %S"
+msgstr "%S のおとをならす"
+
+msgid "play sound %S until done"
+msgstr "おわるまで %S のおとをならす"
+
+msgid "point in direction %d"
+msgstr "%d どにむける"
+
+msgid "point towards %m"
+msgstr "%m へむける"
+
+msgid "repeat %n"
+msgstr "%n かいくりかえす"
+
+msgid "repeat until %b"
+msgstr "%b までくりかえす"
+
+msgid "replace item %i of %L with %s"
+msgstr "%L の %i ばんめを %s でおきかえる"
+
+msgid "reset timer"
+msgstr "タイマーをリセット"
+
+msgid "rest for %n beats"
+msgstr "%n はくやすむ"
+
+msgid "round %n"
+msgstr "%n をまるめる"
+
+msgid "say %s"
+msgstr "%s という"
+
+msgid "say %s for %n secs"
+msgstr "%s と %n びょういう"
+
+msgid "sensing"
+msgstr "しらべる"
+
+msgid "sensor %h?"
+msgstr "%h"
+
+msgid "set %g effect to %n"
+msgstr "%g のこうかを %n にする"
+
+msgid "set %v to %n"
+msgstr "%v を %n にする"
+
+msgid "set instrument to %I"
+msgstr "がっきを %I にする"
+
+msgid "set pen color to %c"
+msgstr "ペンのいろを %c にする"
+
+msgid "set pen color to %n"
+msgstr "ペンのいろを %n にする"
+
+msgid "set pen shade to %n"
+msgstr "ペンのこさを %n にする"
+
+msgid "set pen size to %n"
+msgstr "ペンのふとさを %n にする"
+
+msgid "set size to %n%"
+msgstr "おおきさを %n% にする"
+
+msgid "set tempo to %n bpm"
+msgstr "テンポを %n BPMにする"
+
+msgid "set volume to %n%"
+msgstr "おんりょうを %n% にする"
+
+msgid "set x to %n"
+msgstr "xざひょうを %n にする"
+
+msgid "set y to %n"
+msgstr "yざひょうを %n にする"
+
+msgid "show"
+msgstr "ひょうじする"
+
+msgid "show variable %v"
+msgstr "へんすう %v をひょうじ"
+
+msgid "size"
+msgstr "おおきさ"
+
+msgid "sound"
+msgstr "おと"
+
+msgid "stamp"
+msgstr "スタンプ"
+
+msgid "stop all"
+msgstr "すべてをとめる"
+
+msgid "stop all sounds"
+msgstr "すべてのおとをとめる"
+
+msgid "stop script"
+msgstr "スクリプトをとめる"
+
+msgid "switch to background %l"
+msgstr "はいけいを %l にする"
+
+msgid "switch to costume %l"
+msgstr "コスチュームを %l にする"
+
+msgid "tempo"
+msgstr "テンポ"
+
+msgid "think %s"
+msgstr "%s とかんがえる"
+
+msgid "think %s for %n secs"
+msgstr "%s と %n びょうかんがえる"
+
+msgid "timer"
+msgstr "タイマー"
+
+msgid "touching %m?"
+msgstr "%m にふれた"
+
+msgid "touching color %C?"
+msgstr "%C いろにふれた"
+
+msgid "turn %n degrees"
+msgstr "%n どまわす"
+
+msgid "variables"
+msgstr "へんすう"
+
+msgid "volume"
+msgstr "おんりょう"
+
+msgid "wait %n secs"
+msgstr "%n びょうまつ"
+
+msgid "wait until %b"
+msgstr "%b までまつ"
+
+msgid "when %k key pressed"
+msgstr "%k キーがおされたとき"
+
+msgid "when %m clicked"
+msgstr "%m がクリックされたとき"
+
+msgid "when I receive %e"
+msgstr "%e をうけとったとき"
+
+msgid "x position"
+msgstr "xざひょう"
+
+msgid "y position"
+msgstr "yざひょう"
+
+############################################
+# USER INTERFACE
+############################################
+
+msgid "(empty)"
+msgstr "(から)"
+
+msgid "1 script"
+msgstr "1 スクリプト"
+
+msgid "About Scratch"
+msgstr "Scratchについて"
+
+msgid "About this project:"
+msgstr "このプロジェクトについて:"
+
+msgid "abs"
+msgstr "ぜったいち"
+
+msgid "add comment"
+msgstr "コメントをついか"
+
+msgid "add comment here"
+msgstr "コメントをついかしてください"
+
+msgid "all"
+msgstr "すべて"
+
+msgid "and"
+msgstr "かつ"
+
+msgid "Animation"
+msgstr "アニメーション"
+
+msgid "any"
+msgstr "どれか"
+
+msgid "Art"
+msgstr "アート"
+
+msgid "background"
+msgstr "はいけい"
+
+msgid "backgrounds"
+msgstr "はいけい"
+
+msgid "Backgrounds"
+msgstr "はいけい"
+
+msgid "brightness"
+msgstr "あかるさ"
+
+msgid "Brush size: "
+msgstr "ふでのふとさ:"
+
+msgid "button"
+msgstr "ボタン"
+
+msgid "button pressed"
+msgstr "ボタンがおされた"
+
+msgid "Camera"
+msgstr "カメラ"
+
+msgid "can rotate"
+msgstr "かいてんする"
+
+msgid "cancel"
+msgstr "キャンセル"
+
+msgid "Cancel"
+msgstr "キャンセル"
+
+msgid "Choose a folder"
+msgstr "フォルダをえらぶ"
+
+msgid "Choose new sprite from file"
+msgstr "あたらしいスプライトをファイルからえらぶ"
+
+msgid "clean up"
+msgstr "きれいにする"
+
+msgid "Clear"
+msgstr "けす"
+
+msgid "Clear canvas"
+msgstr "キャンバスをけす"
+
+msgid "Close and continue"
+msgstr "とじてつづける"
+
+msgid "Close dialog?"
+msgstr "ダイアログをとじますか?"
+
+msgid "Close paint editor?"
+msgstr "ペイントエディタをとじますか?"
+
+msgid "close port"
+msgstr "ポートをとじる"
+
+msgid "Close sound recorder?"
+msgstr "サウンドレコーダーをとじますか?"
+
+msgid "color"
+msgstr "いろ"
+
+msgid "Compress Images"
+msgstr "がぞうのあっしゅく"
+
+msgid "Compress Sounds"
+msgstr "おとのあっしゅく"
+
+msgid "Compress sounds and images"
+msgstr "おととがぞうをあっしゅく"
+
+msgid "Computer"
+msgstr "コンピューター"
+
+msgid "connected"
+msgstr "がつながれた"
+
+msgid "Connecting to "
+msgstr "いかへせつぞく "
+
+msgid "Copy"
+msgstr "コピー"
+
+msgid "costume"
+msgstr "コスチューム"
+
+msgid "costumes"
+msgstr "コスチューム"
+
+msgid "Costumes"
+msgstr "コスチューム"
+
+msgid "Could not read"
+msgstr "よめません"
+
+msgid "Could not read project; file may be damaged"
+msgstr "プロジェクトがよめません。たぶんファイルが壊れています"
+
+msgid "Could not write file"
+msgstr "ファイルにかけません"
+
+msgid "Create account"
+msgstr "アカウントをつくる"
+
+msgid "Create an empty project"
+msgstr "からのプロジェクトをつくる"
+
+msgid "Data sent. Waiting for response..."
+msgstr "データをそうしんしました。おうとうをまっています..."
+
+msgid "delete"
+msgstr "さくじょ"
+
+msgid "Delete"
+msgstr "さくじょ"
+
+msgid "Delete a list"
+msgstr "リストをさくじょ"
+
+msgid "Delete a variable"
+msgstr "へんすうをさくじょ"
+
+msgid "Delete this background"
+msgstr "このはいけいをさくじょ"
+
+msgid "Delete this costume"
+msgstr "このコスチュームをさくじょ"
+
+msgid "Delete this sound"
+msgstr "このおとをさくじょ"
+
+msgid "Delete this sprite"
+msgstr "このスプライトをさくじょ"
+
+msgid "Desktop"
+msgstr "デスクトップ"
+
+msgid "disable remote sensor connections"
+msgstr "えんかくセンサーせつぞくをむこうにする"
+
+msgid "distance"
+msgstr "きょり"
+
+msgid "Documents"
+msgstr "ドキュメント"
+
+msgid "don't rotate"
+msgstr "かいてんしない"
+
+msgid "Don't Save"
+msgstr "ほぞんしない"
+
+msgid "Done"
+msgstr "かんりょう"
+
+msgid "down"
+msgstr "した"
+
+msgid "down arrow"
+msgstr "したむきやじるし"
+
+msgid "drag to resize"
+msgstr "ドラッグしておおきさをへんこう"
+
+msgid "drag to rotate"
+msgstr "ドラッグしてかいてん"
+
+msgid "draggable on website?"
+msgstr "Webサイト上でドラッグできるか?"
+
+msgid "duplicate"
+msgstr "ふくせい"
+
+msgid "Duplicate"
+msgstr "ふくせい"
+
+msgid "edge"
+msgstr "はし"
+
+msgid "Edit"
+msgstr "へんしゅう"
+
+msgid "Ellipse tool (draw outlined or filled ellipse or circle)"
+msgstr "だえんツール (だえんやえんのりんかくやぬりつぶしたものをかく)"
+
+msgid "enable remote sensor connections"
+msgstr "えんかくセンサーせつぞくをゆうこうにする"
+
+msgid "Enter presentation mode"
+msgstr "はっぴょうモードにはいる"
+
+msgid "Eraser"
+msgstr "けしごむ"
+
+msgid "Eraser size"
+msgstr "けしごむのおおきさ"
+
+msgid "Error!"
+msgstr "エラー!"
+
+msgid "Examples"
+msgstr "れい"
+
+msgid "Exit presentation"
+msgstr "はっぴょうモードをぬける"
+
+msgid "Exit presentation mode"
+msgstr "はっぴょうモードをぬける"
+
+msgid "export"
+msgstr "かきだし"
+
+msgid "Export Background"
+msgstr "はいけいをかきだす"
+
+msgid "Export Costume"
+msgstr "コスチュームをかきだす"
+
+msgid "Export failed"
+msgstr "かきだししっぱい"
+
+msgid "Export Sound"
+msgstr "おとをかきだす"
+
+msgid "Export Sprite"
+msgstr "スプライトをかきだす"
+
+msgid "export this costume"
+msgstr "このコスチュームをかきだす"
+
+msgid "export this sound"
+msgstr "このおとをかきだす"
+
+msgid "export this sprite"
+msgstr "このスプライトをかきだす"
+
+msgid "Extras menu"
+msgstr "とくべつメニュー"
+
+msgid "Eyedropper tool (select a color)"
+msgstr "スポイトツール (いろをえらぶ)"
+
+msgid "Failed:"
+msgstr "しっぱい:"
+
+msgid "false"
+msgstr "いいえ"
+
+msgid "File"
+msgstr "ファイル"
+
+msgid "File not found"
+msgstr "ファイルがみつかりません"
+
+msgid "Fill tool (fill areas with color or gradient)"
+msgstr "ぬりつぶしツール (いろやグラデーションでりょういきをぬりつぶします)"
+
+msgid "first"
+msgstr "さいしょ"
+
+msgid "fisheye"
+msgstr "ぎょがんレンズ"
+
+msgid "Flash blocks (fast)"
+msgstr "ブロックをてんめつさせる (はやく)"
+
+msgid "Flash blocks (slow)"
+msgstr "ブロックをてんめつさせる (おそく)"
+
+msgid "Flip horizontally"
+msgstr "すいへいにはんてん"
+
+msgid "Flip vertically"
+msgstr "すいちょくにはんてん"
+
+msgid "For all sprites"
+msgstr "すべてのスプライトよう"
+
+msgid "For this sprite only"
+msgstr "このスプライトよう"
+
+msgid "Game"
+msgstr "ゲーム"
+
+msgid "Get surprise sprite"
+msgstr "どれかのスプライトをだす"
+
+msgid "Get the last thing deleted"
+msgstr "さいごにけしたものをもどす"
+
+msgid "Getting Started"
+msgstr "はじめに"
+
+msgid "ghost"
+msgstr "ゆうれい"
+
+msgid "Go To Scratch Website"
+msgstr "ScratchのWebサイトをひらく"
+
+msgid "grab screen region for new costume"
+msgstr "がめんをきりとってあたらしいコスチュームにする"
+
+msgid "grab screen region for new sprite"
+msgstr "がめんをきりとってあたらしいスプライトにする"
+
+msgid "Grow"
+msgstr "かくだい"
+
+msgid "Grow sprite"
+msgstr "スプライトをおおきくする"
+
+msgid "hello "
+msgstr "ハロー"
+
+msgid "Hello!"
+msgstr "こんにちは!"
+
+msgid "help"
+msgstr "ヘルプ"
+
+msgid "Help"
+msgstr "ヘルプ"
+
+msgid "Help Page"
+msgstr "ヘルプのWebページ"
+
+msgid "Help Screens"
+msgstr "ヘルプがめん"
+
+msgid "Hide Motor Blocks"
+msgstr "モーターのブロックをかくす"
+
+msgid "High (biggest)"
+msgstr "たかい (さいだい)"
+
+msgid "Hmm..."
+msgstr "うーん..."
+
+msgid "Home"
+msgstr "ホーム"
+
+msgid "Images compressed"
+msgstr "あっしゅくされたがぞう"
+
+msgid "import"
+msgstr "よみこみ"
+
+msgid "Import"
+msgstr "よみこみ"
+
+msgid "Import an image on top of your current canvas"
+msgstr "げんざいのキャンバスのいちばんうえにがぞうをよみこむ"
+
+msgid "Import Background"
+msgstr "はいけいをよみこむ"
+
+msgid "Import Costume"
+msgstr "コスチュームをよみこむ"
+
+msgid "Import Image"
+msgstr "がぞうをよみこむ"
+
+msgid "Import List"
+msgstr "よみこみリスト"
+
+msgid "Import Project"
+msgstr "プロジェクトをよみこむ"
+
+msgid "import project"
+msgstr "プロジェクトをよみこむ"
+
+msgid "Import Sound"
+msgstr "おとをよみこむ"
+
+msgid "Incompatible Scratch file format"
+msgstr "Scratchのファイルけいしきとごかんせいがありません"
+
+msgid "Is the folder read-only?"
+msgstr "そのフォルダはよみこみせんようではありませんか?"
+
+msgid "JPEG Quality (10-100)?"
+msgstr "JPEGのひんしつ (10-100)"
+
+msgid "kbytes"
+msgstr "Kバイト"
+
+msgid "Language"
+msgstr "げんご"
+
+msgid "large readout"
+msgstr "おおきなひょうじ"
+
+msgid "last"
+msgstr "さいご"
+
+msgid "left"
+msgstr "ひだり"
+
+msgid "left arrow"
+msgstr "ひだりむきやじるし"
+
+msgid "length"
+msgstr "ながさ"
+
+msgid "light"
+msgstr "あかるさ"
+
+msgid "Line tool (draw lines)"
+msgstr "せんツール (せんをえがきます)"
+
+msgid "List name?"
+msgstr "リストのなまえは?"
+
+msgid "Low"
+msgstr "ひくい"
+
+msgid "Lowest (smallest)"
+msgstr "もっともひくい (さいしょう)"
+
+msgid "Make a list"
+msgstr "リストをつくる"
+
+msgid "Make a variable"
+msgstr "あたらしいへんすうをつくる"
+
+msgid "Max:"
+msgstr "さいだいち:"
+
+msgid "meow"
+msgstr "ニャー"
+
+msgid "Message name:"
+msgstr "メッセージのなまえ:"
+
+msgid "Min:"
+msgstr "さいしょうち:"
+
+msgid "mod"
+msgstr "あまり"
+
+msgid "more"
+msgstr "もっと"
+
+msgid "More tags:"
+msgstr "ほかのタグ:"
+
+msgid "mosaic"
+msgstr "モザイク"
+
+msgid "mouse x:"
+msgstr "マウスのxざひょう:"
+
+msgid "mouse y:"
+msgstr "マウスのyざひょう:"
+
+msgid "mouse-pointer"
+msgstr "マウスのポインター"
+
+msgid "Move"
+msgstr "うごかす"
+
+msgid "Music"
+msgstr "おんがく"
+
+msgid "My Projects"
+msgstr "わたしのプロジェクト"
+
+msgid "new"
+msgstr "しんき"
+
+msgid "New"
+msgstr "しんき"
+
+msgid "New background:"
+msgstr "あたらしいはいけい"
+
+msgid "New costume:"
+msgstr "あたらしいコスチューム"
+
+msgid "New file name?"
+msgstr ""
+
+msgid "New Filename:"
+msgstr "あたらしいファイルめい"
+
+msgid "New sound:"
+msgstr "あたらしいおと"
+
+msgid "New Sprite"
+msgstr "あたらしいスプライト"
+
+msgid "New sprite:"
+msgstr "あたらしいスプライト:"
+
+msgid "No"
+msgstr "いいえ"
+
+msgid "No MIDI ports currently available."
+msgstr "げんざいMIDIポートがそんざいしません"
+
+msgid "No motion blocks"
+msgstr "うごかすブロックがありません"
+
+msgid "no scripts"
+msgstr "スクリプトなし"
+
+msgid "No serial ports found"
+msgstr "シリアルポートがありません"
+
+msgid "No variables."
+msgstr "へんすうがありません"
+
+msgid "Normal"
+msgstr "つうじょう"
+
+msgid "normal readout"
+msgstr "ふつうのひょうじ"
+
+msgid "Off"
+msgstr "オフ"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "On"
+msgstr "オン"
+
+msgid "only face left-right"
+msgstr "さゆうにはんてんするだけ"
+
+msgid "Open"
+msgstr "ひらく"
+
+msgid "Open a Scratch project"
+msgstr "Scratchのプロジェクトをひらく"
+
+msgid "Open Project"
+msgstr "プロジェクトをひらく"
+
+msgid "or"
+msgstr "または"
+
+msgid "Paint"
+msgstr "ペイント"
+
+msgid "Paint Editor"
+msgstr "ペイントエディタ"
+
+msgid "Paint new sprite"
+msgstr "あたらしいスプライトをかく"
+
+msgid "Paintbrush"
+msgstr "えふで"
+
+msgid "Password:"
+msgstr "パスワード:"
+
+msgid "Percent? (100 gives original size)"
+msgstr "パーセント? (100がもとのおおきさです)"
+
+msgid "Pictures"
+msgstr "え"
+
+msgid "pixelate"
+msgstr "ピクセルか"
+
+msgid "play"
+msgstr "さいせい"
+
+msgid "Please enter a number"
+msgstr "すうじをいれてください"
+
+msgid "pop"
+msgstr "ポップ"
+
+msgid "Position the cross-hair to set the rotation center"
+msgstr "かいてんのちゅうしんをせっていするためのじゅうじのいち"
+
+msgid "Preparing project..."
+msgstr "プロジェクトのじゅんびちゅう..."
+
+msgid "Project author:"
+msgstr "プロジェクトのさくしゃ:"
+
+msgid "Project name"
+msgstr "プロジェクトのなまえ"
+
+msgid "Project Notes"
+msgstr "プロジェクトのメモ"
+
+msgid "Project notes"
+msgstr "プロジェクトのメモ"
+
+msgid "Project uploaded."
+msgstr "アップロードされたプロジェクト。"
+
+msgid "Projects"
+msgstr "プロジェクト"
+
+msgid "Quit"
+msgstr "しゅうりょう"
+
+msgid "Quit Scratch"
+msgstr "Scratrchをしゅうりょう"
+
+msgid "Reading"
+msgstr "Reading"
+
+msgid "record"
+msgstr "ろくおん"
+
+msgid "Record"
+msgstr "ろくおん"
+
+msgid "recording"
+msgstr "ろくおん"
+
+msgid "Rectangle tool (draw outlined or filled rectangle or square)"
+msgstr "しかくけいツール (しかくけいやせいほうけいのりんかくやぬりつぶしたものをかく)"
+
+msgid "Redo"
+msgstr "やりなおし"
+
+msgid "Reference Guide"
+msgstr "リファレンスガイド"
+
+msgid "Remote sensor connections enabled"
+msgstr "えんかくセンサせつぞくがゆうこうになりました"
+
+msgid "Remove viewer from stage"
+msgstr "ステージからビューワをけす"
+
+msgid "resistance"
+msgstr "ていこう"
+
+msgid "resize this sprite"
+msgstr "このスプライトのおおきさをかえる"
+
+msgid "reverse"
+msgstr "ぎゃくむき"
+
+msgid "right"
+msgstr "みぎ"
+
+msgid "right arrow"
+msgstr "みぎむきやじるし"
+
+msgid "Rotate clock-wise"
+msgstr "とけいほうこうにまわす"
+
+msgid "Rotate counter-clock-wise"
+msgstr "はんとけいほうこうにまわす"
+
+msgid "rotate this sprite"
+msgstr "このスプライトをかいてｎする"
+
+msgid "Rotation degrees?"
+msgstr "まわすかくど"
+
+msgid "Save"
+msgstr "ほぞんする"
+
+msgid "Save a copy of the current project"
+msgstr "げんざいのプロジェクトのコピーをほぞん"
+
+msgid "Save As"
+msgstr "なまえをつけてほぞん"
+
+msgid "Save changes before quitting?"
+msgstr "しゅうりょうするまえにへんこうをほぞんしますか?"
+
+msgid "Save failed"
+msgstr "ほぞんしっぱい"
+
+msgid "save picture of scripts"
+msgstr "スクリプトのがぞうをほぞん"
+
+msgid "save picture of stage..."
+msgstr "ステージのがぞうをほぞん..."
+
+msgid "Save Project"
+msgstr "プロジェクトをほぞん"
+
+msgid "Save Scripts Snapshot"
+msgstr "スクリプトのスナップショットをほぞん"
+
+msgid "Save Stage Shot"
+msgstr "ステージしゃしんをほぞん"
+
+msgid "Save the current project"
+msgstr "げんざいのプロジェクトをほぞんする"
+
+msgid "Save the current project?"
+msgstr "げんざいのプロジェクトをほぞんする?"
+
+msgid "Save this project"
+msgstr "このプロジェクトをほぞんする"
+
+msgid "Scripts"
+msgstr "スクリプト"
+
+msgid "select serial/USB port"
+msgstr "シリアルかUSBのポートをせんたく"
+
+msgid "Select tool (move, modify, or delete selection)"
+msgstr "せんたくツール (せんたくしたものをうごかしたり、しゅうせいしたり、さくじょしたりする)"
+
+msgid "Set costume center"
+msgstr "コスチュームのちゅうしんをせってい"
+
+msgid "Set language"
+msgstr "げんごをせってい"
+
+msgid "Set rotation center"
+msgstr "かいてんちゅうしんをせってい"
+
+msgid "Set Single Stepping"
+msgstr "ステップじっこうをせってい"
+
+msgid "set slider min and max"
+msgstr "スライダーのさいしょうちとさいだいちをせってい"
+
+msgid "Share"
+msgstr "きょうゆう"
+
+msgid "Share this project"
+msgstr "このプロジェクトをきょうゆうする"
+
+msgid "Share This Project Online"
+msgstr "オンラインでこのプロジェクトをきょうゆう"
+
+msgid "Show Motor Blocks"
+msgstr "モーターのブロックをひょうじする"
+
+msgid "show ScratchBoard watcher"
+msgstr "ScratchBoardかんしばんをひょうじ"
+
+msgid "Shrink"
+msgstr "しゅくしょう"
+
+msgid "Shrink sprite"
+msgstr "スプライトをしゅくしょう"
+
+msgid "Simulation"
+msgstr "シミュレーション"
+
+msgid "Single-step speed?"
+msgstr "ステップじっこうのそくど"
+
+msgid "slider"
+msgstr "スライダー"
+
+msgid "Slider range:"
+msgstr "スライダのはんい:"
+
+msgid "Sound quality:"
+msgstr "おとのひんしつ:"
+
+msgid "Sound Recorder"
+msgstr "サウンドレコーダー"
+
+msgid "Sounds"
+msgstr "おと"
+
+msgid "Sounds compressed"
+msgstr "あっしゅくされたおと"
+
+msgid "space"
+msgstr "スペース"
+
+msgid "Sprite"
+msgstr "スプライト"
+
+msgid "Sprites"
+msgstr "スプライト"
+
+msgid "sqrt"
+msgstr "へいほうこん"
+
+msgid "Stage"
+msgstr "ステージ"
+
+msgid "Stage selected:"
+msgstr "せんたくされたステージ:"
+
+msgid "Stamp tool (select area, then stamp copies of it)"
+msgstr "スタンプツール (せんたくしたりょういきのコピーをスタンプ)"
+
+msgid "Start green flag scripts"
+msgstr "みどりのはたのスクリプトをかいし"
+
+msgid "Start Single Stepping"
+msgstr "ステップじっこうをかいし"
+
+msgid "stop"
+msgstr "ちゅうし"
+
+msgid "Stop everything"
+msgstr "すべてをちゅうし"
+
+msgid "Stop Single Stepping"
+msgstr "ステップじっこうをちゅうし"
+
+msgid "Story"
+msgstr "ものがたり"
+
+msgid "Support Site"
+msgstr "サポートサイト"
+
+msgid "Switch colors"
+msgstr "いろのきりかえ"
+
+msgid "Switch to full stage"
+msgstr "ステージをぜんがめんにきりかえる"
+
+msgid "Switch to presentation mode"
+msgstr "はっぴょうモードにきりかえる"
+
+msgid "Switch to small stage"
+msgstr "ちいさなステージにきりかえる"
+
+msgid "Tags:"
+msgstr "タグ:"
+
+msgid "Text tool (edit text layer)"
+msgstr "テキストツール (テキストそうをへんしゅう)"
+
+msgid "That variable name is already in use"
+msgstr "そのへんすうめいはすでにつかわれています"
+
+msgid "that way"
+msgstr "あちらむき"
+
+msgid "The file name already exists. Overwrite existing file?"
+msgstr "このファイルめいはすでにそんざいします。きぞんのファイルをうわがきしてもよいですか?"
+
+msgid "thing"
+msgstr "なにか"
+
+msgid "this way"
+msgstr "こちらむき"
+
+msgid "tilt"
+msgstr "かたむき"
+
+msgid "true"
+msgstr "はい"
+
+msgid "Turbo speed"
+msgstr "ターボスピード"
+
+msgid "turn into new sprite"
+msgstr "あたらしいスプライトへきりかえ"
+
+msgid "Undelete"
+msgstr "さくじょのとりけし"
+
+msgid "Undo"
+msgstr "とりけし"
+
+msgid "up"
+msgstr "うえ"
+
+msgid "up arrow"
+msgstr "うわむきやじるし"
+
+msgid "Updating thumbnails"
+msgstr "Updating thumbnails"
+
+msgid "Upload succeeded!"
+msgstr "アップロードせいこう!"
+
+msgid "Upload to Scratch Server"
+msgstr "Scratchサーバへアップロード"
+
+msgid "Uploading"
+msgstr "アップロードちゅう"
+
+msgid "Variable name?"
+msgstr "へんすうめい?"
+
+msgid "View on stage"
+msgstr "ステージのうえにひょうじ"
+
+msgid "What's your name?"
+msgstr "あなたのなまえはなにですか?"
+
+msgid "whirl"
+msgstr "うずまき"
+
+msgid "world"
+msgstr "ワールド"
+
+msgid "Write Multiple Project Summaries"
+msgstr "ふくすうのプロジェクトのまとめをかく"
+
+msgid "Write Project Summary"
+msgstr "プロジェクトのまとめをかく"
+
+msgid "Yes"
+msgstr "はい"
+
+msgid "Your project is now online at"
+msgstr "あなたのプロジェクトはげんざいいかにあります "
+
+msgid "Your Scratch website login name:"
+msgstr "Scratchウェブサイトのログインめい:"
+
+msgid "Zoom in"
+msgstr "ズームイン"
+
+msgid "Zoom out"
+msgstr "ズームアウト"
+
+############################################
+# MIDI INSTRUMENTS
+############################################
+
+msgid "Accordion"
+msgstr "アコーディオン"
+
+msgid "Acoustic Bass"
+msgstr "アコースティックベース"
+
+msgid "Acoustic Bass Drum"
+msgstr "アコースティックベースドラム"
+
+msgid "Acoustic Grand"
+msgstr "アコースティックグランドピアノ"
+
+msgid "Acoustic Snare"
+msgstr "アコースティックスネア"
+
+msgid "Agogo"
+msgstr "アゴーゴー"
+
+msgid "Alto Sax"
+msgstr "アルトサックス"
+
+msgid "Applause"
+msgstr "かっさい"
+
+msgid "Bagpipe"
+msgstr "バグパイプ"
+
+msgid "Banjo"
+msgstr "バンジョー"
+
+msgid "Baritone Sax"
+msgstr "バリトンサックス"
+
+msgid "Bass Drum 1"
+msgstr "ベースドラム 1"
+
+msgid "Bassoon"
+msgstr "バスーン"
+
+msgid "Bird Tweet"
+msgstr "ことりのさえずり"
+
+msgid "Blown Bottle"
+msgstr "かめをふく"
+
+msgid "Brass Section"
+msgstr "ブラスセクション"
+
+msgid "Breath Noise"
+msgstr "いきづかい"
+
+msgid "Bright Acoustic"
+msgstr "あかるいピアノ"
+
+msgid "Cabasa"
+msgstr "カバサ"
+
+msgid "Celesta"
+msgstr "チェレスタ"
+
+msgid "Cello"
+msgstr "チェロ"
+
+msgid "Chinese Cymbal"
+msgstr "チャイニーズシンバル"
+
+msgid "Choir Aahs"
+msgstr "がっしょう「あー」"
+
+msgid "Church Organ"
+msgstr "きょうかいオルガン"
+
+msgid "Clarinet"
+msgstr "クラリネット"
+
+msgid "Claves"
+msgstr "クラーベ"
+
+msgid "Clavinet"
+msgstr "クラビネット"
+
+msgid "Closed Hi-Hat"
+msgstr "とじたハイハット"
+
+msgid "Contrabass"
+msgstr "コントラバス"
+
+msgid "Cowbell"
+msgstr "カウベル"
+
+msgid "Crash Cymbal 1"
+msgstr "シンバル 1"
+
+msgid "Crash Cymbal 2"
+msgstr "シンバル 2"
+
+msgid "Distortion Guitar"
+msgstr "ディストーションギター"
+
+msgid "Drawbar Organ"
+msgstr "ハモンドオルガン"
+
+msgid "Dulcimer"
+msgstr "ダルシマー"
+
+msgid "Electric Bass (finger)"
+msgstr "エレキベース (ゆび)"
+
+msgid "Electric Bass (pick)"
+msgstr "エレキベース (ピック)"
+
+msgid "Electric Clean Guitar"
+msgstr "エレキクリーンギター"
+
+msgid "Electric Grand"
+msgstr "でんしグランドピアノ"
+
+msgid "Electric Jazz Guitar"
+msgstr "エレキジャズギター"
+
+msgid "Electric Muted Guitar"
+msgstr "エレキミュートギター"
+
+msgid "Electric Piano 1"
+msgstr "でんしぴあの 1"
+
+msgid "Electric Piano 2"
+msgstr "でんしぴあの 2"
+
+msgid "Electric Snare"
+msgstr "でんしスネア"
+
+msgid "English Horn"
+msgstr "イングリッシュホルン"
+
+msgid "FX 1 (rain)"
+msgstr "こうかおん 1 (あめ)"
+
+msgid "FX 2 (soundtrack)"
+msgstr "こうかおん 2 (サウンドトラック)"
+
+msgid "FX 3 (crystal)"
+msgstr "こうかおん 3 (すいしょう)"
+
+msgid "FX 4 (atmosphere)"
+msgstr "こうかおん 4 (ふんいき)"
+
+msgid "FX 5 (brightness)"
+msgstr "こうかおん 5 (あかるさ)"
+
+msgid "FX 6 (goblins)"
+msgstr "こうかおん 6 (こおに)"
+
+msgid "FX 7 (echoes)"
+msgstr "こうかおん 7 (こだま)"
+
+msgid "FX 8 (sci-fi)"
+msgstr "こうかおん 8 (SF)"
+
+msgid "Fiddle"
+msgstr "フィドル"
+
+msgid "Flute"
+msgstr "フルート"
+
+msgid "French Horn"
+msgstr "フレンチホルン"
+
+msgid "Fretless Bass"
+msgstr "フレットレスベース"
+
+msgid "Glockenspiel"
+msgstr "グロッケンシュピール"
+
+msgid "Guitar Fret Noise"
+msgstr "ギターのフレットノイズ"
+
+msgid "Guitar Harmonics"
+msgstr "ギターのわおん"
+
+msgid "Gunshot"
+msgstr "じゅうせい"
+
+msgid "Hand Clap"
+msgstr "はくしゅ"
+
+msgid "Harmonica"
+msgstr "ハーモニカ"
+
+msgid "Harpsichord"
+msgstr "ハープシコード"
+
+msgid "Helicopter"
+msgstr "ヘリコプター"
+
+msgid "Hi Bongo"
+msgstr "ハイボンゴ"
+
+msgid "Hi Wood Block"
+msgstr "ハイウッドブロック"
+
+msgid "Hi-Mid Tom"
+msgstr "ハイミッドタム"
+
+msgid "High Agogo"
+msgstr "ハイアゴーゴー"
+
+msgid "High Floor Tom"
+msgstr "ハイフロアタム"
+
+msgid "High Timbale"
+msgstr "ハイタンバール"
+
+msgid "High Tom"
+msgstr "ハイタム"
+
+msgid "Honky-Tonk"
+msgstr "ホンキートンク"
+
+msgid "Kalimba"
+msgstr "カリンバ"
+
+msgid "Koto"
+msgstr "こと"
+
+msgid "Lead 1 (square)"
+msgstr "リード 1 (くけいは)"
+
+msgid "Lead 2 (sawtooth)"
+msgstr "リード 2 (のこぎりは)"
+
+msgid "Lead 3 (calliope)"
+msgstr "リード 3 (じょうきオルガン)"
+
+msgid "Lead 4 (chiff)"
+msgstr "リード 4 (チフノイズ)"
+
+msgid "Lead 5 (charang)"
+msgstr "リード 5 (チャランゴギター)"
+
+msgid "Lead 6 (voice)"
+msgstr "リード 6 (こえ)"
+
+msgid "Lead 7 (fifths)"
+msgstr "リード 7 (5ど)"
+
+msgid "Lead 8 (bass+lead)"
+msgstr "リード 8 (ベースとリード)"
+
+msgid "Long Guiro"
+msgstr "ながいギロ"
+
+msgid "Long Whistle"
+msgstr "ながいホイッスル"
+
+msgid "Low Agogo"
+msgstr "ローアゴーゴー"
+
+msgid "Low Bongo"
+msgstr "ローボンゴ"
+
+msgid "Low Conga"
+msgstr "ローコンガ"
+
+msgid "Low Floor Tom"
+msgstr "ローフロアタム"
+
+msgid "Low Timbale"
+msgstr "ロータンバール"
+
+msgid "Low Tom"
+msgstr "ロータム"
+
+msgid "Low Wood Block"
+msgstr "ローウッドブロック"
+
+msgid "Low-Mid Tom"
+msgstr "ローミッドタム"
+
+msgid "Maracas"
+msgstr "マラカス"
+
+msgid "Marimba"
+msgstr "マリンバ"
+
+msgid "Melodic Tom"
+msgstr "メロディックタム"
+
+msgid "Music Box"
+msgstr "ミュージックボックス"
+
+msgid "Mute Cuica"
+msgstr "ミュートクィーカ"
+
+msgid "Mute Hi Conga"
+msgstr "ミュートハイコンガ"
+
+msgid "Mute Triangle"
+msgstr "ミュートトライアングル"
+
+msgid "Muted Trumpet"
+msgstr "ミュートトランペット"
+
+msgid "Nylon String Guitar"
+msgstr "ナイロンいとギター"
+
+msgid "Oboe"
+msgstr "オーボエ"
+
+msgid "Ocarina"
+msgstr "オカリナ"
+
+msgid "Open Cuica"
+msgstr "オープンクィーカ"
+
+msgid "Open Hi Conga"
+msgstr "オープンハイコンガ"
+
+msgid "Open Hi-Hat"
+msgstr "オープンハイハット"
+
+msgid "Open Triangle"
+msgstr "オープントライアングル"
+
+msgid "Orchestra Hit"
+msgstr "オーケストラヒット"
+
+msgid "Orchestral Strings"
+msgstr "オーケストラのげんがっき"
+
+msgid "Overdriven Guitar"
+msgstr "オーバードライブギター"
+
+msgid "Pad 1 (new age)"
+msgstr "パッド 1 (ニューエイジ)"
+
+msgid "Pad 2 (warm)"
+msgstr "パッド 2 (あたたかい)"
+
+msgid "Pad 3 (polysynth)"
+msgstr "パッド 3 (ポリシンセ)"
+
+msgid "Pad 4 (choir)"
+msgstr "パッド 4 (せいか)"
+
+msgid "Pad 5 (bowed)"
+msgstr "パッド 5 (ゆみなり)"
+
+msgid "Pad 6 (metallic)"
+msgstr "パッド 6 (メタル)"
+
+msgid "Pad 7 (halo)"
+msgstr "パッド 7 (ハロ)"
+
+msgid "Pad 8 (sweep)"
+msgstr "パッド 8 (スイープ)"
+
+msgid "Pan Flute"
+msgstr "パンフルート"
+
+msgid "Pedal Hi-Hat"
+msgstr "ペダルハイハット"
+
+msgid "Percussive Organ"
+msgstr "パーカッシブオルガン"
+
+msgid "Piccolo"
+msgstr "ピッコロ"
+
+msgid "Pizzicato Strings"
+msgstr "げんがっきのピチカート"
+
+msgid "Recorder"
+msgstr "リコーダー"
+
+msgid "Reed Organ"
+msgstr "リードオルガン"
+
+msgid "Reverse Cymbal"
+msgstr "リバースシンバル"
+
+msgid "Ride Bell"
+msgstr "ライドベル"
+
+msgid "Ride Cymbal 1"
+msgstr "ライドシンバル 1"
+
+msgid "Ride Cymbal 2"
+msgstr "ライドシンバル 2"
+
+msgid "Rock Organ"
+msgstr "ロックオルガン"
+
+msgid "Seashore"
+msgstr "うみべ"
+
+msgid "Shakuhachi"
+msgstr "しゃくはち"
+
+msgid "Shamisen"
+msgstr "しゃみせん"
+
+msgid "Shanai"
+msgstr "シャナイ"
+
+msgid "Short Guiro"
+msgstr "みじかいギロ"
+
+msgid "Short Whistle"
+msgstr "みじかいホイッスル"
+
+msgid "Side Stick"
+msgstr "サイドスティック"
+
+msgid "Sitar"
+msgstr "シタール"
+
+msgid "Slap Bass 1"
+msgstr "スラップベース 1"
+
+msgid "Slap Bass 2"
+msgstr "スラップベース 2"
+
+msgid "Soprano Sax"
+msgstr "ソプラノサックス"
+
+msgid "Splash Cymbal"
+msgstr "スプラッシュシンバル"
+
+msgid "Steel Drums"
+msgstr "スチールドラム"
+
+msgid "Steel String Guitar"
+msgstr "スチールげんギター"
+
+msgid "String Ensemble 1"
+msgstr "げんがくがっそう 1"
+
+msgid "String Ensemble 2"
+msgstr "げんがくがっそう 2"
+
+msgid "Synth Bass 1"
+msgstr "シンセベース 1"
+
+msgid "Synth Bass 2"
+msgstr "シンセベース 2"
+
+msgid "Synth Drum"
+msgstr "シンセドラム"
+
+msgid "Synth Voice"
+msgstr "シンセボイス"
+
+msgid "SynthBrass 1"
+msgstr "シンセブラス 1"
+
+msgid "SynthBrass 2"
+msgstr "シンセブラス 2"
+
+msgid "SynthStrings 1"
+msgstr "シンセストリング 1"
+
+msgid "SynthStrings 2"
+msgstr "シンセストリング 2"
+
+msgid "Taiko Drum"
+msgstr "たいこ"
+
+msgid "Tambourine"
+msgstr "タンバリン"
+
+msgid "Tango Accordion"
+msgstr "タンゴアコーディオン"
+
+msgid "Telephone Ring"
+msgstr "でんわのベル"
+
+msgid "Tenor Sax"
+msgstr "テナーサックス"
+
+msgid "Timpani"
+msgstr "ティンパニー"
+
+msgid "Tinkle Bell"
+msgstr "ティンクルベル"
+
+msgid "Tremolo Strings"
+msgstr "トレモロストリング"
+
+msgid "Trombone"
+msgstr "トロンボーン"
+
+msgid "Trumpet"
+msgstr "トランペット"
+
+msgid "Tuba"
+msgstr "チューバ"
+
+msgid "Tubular Bells"
+msgstr "チューブラーベル"
+
+msgid "Vibraphone"
+msgstr "ビブラフォン"
+
+msgid "Vibraslap"
+msgstr "ビブラスラップ"
+
+msgid "Viola"
+msgstr "ビオラ"
+
+msgid "Violin"
+msgstr "ヴァイオリン"
+
+msgid "Voice Oohs"
+msgstr "こえ「うー」"
+
+msgid "Whistle"
+msgstr "ホイッスル"
+
+msgid "Woodblock"
+msgstr "ウッドブロック"
+
+msgid "Xylophone"
+msgstr "シロホン"
+

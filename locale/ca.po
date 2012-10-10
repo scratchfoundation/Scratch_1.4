@@ -1,0 +1,1921 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Scratch\n"
+"Report-Msgid-Bugs-To: Evelyn Eastmond <evelyn@media.mit.edu>\n"
+"POT-Creation-Date: 2007-11-29\n"
+"PO-Revision-Date: 2009-06-09 01:14+0100\n"
+"Last-Translator: Eugeni Catalan, Pau Córdoba, Jaume Ramos i Frank Sabaté\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ca\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 1.2.0\n"
+
+############################################
+# FORMATTING
+############################################
+
+# Language name as you'd like it to appear in the Languages menu
+# (Required)
+msgid "Language-Name"
+msgstr "Català"
+
+# Directionality of language
+# LTR = Left to Right
+# RTL = Right to Left
+msgid "Language-Direction"
+msgstr "LTR"
+
+# Scale to apply to font size (2 for twice as large)
+# Use this if the font is too small for legibility on the Scratch interface
+msgid "Font-Scale"
+msgstr "1"
+
+# Set to 'true' or 'false'
+# Use this if you do not want any of the text to be bolded, for legibility
+msgid "Suppress-Bold"
+msgstr "false"
+
+# Font to use on a Windows system
+msgid "Win-Font"
+msgstr ""
+
+# Font to use on a Mac system
+msgid "Mac-Font"
+msgstr ""
+
+# Font to use on a Linux system
+msgid "Linux-Font"
+msgstr ""
+
+############################################
+# BLOCKS
+############################################
+
+msgid "%H sensor value"
+msgstr "valor del sensor %H"
+
+msgid "%L contains %s"
+msgstr "%L conté %s"
+
+msgid "%a of %m"
+msgstr "%a de %m"
+
+msgid "%b and %b"
+msgstr "%b i %b"
+
+msgid "%b or %b"
+msgstr "%b o %b"
+
+msgid "%f of %n"
+msgstr "%f de %n"
+
+msgid "%n mod %n"
+msgstr "residu de dividir %n entre %n"
+
+msgid "add %s to %L"
+msgstr "afegeix %s a %L"
+
+msgid "answer"
+msgstr "resposta"
+
+msgid "ask %s and wait"
+msgstr "pregunta %s i espera"
+
+msgid "background #"
+msgstr "fons #"
+
+msgid "broadcast %e"
+msgstr "envia a tots %e"
+
+msgid "broadcast %e and wait"
+msgstr "envia a tots %e i espera"
+
+msgid "change %g effect by %n"
+msgstr "augmenta %n l'efecte %g "
+
+msgid "change %v by %n"
+msgstr "suma %n a %v"
+
+msgid "change pen color by %n"
+msgstr "augmenta %n el color del llapis"
+
+msgid "change pen shade by %n"
+msgstr "augmenta %n la intensitat del llapis"
+
+msgid "change pen size by %n"
+msgstr "augmenta %n la mida del llapis"
+
+msgid "change size by %n"
+msgstr "augmenta %n la mida"
+
+msgid "change tempo by %n"
+msgstr "augmenta %n el tempo"
+
+msgid "change volume by %n"
+msgstr "puja %n el volum"
+
+msgid "change x by %n"
+msgstr "suma %n a x"
+
+msgid "change y by %n"
+msgstr "suma %n a y"
+
+msgid "clear"
+msgstr "neteja"
+
+msgid "clear graphic effects"
+msgstr "treu els efectes gràfics"
+
+msgid "color %C is touching %C?"
+msgstr "color %C sobre %C?"
+
+msgid "control"
+msgstr "control"
+
+msgid "costume #"
+msgstr "vestit #"
+
+msgid "delete %y of %L"
+msgstr "esborra l'element %y de %L"
+
+msgid "direction"
+msgstr "direcció"
+
+msgid "distance to %m"
+msgstr "distància a %m"
+
+msgid "else"
+msgstr "si no"
+
+msgid "forever"
+msgstr "per sempre"
+
+msgid "forever if %b"
+msgstr "per sempre si %b"
+
+msgid "glide %n secs to x:%n y:%n"
+msgstr "llisca %n segons fins a x:%n y:%n"
+
+msgid "go back %n layers"
+msgstr "envia darrera %n capes"
+
+msgid "go to %m"
+msgstr "vés a %m"
+
+msgid "go to front"
+msgstr "envia endavant"
+
+msgid "go to x:%n y:%n"
+msgstr "vés a x:%n y:%n"
+
+msgid "hide"
+msgstr "amaga"
+
+msgid "hide variable %v"
+msgstr "amaga la variable %v"
+
+msgid "if %b"
+msgstr "si %b"
+
+msgid "if on edge, bounce"
+msgstr "rebota al tocar una vora"
+
+msgid "insert %s at %i of %L"
+msgstr "afegeix %s a la posició %i de %L"
+
+msgid "item %i of %L"
+msgstr "element %i de %L"
+
+msgid "join %s %s"
+msgstr "uneix %s i %s"
+
+msgid "key %k pressed?"
+msgstr "tecla %k premuda?"
+
+msgid "length of %L"
+msgstr "llargada de %L"
+
+msgid "length of %s"
+msgstr "llargada de %s"
+
+msgid "letter %n of %s"
+msgstr "lletra %n de %s"
+
+msgid "list"
+msgstr "llista"
+
+msgid "looks"
+msgstr "aspecte"
+
+msgid "loud?"
+msgstr "so fort?"
+
+msgid "loudness"
+msgstr "volum del so"
+
+msgid "motion"
+msgstr "moviment"
+
+msgid "motor direction %W"
+msgstr "direcció del motor %W"
+
+msgid "motor off"
+msgstr "atura el motor"
+
+msgid "motor on"
+msgstr "activa el motor"
+
+msgid "motor on for %n secs"
+msgstr "activa el motor %n segons"
+
+msgid "motor power %n"
+msgstr "potència del motor a %n"
+
+msgid "mouse down?"
+msgstr "ratolí premut?"
+
+msgid "mouse x"
+msgstr "ratolí x"
+
+msgid "mouse y"
+msgstr "ratolí y"
+
+msgid "move %n steps"
+msgstr "mou-te %n passos"
+
+msgid "next background"
+msgstr "següent fons de pantalla"
+
+msgid "next costume"
+msgstr "següent vestit"
+
+msgid "not %b"
+msgstr "no %b"
+
+msgid "operators"
+msgstr "operadors"
+
+msgid "pen"
+msgstr "llapis"
+
+msgid "pen down"
+msgstr "baixa el llapis"
+
+msgid "pen up"
+msgstr "puja el llapis"
+
+msgid "pick random %n to %n"
+msgstr "nombre a l'atzar entre %n i %n"
+
+msgid "play drum %D for %n beats"
+msgstr "toca el tambor %D durant %n pulsacions"
+
+msgid "play note %N for %n beats"
+msgstr "toca nota %N durant %n pulsacions"
+
+msgid "play sound %S"
+msgstr "toca el so %S"
+
+msgid "play sound %S until done"
+msgstr "toca el so %S i espera"
+
+msgid "point in direction %d"
+msgstr "apunta en direcció %d"
+
+msgid "point towards %m"
+msgstr "apunta cap a %m"
+
+msgid "repeat %n"
+msgstr "repeteix %n"
+
+msgid "repeat until %b"
+msgstr "repeteix fins %b"
+
+msgid "replace item %i of %L with %s"
+msgstr "canvia l'element %i de %L per %s"
+
+msgid "reset timer"
+msgstr "reinicia el cronòmetre"
+
+msgid "rest for %n beats"
+msgstr "espera %n pulsacions"
+
+msgid "round %n"
+msgstr "arrodoneix %n"
+
+msgid "say %s"
+msgstr "digues %s"
+
+msgid "say %s for %n secs"
+msgstr "digues %s durant %n segons"
+
+msgid "sensing"
+msgstr "sensors"
+
+msgid "sensor %h?"
+msgstr "sensor %h activat?"
+
+msgid "set %g effect to %n"
+msgstr "fixa l'efecte %g a %n"
+
+msgid "set %v to %n"
+msgstr "fixa %v a %n"
+
+msgid "set instrument to %I"
+msgstr "fixa l'instrument a %I"
+
+msgid "set pen color to %c"
+msgstr "fixa el color del llapis a %c"
+
+msgid "set pen color to %n"
+msgstr "fixa el color del llapis a %n"
+
+msgid "set pen shade to %n"
+msgstr "fixa la intensitat del llapis a %n"
+
+msgid "set pen size to %n"
+msgstr "fixa la mida del llapis a %n"
+
+msgid "set size to %n%"
+msgstr "fixa la mida a %n%"
+
+msgid "set tempo to %n bpm"
+msgstr "fixa el tempo a %n"
+
+msgid "set volume to %n%"
+msgstr "fixa el volum a %n"
+
+msgid "set x to %n"
+msgstr "fixa x a %n"
+
+msgid "set y to %n"
+msgstr "fixa y a %n"
+
+msgid "show"
+msgstr "mostra"
+
+msgid "show variable %v"
+msgstr "mostra la variable %v"
+
+msgid "size"
+msgstr "mida"
+
+msgid "sound"
+msgstr "sons"
+
+msgid "stamp"
+msgstr "estampa"
+
+msgid "stop all"
+msgstr "atura-ho tot"
+
+msgid "stop all sounds"
+msgstr "atura tots els sons"
+
+msgid "stop script"
+msgstr "atura el bloc"
+
+msgid "switch to background %l"
+msgstr "canvia el fons a %l"
+
+msgid "switch to costume %l"
+msgstr "canvia el vestit a %l"
+
+msgid "tempo"
+msgstr "tempo"
+
+msgid "think %s"
+msgstr "pensa %s"
+
+msgid "think %s for %n secs"
+msgstr "pensa %s durant %n segons"
+
+msgid "timer"
+msgstr "cronòmetre"
+
+msgid "touching %m?"
+msgstr "tocant %m?"
+
+msgid "touching color %C?"
+msgstr "tocant el color %C?"
+
+msgid "turn %n degrees"
+msgstr "gira %n graus"
+
+msgid "variables"
+msgstr "variables"
+
+msgid "volume"
+msgstr "volum"
+
+msgid "wait %n secs"
+msgstr "espera %n segons"
+
+msgid "wait until %b"
+msgstr "espera fins %b"
+
+msgid "when %k key pressed"
+msgstr "al prémer tecla %k"
+
+msgid "when %m clicked"
+msgstr "al prémer %m"
+
+msgid "when I receive %e"
+msgstr "al rebre %e"
+
+msgid "x position"
+msgstr "posició x"
+
+msgid "y position"
+msgstr "posició y"
+
+############################################
+# USER INTERFACE
+############################################
+
+msgid "(empty)"
+msgstr "(buit)"
+
+msgid "1 script"
+msgstr "1 programa"
+
+msgid "About Scratch"
+msgstr "Quant al Scratch"
+
+msgid "About this project:"
+msgstr "Quant a aquest projecte:"
+
+msgid "abs"
+msgstr "abs"
+
+msgid "add comment"
+msgstr "afegeix un comentari"
+
+msgid "add comment here"
+msgstr "escriu el comentari aqui"
+
+msgid "all"
+msgstr "tots"
+
+msgid "and"
+msgstr "i"
+
+msgid "Animation"
+msgstr "Animació"
+
+msgid "any"
+msgstr "qualsevol"
+
+msgid "Art"
+msgstr "Art"
+
+msgid "background"
+msgstr "fons"
+
+msgid "backgrounds"
+msgstr "fons"
+
+msgid "Backgrounds"
+msgstr "Fons"
+
+msgid "brightness"
+msgstr "lluentor"
+
+msgid "Brush size: "
+msgstr "Mida del pinzell: "
+
+msgid "button"
+msgstr "botó"
+
+msgid "button pressed"
+msgstr "botó premut"
+
+msgid "Camera"
+msgstr "Càmera"
+
+msgid "can rotate"
+msgstr "gira lliurement"
+
+msgid "cancel"
+msgstr "Cancel·la"
+
+msgid "Cancel"
+msgstr "Cancel·la"
+
+msgid "Choose a folder"
+msgstr "Escull una carpeta"
+
+msgid "Choose new sprite from file"
+msgstr "Escull una animació des d'un fitxer"
+
+msgid "clean up"
+msgstr "organitza"
+
+msgid "Clear"
+msgstr "Neteja"
+
+msgid "Clear canvas"
+msgstr "Neteja l'àrea de dibuix"
+
+msgid "Close and continue"
+msgstr "Tanca i segueix"
+
+msgid "Close dialog?"
+msgstr "Tanco diàleg?"
+
+msgid "Close paint editor?"
+msgstr "Tanco el dibuix?"
+
+msgid "close port"
+msgstr "tanco el port"
+
+msgid "Close sound recorder?"
+msgstr "Tanco gravadora de so?"
+
+msgid "color"
+msgstr "color"
+
+msgid "Compress Images"
+msgstr "Comprimeix les imatges"
+
+msgid "Compress Sounds"
+msgstr "Comprimeix els sons"
+
+msgid "Compress sounds and images"
+msgstr "Comprimeix imatges i sons"
+
+msgid "Computer"
+msgstr "Ordinador"
+
+msgid "connected"
+msgstr "conectat"
+
+msgid "Connecting to "
+msgstr "Conectant amb "
+
+msgid "Copy"
+msgstr "Copia"
+
+msgid "costume"
+msgstr "vestit"
+
+msgid "costumes"
+msgstr "vestits"
+
+msgid "Costumes"
+msgstr "Vestits"
+
+msgid "Could not read"
+msgstr "No puc llegir"
+
+msgid "Could not read project; file may be damaged"
+msgstr "No puc llegir el projecte; El fitxer pot estar fet malbé."
+
+msgid "Could not write file"
+msgstr "No puc escriure al fitxer"
+
+msgid "Create account"
+msgstr "Crear compte"
+
+msgid "Create an empty project"
+msgstr "Crea un projecte buit"
+
+msgid "Data sent. Waiting for response..."
+msgstr "Dades enviades. Esperant resposta..."
+
+msgid "delete"
+msgstr "esborra"
+
+msgid "Delete"
+msgstr "Esborra"
+
+msgid "Delete a list"
+msgstr "Esborra llista"
+
+msgid "Delete a variable"
+msgstr "Esborra la variable"
+
+msgid "Delete this background"
+msgstr "Esborra aquest fons"
+
+msgid "Delete this costume"
+msgstr "Esborra aquest vestit"
+
+msgid "Delete this sound"
+msgstr "Esborra aquest so"
+
+msgid "Delete this sprite"
+msgstr "Esborra aquesta animació"
+
+msgid "Desktop"
+msgstr "Escriptori"
+
+msgid "disable remote sensor connections"
+msgstr "deshabilita connexions dels sensors remots"
+
+msgid "distance"
+msgstr "distància"
+
+msgid "Documents"
+msgstr "Documents"
+
+msgid "don't rotate"
+msgstr "no giris"
+
+msgid "Don't Save"
+msgstr "No desis"
+
+msgid "Done"
+msgstr "Tanca"
+
+msgid "down"
+msgstr "avall"
+
+msgid "down arrow"
+msgstr "fletxa avall"
+
+msgid "drag to resize"
+msgstr "arrossega per canviar la mida"
+
+msgid "drag to rotate"
+msgstr "arrosega per girar"
+
+msgid "draggable on website?"
+msgstr "es pot arrossegar a un lloc web?"
+
+msgid "duplicate"
+msgstr "duplica"
+
+msgid "Duplicate"
+msgstr "Duplica"
+
+msgid "edge"
+msgstr "vora"
+
+msgid "Edit"
+msgstr "Edita"
+
+msgid "Ellipse tool (draw outlined or filled ellipse or circle)"
+msgstr "El·lipse (dibuixa contorn o omple una el·lipse o un cercle)"
+
+msgid "enable remote sensor connections"
+msgstr "habilita connexions dels sensors remots"
+
+msgid "Enter presentation mode"
+msgstr "Entra en mode presentació"
+
+msgid "Eraser"
+msgstr "Goma d'esborrar"
+
+msgid "Eraser size"
+msgstr "Mida de la goma"
+
+msgid "Error!"
+msgstr "Error!"
+
+msgid "Examples"
+msgstr "Exemples"
+
+msgid "Exit presentation"
+msgstr "Surt de la presentació"
+
+msgid "Exit presentation mode"
+msgstr "Surt del mode presentació"
+
+msgid "export"
+msgstr "exporta"
+
+msgid "Export Background"
+msgstr "Exporta fons"
+
+msgid "Export Costume"
+msgstr "Exporta vestit"
+
+msgid "Export failed"
+msgstr "Ha fallat a l'exportar"
+
+msgid "Export Sound"
+msgstr "Exporta So"
+
+msgid "Export Sprite"
+msgstr "Exporta Animació"
+
+msgid "export this costume"
+msgstr "exportar aquest vestit"
+
+msgid "export this sound"
+msgstr "exporta aquest so"
+
+msgid "export this sprite"
+msgstr "exporta aquesta animació"
+
+msgid "Extras menu"
+msgstr "Menú d'extres"
+
+msgid "Eyedropper tool (select a color)"
+msgstr "Comptagotes (escull color)"
+
+msgid "Failed:"
+msgstr "Fallat:"
+
+msgid "false"
+msgstr "fals"
+
+msgid "File"
+msgstr "Fitxer"
+
+msgid "File not found"
+msgstr "No s'ha trobat el fitxer"
+
+msgid "Fill tool (fill areas with color or gradient)"
+msgstr "Pot de pintura (omple àrees amb color o gradient)"
+
+msgid "first"
+msgstr "primer"
+
+msgid "fisheye"
+msgstr "ull de peix"
+
+msgid "Flash blocks (fast)"
+msgstr "Blocs Flash (ràpid)"
+
+msgid "Flash blocks (slow)"
+msgstr "Blocs Flash (lent)"
+
+msgid "Flip horizontally"
+msgstr "Volta horitzontalment"
+
+msgid "Flip vertically"
+msgstr "Volta verticalment"
+
+msgid "For all sprites"
+msgstr "Per a totes les animacions"
+
+msgid "For this sprite only"
+msgstr "Per a aquesta animació"
+
+msgid "Game"
+msgstr "Joc"
+
+msgid "Get surprise sprite"
+msgstr "Agafa una animació sorpresa"
+
+msgid "Get the last thing deleted"
+msgstr "Recupera el darrer esborrat"
+
+msgid "Getting Started"
+msgstr "Començar"
+
+msgid "ghost"
+msgstr "transparent"
+
+msgid "Go To Scratch Website"
+msgstr "Vés al lloc Web del Scratch"
+
+msgid "grab screen region for new costume"
+msgstr "reserva l'àrea de pantalla per a un nou vestit"
+
+msgid "grab screen region for new sprite"
+msgstr "reserva l'àrea de pantalla per a una nova animació"
+
+msgid "Grow"
+msgstr "Eixampla"
+
+msgid "Grow sprite"
+msgstr "Eixampla l'animació"
+
+msgid "hello "
+msgstr "hola "
+
+msgid "Hello!"
+msgstr "Hola!"
+
+msgid "help"
+msgstr "ajuda"
+
+msgid "Help"
+msgstr "Ajuda"
+
+msgid "Help Page"
+msgstr "Pàgina d'Ajuda"
+
+msgid "Help Screens"
+msgstr "Pantalles d'Ajuda"
+
+msgid "Hide Motor Blocks"
+msgstr "Amaga els blocs de Motor"
+
+msgid "High (biggest)"
+msgstr "Alt (més gran)"
+
+msgid "Hmm..."
+msgstr "Hmm..."
+
+msgid "Home"
+msgstr "Casa"
+
+msgid "Images compressed"
+msgstr "Imatges comprimides"
+
+msgid "import"
+msgstr "importa"
+
+msgid "Import"
+msgstr "Importa"
+
+msgid "Import an image on top of your current canvas"
+msgstr "Importa una imatge damunt de l'àrea de dibuix actual"
+
+msgid "Import Background"
+msgstr "Importa Fons"
+
+msgid "Import Costume"
+msgstr "Importa vestit"
+
+msgid "Import Image"
+msgstr "Importa Imatge"
+
+msgid "Import List"
+msgstr "Llista d'importació"
+
+msgid "Import Project"
+msgstr "Importa Projecte"
+
+msgid "import project"
+msgstr "importa projecte"
+
+msgid "Import Sound"
+msgstr "Importa So"
+
+msgid "Incompatible Scratch file format"
+msgstr "Format del fitxer incompatible"
+
+msgid "Is the folder read-only?"
+msgstr "El fitxer és només de lectura?"
+
+msgid "JPEG Quality (10-100)?"
+msgstr "Qualitat JPEG (10-100)"
+
+msgid "kbytes"
+msgstr "kbytes"
+
+msgid "Language"
+msgstr "Llenguatge"
+
+msgid "large readout"
+msgstr "lectura llarga"
+
+msgid "last"
+msgstr "darrer"
+
+msgid "left"
+msgstr "esquerra"
+
+msgid "left arrow"
+msgstr "fletxa esquerra"
+
+msgid "length"
+msgstr "llargada"
+
+msgid "light"
+msgstr "llum"
+
+msgid "Line tool (draw lines)"
+msgstr "Línia (dibuixa línies)"
+
+msgid "List name?"
+msgstr "Nom de la llista?"
+
+msgid "Low"
+msgstr "Menys"
+
+msgid "Lowest (smallest)"
+msgstr "Menor (El més petit)"
+
+msgid "Make a list"
+msgstr "Nova llista"
+
+msgid "Make a variable"
+msgstr "Nova variable"
+
+msgid "Max:"
+msgstr "Max:"
+
+msgid "meow"
+msgstr "gat"
+
+msgid "Message name:"
+msgstr "Nom del missatge:"
+
+msgid "Min:"
+msgstr "MIn:"
+
+msgid "mod"
+msgstr "residu"
+
+msgid "more"
+msgstr "més"
+
+msgid "More tags:"
+msgstr "Més etiquetes:"
+
+msgid "mosaic"
+msgstr "mosaic"
+
+msgid "mouse x:"
+msgstr "ratolí x:"
+
+msgid "mouse y:"
+msgstr "ratolí y:"
+
+msgid "mouse-pointer"
+msgstr "punter del ratolí"
+
+msgid "Move"
+msgstr "Mou-te"
+
+msgid "Music"
+msgstr "Música"
+
+msgid "My Projects"
+msgstr "Els meus Projectes"
+
+msgid "new"
+msgstr "nou"
+
+msgid "New"
+msgstr "Nou"
+
+msgid "New background:"
+msgstr "Nou fons:"
+
+msgid "New costume:"
+msgstr "Nou vestit:"
+
+msgid "New file name?"
+msgstr ""
+
+msgid "New Filename:"
+msgstr "Nom del Fitxer:"
+
+msgid "New sound:"
+msgstr "Nou So:"
+
+msgid "New Sprite"
+msgstr "Nova Animació"
+
+msgid "New sprite:"
+msgstr "Nova animació: "
+
+msgid "No"
+msgstr "No"
+
+msgid "No MIDI ports currently available."
+msgstr "No hi ha ports MIDI disponibles"
+
+msgid "No motion blocks"
+msgstr "Sense blocs de moviment"
+
+msgid "no scripts"
+msgstr "sense programes"
+
+msgid "No serial ports found"
+msgstr "No hi ha ports serie"
+
+msgid "No variables."
+msgstr "Sense variables."
+
+msgid "Normal"
+msgstr "Normal"
+
+msgid "normal readout"
+msgstr "lectura normal"
+
+msgid "Off"
+msgstr "Apaga"
+
+msgid "OK"
+msgstr "D'acord"
+
+msgid "On"
+msgstr "Activa"
+
+msgid "only face left-right"
+msgstr "gira només a dreta o esquerra"
+
+msgid "Open"
+msgstr "Obre"
+
+msgid "Open a Scratch project"
+msgstr "Obre un projecte Scratch"
+
+msgid "Open Project"
+msgstr "Obre Projecte"
+
+msgid "or"
+msgstr "o"
+
+msgid "Paint"
+msgstr "Dibuixa"
+
+msgid "Paint Editor"
+msgstr "Editor de dibuixos"
+
+msgid "Paint new sprite"
+msgstr "Dibuixa una nova animació"
+
+msgid "Paintbrush"
+msgstr "Pinzell"
+
+msgid "Password:"
+msgstr "Contrasenya:"
+
+msgid "Percent? (100 gives original size)"
+msgstr "Percentatge? (100 és la mida original)"
+
+msgid "Pictures"
+msgstr "Dibuixos"
+
+msgid "pixelate"
+msgstr "pixelar"
+
+msgid "play"
+msgstr "reprodueix"
+
+msgid "Please enter a number"
+msgstr "Entra un nombre"
+
+msgid "pop"
+msgstr "pop"
+
+msgid "Position the cross-hair to set the rotation center"
+msgstr "Posiciona la creu per establir el centre de rotació"
+
+msgid "Preparing project..."
+msgstr "Preparant projecte..."
+
+msgid "Project author:"
+msgstr "Autor del Projecte:"
+
+msgid "Project name"
+msgstr "Nom del projecte"
+
+msgid "Project Notes"
+msgstr "Notes del Projecte"
+
+msgid "Project notes"
+msgstr "Notes del projecte"
+
+msgid "Project uploaded."
+msgstr "Projecte descarregat."
+
+msgid "Projects"
+msgstr "Projectes"
+
+msgid "Quit"
+msgstr "Surt"
+
+msgid "Quit Scratch"
+msgstr "Surt del Scratch"
+
+msgid "Reading"
+msgstr "Llegint"
+
+msgid "record"
+msgstr "grava"
+
+msgid "Record"
+msgstr "Grava"
+
+msgid "recording"
+msgstr "gravant"
+
+msgid "Rectangle tool (draw outlined or filled rectangle or square)"
+msgstr "Rectangle (dibuixa el contorn o omple rectangles i quadrats)"
+
+msgid "Redo"
+msgstr "Torna-hi"
+
+msgid "Reference Guide"
+msgstr "Guia de Referència"
+
+msgid "Remote sensor connections enabled"
+msgstr "Connexions amb sensors remots habilitades"
+
+msgid "Remove viewer from stage"
+msgstr "Treu visor de l'escenari"
+
+msgid "resistance"
+msgstr "resistència"
+
+msgid "resize this sprite"
+msgstr "redimensiona aquesta animació"
+
+msgid "reverse"
+msgstr "invertit"
+
+msgid "right"
+msgstr "dreta"
+
+msgid "right arrow"
+msgstr "fletxa dreta"
+
+msgid "Rotate clock-wise"
+msgstr "Gira en el sentit de les agulles del rellotge"
+
+msgid "Rotate counter-clock-wise"
+msgstr "Gira en el sentit contrari a les agulles del rellotge"
+
+msgid "rotate this sprite"
+msgstr "gira aquesta animació"
+
+msgid "Rotation degrees?"
+msgstr "Graus de gir?"
+
+msgid "Save"
+msgstr "Desa"
+
+msgid "Save a copy of the current project"
+msgstr "Desa una copia del projecte actual"
+
+msgid "Save As"
+msgstr "Anomena i desa"
+
+msgid "Save changes before quitting?"
+msgstr "Deso els canvis abans de sortir?"
+
+msgid "Save failed"
+msgstr "Error al desar"
+
+msgid "save picture of scripts"
+msgstr "desa una imatge dels programes"
+
+msgid "save picture of stage..."
+msgstr "desa una imatge de l'escenari..."
+
+msgid "Save Project"
+msgstr "Desa Projecte"
+
+msgid "Save Scripts Snapshot"
+msgstr "Desa una imatge dels programes"
+
+msgid "Save Stage Shot"
+msgstr "Desa una imatge de l'escenari"
+
+msgid "Save the current project"
+msgstr "Desa el projecte actual"
+
+msgid "Save the current project?"
+msgstr "Deso el projecte actual?"
+
+msgid "Save this project"
+msgstr "Desa aquest projecte"
+
+msgid "Scripts"
+msgstr "Programes"
+
+msgid "select serial/USB port"
+msgstr "Tria port sèrie/USB"
+
+msgid "Select tool (move, modify, or delete selection)"
+msgstr "Selecció (mou, modifica o esborra la selecció)"
+
+msgid "Set costume center"
+msgstr "Fixa el centre del vestit"
+
+msgid "Set language"
+msgstr "Canvia el llenguatge"
+
+msgid "Set rotation center"
+msgstr "Canvia el centre de rotació"
+
+msgid "Set Single Stepping"
+msgstr "Defineix pas a pas"
+
+msgid "set slider min and max"
+msgstr "Defineix el mínim i màxim del lliscador"
+
+msgid "Share"
+msgstr "Comparteix"
+
+msgid "Share this project"
+msgstr "Comparteix aquest projecte"
+
+msgid "Share This Project Online"
+msgstr "Comparteix aquest projecte a Internet"
+
+msgid "Show Motor Blocks"
+msgstr "Mostra els blocs de Motor"
+
+msgid "show ScratchBoard watcher"
+msgstr "mostra l'inspector de la Placa Scratch"
+
+msgid "Shrink"
+msgstr "Redueix"
+
+msgid "Shrink sprite"
+msgstr "Redueix l'animació"
+
+msgid "Simulation"
+msgstr "Simulació"
+
+msgid "Single-step speed?"
+msgstr "Velocitat dels passos?"
+
+msgid "slider"
+msgstr "lliscador"
+
+msgid "Slider range:"
+msgstr "Rang del lliscador:"
+
+msgid "Sound quality:"
+msgstr "Qualitat del so:"
+
+msgid "Sound Recorder"
+msgstr "Gravadora de sons"
+
+msgid "Sounds"
+msgstr "Sons"
+
+msgid "Sounds compressed"
+msgstr "Sons comprimits"
+
+msgid "space"
+msgstr "espai"
+
+msgid "Sprite"
+msgstr "Animació"
+
+msgid "Sprites"
+msgstr "Animacions"
+
+msgid "sqrt"
+msgstr "arrel quadrada"
+
+msgid "Stage"
+msgstr "Escenari"
+
+msgid "Stage selected:"
+msgstr "Escenari sel·lecionat:"
+
+msgid "Stamp tool (select area, then stamp copies of it)"
+msgstr "Estampa (selecciona àrea i estampa copies)"
+
+msgid "Start green flag scripts"
+msgstr "Activa els programes amb bandera verda"
+
+msgid "Start Single Stepping"
+msgstr "Activa pas a pas"
+
+msgid "stop"
+msgstr "atura"
+
+msgid "Stop everything"
+msgstr "Atura-ho tot"
+
+msgid "Stop Single Stepping"
+msgstr "Atura pas a pas"
+
+msgid "Story"
+msgstr "Història"
+
+msgid "Support Site"
+msgstr "Lloc de Suport"
+
+msgid "Switch colors"
+msgstr "Canvia colors"
+
+msgid "Switch to full stage"
+msgstr "Canvia a escenari complert"
+
+msgid "Switch to presentation mode"
+msgstr "Canvia a mode presentació"
+
+msgid "Switch to small stage"
+msgstr "Canvia a escenari petit"
+
+msgid "Tags:"
+msgstr "Etiquetes:"
+
+msgid "Text tool (edit text layer)"
+msgstr "Text (edita capa de text)"
+
+msgid "That variable name is already in use"
+msgstr "Aquest nom de variable ja esta en ús"
+
+msgid "that way"
+msgstr "cap aquí"
+
+msgid "The file name already exists. Overwrite existing file?"
+msgstr "El fitxer existeix. Sobreescriure?"
+
+msgid "thing"
+msgstr "quelcom"
+
+msgid "this way"
+msgstr "cap allà"
+
+msgid "tilt"
+msgstr "inclinació"
+
+msgid "true"
+msgstr "veritat"
+
+msgid "Turbo speed"
+msgstr "velocitat Turbo"
+
+msgid "turn into new sprite"
+msgstr "crea una nova animació"
+
+msgid "Undelete"
+msgstr "Recupera"
+
+msgid "Undo"
+msgstr "Desfés"
+
+msgid "up"
+msgstr "amunt"
+
+msgid "up arrow"
+msgstr "fletxa amunt"
+
+msgid "Updating thumbnails"
+msgstr "Actualitza miniatures"
+
+msgid "Upload succeeded!"
+msgstr "Pujada complerta!"
+
+msgid "Upload to Scratch Server"
+msgstr "Puja al servidor Scratch"
+
+msgid "Uploading"
+msgstr "Descarregant"
+
+msgid "Variable name?"
+msgstr "Nom de la variable?"
+
+msgid "View on stage"
+msgstr "Veure a l'escenari"
+
+msgid "What's your name?"
+msgstr "Com et dius?"
+
+msgid "whirl"
+msgstr "girar"
+
+msgid "world"
+msgstr "món"
+
+msgid "Write Multiple Project Summaries"
+msgstr "Escriu resums de múltiples projectes"
+
+msgid "Write Project Summary"
+msgstr "Escriu un resum del projecte"
+
+msgid "Yes"
+msgstr "Si"
+
+msgid "Your project is now online at"
+msgstr "El teu projecte es troba OnLine a"
+
+msgid "Your Scratch website login name:"
+msgstr "Nom d'usuari del teu compte al lloc web Scratch:"
+
+msgid "Zoom in"
+msgstr "Apropa"
+
+msgid "Zoom out"
+msgstr "Allunya"
+
+############################################
+# MIDI INSTRUMENTS
+############################################
+
+msgid "Accordion"
+msgstr "Acordió"
+
+msgid "Acoustic Bass"
+msgstr "Baix acústic"
+
+msgid "Acoustic Bass Drum"
+msgstr "Bombo acústic"
+
+msgid "Acoustic Grand"
+msgstr "Piano acústic gran"
+
+msgid "Acoustic Snare"
+msgstr "Caixa acústica"
+
+msgid "Agogo"
+msgstr "Agogó"
+
+msgid "Alto Sax"
+msgstr "Saxo Alt"
+
+msgid "Applause"
+msgstr "Aplaudiment"
+
+msgid "Bagpipe"
+msgstr "Sac de gemecs"
+
+msgid "Banjo"
+msgstr "Banjo"
+
+msgid "Baritone Sax"
+msgstr "Saxo Baríton"
+
+msgid "Bass Drum 1"
+msgstr "Bombo"
+
+msgid "Bassoon"
+msgstr "Fagot"
+
+msgid "Bird Tweet"
+msgstr "Ocellet cantant"
+
+msgid "Blown Bottle"
+msgstr "Bufar una ampolla"
+
+msgid "Brass Section"
+msgstr "Secció de metall"
+
+msgid "Breath Noise"
+msgstr "Respiració"
+
+msgid "Bright Acoustic"
+msgstr "Piano acústic brillant"
+
+msgid "Cabasa"
+msgstr "Cabasa"
+
+msgid "Celesta"
+msgstr "Celesta"
+
+msgid "Cello"
+msgstr "Violoncel"
+
+msgid "Chinese Cymbal"
+msgstr "Gong"
+
+msgid "Choir Aahs"
+msgstr "Cor de veus"
+
+msgid "Church Organ"
+msgstr "Orgue d'església"
+
+msgid "Clarinet"
+msgstr "Clarinet"
+
+msgid "Claves"
+msgstr "Claves"
+
+msgid "Clavinet"
+msgstr "Clavecí"
+
+msgid "Closed Hi-Hat"
+msgstr "Plats oberts"
+
+msgid "Contrabass"
+msgstr "Contrabaix"
+
+msgid "Cowbell"
+msgstr "Esquella"
+
+msgid "Crash Cymbal 1"
+msgstr "Platet de xoc 1"
+
+msgid "Crash Cymbal 2"
+msgstr "Platet de xoc 2"
+
+msgid "Distortion Guitar"
+msgstr "Guitarra distorsionada"
+
+msgid "Drawbar Organ"
+msgstr "Orgue"
+
+msgid "Dulcimer"
+msgstr "Dulcimer"
+
+msgid "Electric Bass (finger)"
+msgstr "Baix elèctric (pitjat)"
+
+msgid "Electric Bass (pick)"
+msgstr "Baix elèctric (colpejat)"
+
+msgid "Electric Clean Guitar"
+msgstr "Guitarra elèctrica"
+
+msgid "Electric Grand"
+msgstr "Piano elèctric gran"
+
+msgid "Electric Jazz Guitar"
+msgstr "Guitarra elèctrica de Jazz"
+
+msgid "Electric Muted Guitar"
+msgstr "Guitarra elèctrica atenuada"
+
+msgid "Electric Piano 1"
+msgstr "Piano elèctric 1"
+
+msgid "Electric Piano 2"
+msgstr "Piano elèctric 2"
+
+msgid "Electric Snare"
+msgstr "Tambor electrònic"
+
+msgid "English Horn"
+msgstr "Corn anglès"
+
+msgid "FX 1 (rain)"
+msgstr "Efecte 1 (pluja)"
+
+msgid "FX 2 (soundtrack)"
+msgstr "Efecte 2 (banda sonora)"
+
+msgid "FX 3 (crystal)"
+msgstr "Efecte 3 (cristal·lí)"
+
+msgid "FX 4 (atmosphere)"
+msgstr "Efecte 4 (atmòsfera)"
+
+msgid "FX 5 (brightness)"
+msgstr "Efecte 5 (lluentor)"
+
+msgid "FX 6 (goblins)"
+msgstr "Efecte 6 (follets)"
+
+msgid "FX 7 (echoes)"
+msgstr "Efecte 7 (ecos)"
+
+msgid "FX 8 (sci-fi)"
+msgstr "Efecte 8 (ciència ficció)"
+
+msgid "Fiddle"
+msgstr "Violí"
+
+msgid "Flute"
+msgstr "Flauta"
+
+msgid "French Horn"
+msgstr "Corn francès"
+
+msgid "Fretless Bass"
+msgstr "Baix sense trastes"
+
+msgid "Glockenspiel"
+msgstr "Joc de timbres"
+
+msgid "Guitar Fret Noise"
+msgstr "Trasteig de guitarra"
+
+msgid "Guitar Harmonics"
+msgstr "Armònics de guitarra"
+
+msgid "Gunshot"
+msgstr "Tret de pistola"
+
+msgid "Hand Clap"
+msgstr "Aplaudiment"
+
+msgid "Harmonica"
+msgstr "Armònica"
+
+msgid "Harpsichord"
+msgstr "Arpa"
+
+msgid "Helicopter"
+msgstr "Helicòpter"
+
+msgid "Hi Bongo"
+msgstr "Bongo agut"
+
+msgid "Hi Wood Block"
+msgstr "Caixa xinesa aguda"
+
+msgid "Hi-Mid Tom"
+msgstr "Tom mig-agut"
+
+msgid "High Agogo"
+msgstr "Agogó alt"
+
+msgid "High Floor Tom"
+msgstr "Tom de terra agut"
+
+msgid "High Timbale"
+msgstr "Timbal agut"
+
+msgid "High Tom"
+msgstr "Tom agut"
+
+msgid "Honky-Tonk"
+msgstr "Piano de bar"
+
+msgid "Kalimba"
+msgstr "Kalimba"
+
+msgid "Koto"
+msgstr "Koto"
+
+msgid "Lead 1 (square)"
+msgstr "Principal 1 (ona cuadrada)"
+
+msgid "Lead 2 (sawtooth)"
+msgstr "Principal 2 (ona dent de serra)"
+
+msgid "Lead 3 (calliope)"
+msgstr "Principal 3 (orgue)"
+
+msgid "Lead 4 (chiff)"
+msgstr "Principal 4 (xiuxiueig)"
+
+msgid "Lead 5 (charang)"
+msgstr "Principal 5 (charanga)"
+
+msgid "Lead 6 (voice)"
+msgstr "Principal 6 (veu)"
+
+msgid "Lead 7 (fifths)"
+msgstr "Principal 7 (cinquenes)"
+
+msgid "Lead 8 (bass+lead)"
+msgstr "Principal 8 (baix i melodia)"
+
+msgid "Long Guiro"
+msgstr "Guiro llarg"
+
+msgid "Long Whistle"
+msgstr "Xiulet llarg"
+
+msgid "Low Agogo"
+msgstr "Agogó greu"
+
+msgid "Low Bongo"
+msgstr "Bongo greu"
+
+msgid "Low Conga"
+msgstr "Conga greu"
+
+msgid "Low Floor Tom"
+msgstr "Tom de terra greu"
+
+msgid "Low Timbale"
+msgstr "Timbal greu"
+
+msgid "Low Tom"
+msgstr "Tom greu"
+
+msgid "Low Wood Block"
+msgstr "Caixa xinesa greu"
+
+msgid "Low-Mid Tom"
+msgstr "Tom mig-greu"
+
+msgid "Maracas"
+msgstr "Maracas"
+
+msgid "Marimba"
+msgstr "Marimba"
+
+msgid "Melodic Tom"
+msgstr "Tom melòdic"
+
+msgid "Music Box"
+msgstr "Caixa xinesa"
+
+msgid "Mute Cuica"
+msgstr "Cuica sorda"
+
+msgid "Mute Hi Conga"
+msgstr "Conga aguda sorda"
+
+msgid "Mute Triangle"
+msgstr "Triangle sord"
+
+msgid "Muted Trumpet"
+msgstr "Trompeta amb sordina"
+
+msgid "Nylon String Guitar"
+msgstr "Guitarra clàssica"
+
+msgid "Oboe"
+msgstr "Oboè"
+
+msgid "Ocarina"
+msgstr "Ocarina"
+
+msgid "Open Cuica"
+msgstr "Cuica sonora"
+
+msgid "Open Hi Conga"
+msgstr "Conga aguda sonora"
+
+msgid "Open Hi-Hat"
+msgstr "Hi-Hat obert"
+
+msgid "Open Triangle"
+msgstr "Triangle sonor"
+
+msgid "Orchestra Hit"
+msgstr "Orquesta"
+
+msgid "Orchestral Strings"
+msgstr "Orquestra de corda"
+
+msgid "Overdriven Guitar"
+msgstr "Guitarra distorsionada"
+
+msgid "Pad 1 (new age)"
+msgstr "Fons 1 (new age)"
+
+msgid "Pad 2 (warm)"
+msgstr "Fons 2 (càlid)"
+
+msgid "Pad 3 (polysynth)"
+msgstr "Fons 3 (polisintetitzador)"
+
+msgid "Pad 4 (choir)"
+msgstr "Fons 4 (cor)"
+
+msgid "Pad 5 (bowed)"
+msgstr "Fons 5 (arc)"
+
+msgid "Pad 6 (metallic)"
+msgstr "Fons 6 (metàlic)"
+
+msgid "Pad 7 (halo)"
+msgstr "Fons 7 (celestial)"
+
+msgid "Pad 8 (sweep)"
+msgstr "Pad 8 (escombrat)"
+
+msgid "Pan Flute"
+msgstr "Flauta de pan"
+
+msgid "Pedal Hi-Hat"
+msgstr "Hi-hat de pedal"
+
+msgid "Percussive Organ"
+msgstr "Orgue de percusió"
+
+msgid "Piccolo"
+msgstr "Flautí"
+
+msgid "Pizzicato Strings"
+msgstr "Cordes fent Pizzicato"
+
+msgid "Recorder"
+msgstr "Gravador"
+
+msgid "Reed Organ"
+msgstr "Armonium"
+
+msgid "Reverse Cymbal"
+msgstr "Plat invertit"
+
+msgid "Ride Bell"
+msgstr "Campana del plat"
+
+msgid "Ride Cymbal 1"
+msgstr "Plat guia 1"
+
+msgid "Ride Cymbal 2"
+msgstr "Plat guia 2"
+
+msgid "Rock Organ"
+msgstr "Orgue de Rock"
+
+msgid "Seashore"
+msgstr "Platja"
+
+msgid "Shakuhachi"
+msgstr "Shakuhachi"
+
+msgid "Shamisen"
+msgstr "Shamisen"
+
+msgid "Shanai"
+msgstr "Shanai"
+
+msgid "Short Guiro"
+msgstr "Guiro curt"
+
+msgid "Short Whistle"
+msgstr "Xiulet curt"
+
+msgid "Side Stick"
+msgstr "Cop lateral"
+
+msgid "Sitar"
+msgstr "Sitar"
+
+msgid "Slap Bass 1"
+msgstr "Cop de baix 1"
+
+msgid "Slap Bass 2"
+msgstr "Cop de baix 2"
+
+msgid "Soprano Sax"
+msgstr "Saxo soprà"
+
+msgid "Splash Cymbal"
+msgstr "Plat splash"
+
+msgid "Steel Drums"
+msgstr "Percusió metàlica"
+
+msgid "Steel String Guitar"
+msgstr "Guitarra amb cordes d'acèr"
+
+msgid "String Ensemble 1"
+msgstr "Conjunt de Corda 1"
+
+msgid "String Ensemble 2"
+msgstr "Conjunt de Corda 2"
+
+msgid "Synth Bass 1"
+msgstr "Percusió sintètica 1"
+
+msgid "Synth Bass 2"
+msgstr "Percusió sintètica 2"
+
+msgid "Synth Drum"
+msgstr "Percusió sintètica"
+
+msgid "Synth Voice"
+msgstr "Veu sintètica"
+
+msgid "SynthBrass 1"
+msgstr "Metall sintètic 1"
+
+msgid "SynthBrass 2"
+msgstr "Metall sintètic 2"
+
+msgid "SynthStrings 1"
+msgstr "Cordes sintètiques 1"
+
+msgid "SynthStrings 2"
+msgstr "Cordes sintètiques 2"
+
+msgid "Taiko Drum"
+msgstr "Percusió Taiko"
+
+msgid "Tambourine"
+msgstr "Pandereta"
+
+msgid "Tango Accordion"
+msgstr "Bandonió"
+
+msgid "Telephone Ring"
+msgstr "Timbre de telèfon"
+
+msgid "Tenor Sax"
+msgstr "Saxo Tenor"
+
+msgid "Timpani"
+msgstr "Timbals"
+
+msgid "Tinkle Bell"
+msgstr "Campaneta"
+
+msgid "Tremolo Strings"
+msgstr "Cordes amb tremolo"
+
+msgid "Trombone"
+msgstr "Trombó"
+
+msgid "Trumpet"
+msgstr "Trompeta"
+
+msgid "Tuba"
+msgstr "Tuba"
+
+msgid "Tubular Bells"
+msgstr "Campanes tubulars"
+
+msgid "Vibraphone"
+msgstr "Vibràfon"
+
+msgid "Vibraslap"
+msgstr "Vibraslap"
+
+msgid "Viola"
+msgstr "Viola"
+
+msgid "Violin"
+msgstr "Violí"
+
+msgid "Voice Oohs"
+msgstr "Cor de veus"
+
+msgid "Whistle"
+msgstr "Flauta"
+
+msgid "Woodblock"
+msgstr "Fusta"
+
+msgid "Xylophone"
+msgstr "Xylofon"
+

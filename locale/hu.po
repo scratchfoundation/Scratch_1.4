@@ -1,0 +1,1945 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Scratch\n"
+"Report-Msgid-Bugs-To: Evelyn Eastmond <evelyn@media.mit.edu>\n"
+"POT-Creation-Date: 2007-12-05\n"
+"PO-Revision-Date: 2009-05-30 03:38-0400\n"
+"Last-Translator: Péter Bernát <bernatp@freemail.hu>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n !=1);\n"
+"X-Generator: Pootle 1.2.0\n"
+
+############################################
+# FORMATTING
+############################################
+
+# Language name as you'd like it to appear in the Languages menu
+# (Required)
+msgid "Language-Name"
+msgstr "Magyar"
+
+# Directionality of language
+# LTR = Left to Right
+# RTL = Right to Left
+msgid "Language-Direction"
+msgstr "LTR"
+
+# Scale to apply to font size (2 for twice as large)
+# Use this if the font is too small for legibility on the Scratch interface
+msgid "Font-Scale"
+msgstr ""
+
+# Set to 'true' or 'false'
+# Use this if you do not want any of the text to be bolded, for legibility
+msgid "Suppress-Bold"
+msgstr ""
+
+# Font to use on a Windows system
+msgid "Win-Font"
+msgstr ""
+
+# Font to use on a Mac system
+msgid "Mac-Font"
+msgstr ""
+
+# Font to use on a Linux system
+msgid "Linux-Font"
+msgstr ""
+
+############################################
+# BLOCKS
+############################################
+
+msgid "%H sensor value"
+msgstr "szenzor %H értéke"
+
+msgid "%L contains %s"
+msgstr "%L tartalmazza: %s"
+
+msgid "%a of %m"
+msgstr "%m %a értéke"
+
+msgid "%b and %b"
+msgstr "%b és %b"
+
+msgid "%b or %b"
+msgstr "%b vagy %b"
+
+# pl. cos 10
+msgid "%f of %n"
+msgstr "%f%n"
+
+msgid "%n mod %n"
+msgstr "%n mod %n"
+
+msgid "add %s to %L"
+msgstr "add %L listához: %s"
+
+msgid "answer"
+msgstr "válasz"
+
+msgid "ask %s and wait"
+msgstr "kérdezd meg: %s és várj"
+
+msgid "background #"
+msgstr "háttér"
+
+msgid "broadcast %e"
+msgstr "küldj üzenetet: %e"
+
+msgid "broadcast %e and wait"
+msgstr "küldj üzenetet: %e és várj"
+
+msgid "change %g effect by %n"
+msgstr "%g hatás változzon %n"
+
+msgid "change %v by %n"
+msgstr "%v változzon %n"
+
+msgid "change pen color by %n"
+msgstr "tollszín változzon %n"
+
+msgid "change pen shade by %n"
+msgstr "tollárnyalat változzon %n"
+
+msgid "change pen size by %n"
+msgstr "tollméret változzon %n"
+
+msgid "change size by %n"
+msgstr "méret változzon %n"
+
+msgid "change tempo by %n"
+msgstr "tempó változzon %n"
+
+msgid "change volume by %n"
+msgstr "hangerő változzon %n"
+
+msgid "change x by %n"
+msgstr "x változzon %n"
+
+msgid "change y by %n"
+msgstr "y változzon %n"
+
+msgid "clear"
+msgstr "töröld a rajzokat"
+
+msgid "clear graphic effects"
+msgstr "töröld a hatásokat"
+
+msgid "color %C is touching %C?"
+msgstr "%C érint %C színt?"
+
+msgid "control"
+msgstr "vezérlés"
+
+msgid "costume #"
+msgstr "jelmez"
+
+msgid "delete %y of %L"
+msgstr "töröld %L %y elemét"
+
+msgid "direction"
+msgstr "irány"
+
+msgid "distance to %m"
+msgstr "távolság: %m"
+
+msgid "else"
+msgstr "különben"
+
+msgid "forever"
+msgstr "mindig"
+
+msgid "forever if %b"
+msgstr "mindig ha %b"
+
+msgid "glide %n secs to x:%n y:%n"
+msgstr "csússz %n mp-ig x:%n y:%n"
+
+msgid "go back %n layers"
+msgstr "kerülj %n szinttel hátrébb"
+
+msgid "go to %m"
+msgstr "ugorj %m helyére"
+
+msgid "go to front"
+msgstr "kerülj legelőre"
+
+msgid "go to x:%n y:%n"
+msgstr "ugorj x:%n y:%n"
+
+msgid "hide"
+msgstr "tűnj el"
+
+msgid "hide variable %v"
+msgstr "%v tűnjön el"
+
+msgid "if %b"
+msgstr "ha %b"
+
+msgid "if on edge, bounce"
+msgstr "ha szélen vagy, pattanj vissza"
+
+msgid "insert %s at %i of %L"
+msgstr "szúrd be %L %i helyére: %s"
+
+msgid "item %i of %L"
+msgstr "%L %i eleme"
+
+#, fuzzy
+msgid "join %s %s"
+msgstr "együtt %s %s"
+
+msgid "key %k pressed?"
+msgstr "%k lenyomva?"
+
+msgid "length of %L"
+msgstr "%L hossza"
+
+msgid "length of %s"
+msgstr "%s hossza"
+
+#, fuzzy
+msgid "letter %n of %s"
+msgstr "%s %n betűje"
+
+msgid "list"
+msgstr "lista"
+
+msgid "looks"
+msgstr "kinézet"
+
+msgid "loud?"
+msgstr "hangos?"
+
+msgid "loudness"
+msgstr "hangerő"
+
+msgid "motion"
+msgstr "mozgás"
+
+#, fuzzy
+msgid "motor direction %W"
+msgstr "motor iránya %W"
+
+msgid "motor off"
+msgstr "motor ki"
+
+msgid "motor on"
+msgstr "motor be"
+
+msgid "motor on for %n secs"
+msgstr "motor be %n mp-ig"
+
+#, fuzzy
+msgid "motor power %n"
+msgstr "motor teljesítménye %n"
+
+msgid "mouse down?"
+msgstr "egér lenyomva?"
+
+msgid "mouse x"
+msgstr "egér x"
+
+msgid "mouse y"
+msgstr "egér y"
+
+msgid "move %n steps"
+msgstr "menj %n lépést"
+
+msgid "next background"
+msgstr "válts hátteret"
+
+msgid "next costume"
+msgstr "válts jelmezt"
+
+msgid "not %b"
+msgstr "nem %b"
+
+msgid "operators"
+msgstr "műveletek"
+
+msgid "pen"
+msgstr "toll"
+
+msgid "pen down"
+msgstr "tollat tedd le"
+
+msgid "pen up"
+msgstr "tollat emeld fel"
+
+msgid "pick random %n to %n"
+msgstr "véletlen %n és %n között"
+
+msgid "play drum %D for %n beats"
+msgstr "dobolj %D%n ütemig"
+
+msgid "play note %N for %n beats"
+msgstr "szóljon %N%n ütemig"
+
+msgid "play sound %S"
+msgstr "játszd le: %S"
+
+msgid "play sound %S until done"
+msgstr "játszd le: %S és várd meg"
+
+msgid "point in direction %d"
+msgstr "nézz %d fokos irányba"
+
+msgid "point towards %m"
+msgstr "nézz %m irányába"
+
+msgid "repeat %n"
+msgstr "ismételd %n"
+
+msgid "repeat until %b"
+msgstr "ismételd eddig: %b"
+
+msgid "replace item %i of %L with %s"
+msgstr "cseréld le %L %i elemét: %s"
+
+msgid "reset timer"
+msgstr "nullázd az órát"
+
+msgid "rest for %n beats"
+msgstr "szünetelj %n ütemig"
+
+msgid "round %n"
+msgstr "kerekítve %n"
+
+msgid "say %s"
+msgstr "mondd: %s"
+
+msgid "say %s for %n secs"
+msgstr "mondd: %s%n mp-ig"
+
+msgid "sensing"
+msgstr "Érzékelés"
+
+msgid "sensor %h?"
+msgstr "szenzoron %h?"
+
+msgid "set %g effect to %n"
+msgstr "%g hatás legyen %n"
+
+msgid "set %v to %n"
+msgstr "%v legyen %n"
+
+msgid "set instrument to %I"
+msgstr "hangszer legyen %I"
+
+msgid "set pen color to %c"
+msgstr "tollszín legyen %c"
+
+msgid "set pen color to %n"
+msgstr "tollszín legyen %n"
+
+msgid "set pen shade to %n"
+msgstr "tollárnyalat legyen %n"
+
+msgid "set pen size to %n"
+msgstr "tollméret legyen %n"
+
+msgid "set size to %n%"
+msgstr "méret legyen %n%"
+
+msgid "set tempo to %n bpm"
+msgstr "tempó legyen %n ütem/perc"
+
+msgid "set volume to %n%"
+msgstr "hangerő legyen %n%"
+
+msgid "set x to %n"
+msgstr "x legyen %n"
+
+msgid "set y to %n"
+msgstr "y legyen %n"
+
+msgid "show"
+msgstr "jelenj meg"
+
+msgid "show variable %v"
+msgstr "%v jelenjen meg"
+
+msgid "size"
+msgstr "méret"
+
+msgid "sound"
+msgstr "hang"
+
+msgid "stamp"
+msgstr "készíts lenyomatot"
+
+msgid "stop all"
+msgstr "mindent állíts le"
+
+msgid "stop all sounds"
+msgstr "minden hangot állíts le"
+
+msgid "stop script"
+msgstr "hagyd abba"
+
+msgid "switch to background %l"
+msgstr "háttér legyen %l"
+
+msgid "switch to costume %l"
+msgstr "jelmez legyen %l"
+
+msgid "tempo"
+msgstr "tempó"
+
+msgid "think %s"
+msgstr "gondold: %s"
+
+msgid "think %s for %n secs"
+msgstr "gondold: %s%n mp-ig"
+
+msgid "timer"
+msgstr "óra"
+
+msgid "touching %m?"
+msgstr "érinted: %m?"
+
+msgid "touching color %C?"
+msgstr "érintesz %C színt?"
+
+msgid "turn %n degrees"
+msgstr "fordulj %n fokot"
+
+msgid "variables"
+msgstr "változók"
+
+msgid "volume"
+msgstr "hangerő"
+
+msgid "wait %n secs"
+msgstr "várj %n mp-et"
+
+msgid "wait until %b"
+msgstr "várj eddig: %b"
+
+msgid "when %k key pressed"
+msgstr "%k lenyomásakor"
+
+msgid "when %m clicked"
+msgstr "%m kattintásakor"
+
+msgid "when I receive %e"
+msgstr "%e üzenet érkezésekor"
+
+msgid "x position"
+msgstr "x hely"
+
+msgid "y position"
+msgstr "y hely"
+
+############################################
+# USER INTERFACE
+############################################
+
+msgid "(empty)"
+msgstr "(üres)"
+
+msgid "1 script"
+msgstr "1 feladat"
+
+msgid "About Scratch"
+msgstr "Névjegy"
+
+msgid "About this project:"
+msgstr "Projekt leírása:"
+
+msgid "abs"
+msgstr "abszolút érték"
+
+msgid "add comment"
+msgstr "megjegyzés hozzáadása"
+
+msgid "add comment here"
+msgstr "megjegyzés helye"
+
+msgid "all"
+msgstr "minden"
+
+msgid "and"
+msgstr "és"
+
+msgid "Animation"
+msgstr "Animáció"
+
+msgid "any"
+msgstr "egyik"
+
+msgid "Art"
+msgstr "Művészet"
+
+msgid "background"
+msgstr "háttér"
+
+msgid "backgrounds"
+msgstr "hátterek"
+
+msgid "Backgrounds"
+msgstr "Hátterek"
+
+msgid "brightness"
+msgstr "fényerő"
+
+msgid "Brush size: "
+msgstr "Ecsetméret: "
+
+msgid "button"
+msgstr "gomb"
+
+msgid "button pressed"
+msgstr "gomb lenyomva"
+
+msgid "Camera"
+msgstr "Kamera"
+
+msgid "can rotate"
+msgstr "minden irányba elfordul"
+
+msgid "cancel"
+msgstr "mégse"
+
+msgid "Cancel"
+msgstr "Mégse"
+
+msgid "Choose a folder"
+msgstr "Válassz könyvtárat"
+
+msgid "Choose new sprite from file"
+msgstr "Szereplő betöltése"
+
+msgid "clean up"
+msgstr "rendrakás"
+
+msgid "Clear"
+msgstr "Törlés"
+
+msgid "Clear canvas"
+msgstr "Vászon törlése"
+
+#, fuzzy
+msgid "Close and continue"
+msgstr "Bezárás és folytatás"
+
+msgid "Close dialog?"
+msgstr "Bezárod az ablakot?"
+
+msgid "Close paint editor?"
+msgstr "Bezárod a Festőablakot?"
+
+msgid "close port"
+msgstr "port lezárása"
+
+msgid "Close sound recorder?"
+msgstr "Bezárod a Hangrögzítőt?"
+
+msgid "color"
+msgstr "szín"
+
+msgid "Compress Images"
+msgstr "Képek tömörítése"
+
+msgid "Compress Sounds"
+msgstr "Hangok tömörítése"
+
+msgid "Compress sounds and images"
+msgstr "Képek és hangok tömörítése"
+
+msgid "Computer"
+msgstr "Sajátgép"
+
+msgid "connected"
+msgstr "zárva"
+
+msgid "Connecting to "
+msgstr "Csatlakozás az oldalhoz: "
+
+msgid "Copy"
+msgstr "Másolás"
+
+msgid "costume"
+msgstr "jelmez"
+
+msgid "costumes"
+msgstr "jelmezek"
+
+msgid "Costumes"
+msgstr "Jelmezek"
+
+msgid "Could not read"
+msgstr "Nem olvasható"
+
+msgid "Could not read project; file may be damaged"
+msgstr "A fájl megsérült vagy nem olvasható"
+
+msgid "Could not write file"
+msgstr "Írási hiba"
+
+msgid "Create account"
+msgstr "Regisztráció"
+
+msgid "Create an empty project"
+msgstr "Üres projekt létrehozása"
+
+msgid "Data sent. Waiting for response..."
+msgstr "Adatküldés folyamatban..."
+
+msgid "delete"
+msgstr "törlés"
+
+msgid "Delete"
+msgstr "Törlés"
+
+msgid "Delete a list"
+msgstr "Lista törlése"
+
+msgid "Delete a variable"
+msgstr "Változó törlése"
+
+msgid "Delete this background"
+msgstr "Háttér törlése"
+
+msgid "Delete this costume"
+msgstr "Jelmez törlése"
+
+msgid "Delete this sound"
+msgstr "Hang törlése"
+
+msgid "Delete this sprite"
+msgstr "Szereplő törlése"
+
+msgid "Desktop"
+msgstr "Asztal"
+
+msgid "disable remote sensor connections"
+msgstr "szenzor csatlakoztatásának tiltása"
+
+#, fuzzy
+msgid "distance"
+msgstr "távolság"
+
+msgid "Documents"
+msgstr "Dokumentumok"
+
+msgid "don't rotate"
+msgstr "sosem fordul el"
+
+#, fuzzy
+msgid "Don't Save"
+msgstr "Kilépés"
+
+msgid "Done"
+msgstr "Kész"
+
+msgid "down"
+msgstr "le"
+
+msgid "down arrow"
+msgstr "le gomb"
+
+#, fuzzy
+msgid "drag to resize"
+msgstr "átméretezés"
+
+#, fuzzy
+msgid "drag to rotate"
+msgstr "forgatás"
+
+msgid "draggable on website?"
+msgstr "vonszolható a weboldalon?"
+
+msgid "duplicate"
+msgstr "másolás"
+
+msgid "Duplicate"
+msgstr "Másolás"
+
+msgid "edge"
+msgstr "játéktér széle"
+
+msgid "Edit"
+msgstr "Módosítás"
+
+msgid "Ellipse tool (draw outlined or filled ellipse or circle)"
+msgstr "Ellipszis (körvonal vagy kitöltött)"
+
+msgid "enable remote sensor connections"
+msgstr "szenzor csatlakoztatásának engedélyezése"
+
+msgid "Enter presentation mode"
+msgstr "Bemutató nézet"
+
+msgid "Eraser"
+msgstr "Radír"
+
+msgid "Eraser size"
+msgstr "Radírméret"
+
+msgid "Error!"
+msgstr "Hiba!"
+
+#, fuzzy
+msgid "Examples"
+msgstr "Példák"
+
+msgid "Exit presentation"
+msgstr "Kilépés a bemutató nézetből"
+
+msgid "Exit presentation mode"
+msgstr "Kilépés a bemutató nézetből"
+
+msgid "export"
+msgstr "mentés"
+
+msgid "Export Background"
+msgstr "Háttér mentése"
+
+msgid "Export Costume"
+msgstr "Jelmez mentése"
+
+msgid "Export failed"
+msgstr "Hiba a mentésben"
+
+msgid "Export Sound"
+msgstr "Hang mentése"
+
+msgid "Export Sprite"
+msgstr "Szereplő mentése"
+
+msgid "export this costume"
+msgstr "jelmez mentése"
+
+msgid "export this sound"
+msgstr "hang mentése"
+
+msgid "export this sprite"
+msgstr "szereplő mentése"
+
+msgid "Extras menu"
+msgstr "További lehetőségek"
+
+msgid "Eyedropper tool (select a color)"
+msgstr "Pipetta (szín felvétele)"
+
+msgid "Failed:"
+msgstr "Hiba:"
+
+msgid "false"
+msgstr "hamis"
+
+msgid "File"
+msgstr "Fájl"
+
+msgid "File not found"
+msgstr "A fájl nem található"
+
+msgid "Fill tool (fill areas with color or gradient)"
+msgstr "Kitöltés színnel vagy átmenettel"
+
+msgid "first"
+msgstr "első"
+
+msgid "fisheye"
+msgstr "halszem"
+
+msgid "Flash blocks (fast)"
+msgstr "Felvillanó parancsok (gyors)"
+
+msgid "Flash blocks (slow)"
+msgstr "Felvillanó parancsok (lassú)"
+
+msgid "Flip horizontally"
+msgstr "Vízszintes tükrözés"
+
+msgid "Flip vertically"
+msgstr "Függőleges tükrözés"
+
+msgid "For all sprites"
+msgstr "Mindenkié"
+
+msgid "For this sprite only"
+msgstr "A kiválasztott szereplőé"
+
+msgid "Game"
+msgstr "Játék"
+
+msgid "Get surprise sprite"
+msgstr "Szereplő betöltése véletlenszerűen"
+
+msgid "Get the last thing deleted"
+msgstr "Legutóbbi törlés visszavonása"
+
+#, fuzzy
+msgid "Getting Started"
+msgstr "Az első lépések"
+
+msgid "ghost"
+msgstr "szellem"
+
+msgid "Go To Scratch Website"
+msgstr "Ugrás a Scratch honlapjára"
+
+msgid "grab screen region for new costume"
+msgstr "új jelmez létrehozása képterületből"
+
+msgid "grab screen region for new sprite"
+msgstr "új szereplő létrehozása képterületből"
+
+msgid "Grow"
+msgstr "Nagyítás"
+
+msgid "Grow sprite"
+msgstr "Nagyítás"
+
+msgid "hello "
+msgstr "helló "
+
+msgid "Hello!"
+msgstr "Szia!"
+
+msgid "help"
+msgstr "súgó"
+
+msgid "Help"
+msgstr "Súgó"
+
+#, fuzzy
+msgid "Help Page"
+msgstr "Súgóoldal"
+
+#, fuzzy
+msgid "Help Screens"
+msgstr "Súgóablakok"
+
+msgid "Hide Motor Blocks"
+msgstr "Motorkezelő parancsok elrejtése"
+
+msgid "High (biggest)"
+msgstr "Legjobb"
+
+msgid "Hmm..."
+msgstr "Hmm..."
+
+msgid "Home"
+msgstr "Otthon"
+
+msgid "Images compressed"
+msgstr "Kép tömörítve"
+
+msgid "import"
+msgstr "betöltés"
+
+msgid "Import"
+msgstr "Betöltés"
+
+msgid "Import an image on top of your current canvas"
+msgstr "Kép betöltése a vászon tetejére"
+
+msgid "Import Background"
+msgstr "Háttér betöltése"
+
+msgid "Import Costume"
+msgstr "Jelmez betöltése"
+
+msgid "Import Image"
+msgstr "Kép betöltése"
+
+msgid "Import List"
+msgstr "Lista betöltése"
+
+msgid "Import Project"
+msgstr "Projekt hozzáadása"
+
+msgid "import project"
+msgstr "projekt hozzáadása"
+
+msgid "Import Sound"
+msgstr "Hang betöltése"
+
+msgid "Incompatible Scratch file format"
+msgstr "Nem kompatibilis Scratch-fájl formátum"
+
+msgid "Is the folder read-only?"
+msgstr "Könyvtár csak olvasható?"
+
+msgid "JPEG Quality (10-100)?"
+msgstr "JPEG-minőség (10-100)"
+
+msgid "kbytes"
+msgstr "kilobájt"
+
+msgid "Language"
+msgstr "Nyelv"
+
+msgid "large readout"
+msgstr "nagy kijelző"
+
+msgid "last"
+msgstr "utolsó"
+
+msgid "left"
+msgstr "balra"
+
+msgid "left arrow"
+msgstr "balra gomb"
+
+msgid "length"
+msgstr "hossz"
+
+msgid "light"
+msgstr "fény"
+
+msgid "Line tool (draw lines)"
+msgstr "Vonal"
+
+msgid "List name?"
+msgstr "Lista neve?"
+
+msgid "Low"
+msgstr "Gyenge"
+
+msgid "Lowest (smallest)"
+msgstr "Leggyengébb"
+
+msgid "Make a list"
+msgstr "Lista létrehozása"
+
+msgid "Make a variable"
+msgstr "Változó létrehozása"
+
+msgid "Max:"
+msgstr "Max:"
+
+msgid "meow"
+msgstr "miaú"
+
+msgid "Message name:"
+msgstr "Üzenet:"
+
+msgid "Min:"
+msgstr "Min:"
+
+msgid "mod"
+msgstr "mod"
+
+msgid "more"
+msgstr "tovább"
+
+msgid "More tags:"
+msgstr "További címkék:"
+
+msgid "mosaic"
+msgstr "mozaik"
+
+msgid "mouse x:"
+msgstr "egér x:"
+
+msgid "mouse y:"
+msgstr "egér y:"
+
+msgid "mouse-pointer"
+msgstr "egérmutató"
+
+msgid "Move"
+msgstr "Mozgatás"
+
+msgid "Music"
+msgstr "Zene"
+
+msgid "My Projects"
+msgstr "Saját projektek"
+
+msgid "new"
+msgstr "új"
+
+msgid "New"
+msgstr "Új"
+
+msgid "New background:"
+msgstr "Új háttér:"
+
+msgid "New costume:"
+msgstr "Új jelmez:"
+
+msgid "New file name?"
+msgstr ""
+
+msgid "New Filename:"
+msgstr "Fájlnév:"
+
+msgid "New sound:"
+msgstr "Új hang:"
+
+msgid "New Sprite"
+msgstr "Új szereplő"
+
+msgid "New sprite:"
+msgstr "Új szereplő:"
+
+msgid "No"
+msgstr "Nem"
+
+msgid "No MIDI ports currently available."
+msgstr "Nincsen elérhető MIDI-port."
+
+msgid "No motion blocks"
+msgstr "nem lehet mozgatni."
+
+#, fuzzy
+msgid "no scripts"
+msgstr "nincsenek feladatok"
+
+msgid "No serial ports found"
+msgstr "Soros port nem található."
+
+msgid "No variables."
+msgstr "Nincsenek változók."
+
+msgid "Normal"
+msgstr "Normál"
+
+msgid "normal readout"
+msgstr "normál kijelző"
+
+msgid "Off"
+msgstr "Ki"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "On"
+msgstr "Be"
+
+msgid "only face left-right"
+msgstr "csak balra és jobbra néz"
+
+msgid "Open"
+msgstr "Megnyitás"
+
+msgid "Open a Scratch project"
+msgstr "Projekt megnyitása"
+
+msgid "Open Project"
+msgstr "Projekt megnyitása"
+
+msgid "or"
+msgstr "vagy"
+
+msgid "Paint"
+msgstr "Festés"
+
+msgid "Paint Editor"
+msgstr "Festőablak"
+
+msgid "Paint new sprite"
+msgstr "Új szereplő festése"
+
+msgid "Paintbrush"
+msgstr "Ecset"
+
+msgid "Password:"
+msgstr "Jelszó:"
+
+msgid "Percent? (100 gives original size)"
+msgstr "Százalék? (Eredeti méret: 100)"
+
+msgid "Pictures"
+msgstr "Képek"
+
+msgid "pixelate"
+msgstr "képpont"
+
+msgid "play"
+msgstr "lejátszás"
+
+msgid "Please enter a number"
+msgstr "Adj meg egy számot"
+
+msgid "pop"
+msgstr "pukk"
+
+msgid "Position the cross-hair to set the rotation center"
+msgstr "A kereszt kijelöli azt a pontot, amely körül a jelmez forog"
+
+msgid "Preparing project..."
+msgstr "Projekt előkészítése..."
+
+msgid "Project author:"
+msgstr "Szerző:"
+
+msgid "Project name"
+msgstr "Projekt neve"
+
+msgid "Project Notes"
+msgstr "Projekt leírása"
+
+msgid "Project notes"
+msgstr "Projekt leírása"
+
+msgid "Project uploaded."
+msgstr "Projekt feltöltve."
+
+msgid "Projects"
+msgstr "Projektek"
+
+msgid "Quit"
+msgstr "Kilépés"
+
+msgid "Quit Scratch"
+msgstr "Kilépés a Scratch-ből"
+
+#, fuzzy
+msgid "Reading"
+msgstr "Olvasás"
+
+msgid "record"
+msgstr "felvétel"
+
+msgid "Record"
+msgstr "Felvétel"
+
+msgid "recording"
+msgstr "felvétel"
+
+msgid "Rectangle tool (draw outlined or filled rectangle or square)"
+msgstr "Téglalap (körvonal vagy kitöltött)"
+
+msgid "Redo"
+msgstr "Ismét"
+
+msgid "Reference Guide"
+msgstr "Kézikönyv"
+
+msgid "Remote sensor connections enabled"
+msgstr "Szenzor csatlakoztatása engedélyezve"
+
+msgid "Remove viewer from stage"
+msgstr "Kijelző elrejtése"
+
+msgid "resistance"
+msgstr "ellenállás"
+
+msgid "resize this sprite"
+msgstr "szereplő átméretezése"
+
+#, fuzzy
+msgid "reverse"
+msgstr "fordítva"
+
+msgid "right"
+msgstr "jobbra"
+
+msgid "right arrow"
+msgstr "jobbra gomb"
+
+msgid "Rotate clock-wise"
+msgstr "Forgatás órajárás szerint"
+
+msgid "Rotate counter-clock-wise"
+msgstr "Forgatás órajárással ellentétesen"
+
+msgid "rotate this sprite"
+msgstr "szereplő forgatása"
+
+msgid "Rotation degrees?"
+msgstr "Elforgatás szöge?"
+
+msgid "Save"
+msgstr "Mentés"
+
+msgid "Save a copy of the current project"
+msgstr "Aktuális projekt mentése más néven"
+
+msgid "Save As"
+msgstr "Mentés másként"
+
+msgid "Save changes before quitting?"
+msgstr "Mented a projekt módosításait?"
+
+msgid "Save failed"
+msgstr "Hiba a mentés során"
+
+msgid "save picture of scripts"
+msgstr "feladatok mentése képként"
+
+msgid "save picture of stage..."
+msgstr "játéktér mentése képként..."
+
+msgid "Save Project"
+msgstr "Projekt mentése"
+
+msgid "Save Scripts Snapshot"
+msgstr "Feladatokról készült kép mentése"
+
+msgid "Save Stage Shot"
+msgstr "Játéktérről készült kép mentése"
+
+msgid "Save the current project"
+msgstr "Aktuális projekt mentése"
+
+msgid "Save the current project?"
+msgstr "Mented az aktuális projektet?"
+
+msgid "Save this project"
+msgstr "Projekt mentése"
+
+msgid "Scripts"
+msgstr "Feladatok"
+
+msgid "select serial/USB port"
+msgstr "soros/USB port kiválasztása"
+
+msgid "Select tool (move, modify, or delete selection)"
+msgstr "Kijelölés mozgatáshoz, változtatáshoz vagy törléshez"
+
+msgid "Set costume center"
+msgstr "Középpont beállítása"
+
+msgid "Set language"
+msgstr "Nyelv kiválasztása"
+
+msgid "Set rotation center"
+msgstr "Forgásközéppont beállítása"
+
+msgid "Set Single Stepping"
+msgstr "Lépésenkénti üzemmód beállítása"
+
+msgid "set slider min and max"
+msgstr "csúszka határainak megadása"
+
+msgid "Share"
+msgstr "Feltöltés"
+
+#, fuzzy
+msgid "Share this project"
+msgstr "Projekt feltöltése"
+
+msgid "Share This Project Online"
+msgstr "Projekt közzététele az interneten"
+
+msgid "Show Motor Blocks"
+msgstr "Motorkezelő parancsok megjelenítése"
+
+msgid "show ScratchBoard watcher"
+msgstr "ScratchBoard-kijelző megjelenítése"
+
+msgid "Shrink"
+msgstr "Zsugorítás"
+
+msgid "Shrink sprite"
+msgstr "Zsugorítás"
+
+msgid "Simulation"
+msgstr "Szimuláció"
+
+msgid "Single-step speed?"
+msgstr "Lépés sebessége?"
+
+msgid "slider"
+msgstr "csúszka"
+
+msgid "Slider range:"
+msgstr "Csúszka határai:"
+
+msgid "Sound quality:"
+msgstr "Hangminőség:"
+
+msgid "Sound Recorder"
+msgstr "Hangrögzítő"
+
+msgid "Sounds"
+msgstr "Hangok"
+
+msgid "Sounds compressed"
+msgstr "Hangok tömörítve"
+
+msgid "space"
+msgstr "szóköz"
+
+msgid "Sprite"
+msgstr "Szereplő"
+
+#, fuzzy
+msgid "Sprites"
+msgstr "Szereplők"
+
+msgid "sqrt"
+msgstr "gyök"
+
+msgid "Stage"
+msgstr "Játéktér"
+
+msgid "Stage selected:"
+msgstr "A Játéktér van kiválasztva:"
+
+msgid "Stamp tool (select area, then stamp copies of it)"
+msgstr "Bélyegző (kijelölt terület sokszorosítása)"
+
+msgid "Start green flag scripts"
+msgstr "Zöld zászlós feladatok elindítása"
+
+msgid "Start Single Stepping"
+msgstr "Lépésenkénti üzemmód bekapcsolása"
+
+msgid "stop"
+msgstr "leállítás"
+
+msgid "Stop everything"
+msgstr "Minden leállítása"
+
+msgid "Stop Single Stepping"
+msgstr "Lépésenkénti üzemmód kikapcsolása"
+
+msgid "Story"
+msgstr "Történet"
+
+#, fuzzy
+msgid "Support Site"
+msgstr "Támogatóoldal"
+
+msgid "Switch colors"
+msgstr "Színek felcserélése"
+
+msgid "Switch to full stage"
+msgstr "Teljes méretű játéktér"
+
+msgid "Switch to presentation mode"
+msgstr "Bemutató nézet"
+
+msgid "Switch to small stage"
+msgstr "Kis méretű játéktér"
+
+msgid "Tags:"
+msgstr "Címkék:"
+
+msgid "Text tool (edit text layer)"
+msgstr "Szöveg (szövegréteg szerkesztése)"
+
+msgid "That variable name is already in use"
+msgstr "Már létezik ilyen változó"
+
+#, fuzzy
+msgid "that way"
+msgstr "másik irány"
+
+msgid "The file name already exists. Overwrite existing file?"
+msgstr "Már létezik ilyen fájl. Felülírod?"
+
+msgid "thing"
+msgstr "valami"
+
+#, fuzzy
+msgid "this way"
+msgstr "egyik irány"
+
+#, fuzzy
+msgid "tilt"
+msgstr "billentés"
+
+msgid "true"
+msgstr "igaz"
+
+msgid "Turbo speed"
+msgstr "Nagyon gyors"
+
+msgid "turn into new sprite"
+msgstr "új szereplővé alakítás"
+
+msgid "Undelete"
+msgstr "Törlés visszavonása"
+
+msgid "Undo"
+msgstr "Visszavonás"
+
+msgid "up"
+msgstr "fel"
+
+msgid "up arrow"
+msgstr "fel gomb"
+
+msgid "Updating thumbnails"
+msgstr "Előnézeti képek frissítése"
+
+msgid "Upload succeeded!"
+msgstr "A feltöltés sikerült!"
+
+msgid "Upload to Scratch Server"
+msgstr "Feltöltés a Scratch honlapjára"
+
+msgid "Uploading"
+msgstr "Feltöltés"
+
+msgid "Variable name?"
+msgstr "Változó neve?"
+
+msgid "View on stage"
+msgstr "Kijelző megjelenítése"
+
+msgid "What's your name?"
+msgstr "Hogy hívnak?"
+
+msgid "whirl"
+msgstr "örvény"
+
+#, fuzzy
+msgid "world"
+msgstr "világ"
+
+msgid "Write Multiple Project Summaries"
+msgstr "Projekt-összefoglalók köteges írása"
+
+msgid "Write Project Summary"
+msgstr "Projekt-összefoglaló írása"
+
+msgid "Yes"
+msgstr "Igen"
+
+msgid "Your project is now online at"
+msgstr "Projektedet megtalálod:"
+
+msgid "Your Scratch website login name:"
+msgstr "Felhasználói neved a Scratch honlapján:"
+
+msgid "Zoom in"
+msgstr "Közelítés"
+
+msgid "Zoom out"
+msgstr "Távolítás"
+
+############################################
+# MIDI INSTRUMENTS
+############################################
+
+msgid "Accordion"
+msgstr "Harmonika"
+
+msgid "Acoustic Bass"
+msgstr "Akusztikus basszusgitár"
+
+msgid "Acoustic Bass Drum"
+msgstr "Akusztikus lábdob"
+
+msgid "Acoustic Grand"
+msgstr "Hangversenyzongora"
+
+msgid "Acoustic Snare"
+msgstr "Akusztikus pergődob"
+
+msgid "Agogo"
+msgstr "Agogo"
+
+msgid "Alto Sax"
+msgstr "Alt szaxofon"
+
+msgid "Applause"
+msgstr "Tapsolás"
+
+msgid "Bagpipe"
+msgstr "Duda"
+
+msgid "Banjo"
+msgstr "Bendzsó"
+
+msgid "Baritone Sax"
+msgstr "Bariton szaxofon"
+
+msgid "Bass Drum 1"
+msgstr "Lábdob"
+
+msgid "Bassoon"
+msgstr "Fagott"
+
+msgid "Bird Tweet"
+msgstr "Madárcsiripelés"
+
+msgid "Blown Bottle"
+msgstr "Üvegpalack"
+
+msgid "Brass Section"
+msgstr "Rézfúvós együttes"
+
+msgid "Breath Noise"
+msgstr "Lélegzetvétel"
+
+msgid "Bright Acoustic"
+msgstr "Rövidzongora"
+
+msgid "Cabasa"
+msgstr "Cabasa"
+
+msgid "Celesta"
+msgstr "Cseleszta"
+
+msgid "Cello"
+msgstr "Cselló"
+
+msgid "Chinese Cymbal"
+msgstr "Kínai cintányér"
+
+msgid "Choir Aahs"
+msgstr "Kórus Aaa"
+
+msgid "Church Organ"
+msgstr "Templomi orgona 1"
+
+msgid "Clarinet"
+msgstr "Klarinét"
+
+msgid "Claves"
+msgstr "Claves"
+
+msgid "Clavinet"
+msgstr "Clavinet (elektronikus zongora)"
+
+msgid "Closed Hi-Hat"
+msgstr "Zárt cin"
+
+msgid "Contrabass"
+msgstr "Bőgő"
+
+msgid "Cowbell"
+msgstr "Kolomp"
+
+msgid "Crash Cymbal 1"
+msgstr "Beütő cintányér 1"
+
+msgid "Crash Cymbal 2"
+msgstr "Beütő cintányér 2"
+
+msgid "Distortion Guitar"
+msgstr "Torzítós elektromos gitár"
+
+msgid "Drawbar Organ"
+msgstr "Hammond orgona"
+
+msgid "Dulcimer"
+msgstr "Cimbalom"
+
+msgid "Electric Bass (finger)"
+msgstr "Elektromos basszusgitár 1"
+
+msgid "Electric Bass (pick)"
+msgstr "Elektromos basszusgitár 2"
+
+msgid "Electric Clean Guitar"
+msgstr "Elektromos gitár 1"
+
+msgid "Electric Grand"
+msgstr "Elektromos nagyzongora"
+
+msgid "Electric Jazz Guitar"
+msgstr "Elektromos dzsesszgitár"
+
+msgid "Electric Muted Guitar"
+msgstr "Elektromos gitár 2"
+
+msgid "Electric Piano 1"
+msgstr "Fender zongora 1"
+
+msgid "Electric Piano 2"
+msgstr "Fender zongora 2"
+
+msgid "Electric Snare"
+msgstr "Elektronikus pergődob"
+
+msgid "English Horn"
+msgstr "Angolkürt"
+
+msgid "FX 1 (rain)"
+msgstr "FX 1 (eső)"
+
+msgid "FX 2 (soundtrack)"
+msgstr "FX 2 (hangsáv)"
+
+msgid "FX 3 (crystal)"
+msgstr "FX 3 (kristály)"
+
+msgid "FX 4 (atmosphere)"
+msgstr "FX 4 (atmoszféra)"
+
+msgid "FX 5 (brightness)"
+msgstr "FX 5 (fényes hangzás)"
+
+msgid "FX 6 (goblins)"
+msgstr "FX 6 (koboldok)"
+
+msgid "FX 7 (echoes)"
+msgstr "FX 7 (visszhang)"
+
+msgid "FX 8 (sci-fi)"
+msgstr "FX 8 (sci-fi)"
+
+msgid "Fiddle"
+msgstr "Kishegedű"
+
+msgid "Flute"
+msgstr "Fuvola"
+
+msgid "French Horn"
+msgstr "Franciakürt"
+
+msgid "Fretless Bass"
+msgstr "Bund nélküli basszusgitár"
+
+msgid "Glockenspiel"
+msgstr "Metallofon"
+
+msgid "Guitar Fret Noise"
+msgstr "Gitár"
+
+msgid "Guitar Harmonics"
+msgstr "Gitár felhangokkal"
+
+msgid "Gunshot"
+msgstr "Puskalövés"
+
+msgid "Hand Clap"
+msgstr "Taps"
+
+msgid "Harmonica"
+msgstr "Szájharmonika"
+
+msgid "Harpsichord"
+msgstr "Csemballó"
+
+msgid "Helicopter"
+msgstr "Helikopter"
+
+msgid "Hi Bongo"
+msgstr "Magas bongo"
+
+msgid "Hi Wood Block"
+msgstr "Magas fadob"
+
+msgid "Hi-Mid Tom"
+msgstr "Középmagas tom"
+
+msgid "High Agogo"
+msgstr "Magas agogo"
+
+msgid "High Floor Tom"
+msgstr "Magas álló tom"
+
+msgid "High Timbale"
+msgstr "Magas üst"
+
+msgid "High Tom"
+msgstr "Magas tom"
+
+msgid "Honky-Tonk"
+msgstr "Bárzongora"
+
+msgid "Kalimba"
+msgstr "Kalimba"
+
+msgid "Koto"
+msgstr "Koto"
+
+msgid "Lead 1 (square)"
+msgstr "Szinti 1 (négyszög jel)"
+
+msgid "Lead 2 (sawtooth)"
+msgstr "Szinti 2 (fűrészfog jel)"
+
+msgid "Lead 3 (calliope)"
+msgstr "Szinti 3 (kalliopé)"
+
+msgid "Lead 4 (chiff)"
+msgstr "Szinti 4 (chiff)"
+
+msgid "Lead 5 (charang)"
+msgstr "Szinti 5 (charango)"
+
+msgid "Lead 6 (voice)"
+msgstr "Szinti 6 (hang)"
+
+msgid "Lead 7 (fifths)"
+msgstr "Szinti 7 (fifths)"
+
+msgid "Lead 8 (bass+lead)"
+msgstr "Szinti 8 (basszus és szóló)"
+
+msgid "Long Guiro"
+msgstr "Hosszú güiro"
+
+msgid "Long Whistle"
+msgstr "Hosszú síp"
+
+msgid "Low Agogo"
+msgstr "Mély agogo"
+
+msgid "Low Bongo"
+msgstr "Mély bongo"
+
+msgid "Low Conga"
+msgstr "Mély konga"
+
+msgid "Low Floor Tom"
+msgstr "Mély álló tom"
+
+msgid "Low Timbale"
+msgstr "Mély üst"
+
+msgid "Low Tom"
+msgstr "Mély tom"
+
+msgid "Low Wood Block"
+msgstr "Mély fadob"
+
+msgid "Low-Mid Tom"
+msgstr "Középmély tom"
+
+msgid "Maracas"
+msgstr "Maracas (rumbatök)"
+
+msgid "Marimba"
+msgstr "Marimba"
+
+msgid "Melodic Tom"
+msgstr "Hangolt tom"
+
+msgid "Music Box"
+msgstr "Zenedoboz"
+
+msgid "Mute Cuica"
+msgstr "Tompa cuica"
+
+msgid "Mute Hi Conga"
+msgstr "Tompa magas konga"
+
+msgid "Mute Triangle"
+msgstr "Lefogott triangulum"
+
+msgid "Muted Trumpet"
+msgstr "Szordinált trombita"
+
+msgid "Nylon String Guitar"
+msgstr "Klasszikus gitár"
+
+msgid "Oboe"
+msgstr "Oboa"
+
+msgid "Ocarina"
+msgstr "Okarina"
+
+msgid "Open Cuica"
+msgstr "Nyitott cuica"
+
+msgid "Open Hi Conga"
+msgstr "Nyitott magas konga"
+
+msgid "Open Hi-Hat"
+msgstr "Nyitott cin"
+
+msgid "Open Triangle"
+msgstr "Kitartott triangulum"
+
+msgid "Orchestra Hit"
+msgstr "Zenekari vonós staccato"
+
+msgid "Orchestral Strings"
+msgstr "Vonós hangzás"
+
+msgid "Overdriven Guitar"
+msgstr "Túlvezérelt elektromos gitár"
+
+msgid "Pad 1 (new age)"
+msgstr "Szőnyeg 1 (new age)"
+
+msgid "Pad 2 (warm)"
+msgstr "Szőnyeg 2 (szívélyes)"
+
+msgid "Pad 3 (polysynth)"
+msgstr "Szőnyeg 3 (polysynth)"
+
+msgid "Pad 4 (choir)"
+msgstr "Szőnyeg 4 (kórus)"
+
+msgid "Pad 5 (bowed)"
+msgstr "Szőnyeg 5 (bowed)"
+
+msgid "Pad 6 (metallic)"
+msgstr "Szőnyeg 6 (metál)"
+
+msgid "Pad 7 (halo)"
+msgstr "Szőnyeg 7 (fényudvar)"
+
+msgid "Pad 8 (sweep)"
+msgstr "Szőnyeg 8 (áradó)"
+
+msgid "Pan Flute"
+msgstr "Pánsíp"
+
+msgid "Pedal Hi-Hat"
+msgstr "Lábcin"
+
+msgid "Percussive Organ"
+msgstr "Hammond orgona (erőteljes)"
+
+msgid "Piccolo"
+msgstr "Piccolo"
+
+msgid "Pizzicato Strings"
+msgstr "Vonós pizzicato"
+
+msgid "Recorder"
+msgstr "Furulya"
+
+msgid "Reed Organ"
+msgstr "Templomi orgona 2"
+
+msgid "Reverse Cymbal"
+msgstr "Felcsengő cintányér"
+
+msgid "Ride Bell"
+msgstr "Cintányérkúp"
+
+msgid "Ride Cymbal 1"
+msgstr "Kísérő cintányér 1"
+
+msgid "Ride Cymbal 2"
+msgstr "Kísérő cintányér 2"
+
+msgid "Rock Organ"
+msgstr "Rock orgona"
+
+msgid "Seashore"
+msgstr "Tengerparti hullámverés"
+
+msgid "Shakuhachi"
+msgstr "Bambuszfurulya"
+
+msgid "Shamisen"
+msgstr "Shamisen"
+
+msgid "Shanai"
+msgstr "Shanai"
+
+msgid "Short Guiro"
+msgstr "Rövid güiro"
+
+msgid "Short Whistle"
+msgstr "Rövid síp"
+
+msgid "Side Stick"
+msgstr "Dobverő"
+
+msgid "Sitar"
+msgstr "Szitár"
+
+msgid "Slap Bass 1"
+msgstr "Basszusgitár megütött húrral 1"
+
+msgid "Slap Bass 2"
+msgstr "Basszusgitár megütött húrral 2"
+
+msgid "Soprano Sax"
+msgstr "Szoprán szaxofon"
+
+msgid "Splash Cymbal"
+msgstr "Splash cintányér"
+
+msgid "Steel Drums"
+msgstr "Olajoshordó"
+
+msgid "Steel String Guitar"
+msgstr "Fémhúros gitár"
+
+msgid "String Ensemble 1"
+msgstr "Vonós zenekar 1"
+
+msgid "String Ensemble 2"
+msgstr "Vonós zenekar 2"
+
+msgid "Synth Bass 1"
+msgstr "Szinti basszus 1"
+
+msgid "Synth Bass 2"
+msgstr "Szinti basszus 2"
+
+msgid "Synth Drum"
+msgstr "Szinti dob"
+
+msgid "Synth Voice"
+msgstr "Szinti hang"
+
+msgid "SynthBrass 1"
+msgstr "Szinti rézfúvós 1"
+
+msgid "SynthBrass 2"
+msgstr "Szinti rézfúvós 2"
+
+msgid "SynthStrings 1"
+msgstr "Szinti vonós 1"
+
+msgid "SynthStrings 2"
+msgstr "Szinti vonós 2"
+
+msgid "Taiko Drum"
+msgstr "Japán nagydob"
+
+msgid "Tambourine"
+msgstr "Tamburin"
+
+msgid "Tango Accordion"
+msgstr "Tangóharmonika"
+
+msgid "Telephone Ring"
+msgstr "Telefoncsengés"
+
+msgid "Tenor Sax"
+msgstr "Tenor szaxofon"
+
+msgid "Timpani"
+msgstr "Üstdob"
+
+msgid "Tinkle Bell"
+msgstr "Csengettyű"
+
+msgid "Tremolo Strings"
+msgstr "Vonós tremoló"
+
+msgid "Trombone"
+msgstr "Harsona"
+
+msgid "Trumpet"
+msgstr "Trombita"
+
+msgid "Tuba"
+msgstr "Tuba"
+
+msgid "Tubular Bells"
+msgstr "Csőharang"
+
+msgid "Vibraphone"
+msgstr "Vibrafon"
+
+msgid "Vibraslap"
+msgstr "Vibraslap"
+
+msgid "Viola"
+msgstr "Brácsa"
+
+msgid "Violin"
+msgstr "Hegedű"
+
+msgid "Voice Oohs"
+msgstr "Kórus Ooo"
+
+msgid "Whistle"
+msgstr "Sípolás"
+
+msgid "Woodblock"
+msgstr "Tikfa"
+
+msgid "Xylophone"
+msgstr "Xilofon"
+

@@ -1,0 +1,1956 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Scratch\n"
+"Report-Msgid-Bugs-To: Evelyn Eastmond <evelyn@media.mit.edu>\n"
+"POT-Creation-Date: 2007-12-06\n"
+"PO-Revision-Date: 2009-06-19 12:31+0300\n"
+"Last-Translator: Jurgis Pralgauskis <jurgis@akl.lt>\n"
+"Language-Team: Lithuanian <komp_lt@konferencijos.lt>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Pootle 1.1.0rc2\n"
+"X-Poedit-Language: Lithuanian\n"
+"X-Poedit-Country: LITHUANIA\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Bookmarks: 190,-1,-1,-1,-1,-1,-1,-1,-1,-1\n"
+
+############################################
+# FORMATTING
+############################################
+
+# Language name as you'd like it to appear in the Languages menu
+# (Required)
+msgid "Language-Name"
+msgstr "Lietuvių"
+
+# Directionality of language
+# LTR = Left to Right
+# RTL = Right to Left
+msgid "Language-Direction"
+msgstr "LTR"
+
+# Scale to apply to font size (2 for twice as large)
+# Use this if the font is too small for legibility on the Scratch interface
+msgid "Font-Scale"
+msgstr ""
+
+# Set to 'true' or 'false'
+# Use this if you do not want any of the text to be bolded, for legibility
+msgid "Suppress-Bold"
+msgstr "false"
+
+# Font to use on a Windows system
+msgid "Win-Font"
+msgstr ""
+
+# Font to use on a Mac system
+msgid "Mac-Font"
+msgstr ""
+
+# Font to use on a Linux system
+msgid "Linux-Font"
+msgstr ""
+
+############################################
+# BLOCKS
+############################################
+
+msgid "%H sensor value"
+msgstr "%H"
+
+msgid "%L contains %s"
+msgstr "sąraše %L yra %s?"
+
+msgid "%a of %m"
+msgstr "veikėjo %m %a"
+
+msgid "%b and %b"
+msgstr "%b ir %b"
+
+msgid "%b or %b"
+msgstr "%b arba %b"
+
+msgid "%f of %n"
+msgstr "%f(%n)"
+
+msgid "%n mod %n"
+msgstr "%n iš %n dalybos liekana"
+
+msgid "add %s to %L"
+msgstr "į sąrašą %L pridėk %s "
+
+msgid "answer"
+msgstr "atsakymas"
+
+msgid "ask %s and wait"
+msgstr "paklausk %s"
+
+msgid "background #"
+msgstr "fono nr."
+
+msgid "broadcast %e"
+msgstr "skelbk žinią %e"
+
+msgid "broadcast %e and wait"
+msgstr "skelbk žinią %e ir lauk"
+
+msgid "change %g effect by %n"
+msgstr "efektą %g padidink %n"
+
+msgid "change %v by %n"
+msgstr "prie %v pridėk %n"
+
+msgid "change pen color by %n"
+msgstr "pieštuko spalvą padidink %n"
+
+msgid "change pen shade by %n"
+msgstr "pieštuko šešėlį padidink %n"
+
+msgid "change pen size by %n"
+msgstr "pieštuko storį padidink %n"
+
+msgid "change size by %n"
+msgstr "padidėk %n taškų"
+
+msgid "change tempo by %n"
+msgstr "tempą padidink %n"
+
+msgid "change volume by %n"
+msgstr "pagarsink %n"
+
+msgid "change x by %n"
+msgstr "prie x pridėk %n"
+
+msgid "change y by %n"
+msgstr "prie y pridėk %n"
+
+msgid "clear"
+msgstr "išvalyk paišymus"
+
+msgid "clear graphic effects"
+msgstr "panaikink grafinius efektus"
+
+msgid "color %C is touching %C?"
+msgstr "spalva %C liečia %C?"
+
+msgid "control"
+msgstr "veikimo logika"
+
+msgid "costume #"
+msgstr "kaukės nr."
+
+msgid "delete %y of %L"
+msgstr "iš %L ištrink nr. %y "
+
+msgid "direction"
+msgstr "kryptis"
+
+msgid "distance to %m"
+msgstr "atstumas iki %m"
+
+msgid "else"
+msgstr "o jeigu ne:"
+
+# ?? amžinai pastoviai visą laiką
+msgid "forever"
+msgstr "visada :"
+
+msgid "forever if %b"
+msgstr "visada, kai %b:"
+
+msgid "glide %n secs to x:%n y:%n"
+msgstr "slink %n sek. į tašką x:%n y:%n"
+
+msgid "go back %n layers"
+msgstr "pasitrauk atgal per %n sloksnį(-ius)"
+
+msgid "go to %m"
+msgstr "eik ten, kur %m"
+
+msgid "go to front"
+msgstr "atsirask priekyje"
+
+msgid "go to x:%n y:%n"
+msgstr "eik į tašką x:%n y:%n"
+
+msgid "hide"
+msgstr "pasislėpk"
+
+msgid "hide variable %v"
+msgstr "paslėpk %v"
+
+msgid "if %b"
+msgstr "jeigu %b:"
+
+# ??
+msgid "if on edge, bounce"
+msgstr "jeigu priėjai kraštą, atšok"
+
+msgid "insert %s at %i of %L"
+msgstr "į %L vietą %i įterpk %s"
+
+msgid "item %i of %L"
+msgstr "sąrašo %L nr. %i"
+
+msgid "join %s %s"
+msgstr "sujunk %s ir %s"
+
+msgid "key %k pressed?"
+msgstr "paspausta %k ?"
+
+msgid "length of %L"
+msgstr "sąrašo %L ilgis"
+
+msgid "length of %s"
+msgstr "%s ilgis"
+
+msgid "letter %n of %s"
+msgstr "%s %n-oji raidė"
+
+msgid "list"
+msgstr "sąrašas"
+
+msgid "looks"
+msgstr "išvaizda"
+
+msgid "loud?"
+msgstr "yra garsas?"
+
+msgid "loudness"
+msgstr "garsumas"
+
+msgid "motion"
+msgstr "judėjimas"
+
+msgid "motor direction %W"
+msgstr ""
+
+msgid "motor off"
+msgstr ""
+
+msgid "motor on"
+msgstr ""
+
+msgid "motor on for %n secs"
+msgstr ""
+
+msgid "motor power %n"
+msgstr ""
+
+msgid "mouse down?"
+msgstr "pelė paspausta?"
+
+msgid "mouse x"
+msgstr "pelės x "
+
+msgid "mouse y"
+msgstr "pelės y "
+
+msgid "move %n steps"
+msgstr "eik %n žingsnius(-ių)"
+
+msgid "next background"
+msgstr "kitas  fonas"
+
+msgid "next costume"
+msgstr "kita kaukė"
+
+msgid "not %b"
+msgstr "ne %b"
+
+msgid "operators"
+msgstr "matematika"
+
+msgid "pen"
+msgstr "pieštukas"
+
+msgid "pen down"
+msgstr "nuleisk pieštuką"
+
+msgid "pen up"
+msgstr "pakelk pieštuką"
+
+msgid "pick random %n to %n"
+msgstr "bet kuris sk. nuo %n iki %n"
+
+# ?? daugiskaitinė forma
+msgid "play drum %D for %n beats"
+msgstr "būgną %D mušk %n taktus"
+
+msgid "play note %N for %n beats"
+msgstr "natą %N grok %n taktų/us"
+
+msgid "play sound %S"
+msgstr "grok %S"
+
+msgid "play sound %S until done"
+msgstr "grok %S iki pabaigos"
+
+msgid "point in direction %d"
+msgstr "žiūrėk kryptimi %d °"
+
+msgid "point towards %m"
+msgstr "žiūrėk į %m"
+
+msgid "repeat %n"
+msgstr "kartok %n:"
+
+msgid "repeat until %b"
+msgstr "kartok, kol atsitiks %b:"
+
+msgid "replace item %i of %L with %s"
+msgstr "pakeisk %L nr. %i į %s"
+
+msgid "reset timer"
+msgstr "iš naujo paleisk laikmatį"
+
+msgid "rest for %n beats"
+msgstr "palauk %n taktų/us"
+
+msgid "round %n"
+msgstr "apvalinti %n"
+
+msgid "say %s"
+msgstr "sakyk %s"
+
+msgid "say %s for %n secs"
+msgstr "sakyk %s  %n sek."
+
+msgid "sensing"
+msgstr "aplinka"
+
+msgid "sensor %h?"
+msgstr "jutiklis %h?"
+
+msgid "set %g effect to %n"
+msgstr "efekto %g dydis = %n"
+
+msgid "set %v to %n"
+msgstr "%v =   %n"
+
+msgid "set instrument to %I"
+msgstr "instrumentas = %I"
+
+msgid "set pen color to %c"
+msgstr "pieštuko spalva = %c"
+
+msgid "set pen color to %n"
+msgstr "pieštuko spalva = %n"
+
+msgid "set pen shade to %n"
+msgstr "pieštuko  šešėlis = %n"
+
+msgid "set pen size to %n"
+msgstr "pieštuko dydis = %n"
+
+msgid "set size to %n%"
+msgstr "veikėjo dydis = %n%"
+
+msgid "set tempo to %n bpm"
+msgstr "tempas = %n (taktai per minutę)"
+
+msgid "set volume to %n%"
+msgstr "garsumas = %n%"
+
+msgid "set x to %n"
+msgstr "x = %n"
+
+msgid "set y to %n"
+msgstr "y = %n"
+
+msgid "show"
+msgstr "pasirodyk"
+
+msgid "show variable %v"
+msgstr "parodyk %v"
+
+msgid "size"
+msgstr "dydis"
+
+msgid "sound"
+msgstr "garsas"
+
+msgid "stamp"
+msgstr "palik savo vaizdą (štampą)"
+
+msgid "stop all"
+msgstr "sustabdyti viską"
+
+msgid "stop all sounds"
+msgstr "sustabdyti visus garsus"
+
+msgid "stop script"
+msgstr "baigti šį scenarijų"
+
+msgid "switch to background %l"
+msgstr "pakeisk foną į %l"
+
+msgid "switch to costume %l"
+msgstr "pakeisk kaukę į %l"
+
+msgid "tempo"
+msgstr "tempas"
+
+msgid "think %s"
+msgstr "galvok %s"
+
+msgid "think %s for %n secs"
+msgstr "galvok %s  %n sek."
+
+msgid "timer"
+msgstr "laikmatis"
+
+msgid "touching %m?"
+msgstr "lieti %m?"
+
+msgid "touching color %C?"
+msgstr "lieti spalvą %C?"
+
+msgid "turn %n degrees"
+msgstr "pasisuk %n laipsnių"
+
+msgid "variables"
+msgstr "kintameji"
+
+msgid "volume"
+msgstr "garsumas"
+
+msgid "wait %n secs"
+msgstr "lauk %n sek."
+
+msgid "wait until %b"
+msgstr "lauk, kol atsitiks %b"
+
+msgid "when %k key pressed"
+msgstr "kai paspausta %k "
+
+msgid "when %m clicked"
+msgstr "kai paspausta %m"
+
+msgid "when I receive %e"
+msgstr "kai gausi žinią %e"
+
+msgid "x position"
+msgstr "x koordinatė"
+
+msgid "y position"
+msgstr "y koordinatė"
+
+############################################
+# USER INTERFACE
+############################################
+
+msgid "(empty)"
+msgstr "(tuščia)"
+
+msgid "1 script"
+msgstr "1 scenarijus"
+
+msgid "About Scratch"
+msgstr "Apie "Scratch""
+
+msgid "About this project:"
+msgstr "Apie šį projektą"
+
+msgid "abs"
+msgstr "teigiama reikšmė"
+
+msgid "add comment"
+msgstr "pridėti komentarą"
+
+msgid "add comment here"
+msgstr "įrašykite komentarą čia"
+
+msgid "all"
+msgstr "viskas"
+
+msgid "and"
+msgstr "ir"
+
+msgid "Animation"
+msgstr "Animacija"
+
+msgid "any"
+msgstr "bet kuris"
+
+msgid "Art"
+msgstr "Menas"
+
+msgid "background"
+msgstr "fonas"
+
+msgid "backgrounds"
+msgstr "fonai"
+
+msgid "Backgrounds"
+msgstr "Fonai"
+
+msgid "brightness"
+msgstr "šviesumas"
+
+msgid "Brush size: "
+msgstr "Teptuko dydis"
+
+msgid "button"
+msgstr "mygtukas"
+
+msgid "button pressed"
+msgstr "mygtukas paspaustas"
+
+msgid "Camera"
+msgstr "Vaizdo kamera"
+
+msgid "can rotate"
+msgstr "leisti nukreipti kaukę žiūrėjimo kryptimi"
+
+msgid "cancel"
+msgstr "atsisakyti"
+
+msgid "Cancel"
+msgstr "Atsisakyti"
+
+msgid "Choose a folder"
+msgstr "Pasirinkite aplanką/direktoriją"
+
+msgid "Choose new sprite from file"
+msgstr "Pasirinkite naują veikėją iš failo"
+
+msgid "clean up"
+msgstr "išvalyti"
+
+msgid "Clear"
+msgstr "Išvalyti"
+
+msgid "Clear canvas"
+msgstr "Išvalyti piešimo aplinką"
+
+# ??
+msgid "Close and continue"
+msgstr "Išjungti ir tęsti"
+
+msgid "Close dialog?"
+msgstr "Užverti dialogą?"
+
+msgid "Close paint editor?"
+msgstr "Užverti grafikos rengyklę?"
+
+# (??)
+msgid "close port"
+msgstr "užverti prievadas"
+
+msgid "Close sound recorder?"
+msgstr "Užverti garso įrašymo langą?"
+
+msgid "color"
+msgstr "spalva"
+
+msgid "Compress Images"
+msgstr "supakuoti paveiksliukus"
+
+msgid "Compress Sounds"
+msgstr "supakuoti garsus"
+
+msgid "Compress sounds and images"
+msgstr "Supakuoti garsus ir paveiksliukus"
+
+msgid "Computer"
+msgstr "Kompiuteris"
+
+msgid "connected"
+msgstr "prisijungta"
+
+msgid "Connecting to "
+msgstr "Jungiamasi prie"
+
+msgid "Copy"
+msgstr "Kopijuoti"
+
+msgid "costume"
+msgstr "kaukė"
+
+msgid "costumes"
+msgstr "kaukės"
+
+msgid "Costumes"
+msgstr "Kaukės"
+
+msgid "Could not read"
+msgstr "Nepavyko nuskaityti"
+
+msgid "Could not read project; file may be damaged"
+msgstr "Nepavyko atverti projekto; failas gali būti sugadintas"
+
+msgid "Could not write file"
+msgstr "Nepavyko įrašyti failo"
+
+msgid "Create account"
+msgstr "Sukurtas prisijungimas/sąskaita"
+
+msgid "Create an empty project"
+msgstr "Sukurti tuščią projektą"
+
+msgid "Data sent. Waiting for response..."
+msgstr "Duomenys nusiųsti. Laukiama atsakymo..."
+
+msgid "delete"
+msgstr "šalinti"
+
+msgid "Delete"
+msgstr "Šalinti"
+
+msgid "Delete a list"
+msgstr "Šalinti sąrašą"
+
+msgid "Delete a variable"
+msgstr "Šalinti kintamąjį"
+
+msgid "Delete this background"
+msgstr "Šalinti foną"
+
+msgid "Delete this costume"
+msgstr "Šalinti kaukę"
+
+msgid "Delete this sound"
+msgstr "Šalinti garsą"
+
+msgid "Delete this sprite"
+msgstr "Šalinti veikėją"
+
+msgid "Desktop"
+msgstr "Darbastalis"
+
+msgid "disable remote sensor connections"
+msgstr ""
+
+msgid "distance"
+msgstr "atstumas"
+
+msgid "Documents"
+msgstr "Dokumentai"
+
+msgid "don't rotate"
+msgstr "nesukti"
+
+msgid "Don't Save"
+msgstr "Neįrašyti"
+
+# ??
+msgid "Done"
+msgstr "Gerai"
+
+msgid "down"
+msgstr "žemyn"
+
+msgid "down arrow"
+msgstr "rodyklė žemyn"
+
+msgid "drag to resize"
+msgstr "tempiant keisti dydį"
+
+msgid "drag to rotate"
+msgstr "tempiant pasukti"
+
+# ??
+msgid "draggable on website?"
+msgstr "ar leisti tempti su pele (publikavus internete)?"
+
+msgid "duplicate"
+msgstr "dubliuoti"
+
+msgid "Duplicate"
+msgstr "Dubliuoti"
+
+msgid "edge"
+msgstr "kraštas"
+
+msgid "Edit"
+msgstr "Taisyti"
+
+msgid "Ellipse tool (draw outlined or filled ellipse or circle)"
+msgstr "Elipsė (piešia apskritimą arba elipsę -- užpildytą arba tik kontūrą)"
+
+msgid "enable remote sensor connections"
+msgstr ""
+
+msgid "Enter presentation mode"
+msgstr "Pateikties/pristatymo režimas"
+
+msgid "Eraser"
+msgstr "Trintukas"
+
+msgid "Eraser size"
+msgstr "Trintuko dydis"
+
+msgid "Error!"
+msgstr "Klaida!"
+
+msgid "Examples"
+msgstr "Pavyzdžiai"
+
+# ??
+msgid "Exit presentation"
+msgstr "Baigti demonstravimą"
+
+msgid "Exit presentation mode"
+msgstr "Baigti pristatymą"
+
+msgid "export"
+msgstr "eksportuoti"
+
+msgid "Export Background"
+msgstr "Eksportuoti foną"
+
+# ??
+# ar geriau „eksportuoti“
+msgid "Export Costume"
+msgstr "Įrašyti kaukę"
+
+msgid "Export failed"
+msgstr "Įrašyti nepavyko"
+
+msgid "Export Sound"
+msgstr "Įrašyti garsą į laikmeną"
+
+msgid "Export Sprite"
+msgstr "Įrašyti veikėją"
+
+msgid "export this costume"
+msgstr "įrašyti kaukę"
+
+msgid "export this sound"
+msgstr "įrašyti garsą"
+
+msgid "export this sprite"
+msgstr "įrašyti veikėją"
+
+msgid "Extras menu"
+msgstr "Papildomas meniu"
+
+msgid "Eyedropper tool (select a color)"
+msgstr "Spalvos parinkimas"
+
+msgid "Failed:"
+msgstr "Nepavyko:"
+
+msgid "false"
+msgstr "klaidinga"
+
+msgid "File"
+msgstr "Failas"
+
+msgid "File not found"
+msgstr "Failas nerastas"
+
+msgid "Fill tool (fill areas with color or gradient)"
+msgstr "Užpildymas (spalva arba gradientu)"
+
+msgid "first"
+msgstr "pirmas"
+
+msgid "fisheye"
+msgstr "optinis lęšis"
+
+# (??)
+msgid "Flash blocks (fast)"
+msgstr "Paryškinti vykdomas komandas (greitai)"
+
+msgid "Flash blocks (slow)"
+msgstr "Paryškinti vykdomas komandas (lėtai)"
+
+msgid "Flip horizontally"
+msgstr "Horizontalus atspindys"
+
+msgid "Flip vertically"
+msgstr "Vertikalus atspindys"
+
+msgid "For all sprites"
+msgstr "Visiems objektams"
+
+msgid "For this sprite only"
+msgstr "Tik šiam veikėjui"
+
+msgid "Game"
+msgstr "Žaidimas"
+
+msgid "Get surprise sprite"
+msgstr "Įkelti atsitiktinį veikėją"
+
+msgid "Get the last thing deleted"
+msgstr "Gauti paskutinį ištrintą objektą"
+
+msgid "Getting Started"
+msgstr "Pradėti?"
+
+msgid "ghost"
+msgstr "permatomumas"
+
+msgid "Go To Scratch Website"
+msgstr "„Scratch“ svetainė"
+
+msgid "grab screen region for new costume"
+msgstr "paimti ekrano sritį kaip naują kaukę"
+
+msgid "grab screen region for new sprite"
+msgstr "paimti ekrano sritį kaip naują veikėją"
+
+msgid "Grow"
+msgstr "Didinti"
+
+msgid "Grow sprite"
+msgstr "Padidinti veikėją"
+
+msgid "hello "
+msgstr "labas"
+
+msgid "Hello!"
+msgstr "Labas!"
+
+msgid "help"
+msgstr "pagalba"
+
+msgid "Help"
+msgstr "Žinynas"
+
+msgid "Help Page"
+msgstr "Žinynas"
+
+msgid "Help Screens"
+msgstr "Ekrano vaizdų pavyzdžiai"
+
+msgid "Hide Motor Blocks"
+msgstr "Nerodyti „Motor“ komandų"
+
+msgid "High (biggest)"
+msgstr "Aukštas (didžiausias)"
+
+msgid "Hmm..."
+msgstr "Hmm..."
+
+msgid "Home"
+msgstr "Pradžia"
+
+msgid "Images compressed"
+msgstr "Paveikslėliai supakuoti"
+
+# импорт
+msgid "import"
+msgstr "įkelti"
+
+msgid "Import"
+msgstr "Įkelti"
+
+msgid "Import an image on top of your current canvas"
+msgstr "Įkelti paveiksliuką į viršutinę piešimo sritį"
+
+msgid "Import Background"
+msgstr "Įkelti foną"
+
+msgid "Import Costume"
+msgstr "Įkelti kaukę"
+
+msgid "Import Image"
+msgstr "Įkelti paveiklsiuką"
+
+msgid "Import List"
+msgstr "Įkelti sąrašą"
+
+msgid "Import Project"
+msgstr "Įkelti projektą"
+
+msgid "import project"
+msgstr "įkelti projektą"
+
+msgid "Import Sound"
+msgstr "Įkelti garsą"
+
+msgid "Incompatible Scratch file format"
+msgstr "Scratch nesupranta šio failo formato"
+
+msgid "Is the folder read-only?"
+msgstr "Ar šį aplanką leidžiama tik skaityti (o rašyti neleidžiama)?"
+
+msgid "JPEG Quality (10-100)?"
+msgstr "JPEG kokybė (10-100)?"
+
+msgid "kbytes"
+msgstr "kilobaitai"
+
+msgid "Language"
+msgstr "Kalba"
+
+#  (??)
+msgid "large readout"
+msgstr "didelis tekstas"
+
+msgid "last"
+msgstr "paskutinis"
+
+msgid "left"
+msgstr "kairėn"
+
+msgid "left arrow"
+msgstr "rodyklė kairėn"
+
+msgid "length"
+msgstr "ilgis"
+
+msgid "light"
+msgstr "šviesa"
+
+msgid "Line tool (draw lines)"
+msgstr "Linijos"
+
+msgid "List name?"
+msgstr "Sąrašo pavadinimas?"
+
+msgid "Low"
+msgstr "Žemas"
+
+msgid "Lowest (smallest)"
+msgstr "Žemiausias (mažiausias)"
+
+msgid "Make a list"
+msgstr "Sukurti sąrašą"
+
+msgid "Make a variable"
+msgstr "Sukurti kintamąjį"
+
+# ??
+msgid "Max:"
+msgstr ""
+
+msgid "meow"
+msgstr "miau"
+
+msgid "Message name:"
+msgstr "Žinutės pavadinimas:"
+
+# ??
+msgid "Min:"
+msgstr ""
+
+msgid "mod"
+msgstr "liekana"
+
+msgid "more"
+msgstr "daugiau"
+
+msgid "More tags:"
+msgstr "Daugiau žymių:"
+
+msgid "mosaic"
+msgstr "mozaika"
+
+msgid "mouse x:"
+msgstr "pelės x:"
+
+msgid "mouse y:"
+msgstr "pelės y:"
+
+msgid "mouse-pointer"
+msgstr "pelės rodyklė"
+
+msgid "Move"
+msgstr "Perkelti"
+
+msgid "Music"
+msgstr "Muzika"
+
+msgid "My Projects"
+msgstr "Mano projektai"
+
+msgid "new"
+msgstr "naujas"
+
+msgid "New"
+msgstr "Naujas"
+
+msgid "New background:"
+msgstr "Naujas fonas:"
+
+msgid "New costume:"
+msgstr "Nauja kaukė:"
+
+msgid "New file name?"
+msgstr ""
+
+msgid "New Filename:"
+msgstr "Naujas failo pavadinimas:"
+
+msgid "New sound:"
+msgstr "Naujas garsas:"
+
+msgid "New Sprite"
+msgstr "Naujas veikėjas"
+
+msgid "New sprite:"
+msgstr "Naujas veikėjas:"
+
+msgid "No"
+msgstr "Ne"
+
+msgid "No MIDI ports currently available."
+msgstr "Šiuo metu nėra MIDI jugnties"
+
+msgid "No motion blocks"
+msgstr "Nėra judėjimo komandų"
+
+msgid "no scripts"
+msgstr "nėra scenarijų"
+
+msgid "No serial ports found"
+msgstr "Nerasta nuosekli jungtis"
+
+msgid "No variables."
+msgstr "Nėra kintamųjų"
+
+# ??
+msgid "Normal"
+msgstr "Normalus"
+
+# (??)
+msgid "normal readout"
+msgstr "normalus dydžio tekstas "
+
+msgid "Off"
+msgstr "Išjungti"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "On"
+msgstr "Įjungti"
+
+# ??
+# kaip padaryt, kad nepainiotų veikėjo krypties ir kaukės krypties
+msgid "only face left-right"
+msgstr "leisti kreipti kaukę tik į kairę arba į dešinę"
+
+msgid "Open"
+msgstr "Atverti"
+
+msgid "Open a Scratch project"
+msgstr "Atverti Scratch projektą"
+
+msgid "Open Project"
+msgstr "Atverti projektą"
+
+msgid "or"
+msgstr "arba"
+
+msgid "Paint"
+msgstr "Piešti"
+
+msgid "Paint Editor"
+msgstr "Grafikos rengyklė"
+
+msgid "Paint new sprite"
+msgstr "Piešti naują veikėją"
+
+msgid "Paintbrush"
+msgstr "Teptukas"
+
+msgid "Password:"
+msgstr "Slaptažodis:"
+
+msgid "Percent? (100 gives original size)"
+msgstr "Procentai? (100 reiškia originalų dydį)"
+
+msgid "Pictures"
+msgstr "Paveiklsėliai"
+
+msgid "pixelate"
+msgstr "stambinti taškus"
+
+msgid "play"
+msgstr "groti (play)"
+
+msgid "Please enter a number"
+msgstr "Įveskite skaičių"
+
+# ??  (pop)
+msgid "pop"
+msgstr "paskutinis"
+
+msgid "Position the cross-hair to set the rotation center"
+msgstr "Pažymėkite sukimosi centrą"
+
+msgid "Preparing project..."
+msgstr "Projektas ruošiamas..."
+
+msgid "Project author:"
+msgstr "Projekto autorius:"
+
+msgid "Project name"
+msgstr "Projekto pavadinimas"
+
+msgid "Project Notes"
+msgstr "Projekto aprašymas"
+
+msgid "Project notes"
+msgstr "Projekto aprašymas"
+
+msgid "Project uploaded."
+msgstr "Projektas nusiųstas"
+
+msgid "Projects"
+msgstr "Projektai"
+
+msgid "Quit"
+msgstr "Išjungti"
+
+msgid "Quit Scratch"
+msgstr "Išjungti Scratch"
+
+# ??
+msgid "Reading"
+msgstr "Skaitymas"
+
+msgid "record"
+msgstr "įrašyti"
+
+msgid "Record"
+msgstr "Įrašyti garsą"
+
+msgid "recording"
+msgstr "garso įrašymas"
+
+msgid "Rectangle tool (draw outlined or filled rectangle or square)"
+msgstr "Stačiakampis"
+
+msgid "Redo"
+msgstr "Pakartoti"
+
+msgid "Reference Guide"
+msgstr "Naudojimo instrukcijos"
+
+msgid "Remote sensor connections enabled"
+msgstr ""
+
+msgid "Remove viewer from stage"
+msgstr "Pašalinti stebėtoją iš scenos"
+
+msgid "resistance"
+msgstr "pasipriešinimas (trintis)"
+
+msgid "resize this sprite"
+msgstr "pakeisti veikėjo dydį"
+
+msgid "reverse"
+msgstr "apgręžti"
+
+msgid "right"
+msgstr "dešinėn"
+
+msgid "right arrow"
+msgstr "rodyklė dešinėn"
+
+msgid "Rotate clock-wise"
+msgstr "Sukti pagal laikrodžio rodyklę"
+
+msgid "Rotate counter-clock-wise"
+msgstr "Sukti prieš laikrodžio rodyklę"
+
+msgid "rotate this sprite"
+msgstr ""
+
+msgid "Rotation degrees?"
+msgstr "Posūkio kampas?"
+
+msgid "Save"
+msgstr "Išrašyti"
+
+msgid "Save a copy of the current project"
+msgstr "Išsaugoti projekto kopiją"
+
+msgid "Save As"
+msgstr "Įrašyti kaip"
+
+msgid "Save changes before quitting?"
+msgstr "Užveriant programą įrašyti pakeitimus?"
+
+msgid "Save failed"
+msgstr "Nepavyko įrašyti"
+
+# jurgiui gražiau „išsaugoti“
+msgid "save picture of scripts"
+msgstr "įrašyti scenarijų vaizdą"
+
+msgid "save picture of stage..."
+msgstr "įrašyti scenos vaizdą"
+
+msgid "Save Project"
+msgstr "Įrašyti projektą"
+
+msgid "Save Scripts Snapshot"
+msgstr "Įrašyti scenarijų vaizdą"
+
+msgid "Save Stage Shot"
+msgstr "Įrašyti scenos vaizdą"
+
+msgid "Save the current project"
+msgstr "Įrašyti dabartinį projektą"
+
+msgid "Save the current project?"
+msgstr "Ar įrašyti dabartinį projektą?"
+
+msgid "Save this project"
+msgstr "Įrašyti projektą"
+
+msgid "Scripts"
+msgstr "Scenarijai"
+
+msgid "select serial/USB port"
+msgstr "parinkti nuosekliąją/USB jungtį"
+
+msgid "Select tool (move, modify, or delete selection)"
+msgstr "Pasirinktite įrankį (perkelti, pakeisti, pašalinti pažymėtus objektus)"
+
+msgid "Set costume center"
+msgstr ""
+
+msgid "Set language"
+msgstr "Parinkti kalbą"
+
+msgid "Set rotation center"
+msgstr "Nustatyti sukimosi centrą"
+
+msgid "Set Single Stepping"
+msgstr "Žingsnių vykdymo greitis"
+
+msgid "set slider min and max"
+msgstr "nustatyti slinkties ribas"
+
+msgid "Share"
+msgstr "Publikuoti"
+
+msgid "Share this project"
+msgstr "Publikuoti projektą"
+
+msgid "Share This Project Online"
+msgstr "Publikuoti projektą internete"
+
+# ??
+msgid "Show Motor Blocks"
+msgstr "Rodyti „Motor“ komandas"
+
+msgid "show ScratchBoard watcher"
+msgstr ""
+
+msgid "Shrink"
+msgstr "Sutraukti/sumažinti"
+
+msgid "Shrink sprite"
+msgstr "Sumažinti veikėją"
+
+msgid "Simulation"
+msgstr "Reiškinių modeliavimas"
+
+msgid "Single-step speed?"
+msgstr "Vieno žingsnio greitis?"
+
+msgid "slider"
+msgstr "slinktis"
+
+# ??
+msgid "Slider range:"
+msgstr "Slinkties intervalas"
+
+msgid "Sound quality:"
+msgstr "Garso kokybė:"
+
+msgid "Sound Recorder"
+msgstr "Garso įrašymas"
+
+msgid "Sounds"
+msgstr "Garsai"
+
+msgid "Sounds compressed"
+msgstr "Garsai supakuoti"
+
+msgid "space"
+msgstr "<tarpas>"
+
+msgid "Sprite"
+msgstr "Veikėjas "
+
+msgid "Sprites"
+msgstr "Veikėjai"
+
+msgid "sqrt"
+msgstr "kvadratinė šaknis iš"
+
+msgid "Stage"
+msgstr "Scena"
+
+msgid "Stage selected:"
+msgstr "Pažymėta scena:"
+
+msgid "Stamp tool (select area, then stamp copies of it)"
+msgstr "Atspaudai/klonavimas (pasirinkite sritį ir darykite jos kopijas)"
+
+msgid "Start green flag scripts"
+msgstr "Pradėti vykdyti scenarijus"
+
+msgid "Start Single Stepping"
+msgstr "pradėti vykdymą pažingsniui"
+
+msgid "stop"
+msgstr "sustabdyti"
+
+msgid "Stop everything"
+msgstr "Sustabdyti viską"
+
+msgid "Stop Single Stepping"
+msgstr "sustabdyti vykdymą pažingsniui"
+
+msgid "Story"
+msgstr "Istorijos"
+
+msgid "Support Site"
+msgstr "Pagalbos svetainė"
+
+msgid "Switch colors"
+msgstr "Perjungti spalvas"
+
+msgid "Switch to full stage"
+msgstr "Didesnė scena"
+
+msgid "Switch to presentation mode"
+msgstr "Demonstruoti visame ekrane"
+
+msgid "Switch to small stage"
+msgstr "Mažesnė scena"
+
+msgid "Tags:"
+msgstr "Žymės:"
+
+msgid "Text tool (edit text layer)"
+msgstr "Tekstas"
+
+msgid "That variable name is already in use"
+msgstr "Šis kintamojo vardas jau naudojamas"
+
+msgid "that way"
+msgstr ""
+
+msgid "The file name already exists. Overwrite existing file?"
+msgstr "Šis failo vardas jau naudojamas. Ar perrašyti jau esantį failą?"
+
+# gal geriau:
+# kažkas
+# tai
+# elementas
+msgid "thing"
+msgstr "daiktas"
+
+msgid "this way"
+msgstr ""
+
+msgid "tilt"
+msgstr ""
+
+msgid "true"
+msgstr "tiesa"
+
+msgid "Turbo speed"
+msgstr "Pagreitintas vykdymas"
+
+msgid "turn into new sprite"
+msgstr "paversti nauju veikėju"
+
+msgid "Undelete"
+msgstr "Grąžinti pašalintą"
+
+msgid "Undo"
+msgstr "Grąžinti veiksmą"
+
+msgid "up"
+msgstr "aukštyn"
+
+msgid "up arrow"
+msgstr "rodyklė aukštyn"
+
+msgid "Updating thumbnails"
+msgstr ""
+
+msgid "Upload succeeded!"
+msgstr "Nusiuntimas pavyko!"
+
+msgid "Upload to Scratch Server"
+msgstr "Nusiųsti į Scratch serverį"
+
+msgid "Uploading"
+msgstr "Nusiuntimas"
+
+msgid "Variable name?"
+msgstr "Kintamojo pavadinimas?"
+
+msgid "View on stage"
+msgstr ""
+
+msgid "What's your name?"
+msgstr "Koks Tavo vardas?"
+
+msgid "whirl"
+msgstr "susukimas"
+
+# naudojama hello world
+msgid "world"
+msgstr "rytas"
+
+msgid "Write Multiple Project Summaries"
+msgstr "įrašyti kelių projektų aprašymus/santraukas"
+
+msgid "Write Project Summary"
+msgstr "įrašyti projekto santrauką/aprašymą"
+
+msgid "Yes"
+msgstr "Taip"
+
+msgid "Your project is now online at"
+msgstr "Jūsų projektas yra internete:"
+
+msgid "Your Scratch website login name:"
+msgstr "Jūsų Scratch svetainės prisijungimo vardas:"
+
+msgid "Zoom in"
+msgstr "Padidinti"
+
+msgid "Zoom out"
+msgstr "Sumažinti"
+
+############################################
+# MIDI INSTRUMENTS
+############################################
+
+# lietuviški MIDI instrumentų vertimai derinami
+# http://spreadsheets.google.com/ccc?key=rekcWGglJahVzE7jbuudfCQ&hl=lt
+# http://spreadsheets.google.com/pub?key=rekcWGglJahVzE7jbuudfCQ&output=html
+msgid "Accordion"
+msgstr "Akordeonas"
+
+msgid "Acoustic Bass"
+msgstr "Akustinis bosas"
+
+msgid "Acoustic Bass Drum"
+msgstr "Bosinis būgnas"
+
+msgid "Acoustic Grand"
+msgstr "Fortepijonas"
+
+msgid "Acoustic Snare"
+msgstr "Mažasis būgnas"
+
+msgid "Agogo"
+msgstr "Agogo"
+
+msgid "Alto Sax"
+msgstr "Saksofonas altas"
+
+msgid "Applause"
+msgstr "Plojimai"
+
+msgid "Bagpipe"
+msgstr "Dūdmaišis"
+
+msgid "Banjo"
+msgstr "Bandža"
+
+msgid "Baritone Sax"
+msgstr "Saksofonas baritonas"
+
+msgid "Bass Drum 1"
+msgstr "Bosinis būgnas 1"
+
+msgid "Bassoon"
+msgstr "Fagotas"
+
+msgid "Bird Tweet"
+msgstr "Paukščių čiulbėjimas"
+
+msgid "Blown Bottle"
+msgstr "Pučiamas butelis"
+
+msgid "Brass Section"
+msgstr "Varinių pučiamųjų grupė"
+
+msgid "Breath Noise"
+msgstr "Kvėpavimas"
+
+msgid "Bright Acoustic"
+msgstr "Skardus fortepijonas"
+
+msgid "Cabasa"
+msgstr "Kabasa"
+
+msgid "Celesta"
+msgstr "Čelesta"
+
+msgid "Cello"
+msgstr "Violončelė"
+
+msgid "Chinese Cymbal"
+msgstr "Kiniškoji lėkštė"
+
+msgid "Choir Aahs"
+msgstr "Choro "a-a""
+
+msgid "Church Organ"
+msgstr "Bažnytiniai vargonai"
+
+msgid "Clarinet"
+msgstr "Klarnetas"
+
+msgid "Claves"
+msgstr "Strypeliai"
+
+msgid "Clavinet"
+msgstr "Klavinetas"
+
+msgid "Closed Hi-Hat"
+msgstr "Uždaras haihetas"
+
+msgid "Contrabass"
+msgstr "Kontrabosas"
+
+msgid "Cowbell"
+msgstr "Skrabalas"
+
+msgid "Crash Cymbal 1"
+msgstr "Žema lėkštė 1"
+
+msgid "Crash Cymbal 2"
+msgstr "Žema lėkštė 2"
+
+msgid "Distortion Guitar"
+msgstr "El. gitara su iškraipymais"
+
+msgid "Drawbar Organ"
+msgstr "Hammondo vargonai"
+
+msgid "Dulcimer"
+msgstr "Cimbolai"
+
+msgid "Electric Bass (finger)"
+msgstr "Bosinė gitara (pirštais)"
+
+msgid "Electric Bass (pick)"
+msgstr "Bosinė gitara (brauktuku)"
+
+msgid "Electric Clean Guitar"
+msgstr "Skardi el. gitara"
+
+msgid "Electric Grand"
+msgstr "El. fortepijonas"
+
+msgid "Electric Jazz Guitar"
+msgstr "El. džiazinė gitara"
+
+msgid "Electric Muted Guitar"
+msgstr "Slopinama el. gitara"
+
+msgid "Electric Piano 1"
+msgstr "El. pianinas 1"
+
+msgid "Electric Piano 2"
+msgstr "El. pianinas 2"
+
+msgid "Electric Snare"
+msgstr "El. mažasis būgnas"
+
+msgid "English Horn"
+msgstr "Anglų ragas"
+
+msgid "FX 1 (rain)"
+msgstr "Efektas 1 (lietus)"
+
+msgid "FX 2 (soundtrack)"
+msgstr "Efektas 2 (garso takelis)"
+
+msgid "FX 3 (crystal)"
+msgstr "Efektas 3 (kristalinis)"
+
+msgid "FX 4 (atmosphere)"
+msgstr "Efektas 4 (atmosfera)"
+
+msgid "FX 5 (brightness)"
+msgstr "Efektas 5 (spindesys)"
+
+msgid "FX 6 (goblins)"
+msgstr "Efektas 6 (naminukai)"
+
+msgid "FX 7 (echoes)"
+msgstr "Efektas 7 (aidai)"
+
+msgid "FX 8 (sci-fi)"
+msgstr "Efektas 8 (fantastika)"
+
+msgid "Fiddle"
+msgstr "Griežynė"
+
+msgid "Flute"
+msgstr "Fleita"
+
+msgid "French Horn"
+msgstr "Valtornė"
+
+msgid "Fretless Bass"
+msgstr "Beskirsnis bosas"
+
+msgid "Glockenspiel"
+msgstr "Varpeliai"
+
+msgid "Guitar Fret Noise"
+msgstr "Gitaros stygų šlamesys"
+
+msgid "Guitar Harmonics"
+msgstr "Gitaros virštoniai"
+
+msgid "Gunshot"
+msgstr "Šūvis"
+
+msgid "Hand Clap"
+msgstr "Pliaukštelėjimas delnais"
+
+msgid "Harmonica"
+msgstr "Lūpinė armonikėlė"
+
+msgid "Harpsichord"
+msgstr "Klavesinas"
+
+msgid "Helicopter"
+msgstr "Sraigtasparnis"
+
+msgid "Hi Bongo"
+msgstr "Aukštasis bongas"
+
+msgid "Hi Wood Block"
+msgstr "Aukštoji trinkelė"
+
+msgid "Hi-Mid Tom"
+msgstr "Aukštesnysis tomas"
+
+msgid "High Agogo"
+msgstr "Aukštasis agogo"
+
+msgid "High Floor Tom"
+msgstr "Aukštasis didysis tomas"
+
+msgid "High Timbale"
+msgstr "Aukštasis timbalas"
+
+msgid "High Tom"
+msgstr "Aukštasis tomas"
+
+msgid "Honky-Tonk"
+msgstr "Baro pianinas"
+
+msgid "Kalimba"
+msgstr "Kalimba"
+
+msgid "Koto"
+msgstr "Koto"
+
+msgid "Lead 1 (square)"
+msgstr "Melodinis 1 (stačiakampė banga)"
+
+msgid "Lead 2 (sawtooth)"
+msgstr "Melodinis 2 (pjūklinė banga)"
+
+msgid "Lead 3 (calliope)"
+msgstr "Melodinis 3 (kaliopė)"
+
+msgid "Lead 4 (chiff)"
+msgstr "Melodinis 4 (šnipšt)"
+
+msgid "Lead 5 (charang)"
+msgstr "Melodinis 5 (čarango)"
+
+msgid "Lead 6 (voice)"
+msgstr "Melodinis 6 (balsas)"
+
+msgid "Lead 7 (fifths)"
+msgstr "Melodinis 7 (kvintos)"
+
+msgid "Lead 8 (bass+lead)"
+msgstr "Melodinis 8 (bosas ir melodija)"
+
+msgid "Long Guiro"
+msgstr "Ilgas giras"
+
+msgid "Long Whistle"
+msgstr "Ilgas švilpimas"
+
+msgid "Low Agogo"
+msgstr "Žemasis agogo"
+
+msgid "Low Bongo"
+msgstr "Žemasis bongas"
+
+msgid "Low Conga"
+msgstr "Žemoji konga"
+
+msgid "Low Floor Tom"
+msgstr "Žemasis didysis tomas"
+
+msgid "Low Timbale"
+msgstr "Žemasis timbalas"
+
+msgid "Low Tom"
+msgstr "Žemasis tomas"
+
+msgid "Low Wood Block"
+msgstr "Žemoji trinkelė"
+
+msgid "Low-Mid Tom"
+msgstr "Žemesnysis tomas"
+
+msgid "Maracas"
+msgstr "Maraka"
+
+msgid "Marimba"
+msgstr "Marimba"
+
+msgid "Melodic Tom"
+msgstr "Melodinis tomas"
+
+msgid "Music Box"
+msgstr "Muzikinė dėžutė"
+
+msgid "Mute Cuica"
+msgstr "Slopinama kuika"
+
+msgid "Mute Hi Conga"
+msgstr "Slopinama aukštoji konga"
+
+msgid "Mute Triangle"
+msgstr "Slopinamas trikampis"
+
+msgid "Muted Trumpet"
+msgstr "Trimitas su dulsikliu"
+
+msgid "Nylon String Guitar"
+msgstr "Nailono stygų gitara"
+
+msgid "Oboe"
+msgstr "Obojus"
+
+msgid "Ocarina"
+msgstr "Okarina"
+
+msgid "Open Cuica"
+msgstr "Atvira kuika"
+
+msgid "Open Hi Conga"
+msgstr "Atvira aukštoji konga"
+
+msgid "Open Hi-Hat"
+msgstr "Atviras haihetas"
+
+msgid "Open Triangle"
+msgstr "Trikampis"
+
+msgid "Orchestra Hit"
+msgstr "Orkestro smūgis"
+
+msgid "Orchestral Strings"
+msgstr "Styginių grupė"
+
+msgid "Overdriven Guitar"
+msgstr "El. gitara su perkrova"
+
+msgid "Pad 1 (new age)"
+msgstr "Fonas 1 (Naujasis Amžius)"
+
+msgid "Pad 2 (warm)"
+msgstr "Fonas 2 (šiltas)"
+
+msgid "Pad 3 (polysynth)"
+msgstr "Fonas 3 (daugiaspalvis)"
+
+msgid "Pad 4 (choir)"
+msgstr "Fonas 4 (choras)"
+
+msgid "Pad 5 (bowed)"
+msgstr "Fonas 5 (strykinis)"
+
+msgid "Pad 6 (metallic)"
+msgstr "Fonas 6 (metalinis)"
+
+msgid "Pad 7 (halo)"
+msgstr "Fonas 7 (alio)"
+
+msgid "Pad 8 (sweep)"
+msgstr "Fonas 8 (švytuoklė)"
+
+msgid "Pan Flute"
+msgstr "Pano fleita"
+
+msgid "Pedal Hi-Hat"
+msgstr "Pedalinis haihetas"
+
+msgid "Percussive Organ"
+msgstr "Stuksintys vargonai"
+
+msgid "Piccolo"
+msgstr "Mažoji fleita"
+
+msgid "Pizzicato Strings"
+msgstr "Styginių picikato"
+
+msgid "Recorder"
+msgstr "Išilginė fleita"
+
+msgid "Reed Organ"
+msgstr "Liežuvėliniai vargonai"
+
+msgid "Reverse Cymbal"
+msgstr "Lėkštė atbulai"
+
+msgid "Ride Bell"
+msgstr "Varpas"
+
+msgid "Ride Cymbal 1"
+msgstr "Kabanti lėkštė 1"
+
+msgid "Ride Cymbal 2"
+msgstr "Kabanti lėkštė 2"
+
+msgid "Rock Organ"
+msgstr "Roko vargonai"
+
+msgid "Seashore"
+msgstr "Jūros mūša"
+
+msgid "Shakuhachi"
+msgstr "Šiakuhačis"
+
+msgid "Shamisen"
+msgstr "Šiamisenas"
+
+msgid "Shanai"
+msgstr "Šachnajus"
+
+msgid "Short Guiro"
+msgstr "Trumpas giras"
+
+msgid "Short Whistle"
+msgstr "Švilptelėjimas"
+
+msgid "Side Stick"
+msgstr "Lazdele per apvadą"
+
+msgid "Sitar"
+msgstr "Sitara"
+
+msgid "Slap Bass 1"
+msgstr "Pliaukšintis bosas 1"
+
+msgid "Slap Bass 2"
+msgstr "Pliaukšintis bosas 2"
+
+msgid "Soprano Sax"
+msgstr "Saksofonas sopranas"
+
+msgid "Splash Cymbal"
+msgstr "Aukšta lėkštė"
+
+msgid "Steel Drums"
+msgstr "Plieno būgnai"
+
+msgid "Steel String Guitar"
+msgstr "Plieno stygų gitara"
+
+msgid "String Ensemble 1"
+msgstr "Styginių ansamblis 1"
+
+msgid "String Ensemble 2"
+msgstr "Styginių ansamblis 2"
+
+msgid "Synth Bass 1"
+msgstr "Sintetinis bosas 1"
+
+msgid "Synth Bass 2"
+msgstr "Sintetinis bosas 2"
+
+msgid "Synth Drum"
+msgstr "Sintetinis būgnas"
+
+msgid "Synth Voice"
+msgstr "Sintetinis balsas"
+
+msgid "SynthBrass 1"
+msgstr "Sintetiniai variniai puč. 1"
+
+msgid "SynthBrass 2"
+msgstr "Sintetiniai variniai puč. 2"
+
+msgid "SynthStrings 1"
+msgstr "Sintetiniai styginiai 1"
+
+msgid "SynthStrings 2"
+msgstr "Sintetiniai styginiai 2"
+
+msgid "Taiko Drum"
+msgstr "Būgnas taiko"
+
+msgid "Tambourine"
+msgstr "Tambūrinas"
+
+msgid "Tango Accordion"
+msgstr "Tango akordeonas"
+
+msgid "Telephone Ring"
+msgstr "Telefono skambutis"
+
+msgid "Tenor Sax"
+msgstr "Saksofonas tenoras"
+
+msgid "Timpani"
+msgstr "Litaurai"
+
+msgid "Tinkle Bell"
+msgstr "Varpelis"
+
+msgid "Tremolo Strings"
+msgstr "Styginių tremolo"
+
+msgid "Trombone"
+msgstr "Trombonas"
+
+msgid "Trumpet"
+msgstr "Trimitas"
+
+msgid "Tuba"
+msgstr "Tūba"
+
+msgid "Tubular Bells"
+msgstr "Orkestro varpai"
+
+msgid "Vibraphone"
+msgstr "Vibrafonas"
+
+msgid "Vibraslap"
+msgstr "Barškalas"
+
+msgid "Viola"
+msgstr "Altas"
+
+msgid "Violin"
+msgstr "Smuikas"
+
+msgid "Voice Oohs"
+msgstr "Balsas "о-o""
+
+msgid "Whistle"
+msgstr "Švilpukas"
+
+msgid "Woodblock"
+msgstr "Trinkelė"
+
+msgid "Xylophone"
+msgstr "Ksilofonas"
+

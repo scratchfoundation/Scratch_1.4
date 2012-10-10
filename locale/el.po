@@ -1,0 +1,1950 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Scratch\n"
+"Report-Msgid-Bugs-To: Evelyn Eastmond <evelyn@media.mit.edu>\n"
+"POT-Creation-Date: 2008-02-28\n"
+"PO-Revision-Date: 2009-06-25 06:03-0400\n"
+"Last-Translator: George Birbilis <birbilis@kagi.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 1.2.0\n"
+
+############################################
+# FORMATTING
+############################################
+
+# Language name as you'd like it to appear in the Languages menu
+# (Required)
+msgid "Language-Name"
+msgstr "Ελληνικά"
+
+# Directionality of language
+# LTR = Left to Right
+# RTL = Right to Left
+msgid "Language-Direction"
+msgstr "LTR"
+
+# Scale to apply to font size (2 for twice as large)
+# Use this if the font is too small for legibility on the Scratch interface
+msgid "Font-Scale"
+msgstr "1"
+
+# Set to 'true' or 'false'
+# Use this if you do not want any of the text to be bolded, for legibility
+msgid "Suppress-Bold"
+msgstr "false"
+
+# Font to use on a Windows system
+msgid "Win-Font"
+msgstr "Verdana"
+
+# Font to use on a Mac system
+msgid "Mac-Font"
+msgstr "Verdana"
+
+# Font to use on a Linux system
+msgid "Linux-Font"
+msgstr "Verdana"
+
+############################################
+# BLOCKS
+############################################
+
+msgid "%H sensor value"
+msgstr "%H τιμή αισθητήρα"
+
+msgid "%L contains %s"
+msgstr "%L περιέχει %s"
+
+msgid "%a of %m"
+msgstr "%a από %m"
+
+msgid "%b and %b"
+msgstr "%b και %b"
+
+msgid "%b or %b"
+msgstr "%b ή %b"
+
+msgid "%f of %n"
+msgstr "%f από %n"
+
+msgid "%n mod %n"
+msgstr "%n mod %n"
+
+msgid "add %s to %L"
+msgstr "πρόσθεσε %s στο %L"
+
+msgid "answer"
+msgstr "απάντηση"
+
+msgid "ask %s and wait"
+msgstr "ρώτησε %s και περίμενε"
+
+msgid "background #"
+msgstr "υπόβαθρο #"
+
+msgid "broadcast %e"
+msgstr "μετάδωσε %e"
+
+msgid "broadcast %e and wait"
+msgstr "μετάδωσε %e και περίμενε"
+
+msgid "change %g effect by %n"
+msgstr "άλλαξε %g εφέ κατά %n"
+
+msgid "change %v by %n"
+msgstr "άλλαξε %v κατά %n"
+
+msgid "change pen color by %n"
+msgstr "άλλαξε χρώμα πένας κατά %n"
+
+msgid "change pen shade by %n"
+msgstr "άλλαξε σκιά πένας κατά %n"
+
+msgid "change pen size by %n"
+msgstr "άλλαξε μέγεθος πένας κατά %n"
+
+msgid "change size by %n"
+msgstr "άλλαξε μέγεθος κατά %n"
+
+msgid "change tempo by %n"
+msgstr "άλλαξε ρυθμό κατά %n"
+
+msgid "change volume by %n"
+msgstr "άλλαξε ένταση κατά %n"
+
+msgid "change x by %n"
+msgstr "άλλαξε x κατά %n"
+
+msgid "change y by %n"
+msgstr "άλλαξε y κατά %n"
+
+msgid "clear"
+msgstr "καθάρισε"
+
+msgid "clear graphic effects"
+msgstr "καθάρισε τα γραφικά εφέ"
+
+msgid "color %C is touching %C?"
+msgstr "το χρώμα %C αγγίζει το %C;"
+
+msgid "control"
+msgstr "Έλεγχος"
+
+msgid "costume #"
+msgstr "ενδυμασία #"
+
+msgid "delete %y of %L"
+msgstr "διέγραψε %y από το %L"
+
+msgid "direction"
+msgstr "κατεύθυνση"
+
+msgid "distance to %m"
+msgstr "απόσταση έως %m"
+
+msgid "else"
+msgstr "αλλιώς"
+
+msgid "forever"
+msgstr "για πάντα"
+
+msgid "forever if %b"
+msgstr "για πάντα εάν %b"
+
+msgid "glide %n secs to x:%n y:%n"
+msgstr "κινήσου ομαλά %n δεύτ. στο x:%n y:%n"
+
+msgid "go back %n layers"
+msgstr "πήγαινε πίσω %n επίπεδα"
+
+msgid "go to %m"
+msgstr "πήγαινε στο %m"
+
+msgid "go to front"
+msgstr "πήγαινε σε πρώτο πλάνο"
+
+msgid "go to x:%n y:%n"
+msgstr "πήγαινε στο x:%n y:%n"
+
+msgid "hide"
+msgstr "απόκρυψη"
+
+msgid "hide variable %v"
+msgstr "απόκρυψη μεταβλητής %v"
+
+msgid "if %b"
+msgstr "εάν %b"
+
+msgid "if on edge, bounce"
+msgstr "εάν στα όρια, αναπήδησε"
+
+msgid "insert %s at %i of %L"
+msgstr "παρέμβαλε το %s στη θέση %i του %L"
+
+msgid "item %i of %L"
+msgstr "στοιχείο %i του %L"
+
+msgid "join %s %s"
+msgstr "ένωσε %s %s"
+
+msgid "key %k pressed?"
+msgstr "πατήθηκε πλήκτρο %k;"
+
+msgid "length of %L"
+msgstr "μήκος του %L"
+
+msgid "length of %s"
+msgstr "μήκος του %s"
+
+msgid "letter %n of %s"
+msgstr "γράμμα %n του %s"
+
+msgid "list"
+msgstr "λίστα"
+
+msgid "looks"
+msgstr "Όψεις"
+
+msgid "loud?"
+msgstr "δυνατά;"
+
+msgid "loudness"
+msgstr "ένταση"
+
+msgid "motion"
+msgstr "Κίνηση"
+
+msgid "motor direction %W"
+msgstr "κατεύθυνση κίνησης %W"
+
+msgid "motor off"
+msgstr "κινητήρας ανενεργός"
+
+msgid "motor on"
+msgstr "κινητήρας ενεργός"
+
+msgid "motor on for %n secs"
+msgstr "κινητήρας ενεργός για %n δευτερόλεπτα"
+
+msgid "motor power %n"
+msgstr "ισχύς κινητήρα %n"
+
+msgid "mouse down?"
+msgstr "πατήθηκε το ποντίκι;"
+
+msgid "mouse x"
+msgstr "ποντίκι x"
+
+msgid "mouse y"
+msgstr "ποντίκι y"
+
+msgid "move %n steps"
+msgstr "κινήσου %n βήματα"
+
+msgid "next background"
+msgstr "επόμενο υπόβαθρο"
+
+msgid "next costume"
+msgstr "επόμενη ενδυμασία"
+
+msgid "not %b"
+msgstr "όχι %b"
+
+msgid "operators"
+msgstr "Τελεστές"
+
+msgid "pen"
+msgstr "Πένα"
+
+msgid "pen down"
+msgstr "κατέβασε πένα"
+
+msgid "pen up"
+msgstr "σήκωσε πένα"
+
+msgid "pick random %n to %n"
+msgstr "τυχαία επιλογή από %n μέχρι %n"
+
+msgid "play drum %D for %n beats"
+msgstr "παίξε τύμπανο %D για %n χρόνους"
+
+msgid "play note %N for %n beats"
+msgstr "παίξε νότα %N για %n χρόνους"
+
+msgid "play sound %S"
+msgstr "παίξε ήχο %S"
+
+msgid "play sound %S until done"
+msgstr "παίξε ήχο %S μέχρι τέλους"
+
+msgid "point in direction %d"
+msgstr "δείξε στην κατεύθυνση %d"
+
+msgid "point towards %m"
+msgstr "δείξε στο %m"
+
+msgid "repeat %n"
+msgstr "επανάλαβε %n"
+
+msgid "repeat until %b"
+msgstr "επανάλαβε ώσπου %b"
+
+msgid "replace item %i of %L with %s"
+msgstr "αντικατέστησε στοιχείο %i του %L με %s"
+
+msgid "reset timer"
+msgstr "μηδένισε το χρονόμετρο"
+
+msgid "rest for %n beats"
+msgstr "περίμενε για %n χρόνους"
+
+msgid "round %n"
+msgstr "στρογγυλοποίησε το %n"
+
+msgid "say %s"
+msgstr "πες %s"
+
+msgid "say %s for %n secs"
+msgstr "πες %s για %n δευτερόλεπτα"
+
+msgid "sensing"
+msgstr "Αισθητήρες"
+
+msgid "sensor %h?"
+msgstr "αισθητήρας %h;"
+
+msgid "set %g effect to %n"
+msgstr "όρισε το εφέ %g σε %n"
+
+msgid "set %v to %n"
+msgstr "όρισε το %v σε %n"
+
+msgid "set instrument to %I"
+msgstr "όρισε το όργανο σε %I"
+
+msgid "set pen color to %c"
+msgstr "όρισε το χρώμα πένας σε %c"
+
+msgid "set pen color to %n"
+msgstr "όρισε το χρώμα πένας σε %n"
+
+msgid "set pen shade to %n"
+msgstr "όρισε τη σκιά πένας σε %n"
+
+msgid "set pen size to %n"
+msgstr "όρισε το μέγεθος πένας σε %n"
+
+msgid "set size to %n%"
+msgstr "όρισε το μέγεθος σε %n%"
+
+msgid "set tempo to %n bpm"
+msgstr "όρισε ρυθμό σε %n χτύπους το λεπτό"
+
+msgid "set volume to %n%"
+msgstr "όρισε την ένταση σε %n%"
+
+msgid "set x to %n"
+msgstr "θέσε το x ίσο με %n"
+
+msgid "set y to %n"
+msgstr "θέσε το y ίσο με %n"
+
+msgid "show"
+msgstr "εμφάνισε"
+
+msgid "show variable %v"
+msgstr "εμφάνισε τη μεταβλητή %v"
+
+msgid "size"
+msgstr "μέγεθος"
+
+msgid "sound"
+msgstr "Ήχος"
+
+msgid "stamp"
+msgstr "σφραγίδα"
+
+msgid "stop all"
+msgstr "σταμάτησέ τα όλα"
+
+msgid "stop all sounds"
+msgstr "σταμάτησε όλους τους ήχους"
+
+msgid "stop script"
+msgstr "σταμάτησε το σενάριο"
+
+msgid "switch to background %l"
+msgstr "αλλαγή σε υπόβαθρο %l"
+
+msgid "switch to costume %l"
+msgstr "αλλαγή σε ενδυμασία %l"
+
+msgid "tempo"
+msgstr "ρυθμός"
+
+msgid "think %s"
+msgstr "σκέψου το %s"
+
+msgid "think %s for %n secs"
+msgstr "σκέψου το %s για %n δευτερόλεπτα"
+
+msgid "timer"
+msgstr "χρονόμετρο"
+
+msgid "touching %m?"
+msgstr "αγγίζει το %m;"
+
+msgid "touching color %C?"
+msgstr "αγγίζει το χρώμα %C;"
+
+msgid "turn %n degrees"
+msgstr "στρίψε %n μοίρες"
+
+msgid "variables"
+msgstr "Μεταβλητές"
+
+msgid "volume"
+msgstr "ένταση"
+
+msgid "wait %n secs"
+msgstr "περίμενε %n δευτερόλεπτα"
+
+msgid "wait until %b"
+msgstr "περίμενε ώσπου %b"
+
+msgid "when %k key pressed"
+msgstr "όταν το πλήκτρο %k πατηθεί"
+
+msgid "when %m clicked"
+msgstr "όταν στο %m γίνει κλίκ"
+
+msgid "when I receive %e"
+msgstr "όταν λάβω %e"
+
+msgid "x position"
+msgstr "θέση x"
+
+msgid "y position"
+msgstr "θέση y"
+
+############################################
+# USER INTERFACE
+############################################
+
+msgid "(empty)"
+msgstr "(άδειο)"
+
+msgid "1 script"
+msgstr "1 σενάριο"
+
+msgid "About Scratch"
+msgstr "Πληροφορίες για το Scratch"
+
+msgid "About this project:"
+msgstr "Πληροφορίες για αυτό το έργο:"
+
+msgid "abs"
+msgstr "ΑπόλυτηΤιμή"
+
+msgid "add comment"
+msgstr "πρόσθεσε σχόλιο"
+
+msgid "add comment here"
+msgstr "πρόσθεσε σχόλιο εδώ"
+
+msgid "all"
+msgstr "όλα"
+
+msgid "and"
+msgstr "και"
+
+msgid "Animation"
+msgstr "Κινούμενη εικόνα"
+
+msgid "any"
+msgstr "οποιοδήποτε"
+
+msgid "Art"
+msgstr "Τέχνη"
+
+msgid "background"
+msgstr "υπόβαθρο"
+
+msgid "backgrounds"
+msgstr "υπόβαθρα"
+
+msgid "Backgrounds"
+msgstr "Υπόβαθρα"
+
+msgid "brightness"
+msgstr "φωτεινότητα"
+
+msgid "Brush size: "
+msgstr "Μέγεθος πινέλου: "
+
+msgid "button"
+msgstr "κουμπί"
+
+msgid "button pressed"
+msgstr "πατήθηκε κουμπί"
+
+msgid "Camera"
+msgstr "Κάμερα"
+
+msgid "can rotate"
+msgstr "περιστρέψιμο"
+
+msgid "cancel"
+msgstr "άκυρο"
+
+msgid "Cancel"
+msgstr "Ακύρωση"
+
+msgid "Choose a folder"
+msgstr "Διάλλεξε φάκελο"
+
+msgid "Choose new sprite from file"
+msgstr "Διάλεξε νέα μορφή από αρχείο"
+
+msgid "clean up"
+msgstr "καθάρισε τα όλα"
+
+msgid "Clear"
+msgstr "Εκκαθάριση"
+
+msgid "Clear canvas"
+msgstr "Καθάρισε τον καμβά"
+
+msgid "Close and continue"
+msgstr "Κλείσιμο και συνέχεια"
+
+msgid "Close dialog?"
+msgstr "Να κλείσω το διάλογο;"
+
+msgid "Close paint editor?"
+msgstr "Να κλείσω την επεξεργασία σχεδίου;"
+
+msgid "close port"
+msgstr "κλείσε τη θύρα"
+
+msgid "Close sound recorder?"
+msgstr "Να κλείσω την ηχογράφηση;"
+
+msgid "color"
+msgstr "χρώμα"
+
+msgid "Compress Images"
+msgstr "Συμπίεσε τις εικόνες"
+
+msgid "Compress Sounds"
+msgstr "Συμπίεσε τους ήχους"
+
+msgid "Compress sounds and images"
+msgstr "Συμπίεσε εικόνες και ήχους"
+
+msgid "Computer"
+msgstr "Υπολογιστής"
+
+msgid "connected"
+msgstr "συνδεδεμένο"
+
+msgid "Connecting to "
+msgstr "Σύνδεση με "
+
+msgid "Copy"
+msgstr "Αντιγραφή"
+
+msgid "costume"
+msgstr "ενδυμασία"
+
+msgid "costumes"
+msgstr "ενδυμασίες"
+
+msgid "Costumes"
+msgstr "Ενδυμασίες"
+
+msgid "Could not read"
+msgstr "Δε μπόρεσε να διαβαστεί"
+
+msgid "Could not read project; file may be damaged"
+msgstr "Το έργο δε μπόρεσε να διαβαστεί‧ ίσως το αρχείο καταστράφηκε"
+
+msgid "Could not write file"
+msgstr "Το αρχείο δε μπόρεσε να γραφτεί"
+
+msgid "Create account"
+msgstr "Δημιούργησε λογαριασμό"
+
+msgid "Create an empty project"
+msgstr "Δημιούργησε ένα άδειο έργο"
+
+msgid "Data sent. Waiting for response..."
+msgstr "Τα δεδομένα στάλθηκαν. Αναμονή για απάντηση..."
+
+msgid "delete"
+msgstr "διαγραφή"
+
+msgid "Delete"
+msgstr "Διάγραψε"
+
+msgid "Delete a list"
+msgstr "Διάγραψε μια λίστα"
+
+msgid "Delete a variable"
+msgstr "Διάγραψε μιά μεταβλητή"
+
+msgid "Delete this background"
+msgstr "Διάγραψε αυτό το υπόβαθρο"
+
+msgid "Delete this costume"
+msgstr "Διάγραψε αυτή την ενδυμασία"
+
+msgid "Delete this sound"
+msgstr "Διάγραψε αυτόν τον ήχο"
+
+msgid "Delete this sprite"
+msgstr "Διάγραψε αυτή τη μορφή"
+
+msgid "Desktop"
+msgstr "Επιφάνεια εργασίας"
+
+msgid "disable remote sensor connections"
+msgstr "απενεργοποίησε συνδέσεις απομακρυσμένων αισθητήρων"
+
+msgid "distance"
+msgstr "απόσταση"
+
+msgid "Documents"
+msgstr "Έγγραφα"
+
+msgid "don't rotate"
+msgstr "μην το περιστρέψεις"
+
+msgid "Don't Save"
+msgstr "Μην αποθηκεύσεις"
+
+msgid "Done"
+msgstr "Έγινε"
+
+msgid "down"
+msgstr "κάτω"
+
+msgid "down arrow"
+msgstr "κάτω βέλος"
+
+msgid "drag to resize"
+msgstr "σύρε για αλλαγή μεγέθους"
+
+msgid "drag to rotate"
+msgstr "σύρσιμο για περιστροφή"
+
+msgid "draggable on website?"
+msgstr "μπορεί να συρθεί στο δικτυακό τόπο;"
+
+msgid "duplicate"
+msgstr "διπλασίασε"
+
+msgid "Duplicate"
+msgstr "Διπλασιασμός"
+
+msgid "edge"
+msgstr "όρια"
+
+msgid "Edit"
+msgstr "Διόρθωσε"
+
+msgid "Ellipse tool (draw outlined or filled ellipse or circle)"
+msgstr "Εργαλείο έλλειψης (σχεδιάζει περίγραμμα ή γεμάτη έλλειψη ή κύκλο)"
+
+msgid "enable remote sensor connections"
+msgstr "ενεργοποίηση συνδέσεων απομακρυσμένου αισθητήρα"
+
+msgid "Enter presentation mode"
+msgstr "Μετάβαση σε προβολή παρουσίασης"
+
+msgid "Eraser"
+msgstr "Σβηστήρα"
+
+msgid "Eraser size"
+msgstr "Μέγεθος σβηστήρας"
+
+msgid "Error!"
+msgstr "Σφάλμα!"
+
+msgid "Examples"
+msgstr "Παραδείγματα"
+
+msgid "Exit presentation"
+msgstr "Έξοδος από παρουσίαση"
+
+msgid "Exit presentation mode"
+msgstr "Έξοδος από προβολή παρουσίασης"
+
+msgid "export"
+msgstr "εξαγωγή"
+
+msgid "Export Background"
+msgstr "Εξαγωγή υποβάθρου"
+
+msgid "Export Costume"
+msgstr "Εξαγωγή ενδυμασίας"
+
+msgid "Export failed"
+msgstr "Η εξαγωγή απέτυχε"
+
+msgid "Export Sound"
+msgstr "Εξαγωγή ήχου"
+
+msgid "Export Sprite"
+msgstr "Εξαγωγή μορφής"
+
+msgid "export this costume"
+msgstr "εξάγαγε αυτή την ενδυμασία"
+
+msgid "export this sound"
+msgstr "εξάγαγε αυτόν τον ήχο"
+
+msgid "export this sprite"
+msgstr "εξάγαγε αυτή τη μορφή"
+
+msgid "Extras menu"
+msgstr "Μενού πρόσθετων"
+
+msgid "Eyedropper tool (select a color)"
+msgstr "Εργαλείο επιλογής χρωμάτων (διάλεξε ένα χρώμα)"
+
+msgid "Failed:"
+msgstr "Απέτυχε:"
+
+msgid "false"
+msgstr "λάθος"
+
+msgid "File"
+msgstr "Αρχείο"
+
+msgid "File not found"
+msgstr "Αρχείο δεν βρέθηκε"
+
+msgid "Fill tool (fill areas with color or gradient)"
+msgstr "Εργαλείο γεμίσματος (γεμίζει περιοχές με ενιαίο χρώμα ή βαθμονόμηση χρώματος)"
+
+msgid "first"
+msgstr "πρώτο"
+
+msgid "fisheye"
+msgstr "μάτι ψαριού"
+
+msgid "Flash blocks (fast)"
+msgstr "Αναβόσβησε περιοχές (γρήγορα)"
+
+msgid "Flash blocks (slow)"
+msgstr "Αναβόσβησε περιοχές (αργά)"
+
+msgid "Flip horizontally"
+msgstr "Αναστροφή οριζόντια"
+
+msgid "Flip vertically"
+msgstr "Αναστροφή κάθετα"
+
+msgid "For all sprites"
+msgstr "Για όλες τις μορφές (κοινή)"
+
+msgid "For this sprite only"
+msgstr "Μόνο γι' αυτή τη μορφή"
+
+msgid "Game"
+msgstr "Παιχνίδι"
+
+msgid "Get surprise sprite"
+msgstr "Πάρε μια μορφή έκπληξη"
+
+msgid "Get the last thing deleted"
+msgstr "Πάρε το τελευταίο πράγμα που σβήστηκε"
+
+msgid "Getting Started"
+msgstr "Πρώτα βήματα"
+
+msgid "ghost"
+msgstr "φάντασμα"
+
+msgid "Go To Scratch Website"
+msgstr "Μετάβαση σε ιστότοπο Scratch"
+
+msgid "grab screen region for new costume"
+msgstr "άρπαξε περιοχή οθόνης για νέα ενδυμασία"
+
+msgid "grab screen region for new sprite"
+msgstr "άρπαξε περιοχή οθόνης για νέα μορφή"
+
+msgid "Grow"
+msgstr "Μεγάλωσε"
+
+msgid "Grow sprite"
+msgstr "Μεγάλωσε τη μορφή"
+
+msgid "hello "
+msgstr "γειά σου"
+
+msgid "Hello!"
+msgstr "Γειά σου!"
+
+msgid "help"
+msgstr "βοήθεια"
+
+msgid "Help"
+msgstr "Βοήθεια"
+
+msgid "Help Page"
+msgstr "Σελίδα βοήθειας"
+
+msgid "Help Screens"
+msgstr "Οθόνες βοήθειας"
+
+msgid "Hide Motor Blocks"
+msgstr "Απόκρυψη εντολών κινητήρων"
+
+msgid "High (biggest)"
+msgstr "Υψηλό (μέγιστο)"
+
+msgid "Hmm..."
+msgstr "Χμμ..."
+
+msgid "Home"
+msgstr "Σπίτι"
+
+msgid "Images compressed"
+msgstr "Συμπιεσμένες Εικόνες"
+
+msgid "import"
+msgstr "εισαγωγή"
+
+msgid "Import"
+msgstr "Εισαγωγή"
+
+msgid "Import an image on top of your current canvas"
+msgstr "Εισαγωγή εικόνας πάνω στον τρέχον καμβά"
+
+msgid "Import Background"
+msgstr "Εισαγωγή υποβάθρου"
+
+msgid "Import Costume"
+msgstr "Εισαγωγή ενδυμασίας"
+
+msgid "Import Image"
+msgstr "Εισαγωγή Εικόνας"
+
+msgid "Import List"
+msgstr "Εισαγωγή Λίστας"
+
+msgid "Import Project"
+msgstr "Εισαγωγή έργου"
+
+msgid "import project"
+msgstr "εισαγωγή έργου"
+
+msgid "Import Sound"
+msgstr "Εισαγωγή Ήχου"
+
+msgid "Incompatible Scratch file format"
+msgstr "Μορφή αρχείου ασύμβατη με το Scratch"
+
+msgid "Is the folder read-only?"
+msgstr "Ο φάκελος είναι μόνο για ανάγνωση;"
+
+msgid "JPEG Quality (10-100)?"
+msgstr "Ποιότητα JPEG (10-100)"
+
+msgid "kbytes"
+msgstr "Kbyte"
+
+msgid "Language"
+msgstr "Γλώσσα"
+
+msgid "large readout"
+msgstr "ευρεία ανάγνωση"
+
+msgid "last"
+msgstr "τελευταίο"
+
+msgid "left"
+msgstr "αριστερά"
+
+msgid "left arrow"
+msgstr "αριστερό βέλος"
+
+msgid "length"
+msgstr "μήκος"
+
+msgid "light"
+msgstr "φώς"
+
+msgid "Line tool (draw lines)"
+msgstr "Εργαλείο γραμμής (σχεδιάζει γραμμές)"
+
+msgid "List name?"
+msgstr "Όνομα λίστας;"
+
+msgid "Low"
+msgstr "Χαμηλά"
+
+msgid "Lowest (smallest)"
+msgstr "Χαμηλότατο (το ελάχιστο)"
+
+msgid "Make a list"
+msgstr "Δημιούργησε μια λίστα"
+
+msgid "Make a variable"
+msgstr "Δημιούργησε μια μεταβλητή"
+
+msgid "Max:"
+msgstr "Μέγιστο:"
+
+msgid "meow"
+msgstr "μιάου"
+
+msgid "Message name:"
+msgstr "Όνομα μηνύματος:"
+
+msgid "Min:"
+msgstr "Ελάχιστο"
+
+msgid "mod"
+msgstr "υπόλοιπο διαίρεσης"
+
+msgid "more"
+msgstr "περισσότερα"
+
+msgid "More tags:"
+msgstr "Περισσότερες ετικέτες"
+
+msgid "mosaic"
+msgstr "ψηφιδωτό"
+
+msgid "mouse x:"
+msgstr "ποντίκι x:"
+
+msgid "mouse y:"
+msgstr "ποντίκι y:"
+
+msgid "mouse-pointer"
+msgstr "δείκτης ποντικιού"
+
+msgid "Move"
+msgstr "Μετακίνηση"
+
+msgid "Music"
+msgstr "Μουσική"
+
+msgid "My Projects"
+msgstr "Τα έργα μου"
+
+msgid "new"
+msgstr "νέο"
+
+msgid "New"
+msgstr "Νέο"
+
+msgid "New background:"
+msgstr "Νέο υπόβαθρο:"
+
+msgid "New costume:"
+msgstr "Νέα ενδυμασία:"
+
+msgid "New file name?"
+msgstr ""
+
+msgid "New Filename:"
+msgstr "Νέο όνομα αρχείου:"
+
+msgid "New sound:"
+msgstr "Νέος ήχος:"
+
+msgid "New Sprite"
+msgstr "Νέα μορφή"
+
+msgid "New sprite:"
+msgstr "Νέα μορφή:"
+
+msgid "No"
+msgstr "Όχι"
+
+msgid "No MIDI ports currently available."
+msgstr "Δε βρέθηκαν θύρες MIDI που να είναι διαθέσιμες αυτή τη στιγμή."
+
+msgid "No motion blocks"
+msgstr "Δεν υπάρχουν εντολές κίνησης"
+
+msgid "no scripts"
+msgstr "Δεν υπάρχουν σενάρια"
+
+msgid "No serial ports found"
+msgstr "Δε βρέθηκαν σειριακές θύρες"
+
+msgid "No variables."
+msgstr "Δεν υπάρχουν μεταβλητές."
+
+msgid "Normal"
+msgstr "Κανονικό"
+
+msgid "normal readout"
+msgstr "κανονική ανάγνωση"
+
+msgid "Off"
+msgstr "Κλειστό"
+
+msgid "OK"
+msgstr "Εντάξει"
+
+msgid "On"
+msgstr "Ανοικτό"
+
+msgid "only face left-right"
+msgstr "μόνο το πρόσωπο αριστερά-δεξιά"
+
+msgid "Open"
+msgstr "Άνοιγμα"
+
+msgid "Open a Scratch project"
+msgstr "Άνοιξε ένα έργο Scratch"
+
+msgid "Open Project"
+msgstr "Άνοιξε Έργο"
+
+msgid "or"
+msgstr "ή"
+
+msgid "Paint"
+msgstr "Ζωγραφική"
+
+msgid "Paint Editor"
+msgstr "Επεξεργαστής Ζωγραφικής"
+
+msgid "Paint new sprite"
+msgstr "Ζωγράφισε νέα μορφή"
+
+msgid "Paintbrush"
+msgstr "Βούρτσα Ζωγραφικής"
+
+msgid "Password:"
+msgstr "Συνθηματικό:"
+
+msgid "Percent? (100 gives original size)"
+msgstr "Ποσοστό; (100 δίνει το πραγματικό μέγεθος)"
+
+msgid "Pictures"
+msgstr "Εικόνες"
+
+msgid "pixelate"
+msgstr "εικονοστοιχειοποίηση"
+
+msgid "play"
+msgstr "παίξε"
+
+msgid "Please enter a number"
+msgstr "Παρακαλώ πληκτρολογήστε έναν αριθμό"
+
+msgid "pop"
+msgstr "ανασύρω"
+
+msgid "Position the cross-hair to set the rotation center"
+msgstr "Τοποθέτησε το σταυρό για να θέσεις το κέντρο περιστροφής"
+
+msgid "Preparing project..."
+msgstr "Προετοιμασία έργου..."
+
+msgid "Project author:"
+msgstr "Συγγραφέας έργου:"
+
+msgid "Project name"
+msgstr "Όνομα έργου"
+
+msgid "Project Notes"
+msgstr "Σημειώσεις έργου"
+
+msgid "Project notes"
+msgstr "Σημειώσεις έργου"
+
+msgid "Project uploaded."
+msgstr "Το Έργο επιφορτώθηκε."
+
+msgid "Projects"
+msgstr "Έργα"
+
+msgid "Quit"
+msgstr "Έξοδος"
+
+msgid "Quit Scratch"
+msgstr "Έξοδος από το Scratch"
+
+msgid "Reading"
+msgstr "Ανάγνωση"
+
+msgid "record"
+msgstr "ηχογράφηση"
+
+msgid "Record"
+msgstr "Ηχογράφηση"
+
+msgid "recording"
+msgstr "ηχογράφηση"
+
+msgid "Rectangle tool (draw outlined or filled rectangle or square)"
+msgstr "Εργαλείο παραλληλογράμμου (σχεδιάζει περίγραμμα ή γέμισμα ορθογώνιου παραλληλόγραμμου ή τετραγώνου)"
+
+msgid "Redo"
+msgstr "Ακύρωση αναίρεσης"
+
+msgid "Reference Guide"
+msgstr "Οδηγός αναφοράς"
+
+msgid "Remote sensor connections enabled"
+msgstr "Ενεργοποιήθηκαν οι συνδέσεις απομακρυσμένων αισθητήρων"
+
+msgid "Remove viewer from stage"
+msgstr "Αφαίρεσε προβολή από τη σκηνή"
+
+msgid "resistance"
+msgstr "αντίσταση"
+
+msgid "resize this sprite"
+msgstr "αλλαγή μεγέθους μορφής"
+
+msgid "reverse"
+msgstr "ανάστρεψε"
+
+msgid "right"
+msgstr "δεξιά"
+
+msgid "right arrow"
+msgstr "δεξί βέλος"
+
+msgid "Rotate clock-wise"
+msgstr "Δεξιόστροφη Περιστροφή"
+
+msgid "Rotate counter-clock-wise"
+msgstr "Αριστερόστροφη Περιστροφή"
+
+msgid "rotate this sprite"
+msgstr "περίστρεψε αυτή τη μορφή"
+
+msgid "Rotation degrees?"
+msgstr "Μοίρες περιστροφής"
+
+msgid "Save"
+msgstr "Αποθήκευσε"
+
+msgid "Save a copy of the current project"
+msgstr "Αποθήκευσε ένα αντίγραφο τού τρέχοντος έργου"
+
+msgid "Save As"
+msgstr "Αποθήκευση ως"
+
+#, fuzzy
+msgid "Save changes before quitting?"
+msgstr "Αποθήκευση αλλαγών πριν την έξοδο;"
+
+msgid "Save failed"
+msgstr "Η αποθήκευση απέτυχε"
+
+msgid "save picture of scripts"
+msgstr "αποθήκευσε την εικόνα των σεναρίων"
+
+#, fuzzy
+msgid "save picture of stage..."
+msgstr "αποθήκευσε εικόνα της σκηνής..."
+
+msgid "Save Project"
+msgstr "Αποθήκευση Έργου"
+
+msgid "Save Scripts Snapshot"
+msgstr "Αποθήκευσε στιγμιότυπο σεναρίων"
+
+msgid "Save Stage Shot"
+msgstr "Αποθήκευσε στιγμιότυπο σκηνής"
+
+msgid "Save the current project"
+msgstr "Αποθήκευσε το τρέχον έργο"
+
+msgid "Save the current project?"
+msgstr "Να αποθηκευσω το τρέχον έργο;"
+
+msgid "Save this project"
+msgstr "Αποθήκευσε αυτό το έργο"
+
+msgid "Scripts"
+msgstr "Σενάρια"
+
+msgid "select serial/USB port"
+msgstr "επέλεξε σειριακή/USB θύρα"
+
+msgid "Select tool (move, modify, or delete selection)"
+msgstr "Επέλεξε εργαλείο (μετακίνηση, αλλαγή, ή σβήσιμο επιλογής)"
+
+msgid "Set costume center"
+msgstr "Όρισε κέντρο ενδυμασίας"
+
+msgid "Set language"
+msgstr "Όρισε γλώσσα"
+
+msgid "Set rotation center"
+msgstr "Όρισε κέντρο περιστροφής"
+
+msgid "Set Single Stepping"
+msgstr "Όρισε απλό βηματισμό"
+
+msgid "set slider min and max"
+msgstr "Όρισε ελάχιστη και μέγιστη τιμή της γραμμής κύλισης"
+
+msgid "Share"
+msgstr "Μοιράσου"
+
+msgid "Share this project"
+msgstr "Μοιράσου αυτό το έργο"
+
+msgid "Share This Project Online"
+msgstr "Μοιράσου το έργο αυτό στο διαδίκτυο"
+
+msgid "Show Motor Blocks"
+msgstr "Εμφάνιση εντολών κινητήρων"
+
+msgid "show ScratchBoard watcher"
+msgstr "εμφάνισε τον παρατηρητή του ScratchBoard"
+
+msgid "Shrink"
+msgstr "Σμίκρυνση"
+
+msgid "Shrink sprite"
+msgstr "Σμίκρυνση μορφής"
+
+msgid "Simulation"
+msgstr "Προσομοίωση"
+
+msgid "Single-step speed?"
+msgstr "Ταχύτητα απλού βηματισμού"
+
+msgid "slider"
+msgstr "γραμμή κύλισης"
+
+msgid "Slider range:"
+msgstr "Εύρος τιμών γραμμής κύλισης:"
+
+msgid "Sound quality:"
+msgstr "Ποιότητα ήχου:"
+
+msgid "Sound Recorder"
+msgstr "Ηχογράφηση"
+
+msgid "Sounds"
+msgstr "Ήχοι"
+
+msgid "Sounds compressed"
+msgstr "Συμπιεσμένοι ήχοι"
+
+msgid "space"
+msgstr "κενό"
+
+msgid "Sprite"
+msgstr "Μορφή"
+
+msgid "Sprites"
+msgstr "Μορφές"
+
+msgid "sqrt"
+msgstr "ΤετΡίζα"
+
+msgid "Stage"
+msgstr "Σκηνικό"
+
+msgid "Stage selected:"
+msgstr "Επιλεγμένο σκηνικό: "
+
+msgid "Stamp tool (select area, then stamp copies of it)"
+msgstr "Εργαλείο Σφραγίδας (επέλεξε περιοχή, έπειτα αποτύπωσε αντίγραφα αυτής)"
+
+msgid "Start green flag scripts"
+msgstr "Ξεκίνησε τα σενάρια πράσινης σημαίας"
+
+msgid "Start Single Stepping"
+msgstr "Ξεκίνησε απλό βηματισμό"
+
+msgid "stop"
+msgstr "σταμάτα"
+
+msgid "Stop everything"
+msgstr "Σταμάτημα όλων"
+
+msgid "Stop Single Stepping"
+msgstr "σταμάτησε τον απλό βηματισμό"
+
+msgid "Story"
+msgstr "Ιστορία"
+
+msgid "Support Site"
+msgstr "Ιστότοπος υποστήριξης"
+
+msgid "Switch colors"
+msgstr "Εναλλαγή χρωμάτων"
+
+msgid "Switch to full stage"
+msgstr "Μετάβαση σε πλήρη σκηνή"
+
+msgid "Switch to presentation mode"
+msgstr "Μετάβαση σε κατάσταση παρουσίασης"
+
+msgid "Switch to small stage"
+msgstr "Μετάβαση σε μικρή σκηνή"
+
+msgid "Tags:"
+msgstr "Ετικέτες:"
+
+msgid "Text tool (edit text layer)"
+msgstr "Εργαλείο κειμένου (επεξεργασία επιπέδου κειμένου)"
+
+msgid "That variable name is already in use"
+msgstr "Αυτό το όνομα μεταβλητής χρησιμοποιείται ήδη"
+
+#, fuzzy
+msgid "that way"
+msgstr "προς τα εκεί"
+
+msgid "The file name already exists. Overwrite existing file?"
+msgstr "Το όνομα αρχείου υπάρχει ήδη. Να αντικαταστήσω το υπάρχον αρχείο;"
+
+msgid "thing"
+msgstr "αντικείμενο"
+
+#, fuzzy
+msgid "this way"
+msgstr "προς τα εδώ"
+
+msgid "tilt"
+msgstr "κατακόρυφη περιστροφή"
+
+msgid "true"
+msgstr "αληθές"
+
+msgid "Turbo speed"
+msgstr "Μέγιστη ταχύτητα"
+
+msgid "turn into new sprite"
+msgstr "μετάτρεψε σε νέα μορφή"
+
+msgid "Undelete"
+msgstr "Αναίρεση διαγραφής"
+
+msgid "Undo"
+msgstr "Αναίρεση"
+
+msgid "up"
+msgstr "πάνω"
+
+msgid "up arrow"
+msgstr "πάνω βέλος"
+
+msgid "Updating thumbnails"
+msgstr "Ενημέρωση μικρογραφιών"
+
+msgid "Upload succeeded!"
+msgstr "Επιτυχής επιφόρτωση"
+
+msgid "Upload to Scratch Server"
+msgstr "Επιφόρτωση στο διακομιστή Scratch"
+
+msgid "Uploading"
+msgstr "Επιφόρτωση"
+
+msgid "Variable name?"
+msgstr "Όνομα μεταβλητής;"
+
+msgid "View on stage"
+msgstr "Θέα στο σκηνικό"
+
+msgid "What's your name?"
+msgstr "Πώς σε λένε;"
+
+msgid "whirl"
+msgstr "στροβίλισε"
+
+msgid "world"
+msgstr "κόσμος"
+
+msgid "Write Multiple Project Summaries"
+msgstr "γράψε πολλαπλές περιλήψεις έργου"
+
+msgid "Write Project Summary"
+msgstr "γράψε περίληψη έργου"
+
+msgid "Yes"
+msgstr "Ναι"
+
+msgid "Your project is now online at"
+msgstr "Το έργο σας είναι τώρα διαθέσιμο στο διαδίκτυο στην διεύθυνση "
+
+msgid "Your Scratch website login name:"
+msgstr "Το όνομα σύνδεσής σας στην ιστοσελίδα τού Scratch:"
+
+msgid "Zoom in"
+msgstr "Εστίαση μέσα"
+
+msgid "Zoom out"
+msgstr "Εστίαση έξω"
+
+############################################
+# MIDI INSTRUMENTS
+############################################
+
+msgid "Accordion"
+msgstr "Ακορντεόν"
+
+msgid "Acoustic Bass"
+msgstr "Ακουστικό Μπάσο"
+
+msgid "Acoustic Bass Drum"
+msgstr "Ακουστικό Μπάσο Τύμπανο"
+
+msgid "Acoustic Grand"
+msgstr "Ακουστικό Πιάνο με ουρά"
+
+msgid "Acoustic Snare"
+msgstr "Ακουστικό Ταμπούρο"
+
+msgid "Agogo"
+msgstr "Αγκόγκο"
+
+msgid "Alto Sax"
+msgstr "Άλτο Σαξόφωνο"
+
+msgid "Applause"
+msgstr "Χειροκρότημα"
+
+# γκάιντα
+# 
+msgid "Bagpipe"
+msgstr "Γκάιντα"
+
+msgid "Banjo"
+msgstr "Μπάντζο"
+
+msgid "Baritone Sax"
+msgstr "Βαρύτονο Σαξόφωνο"
+
+msgid "Bass Drum 1"
+msgstr "Μπάσο Τύμπανο 1"
+
+# Βαρύαυλος (παλαιότερη ονομασία)
+msgid "Bassoon"
+msgstr "Φαγκότο"
+
+msgid "Bird Tweet"
+msgstr "Τιτίβισμα Πουλιού"
+
+msgid "Blown Bottle"
+msgstr "Άνοιγμα Μπουκαλιού"
+
+# Τμήμα χάλκινων πνευστών
+# 
+msgid "Brass Section"
+msgstr "Τμήμα Χάλκινων Πνευστών"
+
+msgid "Breath Noise"
+msgstr "Ήχος Αναπνοής"
+
+msgid "Bright Acoustic"
+msgstr "Λαμπερό Πιάνο"
+
+msgid "Cabasa"
+msgstr "Καμπάσα"
+
+msgid "Celesta"
+msgstr "Τσελέστα"
+
+msgid "Cello"
+msgstr "Τσέλο"
+
+msgid "Chinese Cymbal"
+msgstr "Κινέζικο Κύμβαλο"
+
+msgid "Choir Aahs"
+msgstr "Φωνές Χορωδίας"
+
+msgid "Church Organ"
+msgstr "Εκκλησιαστικό Όργανο"
+
+msgid "Clarinet"
+msgstr "Κλαρινέτο"
+
+# Ξυλάκια
+# 
+msgid "Claves"
+msgstr "Ξυλάκια"
+
+msgid "Clavinet"
+msgstr "Κλαβινέτο"
+
+msgid "Closed Hi-Hat"
+msgstr "Κλειστό Χάϊ-χατ"
+
+msgid "Contrabass"
+msgstr "Κοντραμπάσο"
+
+msgid "Cowbell"
+msgstr "Κουδούνα αγελάδας"
+
+msgid "Crash Cymbal 1"
+msgstr "Πιατίνι Κράς 1"
+
+msgid "Crash Cymbal 2"
+msgstr "Πιατίνι Κρας 2"
+
+msgid "Distortion Guitar"
+msgstr "Παραμορφωμένη Κιθάρα"
+
+msgid "Drawbar Organ"
+msgstr "Όργανο Ντρόουμπαρ"
+
+msgid "Dulcimer"
+msgstr "Ντούλτσιμερ"
+
+msgid "Electric Bass (finger)"
+msgstr "Ηλεκτρικό Μπάσο (δάκτυλο)"
+
+msgid "Electric Bass (pick)"
+msgstr "Ηλεκτρικό Μπάσο (τράβηγμα)"
+
+msgid "Electric Clean Guitar"
+msgstr "Ηλεκτρική Κλασσική Κιθάρα"
+
+msgid "Electric Grand"
+msgstr "Ηλεκτρικό Πιάνο με ουρά"
+
+msgid "Electric Jazz Guitar"
+msgstr "Ηλεκτρική Τζαζ Κιθάρα"
+
+msgid "Electric Muted Guitar"
+msgstr "Ηλεκτρική Κιθάρα με σουρντίνα"
+
+msgid "Electric Piano 1"
+msgstr "Ηλεκτρικό Πιάνο 1"
+
+msgid "Electric Piano 2"
+msgstr "Ηλεκτρικό Πιάνο 2"
+
+msgid "Electric Snare"
+msgstr "Ηλεκτρικό ταμπούρο"
+
+# Αγγλικό Κόρνο
+# 
+msgid "English Horn"
+msgstr "Αγγλικό Κόρνο"
+
+msgid "FX 1 (rain)"
+msgstr "Εφέ 1 (βροχή)"
+
+msgid "FX 2 (soundtrack)"
+msgstr "Εφέ 2 (μουσική υπόκρουση)"
+
+msgid "FX 3 (crystal)"
+msgstr "Εφέ 3 (κρύσταλλο)"
+
+msgid "FX 4 (atmosphere)"
+msgstr "Εφέ 4 (ατμόσφαιρα)"
+
+msgid "FX 5 (brightness)"
+msgstr "Εφέ 5 (φωτεινότητα)"
+
+msgid "FX 6 (goblins)"
+msgstr "Εφέ 6 (καλικάντζαροι)"
+
+msgid "FX 7 (echoes)"
+msgstr "Εφέ 7 (ηχώ)"
+
+msgid "FX 8 (sci-fi)"
+msgstr "Εφέ 8 (επ. φαντασία)"
+
+msgid "Fiddle"
+msgstr "Παλιό Βιολί"
+
+msgid "Flute"
+msgstr "Φλάουτο"
+
+# Γαλλικό Κόρνο
+# 
+msgid "French Horn"
+msgstr "Γαλλικό Κόρνο"
+
+msgid "Fretless Bass"
+msgstr "Ατάραχο Μπάσο"
+
+# Καμπανόφωνο
+msgid "Glockenspiel"
+msgstr "Μεταλλόφωνο"
+
+msgid "Guitar Fret Noise"
+msgstr "Τρέμολο Κιθάρας"
+
+msgid "Guitar Harmonics"
+msgstr "Αρμονικοί Κιθάρας"
+
+msgid "Gunshot"
+msgstr "Πυροβολισμός"
+
+msgid "Hand Clap"
+msgstr "Χειροκρότημα"
+
+msgid "Harmonica"
+msgstr "Φυσαρμόνικα"
+
+msgid "Harpsichord"
+msgstr "Τσέμπαλο"
+
+msgid "Helicopter"
+msgstr "Ελικόπτερο"
+
+msgid "Hi Bongo"
+msgstr "Υψίφωνο Μπόγκο"
+
+# Υψίφωνο Γούντμπλοκ
+# 
+msgid "Hi Wood Block"
+msgstr "Υψίφωνο Κυβόφωνο"
+
+msgid "Hi-Mid Tom"
+msgstr "Υψι-μεσόφωνο Τομ"
+
+msgid "High Agogo"
+msgstr "Υψίφωνο Αγκόγκο"
+
+msgid "High Floor Tom"
+msgstr "Υψίφωνο Επιδαπέδιο Τομ"
+
+msgid "High Timbale"
+msgstr "Υψίφωνο Τιμπάλε"
+
+msgid "High Tom"
+msgstr "Υψίφωνο Τομ"
+
+msgid "Honky-Tonk"
+msgstr "Όρθιο Πιάνο"
+
+msgid "Kalimba"
+msgstr "Καλίμπα"
+
+msgid "Koto"
+msgstr "Κότο"
+
+msgid "Lead 1 (square)"
+msgstr "Οδηγός 1 (τετράγωνο)"
+
+msgid "Lead 2 (sawtooth)"
+msgstr "Οδηγός 2 (πριόνι)"
+
+msgid "Lead 3 (calliope)"
+msgstr "Οδηγός 3 (καλλιόπη)"
+
+msgid "Lead 4 (chiff)"
+msgstr "Οδηγός 4 (τούλι)"
+
+msgid "Lead 5 (charang)"
+msgstr "Οδηγός 5 (καράνγκο)"
+
+msgid "Lead 6 (voice)"
+msgstr "Οδηγός 6 (φωνή)"
+
+msgid "Lead 7 (fifths)"
+msgstr "Οδηγός 7 (πέμπτες)"
+
+msgid "Lead 8 (bass+lead)"
+msgstr "Οδηγός 8 (μπάσο+Οδηγός)"
+
+msgid "Long Guiro"
+msgstr "Μακρύχρονο Γκουίρο"
+
+msgid "Long Whistle"
+msgstr "Μακρύχρονο Σφύριγμα"
+
+msgid "Low Agogo"
+msgstr "Βαθύφωνο Αγκόγκο"
+
+msgid "Low Bongo"
+msgstr "Βαθύφωνο Μπόγκο"
+
+msgid "Low Conga"
+msgstr "Βαθύφωνη Κόγκα"
+
+msgid "Low Floor Tom"
+msgstr "Βαθύφωνο Επιδαπέδιο Τόμ"
+
+msgid "Low Timbale"
+msgstr "Βαθύφωνο Τιμπάλε"
+
+msgid "Low Tom"
+msgstr "Βαθύφωνο Τομ"
+
+# Βαρύφωνο Γουντμπλόκ
+# 
+msgid "Low Wood Block"
+msgstr "Βαθύφωνο Κυβόφωνο"
+
+msgid "Low-Mid Tom"
+msgstr "Βαθύ-μεσόφωνο Τομ"
+
+msgid "Maracas"
+msgstr "Μαράκες"
+
+msgid "Marimba"
+msgstr "Μαρίμπα"
+
+msgid "Melodic Tom"
+msgstr "Μελωδικό Τομ"
+
+msgid "Music Box"
+msgstr "Μουσικό Κουτί"
+
+msgid "Mute Cuica"
+msgstr "Φιμωμένη Κουίκα"
+
+msgid "Mute Hi Conga"
+msgstr "Φιμωμένη Υψίφωνη Κόγκα"
+
+msgid "Mute Triangle"
+msgstr "Φιμωμένο Τρίγωνο"
+
+# Φιμωμένη τρομπέτα; !!!!!! <---- Αυτό είναι τελείως άσχετο. Συμφωνώ με τη σουρντίνα όποιος το έγραψε ξέρει από μουσική
+# 
+msgid "Muted Trumpet"
+msgstr "Τρομπέτα με σουρντίνα"
+
+msgid "Nylon String Guitar"
+msgstr "Κιθάρα με νάιλον χορδές"
+
+msgid "Oboe"
+msgstr "Όμποε"
+
+msgid "Ocarina"
+msgstr "Οκαρίνα"
+
+msgid "Open Cuica"
+msgstr "Ανοιχτή Κουίκα"
+
+msgid "Open Hi Conga"
+msgstr "Ανοιχτή Υψίφωνη Κόγκα"
+
+msgid "Open Hi-Hat"
+msgstr "Ανοιχτό Χάϊ-Χατ"
+
+msgid "Open Triangle"
+msgstr "Ανοιχτό Τρίγωνο"
+
+msgid "Orchestra Hit"
+msgstr "Ανάκρουσμα Ορχήστρας"
+
+msgid "Orchestral Strings"
+msgstr "Ορχηστρικά Έγχορδα"
+
+msgid "Overdriven Guitar"
+msgstr "Κιθάρα με παραμορφωτή"
+
+msgid "Pad 1 (new age)"
+msgstr "Πάτημα 1 (νέα εποχή)"
+
+msgid "Pad 2 (warm)"
+msgstr "Πάτημα 2 (ζεστό)"
+
+msgid "Pad 3 (polysynth)"
+msgstr "Πάτημα 3 (πολυσύνθετο)"
+
+msgid "Pad 4 (choir)"
+msgstr "Πάτημα 4 (χορωδία)"
+
+msgid "Pad 5 (bowed)"
+msgstr "Πάτημα 5 (δοξαριά)"
+
+msgid "Pad 6 (metallic)"
+msgstr "Πάτημα 6 (μεταλλικό)"
+
+msgid "Pad 7 (halo)"
+msgstr "Πάτημα 7 (αίγλη)"
+
+msgid "Pad 8 (sweep)"
+msgstr "Πάτημα 8 (σκούπα)"
+
+msgid "Pan Flute"
+msgstr "Σύριγξ"
+
+msgid "Pedal Hi-Hat"
+msgstr "Χάϊ Χατ με πεντάλ"
+
+msgid "Percussive Organ"
+msgstr "Κρουστό Όργανο"
+
+msgid "Piccolo"
+msgstr "Πίκολο"
+
+msgid "Pizzicato Strings"
+msgstr "Έγχορδα Πιτσικάτο"
+
+msgid "Recorder"
+msgstr "Φλογέρα"
+
+# better keep untranslated for Greek
+# 
+msgid "Reed Organ"
+msgstr "Όργανο Μεταλλικών Γλωττίδων"
+
+msgid "Reverse Cymbal"
+msgstr "Αντεστραμμένο Κύμβαλο"
+
+msgid "Ride Bell"
+msgstr "Κουδούνα"
+
+msgid "Ride Cymbal 1"
+msgstr "Πιατίνι Ράϊντ 1"
+
+msgid "Ride Cymbal 2"
+msgstr "Πιατίνι Ράϊντ 2"
+
+msgid "Rock Organ"
+msgstr "Ροκ όργανο"
+
+msgid "Seashore"
+msgstr "Παραλία"
+
+msgid "Shakuhachi"
+msgstr "Σακουχάτσι"
+
+msgid "Shamisen"
+msgstr "Σεμιζέν"
+
+# Shehnai
+msgid "Shanai"
+msgstr "Σενάϊ"
+
+msgid "Short Guiro"
+msgstr "Βραχύχρονο Γκουίρο"
+
+msgid "Short Whistle"
+msgstr "Βραχύχρονο Σφύριγμα"
+
+msgid "Side Stick"
+msgstr "Πλευρικό Χτύπημα"
+
+msgid "Sitar"
+msgstr "Σιτάρ"
+
+msgid "Slap Bass 1"
+msgstr "Τσιμπιτό Μπάσο 1"
+
+msgid "Slap Bass 2"
+msgstr "Τσιμπιτό Μπάσο 2"
+
+msgid "Soprano Sax"
+msgstr "Σοπράνο Σαξόφωνο"
+
+msgid "Splash Cymbal"
+msgstr "Πιατίνι Σπλάς"
+
+msgid "Steel Drums"
+msgstr "Ατσάλινα Τύμπανα"
+
+msgid "Steel String Guitar"
+msgstr "Κιθάρα Ατσαλένιων Χορδών"
+
+msgid "String Ensemble 1"
+msgstr "Σύνολο Εγχόρδων 1"
+
+msgid "String Ensemble 2"
+msgstr "Σύνολο Εγχόρδων 2"
+
+msgid "Synth Bass 1"
+msgstr "Συνθ. Μπάσο 1"
+
+msgid "Synth Bass 2"
+msgstr "Συνθ. Μπάσο 2"
+
+msgid "Synth Drum"
+msgstr "Συνθ. Τύμπανο"
+
+msgid "Synth Voice"
+msgstr "Συνθ. Φωνή"
+
+msgid "SynthBrass 1"
+msgstr "Συνθ. Χάλκινα 1"
+
+msgid "SynthBrass 2"
+msgstr "Συνθ. Χάλκινα 2"
+
+msgid "SynthStrings 1"
+msgstr "Συνθ. Έγχορδα 1"
+
+msgid "SynthStrings 2"
+msgstr "Συνθ. Έγχορδα 2"
+
+msgid "Taiko Drum"
+msgstr "Τύμπανο «Ταϊκό»"
+
+msgid "Tambourine"
+msgstr "Ντέφι"
+
+msgid "Tango Accordion"
+msgstr "Ακορντεόν Τανγκό"
+
+msgid "Telephone Ring"
+msgstr "Κτύπος Τηλεφώνου"
+
+msgid "Tenor Sax"
+msgstr "Τενόρο Σαξόφωνο"
+
+# Τιμπάνια
+msgid "Timpani"
+msgstr "Τύμπανα"
+
+msgid "Tinkle Bell"
+msgstr "Τρίγωνο"
+
+msgid "Tremolo Strings"
+msgstr "Έγχορδα με τρέμολο"
+
+msgid "Trombone"
+msgstr "Τρομπόνι"
+
+msgid "Trumpet"
+msgstr "Τρομπέτα"
+
+msgid "Tuba"
+msgstr "Τούμπα"
+
+msgid "Tubular Bells"
+msgstr "Σωληνωτές καμπάνες"
+
+msgid "Vibraphone"
+msgstr "Μεταλλόφωνο"
+
+# Είναι κρουστό όργανο βλ. http://en.wikipedia.org/wiki/Vibraslap
+msgid "Vibraslap"
+msgstr "Σιαγόνα"
+
+msgid "Viola"
+msgstr "Βιόλα"
+
+msgid "Violin"
+msgstr "Βιολί"
+
+msgid "Voice Oohs"
+msgstr "Φωνές «Ο»"
+
+msgid "Whistle"
+msgstr "Σφύριγμα"
+
+# Γούντμπλοκ
+# 
+msgid "Woodblock"
+msgstr "Κυβόφωνο"
+
+msgid "Xylophone"
+msgstr "Ξυλόφωνο"
+
