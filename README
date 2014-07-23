@@ -1,6 +1,8 @@
 This is the Scratch source package README file.
 
-For more information on Scratch and the Scratch Source Code, see http://info.scratch.mit.edu/Source_Code
+This source code is released under the Gnu General Public License version 2. Modified versions of this source code may be released under the GPL V2 or later versions of the GNU General Public License.
+
+For more information on Scratch and the Scratch Source Code, see http://wiki.scratch.mit.edu/wiki/Scratch_1.4_Source_Code
 
 Scratch is written in Squeak, and depends on a Squeak virtual machine. You can find other versions of the Linux Squeak VM here: http://www.squeakvm.org/unix/ For more information about squeak, see: http://www.squeak.org/ 
 
