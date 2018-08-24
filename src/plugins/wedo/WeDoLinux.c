@@ -119,6 +119,8 @@ scanForWeDo(char *fileTemplate) { /* eg, "/dev/usb/hiddev0" */
 	
 	f = 0;
 	for (i=0; i<10; i++) {
+		if (f)
+			close(f);
 		strcpy(hiddevFileName, fileTemplate); 
 		hiddevFileName[strlen(hiddevFileName)-1] = '0' + i;
 		if (-1 != (f = open(hiddevFileName, O_RDWR)))
@@ -126,6 +128,8 @@ scanForWeDo(char *fileTemplate) { /* eg, "/dev/usb/hiddev0" */
 				if ((dinfo.vendor == 0x0694) & (dinfo.product == 0x0003))
 					return f;
 	}
+	if (f)
+		close(f);
 	return 0;
 }
 
