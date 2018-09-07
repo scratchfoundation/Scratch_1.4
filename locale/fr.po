@@ -118,10 +118,10 @@ msgid "change volume by %n"
 msgstr "modifier le volume par %n"
 
 msgid "change x by %n"
-msgstr "remplacer x par %n"
+msgstr "changer x de %n"
 
 msgid "change y by %n"
-msgstr "remplacer y par %n"
+msgstr "changer y de %n"
 
 msgid "clear"
 msgstr "effacer tout"
